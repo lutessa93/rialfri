@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="SIXCONTES-sixContes">
+                    <title type="short">I “Six contes” del ms. Parigi, Bibliothèque Nationale de France, fr. 686</title>
+                    <title type="alt">I “Six contes” del ms. Parigi, Bibliothèque nationale de France, fr. 686</title>
+                    <abbr>I “Six contes”</abbr>
+                    <note xml:id="note1">1330 circa</note>
+                    <bibl><emph style="font-style:italic">Conti di antichi cavalieri</emph>, a cura di Alberto Del Monte, Milano, Cisalpino - Goliardica, 1972, pp. 87-104, 107-108, 111-112, 125-128, 131, 133, 135, 137-138, 141, 143, 149-154.</bibl>
+                </title>
+                <author xml:id="SIXCONTES" n="187.000">
+                    <name></name>
+                    <abbr></abbr>
+                </author>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale</resp>
+                    <name>Luigi Tessarolo</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Messa in linea</resp>
+                    <name>Francesca Gambino</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Reference basis text</resp>
+                    <name><emph style="font-style:italic">Conti di antichi cavalieri</emph>, a cura di Alberto Del Monte, Milano, Cisalpino - Goliardica, 1972, pp. 87-104, 107-108, 111-112, 125-128, 131, 133, 135, 137-138, 141, 143, 149-154.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.rialfri.eu">RIALFrI</ref>
+                </publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <notesStmt>
+                <note type="edizione">
+                    Parigi, Bibliothèque nationale de France, fr. 686, cc. 442a-443c.
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl><emph style="font-style:italic">Conti di antichi cavalieri</emph>, a cura di Alberto Del Monte, Milano, Cisalpino - Goliardica, 1972, pp. 87-104, 107-108, 111-112, 125-128, 131, 133, 135, 137-138, 141, 143, 149-154.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t3"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work">
+                <div2 xml:id="d001c001">
+                    <head>
+                        <title>I.</title>
+                        <abbr>I</abbr>
+                    </head>
+                    <p xml:id="d001l1" n="1" rend="1">Qand Pompiu et Caton entendrent che Cesar venoit a Rome, veant k'a lui ne pooient contraster
+                    se partirent da Rome cum mant autres senators et alerent en Puille.</p>
+                    <p xml:id="d001l2" n="2" rend="2">E qand Cesar l'oï dir, il ne veust intrer in Rome mais il se mist a aler apres lor darier.</p>
+                    <p xml:id="d001l3" n="3" rend="3">Et trepasant ioste une tor che l'en clamoit la tor de Corfi, et croi che Redecofne est
+                    or clamee, et iluec estoit Luce Domice, uns &lt;des&gt; plus loiaus et seurs chevalier
+                    de Rome, et cil avoit in garde la tor, cil ne la voust rendre a Cesar.</p>
+                    <p xml:id="d001l4" n="4" rend="4">Ont che Cesar li ferma son ost, et si fort li acombati un ior che il venqui le bors
+                    por bataille.</p>
+                    <p xml:id="d001l5" n="5" rend="5">Et auroit vinte la tor, se ne fust la grand franchixe che fist le buen Domice.</p>
+                    <p xml:id="d001l6" n="6" rend="6">Und pois li chevaliers Domice distrent a lui chi voloient randre la terre a Cesar.</p>
+                    <p xml:id="d001l7" n="7" rend="7">Et Domice lor dist che ne pleist a Deu che la terre dou comun de Rome se rendist a un
+                    seul citein, char se cil ch'apertent au comun de Rome rendissent a un seul citein, l'onor
+                    dou comun s'abaseroit.</p>
+                    <p xml:id="d001l8" n="8" rend="8">Und li suens chevaliers pensant de randre la terre et ne pooient a ce acorder Domice,
+                    si le pristrent a force et la terre et lui mistrent es mains de Cesar; et cil vint devant
+                    Cesar aussi seur con s'il fust esté segnor de tous, et il sembloit segnor de soi che,
+                    por ovre de nature, devoit doter mort et rien nen dotoit.</p>
+                    <p xml:id="d001l9" n="9" rend="9">Et Cesar regardant lui, conuit la fermece et la bonté de suen grand cuer.</p>
+                    <p xml:id="d001l10" n="10" rend="10">Alor li dist: Se tu veus etre o moi, çe te lairai et tenrai entre li miens plus cer.</p>
+                    <p xml:id="d001l11" n="11" rend="11">Et cil re&lt;s&gt;pont che il voloit avant morir che etre delivré por les mains d'un
+                    enemi de Rome.</p>
+                    <p xml:id="d001l12" n="12" rend="12">Et Cesar, por ne voloir neune teche avoir che il ne peust ovrer suen buen coraçe, si
+                    le fist mantinant laiser.</p>
+                    <p xml:id="d001l13" n="13" rend="13">Et saces che de cist honoré fu Cesar plus che de bataille ch'il feist unque.</p>
+                    <p xml:id="d001l14" n="14" rend="14">Et Pompiu et Caton, che estoient en Puille, entendant che Cesar avoit aseçé Domice,
+                    se partrent mantinant et venrent por secorre Domice.</p>
+                    <p xml:id="d001l15" n="15" rend="15">Et saces che en cil peril ne se voloient metre por defandre Rome, et si sei voloient
+                    metre por la bonté d'un seul chevalier.</p>
+                    <p xml:id="d001l16" n="16" rend="16">Mais veant et entendant le feit, tenrent por Puille a Valbe fin a Brandice.</p>
+                    <p xml:id="d001l17" n="17" rend="17">Et Cesar li sui et asis Brandice.</p>
+                    <p xml:id="d001l18" n="18" rend="18">Et Pompiu et Caton se partrent de Brandice, et si paserent in Grice.</p>
+                    <p xml:id="d001l19" n="19" rend="19">Et pois Cesar retorna a Rome, et lasa Brutus aseiçer Brandice.</p>
+                    <p xml:id="d001l20" n="20" rend="20">Et cil la combati por mer et por terre tant ch'il la venqui.</p>
+                    <p xml:id="d001l21" n="21" rend="21">Et qand fu venus a Rome, il ala ver le tesor dou comun, mais Metel che gardoit le tesor,
+                    se mist tot seul sus la porte por le tesor defendre.</p>
+                    <p xml:id="d001l22" n="22" rend="22">Alor li cevaliers Cesar le voloient tuer, mais Cesar ne laisa, et dist: Çe sai che
+                    cestu vodroit morir, por choy l'en die che cestu seul a defendu la loi.</p>
+                    <p xml:id="d001l23" n="23" rend="23">Mais la loi avroit plus vergogne de tel defensor, che se il ne perist, ne lui ni est
+                    deing de ma ire.</p>
+                    <p xml:id="d001l24" n="24" rend="24">Et pois fu feit Cesar consul da cef, et ala in Spagne et combati ver Ascanon, duc di
+                    Pompiu, et con grand afan le venqui, et pois torna a Rome.</p>
+                    <p xml:id="d001l25" n="25" rend="25">Or retornens a Pompiu et a Caton, li queus se partrent da Brandice et alerent in Grece,
+                    con çe vos ai dit.</p>
+                    <p xml:id="d001l26" n="26" rend="26">Pompiu, le qiel estoit mout amié in Grece, et conëu par tot le mond, envoia en çascune
+                    part ou il poust avoir aye.</p>
+                    <p xml:id="d001l27" n="27" rend="27">Et por sa renomie et por suen amor et des autres Romeins, venrent en sa aye barons
+                    et chevaliers de mante parties, ond che il assembla un des grignor ost che fust pas
+                    veu en cil tens au monde.</p>
+                    <p xml:id="d001l28" n="28" rend="28">Et qand Cesar oy ce, si se parti da Rome et alla in Grece contre Pompiu.</p>
+                    <p xml:id="d001l29" n="29" rend="29">Et demorant l'ost Cesar et de Pompiu ioste un leu che l'en clamoit Duraç, Cesar fist
+                    fer une gran&lt;…&gt; et un terrein grandisme torn a Duraç.</p>
+                    <p xml:id="d001l30" n="30" rend="30">Et mout s'en penoit.</p>
+                    <p xml:id="d001l31" n="31" rend="31">Mais Pompiu o tot sa çant s'en vint a la droite fosse et por force comença a paser,
+                    et mant de ceus de Cesar, che estoient a la garde, furent tué.</p>
+                    <p xml:id="d001l32" n="32" rend="32">Ond tote la çant Pompiu auroit pasé liçeremant, mais Seva, un chevalier Cesar che estoit
+                    a la garde, s'abandona a la mort et feri entre la çant Pompiu, et tant fist por sa
+                    force et por sa franchise, che il seul defendoit le pas a tot la çant Pompiu, che paser
+                    no pooient.</p>
+                    <p xml:id="d001l33" n="33" rend="33">Et la plus part de l'ost Pompiu lançoit et bersoit et çetoit pieres et feroit de lances
+                    et de spees.</p>
+                    <p xml:id="d001l34" n="34" rend="34">Et lui seul sempre estoit au primer front ferant et ociant secun che li prosmoit.</p>
+                    <p xml:id="d001l35" n="35" rend="35">Et tant demora a la defese che il estoit si plain de dars et de qareus et de saietes,
+                    che qand l'en li lançoit lance ou bersoit quareus le un ferroit sur l'autre.</p>
+                    <p xml:id="d001l36" n="36" rend="36">Et estoit si plain de saietes q'il sembloit un irison.</p>
+                    <p xml:id="d001l37" n="37" rend="37">Und le livre por gran miracle le dit: Tot un ost combatoit ver un home, et un home
+                    ver un ost.</p>
+                    <p xml:id="d001l38" n="38" rend="38">Et tant sofri Seva ch'il vit Cesar venir.</p>
+                    <p xml:id="d001l39" n="39" rend="39">Et qand li homes Pompiu verent Cesar venir, un poi se restrendrent et se trarent arier
+                    et laserent Seva ester.</p>
+                    <p xml:id="d001l40" n="40" rend="40">Et si tost come il fu remis del combatre et de etre combatu, car caldece et vertu li
+                    donoient et tenoient combatant en vie, Seva vint a mens et moruit.</p>
+                    <p xml:id="d001l41" n="41" rend="41">Mes les lances et li dars et les saietes, che il avoit sor lui, le tenoient droit,
+                    si ch'el sembloit ancor vis a ses nemis.</p>
+                    <p xml:id="d001l42" n="42" rend="42">Puis che la çant Cesar fu venue, cescun regardoit Seva et adoroit lui con se il fust
+                    un deu, et vestirent lui de les vestimens Mars, che est deu de bataille, et bien fu
+                    convenable de tant honor Seva le çor, che mais chevalier ne fist plus d'armes en un
+                    çor.</p>
+                    <p xml:id="d001l43" n="43" rend="43">Or retornons a Pompiu et a Caton che ferent grand bataille contre li Cesariens.</p>
+                    <p xml:id="d001l44" n="44" rend="44">Cesar n'i avoit ancor tot sa çant bien establie, et por qoi Pompiu avoit ases plus
+                    princes et condutor che Cesar n'i avoit, si li mistrent en sconfiture.</p>
+                    <p xml:id="d001l45" n="45" rend="45">Et Pompiu sivant la chace, li comença a peser et avoir pieté de lor, por ce che Romeins
+                    estoient.</p>
+                    <p xml:id="d001l46" n="46" rend="46">Alor fist soner la retraite, che pois che celle sonoit, neun ne ousoit aler plus avant.</p>
+                    <p xml:id="d001l47" n="47" rend="47">Et por ceste ocaison scampa Cesar et sa çant cil çor, et Pompiu em perdi pois la vitoire
+                    dou mond che il pooit avoir.</p>
+                    <p xml:id="d001l48" n="48" rend="48">Et pois Cesar establi sa çant, et Pompiu la sue.</p>
+                    <p xml:id="d001l49" n="49" rend="49">Pompiu demoroit sus uns fortisme mont o tot suen ost, et Cesar et li suens estoient
+                    au plain.</p>
+                    <p xml:id="d001l50" n="50" rend="50">Pompiu coneoit bien che Cesar ne pooit loncemant durer por ce ch'il ne avoit vitaile,
+                    et il estoit forni de tote rien por mantenir suen ost, et por ce ne voloit il bataille,
+                    si con celui che voloit avant vaincre por fam et seins peril suen nemi che por bataille,
+                    et che voloit vitoire sens combatre avant che combatre en aventure d'avoir vitoire
+                    o de perdre.</p>
+                    <p xml:id="d001l51" n="51" rend="51">Mais sa çant outre sa volenté voudrent dou tot combatre.</p>
+                    <p xml:id="d001l52" n="52" rend="52">Ond Pompiu veant che la bataille ne pooit stratorner, ordena tote sa çant com un vis
+                    ço&lt;ios&gt; et fer, et pois dist entre lor si saçes et humbles et frances paroles
+                    che cescuns des suens en devint plus çoios et plus coraios de bien fer.</p>
+                    <p xml:id="d001l53" n="53" rend="53">Et qand Cesar voit le grand ost Pompiu venir si ordeneemant et desendre dou mont, che
+                    le splendor des armes flamboioit ausi con le solel, adonc establi sa çant selong che
+                    li convenoit et dist in tel mainere: Or s'apareile le desiré ior che li Dies nos ont
+                    promis, ce che, de pois la vitoire ch'aurons hui dou buen çor, ceus che sont ci devent
+                    pois avoir de tot le mond la segnorie.</p>
+                    <p xml:id="d001l54" n="54" rend="54">Tant belles et saçes et vertuoses paroles de confort lor dist, che cescun fu enflamé
+                    et desiros de combatre.</p>
+                    <p xml:id="d001l55" n="55" rend="55">Et bien vous di en some che la bataille fu mortele et gregnor et plus forte che neune
+                    che fust onque, ond de çascune part furent tué mant et mant buens chevaliers.</p>
+                    <p xml:id="d001l56" n="56" rend="56">Et mervellouse çouse seroit a entendre la grand chevalerie et vertuose et valorose
+                    che Cesar et Pompiu et li lour chevaliers ferent le çor d'armes en la bataille.</p>
+                    <p xml:id="d001l57" n="57" rend="57">Rome ne reçuit onque en un çor si grand daumaçe, ne ne perdi tant des suens buens chevaliers
+                    et de grans citeins.</p>
+                    <p xml:id="d001l58" n="58" rend="58">La gregnor part dou çor dura cele che fu la gregnor bataille et la plus dolorose che
+                    mais fust.</p>
+                    <p xml:id="d001l59" n="59" rend="59">Mais en la fin Pompiu fu sconfit, et la gregnor part de sa chevalerie fu morte.</p>
+                    <p xml:id="d001l60" n="60" rend="60">Et saces che qand Pompiu vit sa çent ensi moroit, et che reançon n'i pooit etre aucune,
+                    il fist cil por sa çant che a cil tens estoit usançe, car il li fist ensagne chi se
+                    deusent partir.</p>
+                    <p xml:id="d001l61" n="61" rend="61">Et lui mieme se parti da la bataille.</p>
+                    <p xml:id="d001l62" n="62" rend="62">Mais Caton et mant autres buens chevaliers ne se voudrent partir cum Pompiu.</p>
+                    <p xml:id="d001l63" n="63" rend="63">Ains remistrent en la bataille, et por Ior furent oncis mant chevaliers.</p>
+                    <p xml:id="d001l64" n="64" rend="64">Et tot ce fist Caton et li autres che cescuns veist apertemant che por Pompiu ne combatoient
+                    seulement, mais por la franchise de Rome, et de ceus che estoient et devoient venir
+                    combatoient.</p>
+                    <p xml:id="d001l65" n="65" rend="65">Mais in la fin se partrent de la bataille et Cesar remist venceor.</p>
+                    <p xml:id="d001l66" n="66" rend="66">Pompiu et Caton et li autres che scamperent de la bataille s'en alerent vers Egit a
+                    le roi Tolomeu, car au per de setu avoit Pompiu conceu le regne de Egypt.</p>
+                    <p xml:id="d001l67" n="67" rend="67">Et Tolomeu, entendant coment le feit estoit et che Po&lt;m&gt;piu, che estoit vencu
+                    por Cesar, venoit a lui, il se pensa, come coard et traitor, le gregnour mal che fust
+                    onque pensé, ce fu de oncir Pompiu, a cui estoit tant tenu de servir, et d'envoier
+                    le cef a Cesar.</p>
+                    <p xml:id="d001l68" n="68" rend="68">Et tot ensi con Pompiu fu ors de la nef, Tolomeu le fist prandre por fer morir, con
+                    il fist.</p>
+                    <p xml:id="d001l69" n="69" rend="69">E qand Pompiu se vit venir a la mort, il se ferma en suen cuer de ne cremre la mort
+                    et ne muer colour ne viste morant, ond che, qand Tolomeu le fist ferir des espees por
+                    le pis che passerent derier, il se mantenoit si fort, sens colour muer, con se il ne
+                    fust tocé.</p>
+                    <p xml:id="d001l70" n="70" rend="70">Et ensi droit et ferm moruit, sens visace çançer, por la chiel mort le mond se devoit
+                    doloir et deuroit sempre.</p>
+                    <p xml:id="d001l71" n="71" rend="71">Et qand Pompiu fu mort, le mauves Tolomeu prist le cef et si le fist presenter a Cesar
+                    por ses ambaseors.</p>
+                    <p xml:id="d001l72" n="72" rend="72">Et qand Cesar vit le cef, il fist ce ch'il n'avoit onque feit, qu'il larmoia fortment.</p>
+                    <p xml:id="d001l73" n="73" rend="73">Et dist: Ci a mortel present.</p>
+                    <p xml:id="d001l74" n="74" rend="74">Et plus m'a Tolomeu forfeit ch'il ni a a Pompiu a cui a li cef trencé, che il m'a tolu
+                    ce che plus desiroie, che umais ne porai fea.</p>
+                    <p xml:id="d001l75" n="75" rend="75">Cesar, de pois notre bataille, voloie fer peis a lui a sa volonté et avoir sa compagnie
+                    sempre.</p>
+                    <p xml:id="d001l76" n="76" rend="76">Or retornons a Caton et a ses autres compegnons.</p>
+                    <p xml:id="d001l77" n="77" rend="77">Qand veerent oucir Pompiu, grand fu le desconfort che pristrent li Romeins.</p>
+                    <p xml:id="d001l78" n="78" rend="78">Mais Caton fist una mout belle et saçe dicerie en honor de Pompiu et por confortement
+                    des autres che ostoient o lui.</p>
+                    <p xml:id="d001l79" n="79" rend="79">Un çor demorant a part long la marine, la gregnor part se ferma de ne voloir &lt;...&gt;
+                    torner souç sa segnorie.</p>
+                    <p xml:id="d001l80" n="80" rend="80">Et subitement comencerent a entrer en lor nes et a laser Caton et aler a Cesar, und
+                    de ceste çose pesa mout a Caton, por ce ch'il li sembloit che la franchise de Rome
+                    fust perdue.</p>
+                    <p xml:id="d001l81" n="81" rend="81">Mais si saçement li amonesta Caton et reprist et pria et conforta che ceus che estoient
+                    ça en les nes entré, et li autres ausi, s'afermerent de suir Caton et de sofrir cescun
+                    travail et paine che a lui pleist.</p>
+                    <p xml:id="d001l82" n="82" rend="82">Und il o tot cele çant paserent par mant desers et per mant aspres pasaçes, tant chi
+                    venrent en Libie, ou regnoit le roi Jube.</p>
+                    <p xml:id="d001l83" n="83" rend="83">Et Cesar, entendant che Caton et li suens Romeins estoient pasé in Libie et che grand
+                    ost avoient asemblé por contrester a lui, si s'apareilla d'aler en cele part.</p>
+                    <p xml:id="d001l84" n="84" rend="84">Mais avant ch'il li alast, combati a Tolomeu, le chiel oncist Pompiu.</p>
+                    <p xml:id="d001l85" n="85" rend="85">Cesar le venqui et oncist Tolomeu et le fist giter en mer.</p>
+                    <p xml:id="d001l86" n="86" rend="86">Et ne veust ch'il fust enterré, car Cesar disoit che la terre ne 'l devoit soustenir.</p>
+                    <p xml:id="d001l87" n="87" rend="87">Pois combati Cesar ou Farnal, fil Mitridate, che estoit roy de Herminie la base, et
+                    toutes les terres d'Oriant souçmist a Rome.</p>
+                    <p xml:id="d001l88" n="88" rend="88">Et venqui les batailles et oncist Farnal.</p>
+                    <p xml:id="d001l89" n="89" rend="89">Et pois pasa en Libie et fist grand bataille ver Caton e Juba.</p>
+                    <p xml:id="d001l90" n="90" rend="90">Et mout furent sages et deletouses et vertuoses paroles a aoir celes che Caton dist
+                    en amaistrement et en confort a sa çent.</p>
+                    <p xml:id="d001l91" n="91" rend="91">Et Cesar fist ausi a sa çant.</p>
+                    <p xml:id="d001l92" n="92" rend="92">Mais en la fin Caton et Juba perdrent la bataille.</p>
+                    <p xml:id="d001l93" n="93" rend="93">Et ancor Caton combati a Cesar en la contrié che l'en clamoit Utice, et perdi ancor
+                    Caton la bataille et tote sa çant fu mort.</p>
+                    <p xml:id="d001l94" n="94" rend="94">Ancor se parti Caton da la bataille et requist ases iens por voloir ancor a Cesar contrester.</p>
+                    <p xml:id="d001l95" n="95" rend="95">Mais no trova aucune tere ne çant che con ce poust fer et, veant che por force li convenoit
+                    venir souç la segnorie Cesar, avant voust morir por soi, che venir a tel pont.</p>
+                    <p xml:id="d001l96" n="96" rend="96">Ond Saint Augustin sor la mort tel de Caton dist che la mort Caton estoit convenable
+                    esemple a celor che lor estoient et se devoient pener sempre por lor franchise et voloir
+                    morir avant che vivre sers souç segnorie.</p>
+                    <p xml:id="d001l97" n="97" rend="97">Caton fu mout saçe chevalier et amoit Rome et droiture, et ne voust onque che per lui
+                    remanist iustise a ourer por pieté ne por aucune çose contre celui che falast, car
+                    il voloit avant etre buen che resembler au mauvés.</p>
+                    <p xml:id="d001l98" n="98" rend="98">Et qand en Rome venoit aucune division, mout saçes et droiturers Romeins atendoient
+                    tant che Caton aust de ce partie prise, por prendre pois ce che il prendroit, car bien
+                    savoient ch'il ne se prendroit fors ch'a raison.</p>
+                    <p xml:id="d001l99" n="99" rend="99">Or retornons a Cesar. Pois che il oit souçmis a Rome cele contrie, il pasa in Spagne,
+                    ou estoient li fils Pompiu a grand ost, et combati as lor pres une cité, et si francemant
+                    combatrent li fis Pompiu, che por poi che un çor ne vencrent la bataille, et por poi
+                    che n'ocistrent Cesar.</p>
+                    <p xml:id="d001l100" n="100" rend="100">Mais Cesar fist lor tant d'armes de soi mieme, e con paroles conforta tant ses chevaliers,
+                    q'il venqui la bataille et fu mort un des fils Pompiu.</p>
+                    <p xml:id="d001l101" n="101" rend="101">Et pois soutmis tote Spagne ond che neune parte ne li contredisoit.</p>
+                    <p xml:id="d001l102" n="102" rend="102">Et pois torna a Rome et a grand honor et a grand trionf fu receu, et fu feit impereor
+                    de tot le mond, si en oit feu et treu.</p>
+                    <p xml:id="d001l103" n="103" rend="103">Et de quant il vesqui impereor, le mond fu em pais.</p>
+                    <p xml:id="d001l104" n="104" rend="104">Et il fu le plus larçe et le plus de buen aire empereor che mais fust a Rome, et che
+                    plus liemant fist grace et don.</p>
+                    <p xml:id="d001l105" n="105" rend="105">Cescun ch'ala davant a lui por grace cherir, s'en departoit çoiant.</p>
+                    <p xml:id="d001l106" n="106" rend="106">Et une foi li fut dit che trou fesoit grace et dons.</p>
+                    <p xml:id="d001l107" n="107" rend="107">Il respondi alor che covenable est devant l'empereor de Rome che cescun sen part çoiant.</p>
+                    <p xml:id="d001l108" n="108" rend="108">A Cesar sembloit noiant avoir fait tant con il avoit noiant a fer.</p>
+                    <p xml:id="d001l109" n="109" rend="109">E chevauçant un çor Cesar por Rome, un home li cria et dist: Tiran.</p>
+                    <p xml:id="d001l110" n="110" rend="110">E Cesar se guenci ver lui et le garda et dist: Se çe fuse, tu ne o diristes.</p>
+                    <p xml:id="d001l111" n="111" rend="111">E il fu saçe et de sotil entendimant, et de scripture et de tot çose ch'apertenoit
+                    a guerre e de fer pais fu metre soveran.</p>
+                    <p xml:id="d001l112" n="112" rend="112">Cesar .L. batailles fist en çans, de le chiels .XLVM. en venqui, et .VIIII. cent mile
+                    homes fist morir en bataille.</p>
+                    <p xml:id="d001l113" n="113" rend="113">Un çor furent a consil Cesar et Brutus et Casius et mant autres senators. Iluech asalirent
+                    Cesar subitamant et le ferirent car il estoit sens armes entre lor, car il cuidoit
+                    etre entre li suens plus cer amis.</p>
+                    <p xml:id="d001l114" n="114" rend="114">Et qand il vit che morir li convenoit, il couri de suen manteus suen visaçe, et li
+                    drais mist entre ses iambes.</p>
+                    <p xml:id="d001l115" n="115" rend="115">Et ce fist il por quoi suen vis, morant, ne fust veu cançer, et che, qand il morist,
+                    il ceist a terre plus honestement.</p>
+                    <p xml:id="d001l116" n="116" rend="116">Grand fu la fortece de suen cuer ch'a ou pont de si subitaine mort il garda a tel
+                    çouse.</p>
+                    <p xml:id="d001l117" n="117" rend="117">Et si con le livre dit, a sa mort il aparut grand signes in ciel, in terre et en mer.
+                    Julius Cesar dist che buen est amor seins paine car cer ont li chevaliers cil che
+                    seit li chevaliers amer.</p>
+                    <p xml:id="d001l118" n="118" rend="118">Car doucece d'amor en ost est sainte contre ses enemis.</p>
+                    <p xml:id="d001l119" n="119" rend="119">Ne onque Cesar as suens chevaliers: ales la, mais tote foi disoit: venes ça.</p>
+                    <p xml:id="d001l120" n="120" rend="120">En bataille li cors se ferent o les espees et oblions li vices et lonçement droit
+                    et traté consil poison prendre si conoisons ce che defendre ne se puet.</p>
+                    <p xml:id="d001l121" n="121" rend="121">Et de tate çose demande consil mais non da tous.</p>
+                    <p xml:id="d001l122" n="122" rend="122">Deus çoses sont au consil contraires: frece et ire.</p>
+                    <p xml:id="d001l123" n="123" rend="123">Neune çose oblia Cesar fors che eniure pois sa vitore.</p>
+                    <p xml:id="d001l124" n="124" rend="124">Cesar di&lt;s&gt;t che neune vitoire est plus aute che perdon.</p>
+                    <p xml:id="d001l125" n="125" rend="125">Et chi disist che Cesar ne fust de aut lignace, faleroit.</p>
+                    <p xml:id="d001l126" n="126" rend="126">Por mere fu nes de roi et por per desist da roi rere.</p>
+                    <p xml:id="d001l127" n="127" rend="127">Adonc en sa generation est desis das Dies et da roi li chiel entre la çant respondrent
+                    et furent sacrefié en la cui puisance estoient li rois.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c002">
+                    <head>
+                        <title>II.</title>
+                        <abbr>II</abbr>
+                    </head>
+                    <p xml:id="d001l128" n="1" rend="1">Regolus fu un chevalier loiaus et de buen coraçe et prous d'armes et ami de Rome.</p>
+                    <p xml:id="d001l129" n="2" rend="2">Et por buen exemple prendre, breument dirait de lui aucune çose.</p>
+                    <p xml:id="d001l130" n="3" rend="3">Demorant en Aufrique et en autre part, il fist mant batailles et conquist ases vitoires
+                    as Romeins, ond ases prisons envoia a Rome.</p>
+                    <p xml:id="d001l131" n="4" rend="4">Un çor combatant ver Aufrichens, il fu pris con ases des Romeins.</p>
+                    <p xml:id="d001l132" n="5" rend="5">Et in cil tens ch'il demoroit in prison, li Romeins et li Aufrichens conbatrent ensemble,
+                    ond ases des Aufrichens furent pris et furent envoié a Rome in prison, ond ceux d'Aufriche
+                    envoierent Regolus a Rome por trater pais et por laser li prisons l'un de l'autre.</p>
+                    <p xml:id="d001l133" n="6" rend="6">Quand il fu venus a Rome por trater pais et por laser li prisons l'un de l'autre.</p>
+                    <p xml:id="d001l134" n="7" rend="7">Quand il fu venus a Rome, il conta in consil tot le feit, ond li Romeins s'acorderent
+                    a fer tot ce ch'a lui pleisoit.</p>
+                    <p xml:id="d001l135" n="8" rend="8">Et Regolus, veant che li Aufrichens avoient li pis de la gere et che de la peis et
+                    dou cançement des prisons seroient les Romeins deceus, ne laisa as Romeins fer cele
+                    peis, et disoit che ne pleist as Dies che, se il en sa iovenece avoit servi a Rome,
+                    che or en sa veilece li voisist fer daumaçe.</p>
+                    <p xml:id="d001l136" n="9" rend="9">Et por tenir ferme sa promise, outre le vouloir des suens parans, il tourna in Aufriche,
+                    soiant certen ch'il devoit etre mort.</p>
+                    <p xml:id="d001l137" n="10" rend="10">Et qand li Aufrichens entendrent le feit de Regolus, si l'ocistrent, ond pois en fu
+                    feit grand veniance.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003">
+                    <head>
+                        <title>III.</title>
+                        <abbr>IIII</abbr>
+                    </head>
+                    <p xml:id="d001l138" n="1" rend="1">Brutus fu le primer consoul de Rome, le chiel fu mout loiaus et mout amoit Rome et
+                    fu franch d'armes.</p>
+                    <p xml:id="d001l139" n="2" rend="2">En cil tens che li Romeins avoient chaçé Tarquin de Rome, che avoit plus de .XXX.
+                    ans tenu la segnorie de Rome (ms. reme) contre le voloir des Romeins, Tarquin et Porsene,
+                    roi de Toscane, s'acorderent de etre contre Rome.</p>
+                    <p xml:id="d001l140" n="3" rend="3">Brutus avoit .II. fils che avoient iuré de mener Tarquin por segnor en Rome.</p>
+                    <p xml:id="d001l141" n="4" rend="4">Et cist feit fu conté a Brutus celeemant por un suen serf, ond il ne voust che ce
+                    fust celé.</p>
+                    <p xml:id="d001l142" n="5" rend="5">Ond il fist ses fils tuer, le serf fist frans et si le fist suen hoir.</p>
+                    <p xml:id="d001l143" n="6" rend="6">Et pois Tarquin et Persene venrent a Rome, et combatant l'auroient prise, se ne fust
+                    Codes, le chiel fu tant franch et tant fort che il seul defendi le pont dou Teure
+                    si che acune persone ne pooit paser.</p>
+                    <p xml:id="d001l144" n="7" rend="7">Et tutor plus fort defendoit, che neun n'i passoit, tant che ceus de Rome trencerent
+                    le pont derer a lui.</p>
+                    <p xml:id="d001l145" n="8" rend="8">Et Codes cei en l'eve et si se brixa la cuise.</p>
+                    <p xml:id="d001l146" n="9" rend="9">Et pois noant pasa le Teure ensi armé et pois torna ancor da l'autre part et tant
+                    sofri combatant che la sue çant li riva.</p>
+                    <p xml:id="d001l147" n="10" rend="10">Et por cist fu scampé Rome a cil pont.</p>
+                    <p xml:id="d001l148" n="11" rend="11">E l'autre çor comencerent la bataille.</p>
+                    <p xml:id="d001l149" n="12" rend="12">Et Jaront, un chevalier de l'ost meilor de Porsene et de Tarquin, se combati a Brutus
+                    a cors a cors, et fu entr'aus une mout grand et aspre bataille car l'un feroit l'autre
+                    mortelement.</p>
+                    <p xml:id="d001l150" n="13" rend="13">Mais larunt mori in primer, et pois tot son ost fu desconfit et li Romeins aurent
+                    la vitoire.</p>
+                    <p xml:id="d001l151" n="14" rend="14">Mais Brutus mori de cele meslee, por la chiel mort cescuns des Romeins plura si tendremant
+                    con s'il fust esté suen per ou suen fil.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c004">
+                    <head>
+                        <title>IV.</title>
+                        <abbr>IV</abbr>
+                    </head>
+                    <p xml:id="d001l152" n="1" rend="1">Le Saladin fu valoros et larçe et cortois segnor et de cuer ientils, che cescun che
+                    au mond estoit in cil tens disoit che sens aucune teche en lui demoroit cescune oonté
+                    compliemant.</p>
+                    <p xml:id="d001l153" n="2" rend="2">Und M. Bertram dau Bors, che fu metre au roi lohans, intendant de cescun la bonté
+                    dou Saladin, s'en ala a lui por savoir la verté.</p>
+                    <p xml:id="d001l154" n="3" rend="3">Et demora là grand tens: mout se merveila et delita a ce veoir.</p>
+                    <p xml:id="d001l155" n="4" rend="4">Et par neune çose ne pooit veoir coment le Saladin poust plus fer en dit n'en feit
+                    con il fesoit.</p>
+                    <p xml:id="d001l156" n="5" rend="5">Et desirant de savoir con ce pooit etre, trova che Saladin, por non pooir falir a
+                    fer ce ch'il devoit, avoit eslis li meilor et plus saçes conoisens che il poust avoir
+                    da aucune part.</p>
+                    <p xml:id="d001l157" n="6" rend="6">Et cescun çor tratoit et consiloit ce che in cil çor avoit a fer on a dir, et se cil
+                    çor estoit pasé che il ne eust feit ou dit ce che il avoit a proveoir, l'autre çor
+                    li proveoit.</p>
+                    <p xml:id="d001l158" n="7" rend="7">Et mais si grand feit ne li sorvint, ch'il laisast ce che il avoit a fer.</p>
+                    <p xml:id="d001l159" n="8" rend="8">Und M. Bertram, qand se voloit partir, si dist au Saladin tot ce por qoi il estoit
+                    venu a lui et coment n'avoit pou veoir che il poust fer autre çose meus con il fesoit,
+                    und li dona consil ch'il soi amast por amer une che li seroit meilor, et amor li metroit
+                    en voie se il poust autre fer che plus vausist.</p>
+                    <p xml:id="d001l160" n="9" rend="9">E Saladin li dist selong suen usaçe que il avoit dames et damiseles asé ientiles et
+                    beles et amoit cescune con se convenoit.</p>
+                    <p xml:id="d001l161" n="10" rend="10">M. Bertram li motra con cil ni estoit amor, le chiel amor tenoit. Et si tost con a
+                    lui l'oit conté, le Saladin fu de l'amor a la dame enamoré.</p>
+                    <p xml:id="d001l162" n="11" rend="11">Et demorand le Saladin grand tens, ne pooit penser ne veoir coment a la dame poust
+                    parler ne ce fer li asavoir, por ce che chritiane estoit la dame, et demoroit en une
+                    terre ou il avoit grand gere.</p>
+                    <p xml:id="d001l163" n="12" rend="12">Ond Saladin s'en vint esforciement con suen ost a la terre ou demoroit la dame, et
+                    la fist mant ençing drecier et fist cescun argument che il pooit a ce che ceus de
+                    la terre s'acordasent plus tost a lui.</p>
+                    <p xml:id="d001l164" n="13" rend="13">Mes ceus dedans ne voloient a lui acord ne trieve.</p>
+                    <p xml:id="d001l165" n="14" rend="14">Ond il asiça la cité et tant la i fist manganer che quais tot le mur verserent a terre.</p>
+                    <p xml:id="d001l166" n="15" rend="15">Et tant fu grand l'aseçe et tant dura, che ceus dedans n'avoient che mançer.</p>
+                    <p xml:id="d001l167" n="16" rend="16">Lor envoia la dame a Saladin ch'il venist a parler a li, et il de cuer çoiant li ala
+                    mantinant, et ele le pria et dist: Por aucune çose che me penses amer, et che ce por
+                    mien amor aves feit.</p>
+                    <p xml:id="d001l168" n="17" rend="17">Se ce voir est, ou sont ces siances oies che por amor doient li homes pieres Irabucer
+                    et tant demorer a ost, che nos ni avons ou auberçer, ne rien a mançer? Le Saladin
+                    respond: Dame, cil Segnor, c'a moi vos a donié por sa grace d'amor, veust ch'a vetre
+                    terre venise in tiel gise et fer tiel gere seul por peis d'amor.</p>
+                    <p xml:id="d001l169" n="18" rend="18">De ce che çe ai fait foi amorouse ai, en voi soit la vençance et la merci.</p>
+                    <p xml:id="d001l170" n="19" rend="19">Alor dist la dame: Saladin, çe veul che tu doies tuen ost partir de ci et por acord
+                    laises a moi le tuen cuer et le mien emportes, et sempre siomes en une substance.</p>
+                    <p xml:id="d001l171" n="20" rend="20">Et ensi fu feit, et tel fu le conçé au departir.</p>
+                    <p xml:id="d001l172" n="21" rend="21">Et si tost con le Saladin fu a l'ost torné, si fist bandir che cescun venist a lui
+                    en une part et, qand tous furent asemblé devant lui, il dist entr'eus: Segnor, ce
+                    ai eu tiel novelles et si grand ch'il nous estoit de ci partir, ne la ocasion ne feit
+                    bien a dir a cist pont.</p>
+                    <p xml:id="d001l173" n="22" rend="22">Ond cescun, si cer con il a sa vie, de ci se parte sans retor.</p>
+                    <p xml:id="d001l174" n="23" rend="23">Et en tal gise fist partir suen ost che neun n'i torna plus.</p>
+                    <p xml:id="d001l175" n="24" rend="24">Et ensi laisa le çans le plus fort et le gregnor che fust onque, le chiel saboit ases
+                    plus cités che cele ne valoit.</p>
+                    <p xml:id="d001l176" n="25" rend="25">Et ce le fist amor comencer in tiel gise por ce ch'il savoit ou il devoit torner en
+                    la fin.</p>
+                    <lb/>
+                    <p xml:id="d001l177" n="25" rend="25">Et demorand en ost le Saladin a Jerusalem en cil tens che ceus dedans perdrent la
+                    crois, tous se renderent au Saladin por mort.</p>
+                    <p xml:id="d001l178" n="26" rend="26">Alor un suen baron li demanda .X. des critiens et un autre baron en demanda ancor,
+                    et il le lor dona et ceus li laserent aler.</p>
+                    <p xml:id="d001l179" n="27" rend="27">Ond le Saladin dist: Se ie ai doné cestor a vos, che estes souç moi, bien doi li autres
+                    a Deu doner, che est mien segnor.</p>
+                    <p xml:id="d001l180" n="28" rend="28">Et ensi tous li autres, che estoient bien .X. mille, por amor Deu laisa aler.</p>
+                    <lb/>
+                    <p xml:id="d001l181" n="29" rend="29">Et demorant le Saladin en cele terre et avoiant tote le terre vinte combatant, le
+                    roi Ricard por mer entra dens da l'autre part et tant fist d'armes ou la force des
+                    suens, ch'il prist a vancre terre.</p>
+                    <p xml:id="d001l182" n="30" rend="30">Et combatant le roi Riçard a pié, il fu motré au Saladin, et il envoia un destrer,
+                    mandant a dir a lu ch'il ne se convenoit che roi combatist a pié.</p>
+                    <lb/>
+                    <p xml:id="d001l183" n="31" rend="31">Cevauçant le Saladin per un pais plus biaus che neun che fust en suen riame, il l'avoit
+                    doné a un suen chevalier.</p>
+                    <p xml:id="d001l184" n="32" rend="32">Il pensa de voloir cil pais por soi mieme et un autre doner au chevalier.</p>
+                    <p xml:id="d001l185" n="33" rend="33">Et tant tost con il oit ce pensé, fu repentu et conuit che suen penser fu vitios(os).</p>
+                    <p xml:id="d001l186" n="34" rend="34">Alor si aspremant fist penetance et abstinence, ch'il vint a meins de sa çarn et par
+                    poi ch'il ne 'n moruit.</p>
+                    <lb/>
+                    <p xml:id="d001l187" n="35" rend="35">Qand au Saladin fu portee et leue la loi des Saracins ou il devoit iurer, con estoit
+                    usaçe de cescun souden, il çura primemant de oserver cele loi che plus a Deu pleist.</p>
+                    <p xml:id="d001l188" n="36" rend="36">Und deus freres critiens alerent a lui et distrent: Nos somes ci venus por ta arme
+                    saover.</p>
+                    <p xml:id="d001l189" n="37" rend="37">Fais tuens saçes venir et nos toi motrerons che vetre loi est vetre danacions.</p>
+                    <p xml:id="d001l190" n="38" rend="38">Et li saçes venrent et disputerent ases.</p>
+                    <p xml:id="d001l191" n="39" rend="39">Li saçes des saracins en la fin distrent au Saladin che il devoit fer morir ces freres,
+                    car en lor loi est escript che cil devoit etre mort che contre lor loi alegast.</p>
+                    <p xml:id="d001l192" n="40" rend="40">Le Saladin respondi che ce est voiremant en lor loi escript: Ma ce doi ouserver, dist-il,
+                    cele loi che a Deus plus pleit.</p>
+                    <p xml:id="d001l193" n="41" rend="41">Çe sai bien che cestor sont venus seul por une arme sauver et si sai bien che a Deu
+                    ne pleiroit che de se cançe de mort li rendise.</p>
+                    <p xml:id="d001l194" n="42" rend="42">Ond il fist as freres grand honor, si li laisa aler.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c005">
+                    <head>
+                        <title>V.</title>
+                        <abbr>V</abbr>
+                    </head>
+                    <p xml:id="d001l195" n="1" rend="1">Un çor demorant le roi Johans con autres cevaliers devant suen pier, il estoit jovne,
+                    ond che il n'estoit ancor chevalier, un chevalier molt cremosement demanda un don
+                    ao roi.</p>
+                    <p xml:id="d001l196" n="2" rend="2">Le roi ne respondoit, ond le chevalier atendant la respose se verogna davant lui.</p>
+                    <p xml:id="d001l197" n="3" rend="3">E li chevaliers che estoient au roi Johans li distrent tous ensamble: Voir est che
+                    la gregnor vergogne dou monde est a cherir l'autru.</p>
+                    <p xml:id="d001l198" n="4" rend="4">Le roi Johans respondi: Gregnor vergogne est a non doner a cui besogne.</p>
+                    <lb/>
+                    <p xml:id="d001l199" n="5" rend="5">Le roi Johans en la açe de .X. ans avoit un dant sor li autres, le chiel por aucune
+                    proferte ne por aucune proiere dou per ne de la mer ne se voloit le dens laser trer.</p>
+                    <p xml:id="d001l200" n="6" rend="6">Un çor un chevalier vint davant aou roi suen per et li demanda un don: le chevalier
+                    estoit cortois et mout besognous.</p>
+                    <p xml:id="d001l201" n="7" rend="7">Le roi ne li donoi le don. Le roi Johans veant le chevalier ester si esbai, il ala
+                    a la roine plus celiemant ch'il onque poit et prist da li ce ch'il pooit, diant ch'il
+                    se lairoit le dant trer.</p>
+                    <p xml:id="d001l202" n="8" rend="8">Et pois torna su roi suen per et dist: Se moi donres un don, çe me lairai le dant
+                    trer. Et le roi le promist ce ch'il voloit. Et cil se laisa le dant trer. Et pois
+                    dist au roi: Çe vos demand che vos dones a cist chevalier ce ch'il vos quiert; et
+                    ce fu feit. Et pois le roi Johans celeemant dona au chevalier ce ch'il avoit eu da
+                    la roine.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c006">
+                    <head>
+                        <title>VI.</title>
+                        <abbr>VI</abbr>
+                    </head>
+                    <p xml:id="d001l203" n="1" rend="1">Brunor, arivant por fortune au port dou çasteus de Plor, ehom estoit cil mauvés usaçe,
+                    il combati et oncist le sir de l'Isle et prist a fame la belle Cijante, la ond nasqui
+                    Galeot, dou chiel breumant vous dirai aucune çose.</p>
+                    <p xml:id="d001l204" n="2" rend="2">En l'aaçe de .X. ans le per le avoit doné .XII. ientils iounes de suen tens et con
+                    setor se vestoit et mançoit a une table.</p>
+                    <p xml:id="d001l205" n="3" rend="3">Juant o lor lui, che estoit plus fort che aucun de lor, se laisoit mante foi souçmetre
+                    as compagnons.</p>
+                    <p xml:id="d001l206" n="4" rend="4">Le per mante foi, por veoir ce ch'il feroit, il li metoit davant meilor plater che
+                    a aucun des compagnons, et mantinant il prenoit de suen plater et donoit as compagnons.</p>
+                    <p xml:id="d001l207" n="5" rend="5">Une foi le per le fist vestir d'un verd samit et tot ses compagnons fors che uns,
+                    che fu vestu de un plus bas color.</p>
+                    <p xml:id="d001l208" n="6" rend="6">Et qand il fu vestu, il veoit che li autres estoient ensi vestu, fors che un.</p>
+                    <p xml:id="d001l209" n="7" rend="7">Il demanda por quoi ce est, et le per dist ch'il fesoit ce por lui prover et che de
+                    cil color ne trovoit plus.</p>
+                    <p xml:id="d001l210" n="8" rend="8">Et il mantinant fist partir la moité de sa robe et cele de suen compagnon et devisa
+                    l'une con l'autre et se vesti con lui.</p>
+                    <p xml:id="d001l211" n="9" rend="9">Qand il fu feit chevalier, il veoit che, se il demoroit en cele contree, il li stovroit
+                    iurer et mantenir cil mauvés usançe.</p>
+                    <p xml:id="d001l212" n="10" rend="10">Et por ce se parti de sa contree, car en cil tens asses i avoient usançes et costumes
+                    pesmes et vileins, por quoi grand mal et grand mesaventures avoient as chevaliers
+                    et as dames et as damiselles.</p>
+                    <p xml:id="d001l213" n="11" rend="11">Adonc se mist en cuer de abatre cescun mauvés costume et pensa bien che en le çasteus
+                    de Plor, ou demoroit suen per, ne pooit abiter, car il ne devoit ne pooit metre main
+                    sor suen per.</p>
+                    <p xml:id="d001l214" n="12" rend="12">Il envoia a cescun roi, che mauvés costume et mauvés usaçe eust en sa terre, ch'il
+                    le deust abatre.</p>
+                    <p xml:id="d001l215" n="13" rend="13">Et en cil tens desfia cescun che ce ne fesoit, car chi de plein voloir ne voloit ce
+                    fer, por force d'armes l'estovoit otroier.</p>
+                    <p xml:id="d001l216" n="14" rend="14">Et tant saçe et biaus et larçe portement fist ver cescun, che da tote part li chevaliers
+                    venrent a lui, et por suen valoir, et por sa larçeçe et por la bone chevalerie che
+                    il avoit o lui il souçmist .XXVIIII. riames.</p>
+                    <p xml:id="d001l217" n="15" rend="15">Et un çor combati au roi Artu, et Galeot veant che le roi Artu avoit le peçor, il
+                    se douta che l'en ne peust dir che le roi Artu ne fust bien garni.</p>
+                    <p xml:id="d001l218" n="16" rend="16">A cil pont il fist remanir la bataille et li dona un termne dou combatre, ancor tant
+                    ch'il fust bien garni da tote part.</p>
+                    <p xml:id="d001l219" n="17" rend="17">Et pois un çor combatant, Lancerot li fu da la part le roi Artu et Galeot, veant a
+                    Lancelot fier si grand feit et valorous, il parla a lui, e parland a lui, il s'enamora
+                    de sa cortoisie et de sa bonté et de sa chevalerie.</p>
+                    <p xml:id="d001l220" n="18" rend="18">Les paroules furent entr'eus ases buenes et belles.</p>
+                    <p xml:id="d001l221" n="19" rend="19">En la fin le un promist de fer quant che l'autre voloit.</p>
+                    <p xml:id="d001l222" n="20" rend="20">De pois entre Galeot et le roi Artu et la lor çant fu grand la bataille.</p>
+                    <p xml:id="d001l223" n="21" rend="21">Qand Lancarot vit che le roi Artu et sa çant ne pooient sofrir la bataille et voloient
+                    torner en fue, il dist a Galeot che deust tenir a segnor le roi Artu et devant tous
+                    iurer de etre sempre souç sa segnorie.</p>
+                    <p xml:id="d001l224" n="22" rend="22">Et Galeot mantinant l'otroia.</p>
+                    <p xml:id="d001l225" n="23" rend="23">Et bien vos di che grand et utile et valorouse çose fist Lançarot che ce requist,
+                    et Galeot fist bien autre tant ch'il fist ce che il li dist.</p>
+                    <p xml:id="d001l226" n="24" rend="24">Le roi Artu ne estoit roi con estoient li autres ne che or sunt.</p>
+                    <p xml:id="d001l227" n="25" rend="25">Il estoit un roi seulement en ovrer et ordener et en fer tote bonté d'amor et de chevalerie
+                    et de cortoisie et de largece et de fermece de cescun valor, et li chevaliers, che
+                    estoient souç lui, estoient seulemant por establir et ovrer et dir et suir lor honor.</p>
+                    <p xml:id="d001l228" n="26" rend="26">Et ce lor estoit gregnor honor ases a ce fer che ne est a tenir riames et etre roi.</p>
+                    <p xml:id="d001l229" n="27" rend="27">Car Tristein et Lancelot et autres ases laiserent lour regnes et donrent a autru,
+                    por voloir venir de ceus chevaliers.</p>
+                    <p xml:id="d001l230" n="28" rend="28">Cil est roi che seit governer en bonté plus che ne est de governer roiaume.</p>
+                    <p xml:id="d001l231" n="29" rend="29">Mais seul de corone d'onor et de valor naist la fior che est la plus digne part de
+                    l'ovremant des vertus.</p>
+                    <p xml:id="d001l232" n="30" rend="30">Donc Galeot che estoit le gregnor receuit gregnor onor a fer ce ch'il fist.</p>
+                    <p xml:id="d001l233" n="31" rend="31">Un çor civaucant Galeot trova sa suer, che li presenta le cef de Brunor, suen per,
+                    et de sa mer, diant che ce avoit feit Tristein.</p>
+                    <p xml:id="d001l234" n="32" rend="32">Et il mantinant se mist en cuer de aler au çasteus de Plor la ou estoit Tristen por
+                    li mauvés usaçe et de combatre a lui.</p>
+                    <p xml:id="d001l235" n="33" rend="33">Donc ordena che le roi des cent chevaliers demorast au port con plusors chevaliers
+                    et autre çant, por ce che se il venquist Tristen en bataille, il peust gaster cil
+                    mauvés usaçe.</p>
+                    <p xml:id="d001l236" n="34" rend="34">Qand ce fu establi, il ala au çasteus et combati ver Tristen.</p>
+                    <p xml:id="d001l237" n="35" rend="35">La bataille de lor deus fu mout grand et aspre et dura lonçement.</p>
+                    <p xml:id="d001l238" n="36" rend="36">En fin Tristein, che coneoit Galeot, il l'amoit por sa grand franchise et por sa grand
+                    bonté et veant che Galeot ne avoit mie le meilor de la bataille, il se scusa et dist
+                    che la mort dou per et de la mere il nen avoit pou autre fer et che cil fu le gregnor
+                    dolor che il aust onque et che ce ch'il fist il le convenoit fer a lui ou sostenir,
+                    et di&lt;s&gt;t ch'il se voloit clamer outre de la bataille et che il en prenist mende
+                    a suen plaisir.</p>
+                    <p xml:id="d001l239" n="37" rend="37">Et si li veut bailir la spee.</p>
+                    <p xml:id="d001l240" n="38" rend="38">Et le roi des cent chevaliers, che estoit remis au port, veant suen segnor en tel
+                    peril, se dota de lui.</p>
+                    <p xml:id="d001l241" n="39" rend="39">Lor se treit cele part por voloir metre Tristen a mort.</p>
+                    <p xml:id="d001l242" n="40" rend="40">Et Galeot, veant che le roi et li autres voloient oncir Tristen, il lor contradist
+                    che nul ne le toçast por tant com amoient lor vie.</p>
+                    <p xml:id="d001l243" n="41" rend="41">Pois dist a Tristen: Por ta grand bonté et por ta chevalerie et por quoi contre tuen
+                    gré sai che ce fu feit, çe te perdon de qant che tu m'ais forfeit.</p>
+                    <p xml:id="d001l244" n="42" rend="42">Pois se fist prometre che pois che il auroit Iseute menee au rei Marsil, torneroit
+                    a lui en Sorelois por che il voloit avoir lui et Lançarot ensemble.</p>
+                    <p xml:id="d001l245" n="43" rend="43">Ancor dist Galeot che chi eust la roine Iseute et la roine Çenevre et Tristen et Lançarot
+                    ensamble, il poroit dir che il auroit tot la biauté et la bonté dou monde.</p>
+                    <p xml:id="d001l246" n="44" rend="44">Et Galeot avoit le cuer si çentis et grand et pur, che sempre il seul mist sa intançe
+                    a amer et a servir et a honorer cescun buen chevalier plus che soi mieme.</p>
+                    <p xml:id="d001l247" n="45" rend="45">Et voiremant il oit le plus aut cuer et plus ientis et plus de buen aire che prince
+                    che fust au mond.</p>
+                    <lb/>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

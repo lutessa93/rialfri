@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="AGNESEMELEUS-agnesEMeleus">
+                    <title type="short">Agnès et Meleus</title>
+                    <abbr>Agnès et Meleus</abbr>
+                    <note xml:id="note1">fine XIII - inizio XIV s., Emilia o Veneto occidentale</note>
+                    <bibl>Paul Meyer, <emph style="font-style:italic">Notice du ms. Plut. LXXVI n° 79 de la Laurentienne (Florence)</emph>, in «Bulletin de la Société des anciens textes français», V (1879), pp. 72-95: 86-95.</bibl>
+                </title>
+                <author xml:id="AGNESEMELEUS" n="001.000">
+                    <name></name>
+                    <abbr></abbr>
+                </author>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata e marcatura digitale</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Reference basis text</resp>
+                    <name>Paul Meyer, <emph style="font-style:italic">Notice du ms. Plut. LXXVI n° 79 de la Laurentienne (Florence)</emph>, in «Bulletin de la Société des anciens textes français», V (1879), pp. 72-95: 86-95.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.rialfri.eu">RIALFrI</ref>
+                </publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <notesStmt>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>Paul Meyer, <emph style="font-style:italic">Notice du ms. Plut. LXXVI n° 79 de la Laurentienne (Florence)</emph>, in «Bulletin de la Société des anciens textes français», V (1879), pp. 72-95: 86-95.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t1"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work">
+                <lb/>
+                <p xml:id="d001l1" n="1" rend="1">Li tierç vice qe je dis fu avaricie qe vos ne devez avoir en vostre cuer.</p>
+                <p xml:id="d001l2" n="2" rend="2">E de celle m'estoit dire une partie.</p>
+                <p xml:id="d001l3" n="3" rend="3">Nos trovons en la Sainte Escripture qe l'avarice est radix de toz li maus deu monde,
+                e solemant poez vos bien veoir qe elle est molt male chose.</p>
+                <p xml:id="d001l4" n="4" rend="4">E ja l'en qe la voudra mantenir n'avra joie ne aleece, e ne savra qe soit nul bien,
+                ains ert pensis e [de] jors e de nuit com il poisse son avoir acrestre e molteplier,
+                e ce li sera destrucions grant de sum cors e de sa ame, car por ce perdra il la leece
+                de cist siegle e la gloire de paradis qi est la plus preciose chose com seit.</p>
+                <p xml:id="d001l5" n="5" rend="5">E de ce avint ja un gran miracle en une terre qe estoit apelée Altilie.</p>
+                <p xml:id="d001l6" n="6" rend="6">E si vos diré en qel mesure. <lb/>En ceste Altilie fu un ome qi avoit nom Pastre, qui
+                por avaricie aüna tant grant masse d'or e d'argiant qe chascuns jors de sa vie poüst
+                avoir despendu bien .c. livres sanç soi condure a poverté.</p>
+                <p xml:id="d001l7" n="7" rend="7">Car après li grant tresors q'il avoit, estoit tant rice de terre e de possessions qe
+                ce estoit merveille.</p>
+                <p xml:id="d001l8" n="8" rend="8">E neporcant il avoit tel paor qe la terre e le tresor ne li somentist, q'il meesme fist
+                une fose en sa maison desotç soen liz, o il meesme mist tot li tresor q'il avoit en
+                un vaisel q'il avoit fait fere a bone fermeüre; e si tenoit la clef en um soen escrin.</p>
+                <p xml:id="d001l9" n="9" rend="9">E chant il ot ce bien fet, si li fo avis qe soen tresor non se poroit perdre en nulle
+                maniere.</p>
+                <p xml:id="d001l10" n="10" rend="10">E puis dist en suen cuer q'il ne metreit pas maina u vaisel por despandre de cil avoir
+                doment q'il tonel ne fust tot plain; e por ce l'avoit fet fere mout grant.</p>
+                <p xml:id="d001l11" n="11" rend="11">Après cel, se porpensa cil q'il ne fesoit pas qe sage qant il n'em prendroit une fame
+                dame a mullier, dont il eüst aucun eyr qi maintenist sun eritaje après sa mort, car
+                il n'avoit eü encore nulle, e ce estoit solemant por la grant avarice q'il avoit, dunt
+                il ne se qidoit pas manir.</p>
+                <p xml:id="d001l12" n="12" rend="12">Ore avint ensi q'il en prist une qi estoit mout belle dame e saje, et après si ert
+                elle noble assez, et eissue d'um mout grand parentez.</p>
+                <p xml:id="d001l13" n="13" rend="13">Mas elle n'eit pas trop rice d'avoir.</p>
+                <p xml:id="d001l14" n="14" rend="14">E por ce solemant li fo elle donée, car autrement ne l'eüst il eü jamès.</p>
+                <p xml:id="d001l15" n="15" rend="15">Qant il [l']ot tenu bien près d'un an, si se comença a plorer molt tendrement, car
+                il li fu avis q'il fesoit trop gregnor despense q'il ne qidoit.</p>
+                <p xml:id="d001l16" n="16" rend="16">E de ce fu il tant pensis q'il ne pooit dormir fermemant en nulle maniere.</p>
+                <p xml:id="d001l17" n="17" rend="17">Or avint tant qe la grand feste de la Pentecoste s'aprosmoit, et la gent de gele terre
+                solent fere mout gram leece a tel feste.</p>
+                <p xml:id="d001l18" n="18" rend="18">Dunt la dame vient a lui e si li dist: «Sire, la feste de la Pentecoste aprosmoit e
+                sera tost».</p>
+                <p xml:id="d001l19" n="19" rend="19">«Voir est, dame», dist il, «e s'elle sera, q'en volez vos?».</p>
+                <p xml:id="d001l20" n="20" rend="20">«Je voldroie», dist la dame, «qe vos deüsez vestir e vos e moi, ausi com l'autre gent
+                font qi ne sunt pas rice de la moitié qe nos somes; e por ceste chose vos apeloie,
+                car il m'est avis qe tardez trop».</p>
+                <lb/>
+                <p xml:id="d001l21" n="21" rend="21">Lurs li prist li usurier a garder mout felonismemant, e li dist: «Dame, dame, vos ne
+                porpensez gaire fors solemant d'avoir vostre plaisir.</p>
+                <p xml:id="d001l22" n="22" rend="22">Mès, se vos gardassés bien la gran dispense o nos somes, vos seriez mout plus pensive
+                qe vos n'iestes.</p>
+                <p xml:id="d001l23" n="23" rend="23">Car si la feste vient, elle pasera mout tost.</p>
+                <p xml:id="d001l24" n="24" rend="24">E cil qe por la feste voudrunt maumetre sun avoir, s'en tendront en la fin por fol.</p>
+                <p xml:id="d001l25" n="25" rend="25">Mès or fetes qe saje e si pensiez solemant de far bien.</p>
+                <p xml:id="d001l26" n="26" rend="26">Car vos avez encore teus robes car vos en poez fere bien près d'un an.</p>
+                <p xml:id="d001l27" n="27" rend="27">E ce sera mout mielz qe recherir tel chose qe ne soit convenable.</p>
+                <p xml:id="d001l28" n="28" rend="28">Car eles sunt mout bones e beles e si le[s] poez porter a grant onor».</p>
+                <lb/>
+                <p xml:id="d001l29" n="29" rend="29">La dame oï les paroles q'il dist, si li respondi auqes por ire, e dist: «Bi[a]u sire,
+                vos ne dites pas bien, qant vos dites qe je demant chose che ne convient, qar bien
+                savez vos qe les robes qe je port ne sunt pas belles ne comvenables a porter d'ore
+                en avant a tel dame com je sui, mout bien mariée, au mains en tel maisom com la vostre
+                est, car tuit dient qe je sui mout bien mariée, e qe me tenrieç a grant honor.</p>
+                <p xml:id="d001l30" n="30" rend="30">E por ce vos seroit grand onte e grant blasme, se je ne alasse mielz atornée en vestre
+                maisom com je aloie en la maisom mon oncle qi me vos donna solemant por ce qil qideit
+                qe je deüsse avoir a complemant tot mun estovoir; e ja, se Deu ploit, ne ferez tel
+                vilenie de moi dunt mon oncle, e li autre, me teigne a mal emploiée en vos, ainz me
+                tenrez a tiel onor et a tiel autece com vos devez e com vos le poez bien fere, la Deu
+                merci.</p>
+                <p xml:id="d001l31" n="31" rend="31">Et ensi poez vos fere que tuit cil qe ore vos tien[en]t a vil et a scars, vos avront
+                por large e por cortois, e mes parentés vos en amerunt mout meulz».</p>
+                <lb/>
+                <p xml:id="d001l32" n="32" rend="32">Qant li vilan cuvert entendi qe la dame voloit vivre largement et ha onor, poc fu mains
+                qe li cuer ne li creva ou ventre de doel.</p>
+                <p xml:id="d001l33" n="33" rend="33">E por ce li dist il tel parole dont il morut puis en le fin, ensi com vos porez entandre:
+                «Ha!», dist il, «dame, onte vos dont Deus! Car vos me volez metre a onte et a poverté
+                issi com fo vostre pere, que par sa gran largesse devint povre et onteus a toz jors
+                de sa vie; dunt il fo puis tel ore q'il n'avoit pas tant q'il se poüst bien vestir.</p>
+                <p xml:id="d001l34" n="34" rend="34">E solemant por les paroles qe vos en avez dites conos je qe vos n'i avez point de sen;
+                et anz estes folle e mauvese, e voldriez ja qe je fusse destrut.</p>
+                <p xml:id="d001l35" n="35" rend="35">Dunt je vos promet bien qe je vos feré vivre desore en avant a greignor honte qe vos
+                n'i avez fet jusc'a ci.</p>
+                <p xml:id="d001l36" n="36" rend="36">E si nom soiez mès tant ardi[e] ne ouse qe vos me demandez [rien] sor ma defense, car
+                je vos feroie tel chose dont vous seriez dolant a toz jors mès».</p>
+                <lb/>
+                <p xml:id="d001l37" n="37" rend="37">De ces paroles fu la dame tant honteuse q'elle ne se pot tenir de plorier, e neporcant
+                elle restreinst sa grant ire au plus bien q'elle pot.</p>
+                <p xml:id="d001l38" n="38" rend="38">Mès de tot ne se pot elle tenir q'elle ne deïst maintes paroles d'enui envers li usurier
+                mauvès: «Aï! Vilains mauvès, vos m'i avez fait honte e desenor, por le gram bien che
+                je vos avoie dit, e deïstes qe mum peire fu povre por la grant cortesie q'il ot.</p>
+                <p xml:id="d001l39" n="39" rend="39">Mès il fu asiez plus riche de vos, e meuz valut sa grant noblité qe tot li vostre avoir
+                malvez; car vos avez l'avoir e morez de faim, e mun peire qi fo pover civaliers, issi
+                com vos dites, maintint grant cort e grant largece, e tant com il veschi ne li failli
+                unqes rien, anz fu a grant onor a toz jors de sa vie.</p>
+                <p xml:id="d001l40" n="40" rend="40">E ja me creez vos esmaier por paroles; certes, ja ni m'avrez pas si destroite com vos
+                cuidez por vostre usure, ainz direie ma volanté, e demanderai bien ce qe mestier me
+                sera ne avra.</p>
+                <p xml:id="d001l41" n="41" rend="41">Ne sui je jantil fame et bien emparantée?</p>
+                <p xml:id="d001l42" n="42" rend="42">E si ne sui ge pas si folle ne si mauvèse qe je ne poisse parler a gran baudece devant
+                vos e devant autrui».</p>
+                <lb/>
+                <p xml:id="d001l43" n="43" rend="43">Issi dist la dame com vos avez oï, e si ne fu puis jorn q'ele amast li usurier de buon
+                cuer, ainz se porpensa totes ores en qel gise elle se poüst mielz vengier de lui.</p>
+                <p xml:id="d001l44" n="44" rend="44">Ore avint un jorn qe la dame entra en un suen vergier, e si i alerent maint[es] dames
+                et maintes pulcelles ensamble por li veoir.</p>
+                <p xml:id="d001l45" n="45" rend="45">E quant ella les vit vinir, si lor fist trop grant ounor, qome dame qe bien le savoit
+                fere.</p>
+                <p xml:id="d001l46" n="46" rend="46">E qant elles furent entre[n]contrées por belles paroles, si se departirent por le vergier,
+                l'une cha e l'autre la, por acollir flors e frut des arbres; e ladame se parti por
+                aler a une fomtane dou jardin, et une pulcelle li vint o li, q'elle ne conosoit pas
+                bien anchore.</p>
+                <p xml:id="d001l47" n="47" rend="47">Mès la polcelle fu saje e bien ensegnie; si la salua mout corteisemant, e li dist:
+                «Dame Agnès, vos ne me chonoisez, mès je sui plus vostre amie qe vos ne cuidez».</p>
+                <p xml:id="d001l48" n="48" rend="48">E la dame la prist a garder, e si li dist: «Pulcelle, vos soiez la bien venue, come
+                pulcelle qe je voil servir e conoistre mout voluntiers».</p>
+                <p xml:id="d001l49" n="49" rend="49">E la pulcelle la garda e li dist: «A! dame, il vos sovient molt petit d'un mien frere
+                qi vos ama tant longuemant en la maisom de vostre peire et de vostre oncle, q'il ne
+                fu mais home qi amast dame por amor plus loialement com il ama vos.</p>
+                <p xml:id="d001l50" n="50" rend="50">E si ne fu puis jor, qe vos preïstes mari, q'il n'eüst tant de dolor qe merveille est
+                com il le puet durer.</p>
+                <p xml:id="d001l51" n="51" rend="51">Car il ne fine de sospirer jors e nuit [ne] dormir n'em puet en nulle maniere.</p>
+                <p xml:id="d001l52" n="52" rend="52">E de cis gran dolors q'il sofre ne sei tome dou monde por coi ce soit, for moi e vos
+                ore a chui je l'ai dit, comme a dame por qui il poroit aver santé e vie, e sanz ce
+                ne peut il vivre pas, ainz morra an gregnor tort qe ne morist ome dou munde qi loialement
+                amast.</p>
+                <p xml:id="d001l53" n="53" rend="53">Haï! Dame Agnès, por Deus aiez merci de mum frere qi perd tot[e] la joie deu segle
+                por vos, e vit alla plu[s] stranje gise dou monde, ni che mai vichist om; car il ha
+                si perdue tot[e] sa droite memoire q'il ne li menbre de nulle chose for de vos solemant.</p>
+                <p xml:id="d001l54" n="54" rend="54">E de vos ne ose il parler contre ome dou munde, fors encontre moi qe sui sa soer.</p>
+                <p xml:id="d001l55" n="55" rend="55">E faz tant por lui qe lungs temps y a qe je fuisse mariée, se(se) por lui ne fust,
+                q'il n'i avroit puis envers chui il parlast tant de vos com il ha; e ce li seroit trop
+                grand peinne a sofrir, car ce est li greignor confort e la greignor joie q'il ha, e
+                miuz li fet e plus li vaut asez qant il parole de vos qe ne li vaudroit tot l'enpiere
+                de Costantinople s'il fust suen.</p>
+                <p xml:id="d001l56" n="56" rend="56">E si chuit bien, a ce qe ge voi en lui, qe s'il eüst tot le monde es suen domine, si
+                le(n) donroit il tot solemant por vos avoir.</p>
+                <p xml:id="d001l57" n="57" rend="57">E si vospuis je dire une parole qe je li ai oï dire maintes fies qant il me parle de
+                vos:</p>
+                <p xml:id="d001l58" n="58" rend="58">Aï! Dist il l'autrier, belle suor Flordelis, ne creez ja qe je fuisse la moitié dolant
+                qe je sui se madame Agnès fust prise a un jantil ome qi fust valliant de cuer e large
+                d'avoir, e qi li fesist l'onor qe li convendroit!</p>
+                <p xml:id="d001l59" n="59" rend="59">Mes je suidolant e pensis de ce q'ele fu donée a un vilen[s], e sanz nul paraje est
+                il plus povre de cuer et le plus scars d'avoir, e li plus failliz de tot bien, q'el
+                n'a nulle bonté en lui.</p>
+                <p xml:id="d001l60" n="60" rend="60">E por ce sai je bien q'ella n'avra mai bien ne joie ne leece tant q'elle soit vive;
+                dunt je sui tant dolant, qant je menbre de l'angoisse q'elle soufre, qe par mout petit
+                faut car je ne muer de dolor.</p>
+                <p xml:id="d001l61" n="61" rend="61">Car ma dame Agnès est jantil fame et est pleine de tot[e] beuté, et en li est toute
+                la douçor dou munde.</p>
+                <p xml:id="d001l62" n="62" rend="62">Et après ce est elle la plus saje dame e la meuz ensegnée qe naqist puis qe Deus nostre
+                sire forma cist siegle».</p>
+                <lb/>
+                <p xml:id="d001l63" n="63" rend="63">«Ma dame Agnès, isi parole a moi mun frere qe muert por vos, dont je vos pri qe vos
+                li mandez por moi aucuns comfort, si q'el n'em muere.</p>
+                <p xml:id="d001l64" n="64" rend="64">Car, se vos ne li aidez, de sa maladie ne puet il mès garir.</p>
+                <p xml:id="d001l65" n="65" rend="65">Or aiez merci de moi e de lui: de li qe por vos muert, e de moi qe ne sui mariée solemant
+                por l'acheisum de li.</p>
+                <p xml:id="d001l66" n="66" rend="66">Car ausi aime por amor un chivalier(s), e lung temps ha q'il m'eüst prise a fame, si
+                ne fust por mun frere.</p>
+                <p xml:id="d001l67" n="67" rend="67">Dunt il m'a dit q'il ne prendra mès dame doment qe je ne soie mariée.</p>
+                <p xml:id="d001l68" n="68" rend="68">E ce est grant tort qe je sui pulcelle trop longuemant e contra ma volonté».</p>
+                <lb/>
+                <p xml:id="d001l69" n="69" rend="69">La dame oï les paroles qe li dist la pulcelle.</p>
+                <p xml:id="d001l70" n="70" rend="70">E por ce qe li menbra de celui qi l'avoit tant amée et elle lui, la feri amor au cuer
+                si duremant q'elle devint toute paile.</p>
+                <p xml:id="d001l71" n="71" rend="71">E gram piecie fu si efre[ée] e si pensive q'elle ne soit qe respondre pont ne mot,
+                ainz li dist: «A! pulcelle, vos m'avez morte!</p>
+                <p xml:id="d001l72" n="72" rend="72">Car por celui qe vos m'avez rementeü ser[e]ie des ore en avant trop a malaise, et avreie
+                plus de dolor e paine q'il n'ot mès por moi.</p>
+                <p xml:id="d001l73" n="73" rend="73">E ce ne sera pas mervoille, car je n'i avré envers cui je die ma volanté, e por ce
+                ne me savroie comseillier.</p>
+                <p xml:id="d001l74" n="74" rend="74">E qant je veroie li usurier qe mi tient a tel despit, il me separtra li cuer dau ventre
+                de dolor e d'ire.</p>
+                <p xml:id="d001l75" n="75" rend="75">Ha! Meleus, bius amis! Vos dites bien voir qe je sui malemant enploïe, e qe mun cuer
+                n'avra ja mès joie.</p>
+                <p xml:id="d001l76" n="76" rend="76">Si feré tel çose qe vos m'avrez ancore a fame et a mullier, car autremant ne me poez
+                vos avoir pas».</p>
+                <p xml:id="d001l77" n="77" rend="77">Après ce garda elle envers la pollçelle, e li dist: «Belle suer, je ne vos conosoie
+                pas, car long temps a qe je ne vos vi plus»; e puis li geta les braz au col, si la
+                baisa dous foiz por amor de li e de Meleus de cui elle estoit sereur; e puis li dist:</p>
+                <p xml:id="d001l78" n="78" rend="78">«Belle Flordelis, je me fi tant en vos por amor de vostre frere qe je vos diré ce tot
+                qe je pens de fere.</p>
+                <p xml:id="d001l79" n="79" rend="79">Saciez bien qe je desir mout le departimant de mun mari, e ce est por le grant ennui
+                q'il moi fet.</p>
+                <p xml:id="d001l80" n="80" rend="80">Por ce direz vos a Meleus q'il soit por moi liez e joios dès or en avant, e car, s'il
+                me velt delivrer des mains de celui qi est ore mon mari, qe je feré tant por lui qe
+                li toudré tot son avoir e tot son tresor, e feré tant q'il avra tot en sa force.</p>
+                <p xml:id="d001l81" n="81" rend="81">E puis li donré m'amor en tel mesure q'il me prendra a muglier qant tens en sera e
+                leu.</p>
+                <p xml:id="d001l82" n="82" rend="82">E si li dites q'il soit plus sages dès or en avant q'il ne fu mès, e q'il ne mostre
+                nul semblant dunt l'en se poüstapercevoir de nostre amor, car puis ne poriuns nos acomplir
+                nostre desir.</p>
+                <p xml:id="d001l83" n="83" rend="83">Après ce si li direz vos q'il doie reçaiter la maisom qe est après celle de l'usurier,
+                a destre partie; e facie tant por soen engien, q'il soit fete une fosse por desot le
+                mur, parmi le lit de mum mari, car il trovera un vaisel iluec ho li usurier a amasé
+                soen tresor, e de cil toudra il partie, e fera comparer chasteus e villes e tors e
+                palès, e tigne gran cort, e face tant parler de soi e de sa gran cortisie, qe por sa
+                grant largece tot li monde em paroil.</p>
+                <p xml:id="d001l84" n="84" rend="84">Et après ce dites q'il ait la compagnie de mun mari, e q'il recate de lui, de sun avoir
+                meïsmes, totes les possessions q'il ha, e je sé bien q'il les vendra voluntiers, car
+                il n'est riens au monde q'il ne vendist por arjant.</p>
+                <p xml:id="d001l85" n="85" rend="85">E quant il avra ce fet, si vendra hors tot l'avoir, si qe qant li vilan mauvès viendra
+                au vasel q'il non trovera point, dunt il avra si grant dollor q'il istra hors del sen.</p>
+                <p xml:id="d001l86" n="86" rend="86">E je li feré entendant qe li diables sunt seignor de tot l'avoir qe se recont e se
+                tient malemant, et il cuidera bien qe ce soit voir, car il ne croit pas q'il soit ome
+                terien qe sace dou vaisel, car il le fist si priveemant q'il ne fu home qil seüst.</p>
+                <p xml:id="d001l87" n="87" rend="87">Mès je m'en sui aperceüe par mout grant engin, car il ne estoit semaine q'il ni alast
+                la semedi en sa chambre e remuoit suen lit d'iluec o il est tot soul, por regarder
+                de soen vaisel, e por recondre dedanz tot l'avoir q'il avoi eü par toute la semaine,
+                dont je m'en doné garde, e si le vi maintes foiz fere ceste chose.</p>
+                <p xml:id="d001l88" n="88" rend="88">Ore avra il si grant dolor, qant il avra son avoir perdu, q'il ira foleiant parmi la
+                terre, e je m'en fuiré por creme de lui a la maisom mon oncle, e je sei bien qe il
+                ne demorera guere q'il mora.</p>
+                <p xml:id="d001l89" n="89" rend="89">Et il ne serra omea u monde qi ne soit lié de suen mal, por la grant avarice de lui.</p>
+                <p xml:id="d001l90" n="90" rend="90">E puis me pora Meleus vostre frere prandre a muillier et a fame, e fere de moi tote
+                sa volanté, car il ne me porroit pas avoir en autre gise a mon onor.</p>
+                <p xml:id="d001l91" n="91" rend="91">Ore vos ai gie dit, belle suer Flordelis, en qiel mesure vostre frere puet garir de
+                sa maladie, et issi com il puet trere moi de pen[e]s e de dolors.</p>
+                <p xml:id="d001l92" n="92" rend="92">Or li dites q'il(i) face issi cum je vos ai divisé, e ce ne soit home au monde a cui
+                [i]l die sa creance.</p>
+                <p xml:id="d001l93" n="93" rend="93">E vos me porroiz parler en cest vergier, si vos vienez o les autres dames qe vienent,
+                la soe merci, por moi fere compagnie, chacum jorn de domange, dont il me sera trop
+                gran confort, por voir lo saciez».</p>
+                <lb/>
+                <p xml:id="d001l94" n="94" rend="94">La pulcelle estoit vallant e saje e s'amout bien la raison de la dame, dunt elle li
+                respons en tel mesure:</p>
+                <p xml:id="d001l95" n="95" rend="95">«Belle dame, la chose ke vos avez ditte sera feite si sajemant ou plus com vos l'avez
+                divisée; e si vos di bien q'il n'est hui riens au monde qe je feïsse ja tant voluntiers
+                com je porteré cist mesaje; car mun frere en sera gari de mort, e vos, de cui est trop
+                gran domaje, seroiz trate des mans a cist vilains qi vos tient a trop grand despit».</p>
+                <lb/>
+                <p xml:id="d001l96" n="96" rend="96">Issi ordenerent ces dames com vos avez oï, e puis si prist[r]ent por les mains e s'en
+                aleirent par le verçier après les autre, chantant e fachant trop grand joie; e firent
+                tant qe toutes les dames se pristrent par les mains l'une après l'autre e comencerent
+                la plus belle carole qe om veïst, car il n'avoit nulle che n'i eüst chapeus de flors
+                en sa teste, et une dame ne voloit estre après l'autre, mès chascune voloit une pulcele
+                en sa main; e chantoient une balade q'estoit fete novellemant a onor d'une dame mariée,
+                qi disoit:  <lb/></p>
+                <lb/>
+                <l xml:id="d001l97" n="1">Dame mal mariée,</l>
+                <lb/>
+                <l xml:id="d001l98" n="2">Deus vos don[t] bon ami!<lb/></l>
+                <lb/>
+                <p xml:id="d001l99" n="97" rend="97">Issi disoit le respose, e l'une chantoit avant soule e les autres toit respondoient
+                cis vers.</p>
+                <lb/>
+                <p xml:id="d001l100" n="98" rend="98">Grant leece firent les dames e les damiseles por amor de madame Agnès, qe charoloit
+                plus noblement de nulle des autres, car elles savoient bien qe nulle dame de pris
+                ne fu mès plus malemant mariée com elle estoit, e por ce fesoient elle gregneur joie
+                assiez.</p>
+                <lb/>
+                <p xml:id="d001l101" n="99" rend="99">Tant dure la feste e la joie des dames q'el fu ore de vespres, et adunc se departirent
+                l'une e l'autre, fachant si grant feste qe bien, e digant qe chascune i fust le jor
+                de la feste san Joan q'estoit li merquesdi qi venoit, et ensi s'en vunt les dames
+                e les pulceles ensamble, parlant d'une et d'autre, si com lor costume est.</p>
+                <lb/>
+                <p xml:id="d001l102" n="100" rend="100">La pulcele Flordelis s'en ala a sa maisom e trova Meleus gisant en suen liz, gisant
+                mout dolant e pensis, car il avoit [eü] mout pis el jor de la feste qe en autre jorn,
+                por ce qe de sa dame li sovenoit plus.</p>
+                <p xml:id="d001l103" n="101" rend="101">La pulcele l'esgarda en la face e vit q'il estoit palle e sanz color, dont elle prist
+                fortment a sorrir e dist:</p>
+                <p xml:id="d001l104" n="102" rend="102">«Beus frere, coment vos est? Ma dame Agnès vos mande salu cum a suen chier ami, e
+                si sé bien q'elle est plus liée e plus joiuse de vos, e si vos fuissez hui après moi
+                en suen vergier, vos l'eüsiez veüe caroler e dancier a mout grant joie; e si vos mande
+                par moi qe vos soiez li[é] e joius por li, chome cil qe l'avra encore toute en sa
+                bailie».</p>
+                <p xml:id="d001l105" n="103" rend="103">«Bore!» li respondi il, e dist: «Belle soer, ne me gabbez, car je sé bien qe vos ne
+                veïstes ma dame caroler, e que je ne vivré jamès tant qe je tiegne ma dame issi com
+                vos dites».</p>
+                <p xml:id="d001l106" n="104" rend="104">«Frere», dist la pulcele, «je ne vos gabast ainz vos mande qe vos fachiez tot ce qe
+                je vos ensegnerai».</p>
+                <p xml:id="d001l107" n="105" rend="105">E lore li comença a dire tot ensi com vos avez oï cha en ariere.</p>
+                <lb/>
+                <p xml:id="d001l108" n="106" rend="106">Quant Meleus oï les paroles qe sa dame li mandoit, il fu tant lié qe nul plus, car
+                lore set il bien q'elle ne l'avoit pas obliez, e por ce fu il preu e saje e si compli
+                mot sajemant tot ce qe li manda sa dame, car il ala e rechata la maisom qe estoit
+                après celle de l'usurer, e puis fist la fosse en tel mesure q'il trova li vaisiel
+                ou l'avoir estoit, et après ce compara il de cil avoir meïsme tors e fortereces, e
+                fist tant q'il venqi de la ricece toz li barons de sa contrée; e puis rechata il por
+                diniers toutes les possessions deu vilan eschars, ensi com si convient a lui.</p>
+                <p xml:id="d001l109" n="107" rend="107">E ma dame Agnès prist a mari Meleus li cortois, et [ot] o lui tant de bien cum cuer
+                d'ome ne poroit deviser ne boce dire; e si li dona Deus un tel eyr qi fu tant cortois
+                e tant large q'il, por li sens e por la gram proece de suen cors, fu signor de tutte
+                la terre.</p>
+                <p xml:id="d001l110" n="108" rend="108">E ce fu por la comune volanté de la gient qi l'amoient trop.</p>
+                <p xml:id="d001l111" n="109" rend="109">E après ce li naschi une figle qi fu pois donée a muillier a uns cuens de Flandre.</p>
+                <p xml:id="d001l112" n="110" rend="110">E por ce ne fu nul mal se ma dame Agnès se venja de l'usurier soen mal mari, car il
+                se prist a tel segnor qe li convenoit, e dunt e[n] vint puis tant de bien qe tot li
+                monde en fu mieuz.</p>
+                <p xml:id="d001l113" n="111" rend="111">E qe cuidez vos si li usurier fust mort en eve o en feu o en aucune autre maniere?
+                Soen avoir fust perdu a toz jors més e nul bien de cil qi n'ensi puis n'en seroit
+                ensu.</p>
+                <p xml:id="d001l114" n="112" rend="112">Or ne die nuls qe la dame fist folie de ce q'ele fist, car je sui cil qe la defent
+                encontre toz omes.</p>
+                <lb/>
+            </div1>
+        </body>
+    </text>
+</TEI>

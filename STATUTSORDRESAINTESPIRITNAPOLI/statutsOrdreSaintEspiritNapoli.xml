@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="STATUTSORDRESAINTESPIRITNAPOLI-statutsOrdreSaintEspiritNapoli">
+                    <title type="short">Statuts de l’Ordre du Saint Espirit</title>
+                    <abbr>Statuts de l’Ordre du Saint Espirit</abbr>
+                    <note xml:id="note1">1354, Napoli</note>
+                    <bibl>Giuliana Vitale, <emph style="font-style:italic">Monarchia e ordini cavallereschi nel Regno di Napoli in età angioina</emph>, in <emph style="font-style:italic">Linguaggi e pratiche cavalleresche. Genova e il Regno di Napoli tra Medioevo ed Età Moderna</emph>, a cura di Giovanna Petti Balbo – Giovanni Vitolo, Napoli, Laveglia, 2007, pp. 269-346. </bibl>
+                </title>
+                <author xml:id="STATUTSORDRESAINTESPIRITNAPOLI" n="191.000">
+                    <name></name>
+                    <abbr></abbr>
+                </author>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitale e revisione del testo sulla base del manoscritto paris, bibliothèque nationale, fr. 4274</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Reference basis text</resp>
+                    <name>Giuliana Vitale, <emph style="font-style:italic">Monarchia e ordini cavallereschi nel Regno di Napoli in età angioina</emph>, in <emph style="font-style:italic">Linguaggi e pratiche cavalleresche. Genova e il Regno di Napoli tra Medioevo ed Età Moderna</emph>, a cura di Giovanna Petti Balbo – Giovanni Vitolo, Napoli, Laveglia, 2007, pp. 269-346. </name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.rialfri.eu">RIALFrI</ref>
+                </publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <notesStmt>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>Giuliana Vitale, <emph style="font-style:italic">Monarchia e ordini cavallereschi nel Regno di Napoli in età angioina</emph>, in <emph style="font-style:italic">Linguaggi e pratiche cavalleresche. Genova e il Regno di Napoli tra Medioevo ed Età Moderna</emph>, a cura di Giovanna Petti Balbo – Giovanni Vitolo, Napoli, Laveglia, 2007, pp. 269-346. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t5"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d000" type="section">
+                <head>
+                    <title>Prologes</title>
+                    <abbr>prologes</abbr>
+                </head>
+                <p xml:id="d000l1" n="1" rend="1">Ces sunt les chapitres faites et / trovees pour le tres excellent / Prince monsignour
+                le Roy / Louys pour la gra/ce de Dieu Roy / de Jerusalem et de Secille / alle honneur
+                du Saint E/sperit trou/veur et fondeeur de la tres no/bles compaignie du Saint Esperit
+                / au Droit Desir, encomencee le / jour de la Penthecouste l'an de / grace .MCCCLII.</p>
+                <lb/>
+                <p xml:id="d000l2" n="2" rend="2">Nous Loys pour la gra/ce de Dieu Roys de Je/rusalem et de Sicille a ll'onneur du Saint
+                E/sperit, le quel jour po/ur sa grace nous feu/mes couronés de nos / Royaumes, en essau/cement
+                de chevalerie / et accroissement d'onnour avons ordené de / faire une compaignie / de
+                chevaliers qui seront / appelés les chevaliers du Saint Esperit au Droit Desir.</p>
+                <p xml:id="d000l3" n="3" rend="3">Et / les dits chevaliers seront en nombre de .CCC. des quiels / (f. 3v) nous comme trouveur
+                et fondeur de ceste compaignie / serons Princeps et aussi doyvent estre tous nous suc/cesseurs
+                Roys de Jerusalem et de Secille.</p>
+                <p xml:id="d000l4" n="4" rend="4">Et a tous / ceuls qui nous avons esleus et eslieront a estre de la / dicte compaignie
+                faissons a ssavoir que nous pen/sons a faire, se Dieu plet, la premiere feste au chastel
+                / de l'Euf enchanté du merveilleux peril le jour de la / Pentecouste prechaine venant.</p>
+                <p xml:id="d000l5" n="5" rend="5">Et pour ce tous les / susdits compaignons qui bounemant poveront / soient au dit jour
+                au dit lieu en tel maniere comme / ci aprés sera devisé.</p>
+                <p xml:id="d000l6" n="6" rend="6">Et adonques sera plus a plain / a tous les compaignons parlé de ceste matere./</p>
+                <lb/>
+            </div1>
+            <div1 xml:id="d001" type="section">
+                <head>
+                    <title>Status</title>
+                </head>
+                <div2 xml:id="d001c00I.">
+                    <head>
+                        <title>[I.]</title>
+                        <abbr>I.</abbr>
+                    </head>
+                    <p xml:id="d001l1" n="1" rend="1">Primierment, euls sont / tenus de jurer que a tout / leur povoir et savoir dov/ront
+                    abandoneement lo/yal conceil et aide au Prin/ce de tout ce qu'il leur re/querra soit
+                    d'armes, soit / d'autres choses loyalment / et d'observer les infrescrips / chapitres./</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c00II.">
+                    <head>
+                        <title>[II.]</title>
+                        <abbr>II.</abbr>
+                    </head>
+                    <p xml:id="d001l2" n="1" rend="1">(f. 4r) Item, chascun chevalier de la dicte compai/gnie est tenus de porter le nneu
+                    en fait / d'armes sur soy en lieu ou il soit bien appa/raissant et bien congneu et en
+                    tous autres vestemens continuelment, tout ainsi com/me aus dits chevaliers de la dicte
+                    compai/gnie leur plaira porter, et doyvent dessus / ou dessous porter lectres bien luisans
+                    qui / diront: “se Dieux plaist”.</p>
+                    <p xml:id="d001l3" n="2" rend="2">Et le vendredi en / remenbrance de la passyon de notre Seigno/ur Jhesucrist et de son
+                    Saint Sepulcre chas/chun doit porter un chapperon noir a un/ nneu de blance soie tout
+                    simple sans or, perles ne argent / et doit chascun vestir ce jour une robe et chauces
+                    de la / plus honneste et simple collour qu'il porront bonnement./</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c00III.">
+                    <head>
+                        <title>[III.]</title>
+                        <abbr>III.</abbr>
+                    </head>
+                    <p xml:id="d001l4" n="1" rend="1">Item, se aucun des dits chevaliers se tro/vast en besoigne ou faits d'armes, si vray/ment
+                    que la besoigne ne feust contre l'E/glise de Romme et battaille ou encontrement y avenist,
+                    et baniere y feust / levee ou d'une part ou d'autre et le dit / chevalier y feeust encontré
+                    ou touché de / cop de la lance, de coutel ou d'espee ou encon/trast mesment ses ennemis
+                    de cop d'espee, / de lance ou de coutel et la fin de la besoi/gne feeust honorable pour
+                    le chevalier qui ce aura fait, / (f. 4v) il devra porter des ces jour en avant le nneu
+                    de la dicte / compaignie tout deslié jusques  a tant qu'il aura esté au / Saint Sepulcre
+                    et la donra le dit neu au dit Sepulcre et le / metra en lieu apparaissant, ouquel neu
+                    sera le nom du / dit chevalier escript et depuis il portera le neu tout lié / comme
+                    devant, mais les lectres diront: “il a pleeu a Dieu”, / et dessus le nneu sera un ray
+                    ardant du Saint Esperit et vrayment les chevaliers qui porteront le nneu reliés et le
+                    / dit ray comme dessus est dit ne le doyvent porter, se nom / sus draps ou autres devises
+                    pures et blanches.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c00IV.">
+                    <head>
+                        <title>[IV.]</title>
+                        <abbr>IV.</abbr>
+                    </head>
+                    <p xml:id="d001l5" n="1" rend="1">Item, chascun doit porter une espee et / environ le pomel soit escript per belles /
+                    lectres biens parans le nom et le sornom / a celli a qui elle sera et ou mellieu du
+                    / pommel d'un coste soit le nneu a lectres / qui dient: “se Dieu plaist” et de l'autre
+                    co/ste soit le timbre mis de celli a qui la di/cte espee sera.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c00V.">
+                    <head>
+                        <title>[V.]</title>
+                        <abbr>V.</abbr>
+                    </head>
+                    <p xml:id="d001l6" n="1" rend="1">Item, doyvent jeuner chascun jeudi de / l'an, si veullent ou ont le povoir et se n'/ont
+                    le povoir ou la volonté, doyvent / donner a mengier a trois povres en l'o/(f. 5r)nor
+                    du Pere, du Fils et du Saint Esperit, ou leur donner tant / qu'il puissent avoir leur
+                    sostenance pour le jour.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c00VI.">
+                    <head>
+                        <title>[VI.]</title>
+                        <abbr>VI.</abbr>
+                    </head>
+                    <p xml:id="d001l7" n="1" rend="1">Item, chascun des dits chevaliers est tenus / de venir tous les ans le jour de / la
+                    Pentecouste ou dit chastel lequel est as/sis en la mer entre Naples la cité et Nostre
+                    / Dame du pié de l'oscure grocte des enchante/mens Virgille, et la tenra le Roy sa pleni/ere
+                    court de son coronement a ll'onneur / du Saint Esperit et portera le jour coronne. /</p>
+                    <p xml:id="d001l8" n="2" rend="2">Et pour ce que les bachellers et chevaliers / estranges de dehors nostre Royaume par
+                    a/vanture seroient chargiés et traveilliés en / querant les ordenances du dit ordre
+                    achever et pour def/faute de despens ne porroient, si comme leur volonté seroit, venir
+                    a la dicte feste, sachent chascun des dits ba/chelliers que a la chappelle du Saint
+                    Esperit au Droit Desir / sera donné de par le Prince a chascun d'eux tant d'argent /
+                    comme chascun par son sacrement dira que en venant / a la dicte feste et en revenant
+                    en son pais il aura despendu honnestement.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c00VII.">
+                    <head>
+                        <title>[VII.]</title>
+                        <abbr>VII.</abbr>
+                    </head>
+                    <p xml:id="d001l9" n="1" rend="1">Item, quant les chevaliers venront chas/(f. 5v)cun an a la general assemblee le jour
+                    de la Pentecouste / ou dit chastel comme dessus est dit, il entreront en la dic/te chappelle
+                    laquele le Prince a fait establir en l'onneur du Saint Esperit au Droit Desir, en laquele
+                    chascun aura / son siege establi et ou chief du siege sera escript son nom, son seurnom,
+                    ses armes et son timbre pointés et / doivent estre vestus tous de blanc, c'est a savoir
+                    cote, seur/cote, chaperon, chausses et solers tous blans et ou devant / du seurcot,
+                    droitement sus le cuer, soit un ray en flam/bles en remenbrance et reverence du Saint
+                    Esperit.</p>
+                    <p xml:id="d001l10" n="2" rend="2">Et / doit chascun tenir en sa main s'espee a tout le feurre droi/tement, telle comme
+                    dessus devisee, et ilec doyvent / demourer oiant l'office de la messe.</p>
+                    <p xml:id="d001l11" n="1" rend="1">Et quant le prestre / aura sacreffié et levé le cors de Nostre Seignour et retor/né
+                    en son lieu, le Prince et tous les chevaliers de la dicte / compaignie en suppliant
+                    le Saint Esperit qu'il veulle / raemplir et enluminer de sa grace la dicte compaignie,
+                    / si comme en celluy propre jour il enlumina tout le / geron de la terre.</p>
+                    <p xml:id="d001l12" n="1" rend="1">Et bien oiant l'un l'autre a geneulx / diront ces paroles: “Veni creator Spriritus,
+                    mentes tuorum / visita, imple superna gracia, que tu creasti pectora”.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c00VIII.">
+                    <head>
+                        <title>[VIII.]</title>
+                        <abbr>VIII.</abbr>
+                    </head>
+                    <p xml:id="d001l13" n="1" rend="1">Item, quant les dis chevaliers venront chascun an a la dicte feste, seront tenus d'apor/ter
+                    par escript les aventures que euls au/ront trouvees et leurs avenemens et les baill/eront
+                    aus clers de la dicte chappelle qui / (f. 6r) a ce faire seront ordenés et les dits
+                    clers representeront / les dictes escriptures devant le Prince et son Conseil et /
+                    celles qui au dit Prince et Conseil sembleront estre din/gnes de ramentevoir, les dits
+                    clers les mectront en escri/pt dedens un livre, lequel s'appellera: le livre des avene/mens
+                    aus chevaliers de la compaignie du Saint Esperit / au Droit Desir, et demorra le dit
+                    livre tousjours en la dicte chappelle.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c00IX.">
+                    <head>
+                        <title>[IX.]</title>
+                        <abbr>IX.</abbr>
+                    </head>
+                    <p xml:id="d001l14" n="1" rend="1">Item, se la Sainte Eglise de Roume ou au/cuns Princeps des crestiens enpreist le /
+                    voyage d'Oultre Mer pour la Terre Sainte, / la ou est le Sepulcre de nostre Seignour
+                    / recovrer et le gecter hors des mains / des mescreans, chascun chevalier de la dicte
+                    / compaigne sera tenus d'y estre en propre / persoune, si porront bonnement, et se
+                    chose feust que le Prince de la dicte compaignie / de qui le dit heritage doit estre
+                    raisonnable/ment, empreist le dit voyage ou passage a l'aide de la / Sainte Eglise
+                    et des autres Princeps crestiens ou le dit / Prince y alast persounelment en la compaignie
+                    d'autrui, / chascuns des dits chevaliers seront tenu de aler persounelment et d’y demorier
+                    continuelment tant comme le / dit Prince y demorra, salve se aucune expresse et apparant
+                    necessité ne le contredeist./</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c00X.">
+                    <head>
+                        <title>[X.]</title>
+                        <abbr>X.</abbr>
+                    </head>
+                    <p xml:id="d001l15" n="1" rend="1">(f. 6v) Item, se aucun des dis chevaliers se trou/voient en aucuns faits d'armes et
+                    leur / semblast que a honneur peussent ban/niere lever, la banniere qu'il leveront
+                    / doit estre d'argent ou toute blance a un / grant ray ardant ou millieu du Saint /
+                    Esperit et soit a leur volonté de la lever, / especialment contre les enemis de la
+                    foy / et pour le droit et honneur de leur natu/rel seignour maintenir en criant chascun
+                    / son cri quant doit crier et aprés leur droit cri crieront: «Au / Droit Desir».</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c00XI.">
+                    <head>
+                        <title>[XI.]</title>
+                        <abbr>XI.</abbr>
+                    </head>
+                    <p xml:id="d001l16" n="1" rend="1">Item, se aucun chevalier avenoit chose / qu'il se parteist honteusement de bataille
+                    / ou de chose ordenee, laquel chose le Saint / Esperit ne veulle souffrir, le dit chevalier
+                    soit tenus en touts manieres sans nul / contredit de venir le jour de la feste au /
+                    dit chastel, et doit porter robe toute noi/re, si come tous les autres chevaliers la
+                    / porteront toute blance, et aussi come les autres porteront le ray sous le cuer, il
+                    portera lectres blances et bien apparissans grans et bien lisables qui diront: «J'ay
+                    esperance ou Saint Esperit de ma grant honte amender».</p>
+                    <p xml:id="d001l17" n="1" rend="1">Et le jour ne mangera pas avec les chevaliers, / mais mangera ou millieu dela ou le
+                    prince / (f. 7r) et les autres chevaliers de la dicte compaignie mengeront,/ et chascun
+                    an fera ausi jusques a tant che par son bon / fait sera relevé de la vergougne, ou
+                    que au dit Prince et a son conseil semblera de li restituer son meffait./</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c00XII.">
+                    <head>
+                        <title>[XII.]</title>
+                        <abbr>XII.</abbr>
+                    </head>
+                    <p xml:id="d001l18" n="1" rend="1">Item, est ordené que nul de ceuls de la / dicte compaignie ne doit point entreprendre
+                    / nul voyage lointaing sans le dire ou / faire a savoir au prince, et se le Prince
+                    / le donne congié, doit tantost mander / par escript a la dicte chappelle son nom /
+                    et seurnom et le voyage que il voudra / emprendre.</p>
+                    <p xml:id="d001l19" n="2" rend="2">Et toutes celles escriptures / seront representees devant le Prince / et son conseil
+                    le jour de la feste a ce que / on puisse enquerre et savoir nouvelles / des compaignons
+                    qui ne seront a la dicte feste./</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c00XIII.">
+                    <head>
+                        <title>[XIII.]</title>
+                        <abbr>XIII.</abbr>
+                    </head>
+                    <p xml:id="d001l20" n="1" rend="1">Item, se aucun chevalier de la dicte com/paignie en querant le Droit Desir ache/ver
+                    et les aventures cerchier, feust pour / ce cheu en povreté, il le doit le jour de la
+                    / feste signifier ou faire a savoir au Prince / (f. 7v) et a son conseil, et se pour
+                    le sacrement du chevalier / et pour le regart du Prince et de son Conseil sera approu/vé
+                    que ce soit verité, le Prince est tenus de li ordener / et faire establir sa chevance
+                    ad ce que comme cheva/lier se puist tous ses jours mantinir, et doit demourer / une
+                    partie du temps au dit chastel en reverence du Saint Esperit et honneur de la dicte
+                    compaignie, si com/me il voudra ou pourra bonnement./</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c00XIV.">
+                    <head>
+                        <title>[XIV.]</title>
+                        <abbr>XIV.</abbr>
+                    </head>
+                    <p xml:id="d001l21" n="1" rend="1">Item, au dit chastel aura une table ap/pellee la table desiree en laquelle seront /
+                    assis le dit jour de la Pentecouste tous / les chevaliers qui celle annee auront /
+                    desnoé le nneu.</p>
+                    <p xml:id="d001l22" n="2" rend="2">Et tous ceuls qui plus au/ront fait d'armes seront assis a la plus / honorable place
+                    de la table dessus dicte. /</p>
+                    <p xml:id="d001l23" n="3" rend="3">Et se aucun y venist qui portast le nneu / reliés au ray du Saint Esperit comme / dessus
+                    est dit, on li mectra sus la teste / un chappel de lorier par plus triumphal / honnour,
+                    tout aussi comme les anciens Romains qui / tout le monde conquirent establirent a faire
+                    et firent / a tous les bons chevaliers qui sus tous les autres a/voient deservit et
+                    merité de recevoir grandisme honnour./</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c00XV.">
+                    <head>
+                        <title>[XV.]</title>
+                        <abbr>XV.</abbr>
+                    </head>
+                    <p xml:id="d001l24" n="1" rend="1">(f. 8r) Item, quant la dicte feste sera faicte, si / comme dessus est dit, avant ce
+                    que les / dits chevaliers voisent en leurs affaires, / le dit Prince doit tenir un
+                    parlement / la ou il seront tous euls et chascun che/valier soit tenu par son sarement
+                    de / recorder et mectre avant toutes les cho/ses que euls congnoistront estre bonnes
+                    / et honnorables pour le dit ordre accroi/stre et amender, et se aucune chose y / est
+                    mise avant qui bonne et honnora/ble puisse estre approuvee ou dit parlement, le Prin/ce
+                    est tenus de le faire ajouster aus dis chapitres et / ordenances du dit ordre, et sera
+                    mis au dessus: «Ce cha/pitres fu mis et stabli au parlement fait en tel an».</p>
+                    <p xml:id="d001l25" n="2" rend="2">Et nulle chose ne se puisse ajoindre ne touchier a trestous / des dits chapitres, se
+                    nom en plain parlement, si comme / dessus est dit.</p>
+                    <p xml:id="d001l26" n="3" rend="3">Et se aucune question feust entres au/cun des dis chevaliers de non avoir bien observue
+                    les / ordenances et chapitres de l'ordre ou il preist la dicte / question en soy deffendant,
+                    si soient les dicts questio/ns determinees dedens le dit parlement, se la chose / n'estoit
+                    si clere que le Prince ou son Conseil l'eust devant determiné./</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c00XVI.">
+                    <head>
+                        <title>[XVI.]</title>
+                        <abbr>XVI.</abbr>
+                    </head>
+                    <p xml:id="d001l27" n="1" rend="1">Item, se aucun chevalier de la dicte com/paignie eust devant entrepris aucune / (f.
+                    8v) ordre soit tenus de faire son povoir de le entrelessier et,/ se il ne puet bonnement,
+                    ceste ordre doit tousjours a/ler devant toutes les autres et depuis ne puisse prendre
+                    / aultre ordre sans la licence du Prince et de son Conseil./</p>
+                    <p xml:id="d001l28" n="2" rend="2">Ne n’en soit nulle oçant de li en demander congié, salve / se il ne portast le neu
+                    ainsi relié desus le ray comme des/sus est dit.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c00XVII.">
+                    <head>
+                        <title>[XVII.]</title>
+                        <abbr>XVII.</abbr>
+                    </head>
+                    <p xml:id="d001l29" n="1" rend="1">Item, se il avenoit que le Prince reteinst / de son ordre aucun escuier de bien par
+                    son / bon commencement, le dit escuier soit te/nus de soy faire chevalier au plustost
+                    / qu'il porra des le jour qu'il sera receu jus/ques au jour de la Pentecouste prochiene
+                    / aprés venant, a ce que le dit escuier se / puisse comparer chevalier a la dicte feste
+                    / et ainsi comme les autres, comme dessus / est dit.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c00XVIII.">
+                    <head>
+                        <title>[XVIII.]</title>
+                        <abbr>XVIII.</abbr>
+                    </head>
+                    <p xml:id="d001l30" n="1" rend="1">Item, quant aucun chevalier de la dicte / compaignie sera en peril de mort, il doit
+                    / par tel maniere ordener devant sa mort / que quant il sera trespassez, sa spee, telle
+                    / comme dessus est devisee, soit envoiee / au dit Prince en quelque part que il so/(f.
+                    9r)it.</p>
+                    <p xml:id="d001l31" n="2" rend="2">Et avec l'espee soit envoié a la dicte chappelle un neu / le plus riche que il aura
+                    pour en faire le pourfit de se ame / en l'onneur de la dicte chappelle./</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c00XIX.">
+                    <head>
+                        <title>[XIX.]</title>
+                        <abbr>XIX.</abbr>
+                    </head>
+                    <p xml:id="d001l32" n="1" rend="1">Item, quant le Prince aura recevé l'espee d'aucun trespassé de la dicte compaignie,
+                    il doit ordener se il se trueve pres d'ilec, que dedens le .VIII. jour aprés se face
+                    solempnelment / lu service du dit trespassé en la dicte chappel/le et y doit estre
+                    le dit Prince personelment, / se il puet bonnement.</p>
+                    <p xml:id="d001l33" n="2" rend="2">Et tous les chevali/ers qui prés se trouvent a une journee du / dit lieu y doivent
+                    estre, si il pueent en bonne / maniere et, quant le service sera fait droi/tement,
+                    a l'eure de l'offerte, le plus prouchein parent ou a/mi du dit trespassé ou celluy
+                    a qui le Prince le comman/dra, doit prendre la dicte espee par la pointe et la ouffrir
+                    / sus l'autel.</p>
+                    <p xml:id="d001l34" n="3" rend="3">Et le Prince et les chevaliers de la dicte com/paignie qui au dit service se trouveront
+                    doyvent acom/paignier l'espee jusques a l'autel et agenoiller euls to/us devant l'autel.</p>
+                    <p xml:id="d001l35" n="4" rend="4">Et chascun devotement prier le Sai/nt Esperit pour l'ame du dit trespassé./</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c00XX.">
+                    <head>
+                        <title>[XX.]</title>
+                        <abbr>XX.</abbr>
+                    </head>
+                    <p xml:id="d001l36" n="1" rend="1">Item, quant le service du dit trespassé sera / (f. 9v) fait, le Prince, ou ceuls a
+                    qui il commandra ce faire, / doyvent ordener que la dicte espee soit mise dedens /
+                    la dicte chappelle en lieu apparissant et parmenable. /</p>
+                    <p xml:id="d001l37" n="2" rend="2">Et a plus grant remenbrance du dit trespassé et ho/nnour de la dicte compaignie doit
+                    estre ouvree de/dens trois mois aprés le service une tumbe dedens / le dit chastel
+                    en la place derriere le lieu de l'enchante/ment du merveilleux peril, en la quele tumbe
+                    seront / escriptes lectres parmenables en pierre de marbre, les / queles diront: «Ce
+                    est la tumbe de la remenbrance du / tel chevalier qui trespassa en tel part et en tel
+                    temps».</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c00XXI.">
+                    <head>
+                        <title>[XXI.]</title>
+                        <abbr>XXI.</abbr>
+                    </head>
+                    <p xml:id="d001l38" n="1" rend="1">Item, se chose estoit que aucun des dis / chevaliers eust esté si bien eureux que a/vant
+                    que il feust trespassé eust tant fait / que il portast le ray du Saint Esperit sus
+                    / le neu relié comme dessus est dit, lectres / seront mises sus sa tumbe bien luisans
+                    / et apparissans en pierre de marbre.</p>
+                    <p xml:id="d001l39" n="2" rend="2">Et un / ray bien voiant et durable du quel doy/vent issir les dictes lectres, qui diront:
+                    «Il acheva sa partie du Droit Desir».</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c00XXII.">
+                    <head>
+                        <title>[XXII.]</title>
+                        <abbr>XXII.</abbr>
+                    </head>
+                    <p xml:id="d001l40" n="1" rend="1">Item, se le Prince ne se trouvoit au pays / (f. 10r) luy, ou ceuls a qui il auroit
+                    commis a faire ces dictes / choses, doyvent ordener par tele maniere que toutes / ces
+                    choses touchans au dit trespassé soient parfait/es dedens l'an de ce jour que la dicte
+                    espee sera presen/tee au dit Prince./</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c00XXIII.">
+                    <head>
+                        <title>[XXIII.]</title>
+                        <abbr>XXIII.</abbr>
+                    </head>
+                    <p xml:id="d001l41" n="1" rend="1">Item, chascun chevalier de la dicte compa/ignie soit tenus de faire chanter sept /
+                    messes pour supplier pardon au Saint E/sperit des .VII. pechiés mortels pour l'au/me
+                    du trespassé, et soit tenus de le fa/ire dedens le moys que il auront oy no/uvelles
+                    de sa mort, s'il porront en bonne maniere.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c00XXIV.">
+                    <head>
+                        <title>[XXIV.]</title>
+                        <abbr>XXIV.</abbr>
+                    </head>
+                    <p xml:id="d001l42" n="1" rend="1">Item, il est declaré par ce derrenier chap/itres ajousté en la premiere feste passee
+                    / de la Pentecouste l'an de grace .MCCCLIII. / qui nul compaignon du dit ordre n'en
+                    / peusse deslier le neu, si non pour la maniere qui s'ensuit. C'est a ssavoir qui,
+                    se aucuns des compaignons de ll'ordre se trouverra en aucun fait d'armes la ou le nombre
+                    des ses ennemis seront .L. bar/(f. 10v)bues ou outres et la part du chevalier de ll'ordre
+                    n’en s'es/tendist plus que le nombre des ses aversaires, se le dit / chevalier se povoit
+                    pour son honnour tant avancier / qu'il peust estre le primiere a fferir et envair les
+                    ennemis, / ou se il povoit prendre ou abactre leur banniere jusques / a la terre ou
+                    se il povoit prendre le capitaine des ses en/nemis et la fin de la bactaille sera honnorable
+                    pour la / part du dit chevalier de ll'ordre, il puet deslier le neu.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c00XXV.">
+                    <head>
+                        <title>[XXV.]</title>
+                        <abbr>XXV.</abbr>
+                    </head>
+                    <p xml:id="d001l43" n="1" rend="1">Item, se aucuns des dits compaignons / de ll'ordre se trovoient trouvoient en aucun
+                    faits d'ar/mes la ou le nombre de leurs ennemis / feussent .CCC. barbues ou plus, et
+                    la pa/rt des chevaliers ou chevalier de ll'ordre s'estendist oultre le nombre des en/nemis
+                    et les chevaliers ou chevalier du / dit ordre feussent les premiers fereours / en la
+                    premiere bactaille ou eschiele des / ennemis, et que la fin de la bactaille sera /
+                    honnorable pour la part des dits compa/ignons de ll'ordre, eus povent deslier le neu
+                    en la mani/ere sus dicte, si voirement que chascun soit tenus mo/nstrer au Prince et
+                    a son conseil de son bien fait vraies / enseignes.</p>
+                    <lb/>
+                    <lb/>
+                    <lb/>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

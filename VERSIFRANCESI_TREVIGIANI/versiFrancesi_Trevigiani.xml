@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="VERSIFRANCESI_TREVIGIANI-versiFrancesi_Trevigiani">
+                    <title type="short">Versi francesi trevigiani</title>
+                    <abbr>Versi francesi trevigiani</abbr>
+                    <note xml:id="note1">1313-1315</note>
+                    <bibl>Frammento I: Francesco Novati, <emph style="font-style:italic">Attraverso il Medioevo</emph>, Bari, Laterza, 1905, pp. 288-289, nota 5.</bibl>
+                </title>
+                <author xml:id="VERSIFRANCESI_TREVIGIANI" n="201.000">
+                    <name></name>
+                    <abbr></abbr>
+                </author>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata e marcatura digitale</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Reference basis text</resp>
+                    <name>Frammento I: Francesco Novati, <emph style="font-style:italic">Attraverso il Medioevo</emph>, Bari, Laterza, 1905, pp. 288-289, nota 5.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.rialfri.eu">RIALFrI</ref>
+                </publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <notesStmt>
+                <note type="edizione">
+                    Frammento II: Gianfelice Peron, <i>Cultura provenzale e francese a Treviso nel Medioevo</i>, in <i>Storia di Treviso</i>, a cura di Ernesto Brunetta, II. <i>Il Medioevo</i>, a cura di Daniela Rando e Gian Maria Varanini, Venezia, Marsilio, 1991, pp. 487-544: 525. 
+                </note>
+                <note type="modifiche all'edizione">Modifiche all’edizione di Francesco Novati, &lt;i&gt;Attraverso il Medioevo&lt;/i&gt;, Bari, Laterza,
+                    1905, pp. 288-289, nota 5.&lt;br/&gt;&lt;br/&gt;a cura di Francesca Gambino (ultimo aggiornamento: 3 dicembre 2016)&lt;br/&gt;&lt;br/&gt;Rispetto
+                    alla trascrizione di Novati 1905, ho introdotto la punteggiatura e distinto le u dalle v.&lt;br/&gt;&lt;br/&gt;verso
+                    ed. Novati 1905] modifica&lt;br/&gt;&lt;br/&gt;1 uia] via&lt;br/&gt;2 uos amiga] vos, amiga,&lt;br/&gt;3 uia d amers] via d'amers
+                        prestolaria] prestolaria&lt;br/&gt;4 Oime dones] Oimé, dones &lt;br/&gt;5 souera, uos, uia] sovera, vos, via&lt;br/&gt;6
+                    amig] amig, uos uen] vos ven&lt;br/&gt;7 uos] vos&lt;br/&gt;8 uos] vos uos] vos&lt;br/&gt;9 l amors] l'amors uos] vos&lt;br/&gt;
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>Frammento I: Francesco Novati, <emph style="font-style:italic">Attraverso il Medioevo</emph>, Bari, Laterza, 1905, pp. 288-289, nota 5.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t1"/>
+                <keywords>
+                    <term type="form">poetry</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work">
+                <p xml:id="d001l1" type="title" n="">I</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l2" n="1">Mon pensiers sont in ardor, in grant tristor ma via,</l>
+                <lb/>
+                <l xml:id="d001l3" n="2">Al cor scento grant dolor che port per vos, amiga,</l>
+                <lb/>
+                <l xml:id="d001l4" n="3">Ma tuti li zorn de ma via d'amers no me prestolaria.</l>
+                <lb/>
+                <l xml:id="d001l5" n="4">Oimé, dones alexemant bela … ne dolea mia</l>
+                <lb/>
+                <l xml:id="d001l6" n="5">e si me sovera de vos a li zorn de ma via.</l>
+                <lb/>
+                <l xml:id="d001l7" n="6">Bel dolz amig, vos ven alias in un stranio pais,</l>
+                <lb/>
+                <l xml:id="d001l8" n="7">uvos nom  … donc plus blançe che flordilis</l>
+                <lb/>
+                <l xml:id="d001l9" n="8">eu zonte man ie vos emprye vos no ve obli de mia (?)</l>
+                <lb/>
+                <l xml:id="d001l10" n="9">Se l'amors se part da vos, el cor non serai nemiga.</l>
+                <lb/>
+                <l xml:id="d001l11" n="10">.................................................</l>
+                <lb/>
+                <l xml:id="d001l12" n="11">............... sont li sentier d’andar en Lombardia.</l>
+                <lb/>
+                <lb/>
+                <p xml:id="d001l13" type="title" n="">II</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l14" n="12">Vostre regart punç pluys fort k'aguye de Lombardye;</l>
+                <lb/>
+                <l xml:id="d001l15" n="13">voys m'avés navré a mort. Replicatur</l>
+                <lb/>
+                <l xml:id="d001l16" n="14">Se de vos non ay confort, ye cuyte ben perdre la vye.</l>
+                <lb/>
+            </div1>
+        </body>
+    </text>
+</TEI>

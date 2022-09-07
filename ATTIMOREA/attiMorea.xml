@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="ATTIMOREA-attiMorea">
+                    <title type="short">Atti del principato di Morea</title>
+                    <abbr>Atti del principato di Morea</abbr>
+                    <note xml:id="note1">1267-1289, Napoli</note>
+                    <bibl><emph style="font-style:italic">Actes relatifs à la Principauté de Morée 1289-1300</emph>, a cura di Charles Perrat-Jean Longnon, Paris, Bibliothèque Nationale, 1967 («Collection de documents inédits sur l’histoire de France», in-8°, 6), pp. 21 (Napoli 1289), 24 (Napoli 1289), 32-33 (Narbonne 1290), 169-170 (Clarentza o Chiarenza 1277).</bibl>
+                </title>
+                <author xml:id="ATTIMOREA" n="017.000">
+                    <name></name>
+                    <abbr></abbr>
+                </author>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata e marcatura digitale</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Reference basis text</resp>
+                    <name><emph style="font-style:italic">Actes relatifs à la Principauté de Morée 1289-1300</emph>, a cura di Charles Perrat-Jean Longnon, Paris, Bibliothèque Nationale, 1967 («Collection de documents inédits sur l’histoire de France», in-8°, 6), pp. 21 (Napoli 1289), 24 (Napoli 1289), 32-33 (Narbonne 1290), 169-170 (Clarentza o Chiarenza 1277).</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.rialfri.eu">RIALFrI</ref>
+                </publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <notesStmt>
+            </notesStmt>
+            <sourceDesc>
+                <bibl><emph style="font-style:italic">Actes relatifs à la Principauté de Morée 1289-1300</emph>, a cura di Charles Perrat-Jean Longnon, Paris, Bibliothèque Nationale, 1967 («Collection de documents inédits sur l’histoire de France», in-8°, 6), pp. 21 (Napoli 1289), 24 (Napoli 1289), 32-33 (Narbonne 1290), 169-170 (Clarentza o Chiarenza 1277).</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t4"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work">
+                <p xml:id="d001l1" n="1" rend="I"><lb/> <lb/>{{Napoli, 10 luglio 1289}}<lb/> <lb/>{{Inféodation à Isabeau de Villehardouin
+                des châteaux et baronnie de Bucelet et de Karytaina}}<lb/>{{Pour Madame de la Morée}}<lb/>
+                <lb/>{{Reg. ang. 50, f. 20}}</p>
+                <lb/>
+                <p xml:id="d001l2" n="1" rend="1">Charles secont, par la grace de Dieu rois Jerusalem et de Secile, de la duché du Puille
+                et du princié des Capes, prince de la Morée, d'Anjou, de Provence et de Folqualquier
+                cuens, par la tenour de ces presentes lettres faisons assavoir a touz presens et avenir
+                que nous avons donné et confermé de grace especial, par nos et pour nos hoirs, a nostre
+                chiere et amée suer Ysabiau, fille de bone memoire monseignour Guillaume, jadis prince
+                de la Morée, a li et a ses leaus raisons, droictures, apertenances et seignouries, fiez,
+                houmages et arierfiez et quanque alla baronie des devant diz chastiaus de Bucellet et
+                de Caritaine apent et apartient, que elle et ses leaus hoirs de son cors les tiegnent
+                entieremant en la maniere et en la guise que ceaus qui ont esté ça en arrier seignours
+                de ceste devant dicte baronie la tindrent en leur bone memoire.</p>
+                <p xml:id="d001l3" n="2" rend="2">Et toutes ces chouses devant dites nous avons douné et confermé alla devant dicte nostre
+                suer et a ses leaus hoirs de son cors as bons us et as bones coustumes de l'empire de
+                Costantinople et dou princié d'Achaye, payant a nous et a noz hoirs tel servise coume
+                la devant dicte baronie doit.</p>
+                <p xml:id="d001l4" n="3" rend="3">Et se il estoit ensuit que la devant dicte nostre suer n'eust leaus hoirs de son cors
+                aprés sa mort, la devant dicte baronie de Bucellet et de Caritaine et toutes les apertenances
+                et les droiz retornent sanz contredit a nous et a nos hoirs.</p>
+                <p xml:id="d001l5" n="4" rend="4">Et de tout ce la dicte nostre suer est entrée en nostre houmage lige et nous l'avons
+                reçeu, sauves en tout toutes nos raisons et de touz autres.</p>
+                <p xml:id="d001l6" n="5" rend="5">Et pour ce que toutes ces chouses desus dictes soyent fermes et estables et que nul
+                n'i puisse aler encontre, nous li en avons donné ces lettres seellées de nostre seel
+                pendant.</p>
+                <p xml:id="d001l7" n="6" rend="6">Et pour cautele de la devant dicte nostre suer, et a sa requeste, nous avons fait dubler
+                ces lettres de mot a mot.</p>
+                <p xml:id="d001l8" n="7" rend="7">Dounée a Naples, en l'an de Nostre Seignour mil deuz cenz quatrevinz et noef, le Xme
+                jour de juillet de la seconde indiction, ou quint an de noz royaumes.  <lb/></p>
+                <lb/>
+                <p xml:id="d001l9" n="$2" rend="II"><lb/> <lb/>{{Napoli, 20 luglio 1289}}<lb/> <lb/>{{Confirmation à Amine Gracianelle,
+                bourgeois de Clarence, et à Hélène, sa femme, de la concession de terre en bougeoisie
+                jadis faite par Guillaume de Villehardouin à Jean Marmache le jeune, de Corinthe, père
+                de la dite Hélène}} <lb/> <lb/>{{Reg. ang. 50, f. 206}}</p>
+                <lb/>
+                <p xml:id="d001l10" n="1" rend="1">Charles secont, par la grace de Deu roys de Jerusalem et de Sezile, de la duché de
+                Puille et dou princé de Capes, prince de la Mourée, etc.</p>
+                <p xml:id="d001l11" n="2" rend="2">Par la tenour de ces presentes lettres faisons assavoir a touz presens et avenir que
+                nous, reguardant le boen servise que Amine Gracianelle, burjois de Clarence, nostre
+                feel, nous a fet ci en arrieres et porra faire de ci en avant, avons confermé et octroyé
+                de grace especial a cellui burgois et a Elaine, sa fame, fille jadis Jehan Marmache
+                le joene, de Corinthe, la terre que sa fame tenoit et la quele bone memoire Guillaume,
+                jadis prince d'Achaye, douna au devant dit Jehan, en la maniere et en la forme que
+                les lettres pendanz, seellées dou seel dou dit prince, qui furent faites, si com il
+                dist, de ce doun, devisent et parolent, payant en nostre Chambre tel servise come il
+                nous doivent pour celle terre selonc la tenour et la forme d'icelles meismes lettres.</p>
+                <p xml:id="d001l12" n="3" rend="3">Et voulons et coumandons que nostre baill ne nostre feel officiel nul ne les doient
+                molester de celle terre contre la forme des devant dictes letres dou princié de sus
+                dit.</p>
+                <p xml:id="d001l13" n="4" rend="4">Et voulons que le devant dit burgois et sa fame de sus dicte tiegnent les biens que
+                le devant dit Jehan et sa fame tenoient raisonablement en bourgesie en le devant dit
+                princé, payant à nostre Cour, si con les autres burgois de celle princé payent pour
+                lour biens de burgesie, sauves en tout toutes nos raisons et de touz autres.</p>
+                <p xml:id="d001l14" n="5" rend="5">En tesmoign de la quele chouse, nous au devant dit burgois et alla devant dicte sa
+                fame en avons douné ces lettres, seellées de nostre seel pendant.</p>
+                <p xml:id="d001l15" n="6" rend="6">Dounées à Naples, en l'an de Nostre Seignour mil deuz cenz quatre vinz et noef, le
+                vintisme jour du mois de juignet de la seconde indiction, ou quint an de noz reaumes.
+                <lb/></p>
+                <lb/>
+                <p xml:id="d001l16" n="$3" rend="III"><lb/> <lb/>{{Narbona, 11 marzo 1290}}<lb/> <lb/>{{Autorisation accordée à Florent de
+                Hainaut, prince de Morée, de retenir, sa vie durant, dans cette principauté, au cas
+                de prédécès de sa femme sans héritier légitime, des domaines d'une valeur équivalente
+                à celle des terres qu'il aurait aliénées ou engagées en France pour le recouvrement
+                ou la défense de ses possessions de Morée}}<lb/> <lb/>{{Reg. ang. 52, f. 142}}</p>
+                <lb/>
+                <p xml:id="d001l17" n="1" rend="1">Charles secont, par la grace de Dieu roy de Jerusalem et de Sezile, du duchié de Puille,
+                dou princée de Capes, d'Anjou, de Provence et de Folqualquier conte, a noble home Florent
+                de Henaut, prince de la Morée, son amé conseillier, familier et feel, sa grace et bone
+                volenté.</p>
+                <p xml:id="d001l18" n="2" rend="2">A vos peticions, en tant com nous poons, bonement consentans, par la tenour de ces
+                presentes letres, vous otroions que, se, pour le reouvrement des terres occupées dou
+                princé de la Morée ou pour le defendement de celles que vous ores tenés, vous aviegne
+                en tout ou en partie vendre ou aliener ou comment que soit obligier aucune vostre terre
+                que vous avés as parties de France, et noble dame Ysabiau nostre suer, princesse de
+                la Morée, vostre fame, trespasse avant de vous sans hoir de vostre cors et dou sien,
+                non obstant que selonc la forme des convenances eues entre nous et vous et la dicte
+                vostre fame, u tans de la restitucion et concession a vous et alli fetes par nous doudit
+                princié, le princé meismes et la possession de li, en ce quas, doient a nous plainement
+                retorner et venir, vous puissiés tant retenir de la terre doudit princié o nostre conoissance,
+                u tens de vostre vie, que les terres par vous, pour la defension dou dit princié ou
+                pour la recuperacion des occupées terres, es parties de France, si comme il est devant
+                dit, alienées ou vendues ou obligiés equipollent en rentes et en value, jusque la qu'en
+                tele maniere ou autrement ou en autre lieu, sin comme a nous mieux plera de la dicte
+                vostre terre par vous vendue, alienée ou obligiée vous soit renablement satisfet.</p>
+                <p xml:id="d001l19" n="3" rend="3">En tesmoingnz de la quele chouse, nous vous avons ces presentes letres dounées et otroiées,
+                scellées de nostre popre et acoustumé seel de cire en pendant.</p>
+                <p xml:id="d001l20" n="4" rend="4">Données a Nerbone, l'an de l'Incarnacion nostre Seignour mil deux cens et octante noef,
+                samedi l'unzieme jour dou mois de marz de la tierce indic[tion], de noz royaumes de
+                Jerusalem et de Sezile en l'an sessime. <lb/></p>
+                <lb/>
+                <p xml:id="d001l21" n="$4" rend="III"><lb/> <lb/>{{Clarence, 20 dicembre 1297}}<lb/> <lb/>{{Donation par Isabeau, princesse
+                d’Achaïe, à sa soeur Marguerite, dame de Mategrifon de la terre de Blobocan, qui avait
+                appartenu à Narjot de Toucy, du château de la Gligoriane et des châteaux de Merdenay
+                et de Nodimo dans la terre de Nicli.}}<lb/> <lb/>{{Reg. ang. ??}} <lb/></p>
+                <lb/>
+                <p xml:id="d001l22" n="1" rend="1">Copie en papier donnée en forme de vidimus, apr Nicolles li Mores, Daneaus de Vidoine
+                et Jean li Enuers, chevaliers, sous les cachets des deux premiers, celui du 3e n’y
+                ayant pas été mis, des lettres en français de la donation faite par Isabeau, princesse
+                d’Achaye, à sa soeur Marguerite, dame de Mategrifon, pur elle et ses hoirs, des terres
+                et fief de Blobocan qui avoit appartenu à Narjo de Tuci et qui étoit échu à cette princesse,
+                du château de la Gligoriane, en la terre de Caritaine, lequel château avoit appartenu
+                à Henri de Blauci et étoit échu à cette princesse, et des châteaux de Merdenay et de
+                Nodimo des appartenances de Nicles, lesquelles terres et châteaux elle donne à sadite
+                soeur en aide de Mategrifon, sans aucune charge de service, sa vie durant et après
+                la mort de la dame de Mategrifon, à charge de service d’un chevalier pour elle et ses
+                hoirs. A Clarence, le 20 décembre 1297.</p>
+                <lb/>
+                <lb/>
+            </div1>
+        </body>
+    </text>
+</TEI>

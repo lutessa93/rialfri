@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="ASPREMONTTRENTO-aspremontTrento">
+                    <title type="short">Chanson de Aspremont, Frammento di Trento</title>
+                    <title type="alt">Aspremont (Chanson de, Frammento di Trento)</title>
+                    <abbr>Chanson de Aspremont, Frammento di Trento</abbr>
+                    <note xml:id="note1">inizio XIV sec.</note>
+                    <bibl>Marco Infurna, <emph style="font-style:italic">Un nuovo frammento franco-italiano della Chanson d’Aspremont</emph>, in «Medioevo Romanzo», 26 (2002), pp. 69-81.</bibl>
+                </title>
+                <author xml:id="ASPREMONTTRENTO" n="015.000">
+                    <name></name>
+                    <abbr></abbr>
+                </author>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata e marcatura digitale</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Reference basis text</resp>
+                    <name>Marco Infurna, <emph style="font-style:italic">Un nuovo frammento franco-italiano della Chanson d’Aspremont</emph>, in «Medioevo Romanzo», 26 (2002), pp. 69-81.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.rialfri.eu">RIALFrI</ref>
+                </publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <notesStmt>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>Marco Infurna, <emph style="font-style:italic">Un nuovo frammento franco-italiano della Chanson d’Aspremont</emph>, in «Medioevo Romanzo», 26 (2002), pp. 69-81.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t1"/>
+                <keywords>
+                    <term type="form">poetry</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work">
+                <lb/>
+                <p xml:id="d001l1" type="title" n="">I</p>
+                <lb/>
+                <lb/>
+                <p xml:id="d001l2" n="">{{F. 1r (cfr. Br., lassa 385, v. 7659)}}</p>
+                <lb/>
+                <l xml:id="d001l3" n="1">...................</l>
+                <l xml:id="d001l4" n="2">...................</l>
+                <l xml:id="d001l5" n="3">...................</l>
+                <l xml:id="d001l6" n="4">Quando Deus per nu la mort tan durà</l>
+                <l xml:id="d001l7" n="5">Et el per nos omçire se laissà,</l>
+                <l xml:id="d001l8" n="6">Faiçons per nos quel que fist per lui ia;</l>
+                <l xml:id="d001l9" n="7">Molto ert guariç qui per lui morirà;</l>
+                <l xml:id="d001l10" n="8">Ie vos dira' qual loie rem n'avrà:</l>
+                <l xml:id="d001l11" n="9">Cum les apostolles grant segnoria avrà;</l>
+                <l xml:id="d001l12" n="10">Tropo est riçéps qui del camp tornerà.</l>
+                <l xml:id="d001l13" n="11">Saçeç de fim que Agulant vemdrà.</l>
+                <l xml:id="d001l14" n="12">El nos vent quèrere a la ient que ill·à;</l>
+                <l xml:id="d001l15" n="13">Ançi domam terça saçeps que el vemdrà».</l>
+                <l xml:id="d001l16" n="14">La crois domanda et om ie l'aportà:</l>
+                <l xml:id="d001l17" n="15">Una partía del sant fust i à</l>
+                <l xml:id="d001l18" n="16">O Deo fu mis quando Lomgim li navrà.</l>
+                <l xml:id="d001l19" n="17">Quando il le virent, çaschums s'emçenoillà</l>
+                <l xml:id="d001l20" n="18">Et de soa boçe de som coer l'aorà</l>
+                <l xml:id="d001l21" n="19">Et l'apostoille dolçement li segnà.</l>
+                <l xml:id="d001l22" n="20">Conçé demandà et çaschums se 'm va.</l>
+                <l xml:id="d001l23" n="21">Armes vont prendre çaschums qui les à</l>
+                <l xml:id="d001l24" n="22">Et qui no n'oit si se 'm porch˂açerà˃.</l>
+                <lb/>
+                <l xml:id="d001l25" n="23">Oieç segnor et soieç entemdant:</l>
+                <l xml:id="d001l26" n="24">Cum Karle fu armé ˂...........˃</l>
+                <l xml:id="d001l27" n="25">El et li autre en orent fait tant</l>
+                <lb/>
+                <lb/>
+                <p xml:id="d001l28" type="title" n="">II</p>
+                <lb/>
+                <lb/>
+                <p xml:id="d001l29" n="">{{F. 1v}}</p>
+                <lb/>
+                <l xml:id="d001l30" n="26">...................</l>
+                <l xml:id="d001l31" n="27">...................</l>
+                <l xml:id="d001l32" n="28">...................</l>
+                <l xml:id="d001l33" n="29">˂«Barom˃s», dist el, «molto me vo merveillant</l>
+                <l xml:id="d001l34" n="30">˂De H˃elmont mom fils que il oit in tallant.</l>
+                <l xml:id="d001l35" n="31">˂Per˃ tres fois s'est combat al camp</l>
+                <l xml:id="d001l36" n="32">Q˂ue˃ umqua nom meso ne acontamant.</l>
+                <l xml:id="d001l37" n="33">Per Mahomet», dist li rois Abillant Agulant,</l>
+                <l xml:id="d001l38" n="34">«Li fait de Helmont me resemble ora d'enfant;</l>
+                <l xml:id="d001l39" n="35">Tolleit li ont Machom et Trivigant</l>
+                <l xml:id="d001l40" n="36">Et Apolin et Iupiter li grant.</l>
+                <l xml:id="d001l41" n="37">Onçist i ont de nostra gent tant</l>
+                <l xml:id="d001l42" n="38">Ia estoré nom est a nostre vivant».</l>
+                <l xml:id="d001l43" n="39">Dist Madarim: «Sire, molto me merveil;</l>
+                <l xml:id="d001l44" n="40">N'est nulla noit quant ie m'esveil;</l>
+                <l xml:id="d001l45" n="41">˂V˃ostre fils mantent fellom conseil,</l>
+                <l xml:id="d001l46" n="42">Que nostra gent a mis in grant trepeil,</l>
+                <l xml:id="d001l47" n="43">Nos deu ont perdu per som apareil.</l>
+                <l xml:id="d001l48" n="44">Françis sunt armés de fer trosqu'al tremel,</l>
+                <l xml:id="d001l49" n="45">˂E˃n˂t˃re lor nom est traval ni someil;</l>
+                <l xml:id="d001l50" n="46">˂P˃artí nos ont del blamch et de vermeil».</l>
+                <lb/>
+                <l xml:id="d001l51" n="47">˂A˃p˂ré˃s parlà li reis Malladïent:</l>
+                <l xml:id="d001l52" n="48">«Agulant, sire, vos ovré mallament</l>
+                <l xml:id="d001l53" n="49">Qua˂ndo˃ Karlo oit si piteta de gent;</l>
+                <l xml:id="d001l54" n="50">Envoiéç a llui tot ˂delivr˃ament</l>
+                <lb/>
+                <lb/>
+                <p xml:id="d001l55" type="title" n="">III</p>
+                <lb/>
+                <p xml:id="d001l56" n="">{{F. 2r (cfr. Br, lassa 402, v. 7911)}}</p>
+                <lb/>
+                <l xml:id="d001l57" n="51">...................</l>
+                <l xml:id="d001l58" n="52">...................</l>
+                <l xml:id="d001l59" n="53">...................</l>
+                <l xml:id="d001l60" n="54">Le imperer nom volt plus demorer;</l>
+                <l xml:id="d001l61" n="55">Por l'apostoille et dux Nayme fait mander,</l>
+                <l xml:id="d001l62" n="56">Et por Uçer et Sallamum [le] li ber,</l>
+                <l xml:id="d001l63" n="57">Por dam Girart, ses nevò et ses riter.</l>
+                <l xml:id="d001l64" n="58">«Barom», dist Karles, «kar me faites ascolter.</l>
+                <l xml:id="d001l65" n="59">Veés li messaies Agulant d'outra mer.</l>
+                <l xml:id="d001l66" n="60">Lor quatres deus me vinent a demander</l>
+                <l xml:id="d001l67" n="61">Et mille et sept çent somer aprester,</l>
+                <l xml:id="d001l68" n="62">D'or et d'arçent mi stovirà charçer,</l>
+                <l xml:id="d001l69" n="63">Et autretant polçelles sens muiller,</l>
+                <l xml:id="d001l70" n="64">Et ma corona mi stovirà presenter;</l>
+                <l xml:id="d001l71" n="65">Devant ses pié me stovrà inçenoiller,</l>
+                <l xml:id="d001l72" n="66">Ma loi garpir et la soa adhorer.</l>
+                <l xml:id="d001l73" n="67">A Deo et a vos me vegno ad reclamer».</l>
+                <l xml:id="d001l74" n="68">N'i oit nul qui volsist ester primer,</l>
+                <l xml:id="d001l75" n="69">Una grant pieçe mistrent ad ascolter;</l>
+                <l xml:id="d001l76" n="70">Tuit li plusor començent a plurer</l>
+                <l xml:id="d001l77" n="71">Et li alquant del choer ad suspirer.</l>
+                <l xml:id="d001l78" n="72">Li vels Girart no se volt atarder.</l>
+                <l xml:id="d001l79" n="73">«Barom», dist el, «ne ˂v˃os d˂oit˃ innoier</l>
+                <l xml:id="d001l80" n="74">...................</l>
+                <l xml:id="d001l81" n="75">...................</l>
+                <lb/>
+                <lb/>
+                <p xml:id="d001l82" type="title" n="">IV</p>
+                <lb/>
+                <lb/>
+                <p xml:id="d001l83" n="">{{F. 2v}}</p>
+                <lb/>
+                <l xml:id="d001l84" n="76">...................</l>
+                <l xml:id="d001l85" n="77">...................</l>
+                <l xml:id="d001l86" n="78">...................</l>
+                <l xml:id="d001l87" n="79">˂...˃ le feites et la testa couper,</l>
+                <l xml:id="d001l88" n="80">˂...˃ chaia mie som heume a deslaçer,</l>
+                <l xml:id="d001l89" n="81">˂...˃t anels fors de som doi saçer;</l>
+                <l xml:id="d001l90" n="82">˂...˃ eschu feites apareiller;</l>
+                <l xml:id="d001l91" n="83">˂...˃ le feites et la testa chouper.</l>
+                <l xml:id="d001l92" n="84">˂...˃ presant li poroit emvoier,</l>
+                <l xml:id="d001l93" n="85">˂...˃el non a home no se 'm doit exmailler;</l>
+                <l xml:id="d001l94" n="86">˂...˃e maintinent feites vostra gent munter</l>
+                <l xml:id="d001l95" n="87">˂...˃tenderunt a som doel demener.</l>
+                <l xml:id="d001l96" n="88">˂...˃ns de nos atemda ad som vençer».</l>
+                <l xml:id="d001l97" n="89">˂...˃ responde: «Biem est da otroier».</l>
+                <l xml:id="d001l98" n="90">˂...˃à por Bernardo et Riçer.</l>
+                <l xml:id="d001l99" n="91">˂...˃ies vinent al rois tençer:</l>
+                <l xml:id="d001l100" n="92">˂...˃s fait nostre trebus charçer?»</l>
+                <l xml:id="d001l101" n="93">˂...˃st el, «ie·l faç apareiller».</l>
+                <lb/>
+                <l xml:id="d001l102" n="94">˂...˃arum furent al poi munté,</l>
+                <l xml:id="d001l103" n="95">˂...˃oliver ont Helmont aporté,</l>
+                <l xml:id="d001l104" n="96">˂...˃ eschu ont de sus lui osté.</l>
+                <l xml:id="d001l105" n="97">˂...˃ li ont li çef colpé</l>
+                <l xml:id="d001l106" n="98">.....................</l>
+                <l xml:id="d001l107" n="99">.....................</l>
+                <l xml:id="d001l108" n="100">.....................</l>
+            </div1>
+        </body>
+    </text>
+</TEI>

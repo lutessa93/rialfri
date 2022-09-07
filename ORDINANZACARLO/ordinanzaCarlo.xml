@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="ORDINANZACARLO-ordinanzaCarlo">
+                    <title type="short">Ordinanza in francese di Carlo I d’Angiò</title>
+                    <abbr>Ordinanza in francese di Carlo I d’Angiò</abbr>
+                    <note xml:id="note1">27 ottobre 1277, Napoli</note>
+                    <bibl>Paul Durrieu, <emph style="font-style:italic">Notice sur les registres angevins en langue française conservéa dans les Archives de Naples</emph>, in «Mélanges d’archéologie et d’histoire publiés par l’École française de Rome», 3 (1883), pp. 3-33: 12-15. </bibl>
+                </title>
+                <author xml:id="ORDINANZACARLO" n="166.000">
+                    <name></name>
+                    <abbr></abbr>
+                </author>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata e marcatura digitale</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Reference basis text</resp>
+                    <name>Paul Durrieu, <emph style="font-style:italic">Notice sur les registres angevins en langue française conservéa dans les Archives de Naples</emph>, in «Mélanges d’archéologie et d’histoire publiés par l’École française de Rome», 3 (1883), pp. 3-33: 12-15. </name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.rialfri.eu">RIALFrI</ref>
+                </publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <notesStmt>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>Paul Durrieu, <emph style="font-style:italic">Notice sur les registres angevins en langue française conservéa dans les Archives de Naples</emph>, in «Mélanges d’archéologie et d’histoire publiés par l’École française de Rome», 3 (1883), pp. 3-33: 12-15. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t5"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work">
+                <div2 xml:id="d001c000">
+                    <p xml:id="d001l1" n="">{{Reg. Ang. n. 34, f. 98}}</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c001">
+                    <p xml:id="d001l2" n="1" rend="1">Challes, par la grace de Dieu, Roy de Jerusalem et de Secile, du Duchee de Pulle, du
+                    Princee de Capes, Senateur de Rome, d'Anjo, de Provence, de Forquaquier et de Tonneurre
+                    Conte, et de l'Ampire de Rome, an Touscane, par la seinte Yglise de Rome, vicare general;<lb/>A
+                    ses amez, feaus et familiers, Maistre Guillaume Boucel, de Paris, clerc, Ris de la Marre,
+                    de Ballate, et Pierre Boudin, d'Angiers, receveurs et gardeurs de son tresor ou chastel
+                    de Salvateur en mar de Naples, lequel chastiau est apelez communement Chastel de l'Uef,
+                    sa grace et sa bone volonté.</p>
+                    <lb/>
+                    <p xml:id="d001l3" n="2" rend="2">Comme il soit ensi que nos aions commandé et ordené que toute nostre monoie de touz
+                    noz provenz et nos essues et nos rentes de nostre reiaume de Secile et de alieurs doie
+                    estre portée ou anvoiié par noz officiaus ou chatel davantdit, et assegnée à vous trois,
+                    nous volons et vous commandons expressement que vous, en recevoir, en garder et en despendre
+                    celle monoie, doiez tenir et garder fermement, sans nulle muance, l'estaublisement et
+                    la meiniere qui est ci desous escrite.<lb/>L'estaublissement et l'ordenance sont tieux:</p>
+                    <lb/>
+                    <p xml:id="d001l4" n="3" rend="3">Premierement. Que toute nostre monoie qui sera portée ou davantdit chatel, que vos la
+                    receviez tuit troi ensamble, en non de nous et pour nous; et de la monoie que vos recevrez,
+                    si ferés apodisse à celui ou àceus qui la vous auront assegnée et baillié; et en celle
+                    apodisse soit contenu clerement et distinctement quelle monoie sera celle qui sera receue
+                    par vous, ou or de tarins, ou augustales, ou florins, ou autre monoie, et combien de
+                    chacuine monoie, et de quieux de nous provenz, et de nous essues et de nous rentes cele
+                    monoie sera; et celle apodisse que vous ferés, vous la saellerés de vous trois seaus,
+                    et chacun de vous si souscrivra de sa propre main en celle apodisse.</p>
+                    <p xml:id="d001l5" n="4" rend="4">Et quant celle apodisse sera faite, vous recevrés de celui ou de ceus qui vous auront
+                    baillié et assegnée la monoie, antapoque. C'est une apodisse ou il reconnoisent que
+                    vos ont tant baillié de monoie comme l'apodisse que vous luer aurés faite contanra,
+                    et non plus, si que en tel meniere soit l'une comme l'autre: c'est à savoir la votre
+                    si comme vous l'aurés receue mooie, et la leur si comme il la vous auront bailliée.</p>
+                    <p xml:id="d001l6" n="5" rend="5">Et ferés feire deus quaternes; et en l'un ferés escrivre en françois, et en l'autre
+                    en latin, toute la monoie que vous recevrés chacun jour, ensi comme elle vendra, distintement,
+                    si con il est devisé desus en l'apodisse. Et soiés avisé que l'apodisse, et l'entapoque,
+                    et les deus quaternes, s'acordent dou tout en tout, et de la quantité de la monoie,
+                    et de la meniere de la monoie et en l'an, et en mois, et en jour, et en l'indicion.</p>
+                    <lb/>
+                    <p xml:id="d001l7" n="6" rend="6">Toute la monoie que vos recevrés, vous la garderés leiaument pour nous, dedens le devantdit
+                    chatel, et à nului n'en baillerés ne po ne assez, ne vos n'en despandrés sans nostre
+                    especial commandement; lequel commandement soit fait par noz lettres ouvertes, et les
+                    lettres soient faites en ceste meniere:</p>
+                    <p xml:id="d001l8" n="7" rend="7">Premierement, les lettres soient escrites en françois, et soient seellées de nostre
+                    grant seel penant dou roiaume de Jerusalem et de Secile; et encore soit en celles lettres
+                    nostre petit, et nostre seel de telle emprainte comme est cist qui en ceste lettre est
+                    mis, et dont elle est seellée.</p>
+                    <p xml:id="d001l9" n="8" rend="8">Et quant, par noz lettres faites en la meniere desusdite, nous vous manderons que vous
+                    envoiés monoie à nous, vous garderés ces lettres, et celle quantité que nous manderons
+                    vous envoierés à nostre presence, par celui ou par ceus qui seront nonmé en celle nostre
+                    lettre que nous vous manderons pour la monoie envoiier à nostre presence.</p>
+                    <p xml:id="d001l10" n="9" rend="9">Et, de celui ou de ceus à qui nous baillerons la quantité que nous vous manderons,
+                    toute, ou partie se vous n'aviez si grant comme nous vous manderions, recevrez apodisse
+                    suffisant, et nous ferés savoir par vous lettres seelées de vos trois seiaus, la quantité
+                    et la meniere de la monnoie que vous nous envierez par eus.</p>
+                    <p xml:id="d001l11" n="9" rend="9">Et se, par aventure, nous vous mandions nous lettres feites en françois, et seellées
+                    en la meniere desusdite, pour donner ou pour rendre deite que nous deuissiens, ou pour
+                    envoiier aleurs qu'à nostre presence, se ne se contient en celle lettre simplement
+                    “Non obstante”, sanz autre chose ajouté, nous volons que vous n'en faiciez rien; mas
+                    s'il i a “Non obstante”, sans autre ajouté, nous volons que vous le feites, si comme
+                    il sera contenu en celles lettres.</p>
+                    <p xml:id="d001l12" n="10" rend="10">Et garderés celles lettres, et recevrez apodisse soffisauble de celui ou de ceus à
+                    qui vos baillerez la monoie. Et ferez feire autres deus quaiers; en l'un ferés escrire
+                    en françois, et en l'autre en latin, les lettres que nos vous envoierons pour monoie
+                    baillier ou despandre, et comment vous aurés fait nostre commandement, et le transcrit
+                    des apodisses que vous aurés receues.</p>
+                    <p xml:id="d001l13" n="11" rend="11">Mes, pour nulles autres lettres qui vous viegnent, qui ne seront escrites en françois,
+                    et en la forme qui est desus devisée, et seellées en la meniere desusdite, monoie ne
+                    pou ne grant vous n'envoierés, ne baillerés, ne ne despandrés; et se vous le fesiés
+                    autrement, nous ne voulons que rien vous en soit conté, et le voudrions recouvrer seur
+                    vous.</p>
+                    <lb/>
+                    <p xml:id="d001l14" n="12" rend="12">Aprés, nous voulons et commandons que, en la fin de chacun mois, vous nous envoiez
+                    deus quaiers, esquiex soit escrit distinteement toute la monoie que vous aurés receue
+                    en celui mois, si comme nous avons devisé qu'il doit estre escrit en noz quaiers, et
+                    tout ce que vous aurés despandu ansinc en celui mois, et le transcrit des letres que
+                    nous vous aurons envoiiés et des apodisses que vos en aurés receues.</p>
+                    <p xml:id="d001l15" n="13" rend="13">Et li uns de ces quaiers soit escris en françois, et l'autres en latin, et chacun de
+                    ces quaiers soit seellé de voz trois seiaus.</p>
+                    <lb/>
+                    <p xml:id="d001l16" n="14" rend="14">La meniere comment nous voulons que nostre monoie soit gardée par vous dedens le devantdit
+                    chatel est telle: C'est à savoir que, en la chambre de celui chatel que l'en verra
+                    qui soit plus convenauble et plus seure à ce faire, et qui ait que une entrée, soient
+                    faites bones portes de bon merrien, et bien ferrées; et en ces portes soient trois
+                    serreures à trois diverses clés, dont chacun de vous ait l'une; et dedans celle chambre
+                    ait deus arches, ou deus huches, bones et forz, et en chacune ait ausi troi clés diverses,
+                    desquelles huches chacun de vous ait l'une des clés. Et en l'une de ces arches, ou
+                    de ces huches, metrez la monoie, et en l'autre les lettres que nous vous envoierons,
+                    et les quaiers que nous vous avons devisé que vous devez feire de vostre entrée et
+                    de votre essue, en françois et en latin, et les apodisses et les antapoques.</p>
+                    <p xml:id="d001l17" n="15" rend="15">Si que tuit troi ensemble enterez et irrez en ladite chambre, et que tuit trois ensemble
+                    clorrez et ouverrez les davantdites hughes, et ensamble metrez et osterez et la monoie
+                    et les quaiers dedenz la nommées huches.</p>
+                    <p xml:id="d001l18" n="16" rend="16">Et pour plus grant saurté, nous voulons que la huche ou sera la monoie soit seellée
+                    de voz trois seiaus.</p>
+                    <lb/>
+                    <p xml:id="d001l19" n="17" rend="17">Et se voz veez que aucuns de noz officiaus soit lent et pereceus de envoiier la monoie
+                    qui doit de son office, nous vous commandons que vos le nous faciez à savoir, pour
+                    ce que nous i puisien mettre consieul convenable par quoi la monoie soit envoiée à
+                    nous selon notre establissement.</p>
+                    <lb/>
+                    <p xml:id="d001l20" n="18" rend="18">Et se, par avanture, acuns de vous trois mouroit, ou feust remuez de son office par
+                    nous, nous voulons que li dui qui remandront tiegnent et facent ceste ordenance si
+                    cum il est desus escrite, duques à tant que nous aurons autre ordené.</p>
+                    <lb/>
+                    <p xml:id="d001l21" n="19" rend="19">Donée à Foge, par meitre Guillaume de Faronville, Prevot de l'Eglise Seint Amé, de
+                    Douay, vicehancelier (sic) de roiaumes de Jerusalem et de Secile, en l'an de l'incarnation
+                    Nostre Seignieur mil deus cens soisante dis e sept, le vint e setieme jour de octubre
+                    de la sizieme indicion, l'anné premierainne de nostre roiaume de Jerusalem, et de nostre
+                    roiaume de Secile l'année trezieme.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

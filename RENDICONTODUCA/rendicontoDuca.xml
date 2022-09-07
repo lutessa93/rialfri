@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="RENDICONTODUCA-rendicontoDuca">
+                    <title type="short">Rendiconto dei possedimenti ciprioti del duca d’Atene Gautier VI di Brienne-Lecce</title>
+                    <title type="alt">Rendiconto per il duca d’Atene Gautier VI di Brienne-Lecce</title>
+                    <abbr>Rendiconto per il duca d’Atene Gautier VI di Brienne-Lecce</abbr>
+                    <note xml:id="note1">1354, Cipro</note>
+                    <bibl>Edouard Poncelet, <emph style="font-style:italic">Compte du domaine de Gautier de Brienne au royaume de Chypre</emph>, in «Bulletin de la Commission d’histoire», 98 (1934), pp. 1-28.</bibl>
+                </title>
+                <author xml:id="RENDICONTODUCA" n="174.000">
+                    <name></name>
+                    <abbr></abbr>
+                </author>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale</resp>
+                    <name>Luigi Tessarolo</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Reference basis text</resp>
+                    <name>Edouard Poncelet, <emph style="font-style:italic">Compte du domaine de Gautier de Brienne au royaume de Chypre</emph>, in «Bulletin de la Commission d’histoire», 98 (1934), pp. 1-28.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.rialfri.eu">RIALFrI</ref>
+                </publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <notesStmt>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>Edouard Poncelet, <emph style="font-style:italic">Compte du domaine de Gautier de Brienne au royaume de Chypre</emph>, in «Bulletin de la Commission d’histoire», 98 (1934), pp. 1-28.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t4"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work">
+                <p xml:id="d001l1" n=""><lb/></p>
+                <lb/>
+                <p xml:id="d001l2" n="">CHI APRÈS DEVISERONT PARTICULIEREMENT TOUTES MONNOIES ET TOUTES AUTRES CHOSES ET [ESCLAUS
+                QUE COSMA] D'ATHAINES DIT YATRO LAISSA ÈS MAINS DE RAOUCHE DE MONTERON QUANT IL ALA
+                OU ROIAUME DE CIPRE, PAR LE COMMANDEMENT DE MONSEIGNEUR LE DUC D'ATHÈNES, RECHEVOIR
+                L'OFFISCE DOU RALLIUAGE DE LA TERRA QUE LE DIT MONSEIGNEUR LE DUC DESSUSDIT AVOIT OU
+                DIT ROIAUME ET ESCANGA LE DIT COSMA.</p>
+                <lb/>
+                <p xml:id="d001l3" n="">Premièrement, en monnoie contée ........................ bezans 17.512, deniers 4.<lb/></p>
+                <lb/>
+                <p xml:id="d001l4" n="">Et la devise:<lb/>En florins et ducas d'or, 2.450, à raison de bezans 4 et deniers 4
+                pour cescun florin, monte ... bez. 10.004.<lb/>Et en gros tournois de Cipre .......
+                bez. 7.508, den. 4.<lb/>Item, lidis Cosma laissa, en la puissance dudit Raouche dedens
+                les greniers du casal de Conodre, fourment et orge ....................... muis 6.969.<lb/></p>
+                <lb/>
+                <p xml:id="d001l5" n="">Et la devise:<lb/>Au casal de Morfittes, fourment et orge ............... muis 2.451.<lb/>Et
+                la devise:<lb/>Fourment blanc et vermel ...................... muis 1.005.<lb/>Orge
+                .................................... muis 1.446.<lb/>Au casal de Conodre, fourment et
+                orge. muis 4.518.<lb/>Et la devise:<lb/>Fourment blanc et vermel ................. muis
+                1.518.<lb/>Orge .................................... muis 3.000.<lb/>Cresiniaus ..............................
+                muis 117.<lb/>Semaine, ostel plain .............................1.<lb/>Pesiaux ..........................................
+                muis 8. <lb/>Avainne .............................. muis 117.</p>
+                <lb/>
+                <p xml:id="d001l6" n="">Item palle à Morfittes et à Conodre, masons qui sunt ordenées à ....... plaines.<lb/>Et
+                au casal de Dischoria, maisons 2 plaines de palle.<lb/>Item, esclaus, personnes .............................19.<lb/>Et
+                la devise:<lb/>Esclaus grans fassans serviche ......................13.<lb/>Esclavos
+                petis, mascles et fumelles ................. 6.</p>
+                <lb/>
+                <p xml:id="d001l7" n="">Item, bues dou demaine .............................. 22.<lb/>Item, asnes ....................................................
+                3.<lb/>S'ensuit che que lidis Cosma laissa ès mains dedit Raouche de Monteron au tamps
+                comme il est dit des autres choses dessusdittes, et doit y m ....... dudit<lb/>Raouche
+                che qu'il en ha levé tant com il demora oudit offisse ...................... bez. 7.849,
+                den. 34.<lb/>Et la devise:</p>
+                <lb/>
+                <p xml:id="d001l8" n="">Premiers che que la Secrète roial devoit par tout février de l'anée MCCCLIIII ........
+                bez. 2.500.<lb/>Che que Niquifore Limbititisquiras, catepain de Morfittes, (devoit)
+                par tout février de ladicte anée de MCCCLIIII .................... bez. 2.162, den.
+                42.<lb/>Che que papa Jehan Tuperati, catepen de Conodora, devoit par toutte ladicte
+                anée ........................ bez. 2.403, den. 27.<lb/>Che que papa Dimitriano Toumquita
+                devoit dou tamps qu'il fut catepen de Conodora ..................... bez. 608, den.
+                9.<lb/>Che que li hosteliers dit en grec camctier dou casal de Morfittes devoit par
+                tout l'an de [MCCC]LIIII ................................................. bez. 20.<lb/>Che
+                que li camctier de Methokelephsi devoit par toute la dicte anée .............................
+                bez. 50.<lb/>Che que Jaquemin de Remon devoit pour le gardin de Conodra, pour toute
+                ladicte anée de [MCCC]LIIII, de monnoie prestée audit gardinier, com apelle en grigois
+                Arismali ............................... bez. 80.<lb/>Che que Dimitri tou Macrinou devoit
+                pour la camcte de Conodora par tout février de ladicte anée de MCC CLIIII ...................................
+                bez. 25.<lb/>.....................................................................................................................<lb/></p>
+                <lb/>
+                <p xml:id="d001l9" n="">Dépenses<lb/>Encore pour les gages doudit balliu Raouche de Monteron pour 6 mois ......................
+                bes. 600.<lb/>Disme à l'église de Nichosie pour le casau de Morfittes ..............................................
+                bes. 232.<lb/>As assis de monseigneur, pour les fies de Morfittes ..............................................
+                bes. 300.<lb/>Et la devise:<lb/>A l'église des Frans de Nichossie ...................
+                bes. 200.<lb/>A l'église des Gres ......................... bes. 100.</p>
+                <lb/>
+                <p xml:id="d001l10" n="">Disme à l'église de Famagouste pour le casau de Conodora pour 6 mois ......................
+                bes. 250.<lb/>A Limbititou Varangou qui est sur la vente des blés de monseigneur ...............................
+                bes. 35.<lb/>Et la devise:<lb/>Pour les sodées doudit Limbiti par tout février de l'an
+                [MCCC]LIIII .............................bes. 15.</p>
+                <lb/>
+                <p xml:id="d001l11" n="">Et pour une robe ............................ bes. 20.<lb/>Pour le gardin de demaine
+                de Morfittes ....................... bes. 63.<lb/>Et la devise:<lb/>Pour une corde
+                ................................ bes. 16.<lb/>Ferrement de bestes ...........................
+                bes. 5.<lb/>Pour I ronchin ............................... bes. 42.<lb/>Pour ferrement
+                dou Turqueman de Maine et pour médecines qui li furent faites .......... bes. 9.<lb/>Pour
+                la capelle qui est à Morfittes ...................... bes. 34.</p>
+                <lb/>
+                <p xml:id="d001l12" n="">Et la devise:<lb/>Pour I prestre qui cantoit pour l'âme de monseigneur, audit casal
+                ............................. bes. 24.<lb/>Pour poindre IIII ymages .............................
+                bes. 6.<lb/>Pour oile pour les lampes ............................ bes. 4.<lb/>Che
+                qui fut donné à Angle pour sa despense, que ledit balliu manda à monseigneur message
+                ...................... bes. 100.<lb/>Che que ledit balliu présenta au Roi, pour une
+                coupe de cristal laquelle pesoit 4 mars et demi, à raison de 40 besans le marc .......................
+                bes. 180.</p>
+                <lb/>
+                <p xml:id="d001l13" n="">Che que ledit balliu présenta au tricoplier, pour une coupe qui pesa 2 mars et demi,
+                à raison de 36 besans le marc ....................... bes. 90.<lb/>Che qui fut fait
+                de grasse aux uissiers du Roi et de monseigneur le Conte et de monseigneur le Princep
+                au jour des estrines du jour de l'an ........................ bes. 50.<lb/>Che que
+                ledit Raouche de Monteron despendi faisant les besongnes de monseigneur alant au Caqui,
+                au Radip et à Framagouste .................. bes. 60.</p>
+                <lb/>
+                <p xml:id="d001l14" n="">Pour achat d'un coffre genevois pour mettre la monnoie de monseigneur dedens .....................
+                bes. 25.<lb/>Che qui fu donné de grasse aux serjans dou balliu et dou viscompte de
+                Nichossie ..................... bes. 12.<lb/>Pour l'acat de 2 bues pour le casal de
+                Conodora .................. bes. 55.<lb/>Et che qui fu despendu pour la vente des bléages
+                par la main de Todre le vendour par tout le mois de février, ensi comme il contient
+                en la conte général ..................... bes. 244, den. 40.<lb/>Et la devise:<lb/>Pour
+                les casaus de Morfittes .................. bes. 8 et demi.<lb/>Pour le casal de Conodore
+                .................... bes. 236, den. 16.</p>
+                <lb/>
+                <p xml:id="d001l15" n="">Par cheste raison et conte, reste que remaint en la main doudit Raouche de Monteron,
+                balliu, abbatant tous despens par tout février de l'an MCCCLIIII de Christ .....................
+                bes. 19.648, den. 44.<lb/>L'entrée des besans en la main doudit Raouche de Monteron
+                pour un an, par tout février del an MCCCLV de Christ et che que li desous nommé rechurent
+                pour li et par son commandement ............ bes. 25.051, den. 31.<lb/>Et la devise:<lb/>Che
+                que ledit balliu rechut ................ bes. 9.711, den. 31.</p>
+                <lb/>
+                <p xml:id="d001l16" n="">Et la devise:<lb/>Dou casal de Morfittes .................. bes. 3.404, den. 7.<lb/>Et
+                la devise:<lb/>De vente de 188 muis de fourment, vendu audit casal de Morfittes ............................
+                bes. 376.<lb/>De vente de 671 mui d'orge, vendus audit liu de Morfittes ......................
+                bes. 563, den. 29.<lb/>De Todre le Vendeur, pour orge qu'il vendi ...................
+                bes. 86.<lb/>De vente de palle de Morfittes ................... bes. 460.</p>
+                <lb/>
+                <p xml:id="d001l17" n="">Et la devise:<lb/>Che que fu vendu à menu ès aires .............. bes. 160.<lb/>Pour
+                2 hosteirs plains de palle, lesquels furent vendus pour 428 besans, desquels les catepains
+                de Morfittes rechurent .............................128 bes.<lb/>Et che qui demeure
+                en la main dudit balliu ................ bes. 300.<lb/>Dou cathepanage de Morfittes,
+                de Niquifore le chatepen ........................................ bes. 1.700.<lb/>Et
+                che que le dit balliu rechut quant il vint en Chipre, dou remanant que Todre le Vendour
+                avoit en sa main, de vente du blé de Morfittes .................. bes. 218, den. 26.<lb/>Dou
+                casal de Conodre ............. bes. 6.307 et demi.</p>
+                <lb/>
+                <p xml:id="d001l18" n="">Et la devise:<lb/>De la vente de 77 muis de fourment vendus au casal de Conodora ............................
+                bes. 154.<lb/>De la vente de 155 muis d'orge ..................... bes. 44.<lb/>De
+                la vente de 200 summes de palle ................... bes. 25.<lb/>De papa Jehan Perati
+                pour le cathepanage de Conodre ...................................... bes. 1.800.<lb/>De
+                vente de blé vendu à Famagouste par la main doudit papa Jehan .......... bes. 1.106
+                et demi.<lb/>De la vente de 178 muys d'orge que ledit bailly Rauche reçut pour la provende
+                de ses asnes, à raison d'un muy au besan ......................... bes. 178.</p>
+                <lb/>
+                <p xml:id="d001l19" n="">Et ce que ledit bailly reçut de l'asenement que monseigneur a à Sivorin, casal dou
+                Roy, cucre em pris de 3000 besans ................................. 3.000.<lb/>Et la
+                devise:<lb/>Ce que ladite Segrète de voit par tout l'an MCCCLIIII de Crist .....................
+                bes. 2.500.<lb/>Et dou noveau par tout aoust de l'an MCCCLIIII de Crist, pour 6 mois
+                ...................... bes. 500.<lb/>Et ce que les desubznomés receurent par le coumandement
+                doudit bailly Rauche de Monteron partout févryer de l'an MIIICLV .......... bes. 15.340.</p>
+                <lb/>
+                <p xml:id="d001l20" n="">Et la devise:<lb/>A la main de Jehan Empérial, genevois, enssy qu'il est escript à
+                la Segrète ........... bez. 6.840.<lb/>A la main de sire Nicole d'Alixandre, enssy
+                comme il contient meismes à la Segrète .......... bez. 8.500.<lb/>Et dou remanant qui
+                demura par tout févryer de l'an MCCCLIIII .......... bes. 19.648, den. 44.<lb/>La some
+                de toute la recepte que ledit Rauche de Monteron reçut viell et nouvel par tout févryer
+                de l'an MCCCLV, qui est 1 an et 4 mois, monte ................... bes. 44.700, den.
+                27.</p>
+                <lb/>
+                <p xml:id="d001l21" n="">Et la devise:<lb/>Dou vieil et dou nouvel, par bez. 19.648, den. 44. tout févryer de
+                MIIIcLV<lb/>de Crist ........................ bez. 25.051, den. 31.<lb/>L'issue des
+                susdiz besans par la main doudit Rauche de Monteron, bailly, par tout le XXIIIIe jour
+                de novembre de l'an MCCCLV ........ bez. 1.280.</p>
+                <lb/>
+                <p xml:id="d001l22" n="">Et la devise:<lb/>Pour une coupe d'argent que ledit Raouche présenta au tricoplier,
+                pesant 2 mars, à raison de 27 bez.<lb/>le marc, montent .............................
+                bez. 56.<lb/>Pour maçonnement du mur qui est au grenier et pour la ceminée ..................................
+                bez. 7.<lb/>Pour cange de menus deniers à gros, qui furent balliés à Janot Empérial,
+                pour 3.000 bes. de cange ... bez. 20.</p>
+                <lb/>
+                <p xml:id="d001l23" n="">Che qui fut donné de grasse à Gorge Mauromato, pour ledit cange qu'il fist .................
+                bez. 20.<lb/>Pour les gages doudit balliu pour 10 mois ......... bez. 1.000.<lb/>Che
+                que lidis ballius donna à Jaquemart pour che qu'il porta lettres à messire Jehan d'Enghien
+                fasant li à savoir le cange qui fu fait ........... bez. 150.</p>
+                <lb/>
+                <p xml:id="d001l24" n="">Che que lidis ballius despendi quant il fu au Caqui, au prendre congié du Roi ....................
+                bez. 15.<lb/>Pour achat de 4 muis de semenche de langouste pour les esclaus de Conodora
+                ............... bez. 12.<lb/>Par chesti conte remaint en la main doudit balliu, viel
+                et nouviau, par tout février de l'an MCCCLV ...... bez. 43.420, den. 27.</p>
+                <lb/>
+                <p xml:id="d001l25" n="">L'entrée des bezans parvenus en la main du balliu Raouche de Monteron par tout décembre
+                de l'an MCCCLVI ................... bez. 6.041, den. 32.<lb/>Et la devise:<lb/>Dou
+                casal de Morfittes ............... bez. 3.915.<lb/>Et la devise:<lb/>De vente de fourment
+                et d'orge vendu à l'abé de l'Episcopie ................................. bez. 1.720.<lb/>Et
+                la devise:<lb/>Pour 150 muis de fourment ........... bez. 400.<lb/>Et pour 800 muis
+                d'orge ............. bez. 1.320.</p>
+                <lb/>
+                <p xml:id="d001l26" n="">Encore de ventes d'orge à la Funde, vendu par Todre le Vendeur ............................
+                bez. 515.<lb/>Dou catepanage de Morfittes par la main de Niquifore le catepen .............................
+                bez. 1.680.<lb/>Dou casal de Conodora ...... bez. 2.126 den. 32.<lb/>Et la devise:<lb/>De
+                vente d'orge vendu à l'abé de l'Episcopie, pour 350 muis à raison de 6 cafis à bezan,
+                qui montent ............... bez. 466, den. 32.</p>
+                <lb/>
+                <p xml:id="d001l27" n="">Dou catepanage de Conodora par la main de papa Jehan Touperati le catepen .............
+                bez. 1.420.<lb/>De la vente de 2 esclaus de demaine ............ bez. 140.<lb/>Encore
+                de papa Janni Perati che que il avoit cuelli de la semalle que la gent devoient de
+                l'anée passée .............. bez. 100.<lb/>Et dou remanant du conte de l'anée passée
+                ......... bez. 43.420, den. 27.<lb/>Toute la summe de l'entrée des bezans parvenus
+                en la main doudit Raouche de Monteron, balliu, par tout le mois de décembre de l'an
+                nostre seigneur MCCCLVI ................ bez. 49.462, den. 11.</p>
+                <lb/>
+                <p xml:id="d001l28" n="">L'issue des bezans par la main doudit balliu Raouche de Monteron par tout décembre
+                de l'an nostre seigneur MCCCLVI, que li dis ballius fu en Cipre, et che que li dis
+                ballius despendi hors du roiaume de Gipre selonc son dit ................ bez. 44.212.<lb/>De
+                laquele summe li dis ballius a pris sur li, devant le Secrète Roial de Cipre, à rendre
+                le conte boin et raisonable à cheaus qui l'auront à oïr et à rechevoir, car autrement
+                Gorge Mosconne ne li voloit rechevoir ni aquellir.</p>
+                <lb/>
+                <p xml:id="d001l29" n="">Et la devise:<lb/>Che que li dis Raouch dist qu'il ha envoiés à monseigneur le duc,
+                desquels doit monstrer cauteles raisonables comment il les ha envoiés et savoir la
+                vérité s'il est ensi comme li dis Raouche dist .... bez. 40.729.<lb/>Et la devise:<lb/>Par
+                la main de Jehan Empérial, genevois, selonc le dit doudit balliu et l'acort qui fist
+                o lui ... bez. 13.480.<lb/>Et la devise:<lb/>Pour 2.000 florins à donner audit monseigneur,
+                à Paris ........................................ bez. 8.000.<lb/>Et che qui li donna
+                de gengne, à raison de 60 florins pour milier, selon l'acort que li dis ballius dist
+                qui fist o lui ............................ bez. 480.<lb/>Encore, pour le cange de
+                200 onches de karlins à donner à Bruges au commandement de monseigneur, à raison de
+                25 bezans pour onche ...... bez. 5.000.</p>
+                <lb/>
+                <p xml:id="d001l30" n="">Par la main de sire Nichole de Alixandre, pour 2.000 florins d'or à donner à monseigneur
+                à Paris ... bez. 8.500.<lb/>Par la main de sire Pol Moresin, vénicien, pour donner
+                à monseigneur ou à son commandement, en Venise, selonc le dit doudit balliu, pour 4.455
+                florins et demi, selonc l'acort que li dis ballius dist qu'il fist à li en Famagouste
+                .................... bez. 18.749.<lb/>Et la devise:<lb/>Le premier cange, pour 3.755
+                florins et demi ......... bez. 15.774.<lb/>Et le secont cange, pour 700 florins ....
+                bez. 2.975.<lb/>Et pour autre despense que li dis Raouche dist qu'il fist depuis qu'il
+                se parti de Cipre jusques à tant qu'il retourna et viunt en Cipre ............. bez.
+                3.483.</p>
+                <lb/>
+                <p xml:id="d001l31" n="">Et la devise:<lb/>Pour les gages doudit balliu pour I an par tout décembre de l'an
+                MCCCLVI ........... bez. 1.200.<lb/>A mesire Piere Yatro d'Ataines, che que monseigneur
+                le duc li devoit dou conte de Cipre et li dis Raouche paia ledit mesire Piere par le
+                commandement dou dit monseigneur le duc ...... bez. 1.000.<lb/>Che que li dis ballius
+                donna de naule quant il vint en Cipre premièrement, florins 15, qui montent... bez.
+                60.<lb/>A Jaquemart le serviteur doudit balliu, lequel il manda en Puille avoec lettres,
+                pour 35 florins d'or ... bez. 140.<lb/>Pour naule que li dis ballius donna pour li
+                et pour 2 serviteurs à sa retournée qu'il fist en Cipre la secunde fois, pour 45 florins
+                d'or ....... bez. 180.</p>
+                <lb/>
+                <p xml:id="d001l32" n="">Pour le mengier doudit balliu et de sez 2 serviteurs, pour 4 florins d'or ....................
+                bez. 16.<lb/>Che li que li dis ballius donna, selonc son dit, por son nauli de Liche
+                à Barlette qu'il dist qu'il ala par le commandement de monseigneur Jehan d'Enghien,
+                florins d'or 10 qui sunt ....................... bez. 40.<lb/>Che que li dis ballius
+                dist qu'il donna à Jaquemart par le commandement de monseigneur Jehan d'Enghien, pour
+                envoier le dit Jaquemart de Puille en Franche, pour 30 florins d'or ............ bez.
+                120.<lb/>Che que li dis ballius dist qu'il despendi quant il parti d'Autrente pour
+                aler à Naples en Romenie par le commandement de monseigneur Jehan d'Enghien, florins
+                d'or 35, montent .................... bez. 140.</p>
+                <lb/>
+                <p xml:id="d001l33" n="">Che que li dis ballius dist qu'il dena pour nauli, pour lui et 2 personnes, quant il
+                vint en Cipre autre fois, pour 30 florins ......................... bez. 120.<lb/>Pour
+                la despense de 4 turcs que li dis ballius mena de Naples en Romenie en Cipre ............
+                bez. 62.<lb/>Et la devise:<lb/>Pour leur nauli de Rodes à Famagouste .... bes. 48.<lb/>Pour
+                leur mengier pour 18 jours en Rodes ... bez. 6.<lb/>Encore pour leur mengier de Rodes
+                en Cipre ........... bez. 8.</p>
+                <lb/>
+                <p xml:id="d001l34" n="">Che que li dis ballius perdi pour le cucre qu'il eut de la Secrète, de l'asenement
+                de monseigneur de l'anée passée, lequel perdi à 50 bezans pour quintal, lequel cucre
+                avoit donné à sire Jehan Empérial, genevois, monte la perte selonc que lidis ballius
+                fist conte avoec li ..................................... bez. 250. <lb/>Che que li
+                dis ballius despendi depuis qu'il revint en Cipre, de l'an [MCCC]LVI ..............
+                bez. 155.<lb/>Et la devise:<lb/>Pour 2 coupes d'argent dorées qu'il présenta au tricoplier,
+                pesans 3 mars, à raison de 30 bez. le marc ...............................................
+                bez. 90.<lb/>Pour grâce que li dis ballius donna as uissiers dou Roi et de monseigneur
+                ................. bez. 20.</p>
+                <lb/>
+                <p xml:id="d001l35" n="">Che que il donna au catepain de Morfittes, por une robe ...........................................
+                bez. 25.<lb/>Item, che que il donna à Limbitito Varrango, pour une autre robe ..................................
+                bez. 20.<lb/>Par la desusditte raison et conte, demore en la main dou desusdit balliu
+                Raouche de Monteron par tout décembre de l'an nostre seigneur MCCCLVI ............
+                bez. 5.250, den. 11.</p>
+                <lb/>
+                <p xml:id="d001l36" n="">Encore li dis ballius rechut ou mois de septembre de l'an MCCCLVII, de l'assenement
+                que monseigneur le duc ha sur le casal de Sivori, chest à savoir pour 2 quintals de
+                cucre que li dis Raouche rechut dou casal dou Roi apellé Palleoquitro ou mois de décembre
+                de l'an [MCCC]LVI, lequel cucre fu vendu par la main de sire Pol Moregine, à Famagouste,
+                à raison de 450 bezans le quintal, de che falli au caban 3 rotuls et demi, demeure
+                1 quintal et 96 rotuls et demi, qui monte ............. bez. 883, den. 12.<lb/>Ensi
+                montent les 2 summes de la monnoie demorée nettement en la main du dit Raouche, tous
+                despens mis et aquellis selonc son dit et conte .................. bez. 6.133, den.
+                33.</p>
+                <lb/>
+            </div1>
+        </body>
+    </text>
+</TEI>

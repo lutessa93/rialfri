@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="MOTTIVALENTINAVISCONTI-mottiValentinaVisconti">
+                    <title type="short">Motti di Valentina Visconti</title>
+                    <abbr>Motti di Valentina Visconti</abbr>
+                    <note xml:id="note1">post 1389, Milano</note>
+                    <bibl>Alfred Coville, <emph style="font-style:italic">Valentine Visconti et Charles d’Orléans</emph>, in «Journal des Savants», 4a serie, 12 (1914), pp. 15-26.</bibl>
+                </title>
+                <author xml:id="MOTTIVALENTINAVISCONTI" n="138.000">
+                    <name></name>
+                    <abbr></abbr>
+                </author>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale e messa in linea</resp>
+                    <name>Francesca Gambino</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Reference basis text</resp>
+                    <name>Alfred Coville, <emph style="font-style:italic">Valentine Visconti et Charles d’Orléans</emph>, in «Journal des Savants», 4a serie, 12 (1914), pp. 15-26.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.rialfri.eu">RIALFrI</ref>
+                </publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <notesStmt>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>Alfred Coville, <emph style="font-style:italic">Valentine Visconti et Charles d’Orléans</emph>, in «Journal des Savants», 4a serie, 12 (1914), pp. 15-26.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t5"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work">
+                <p xml:id="d001l1" n=""><lb/>I.<lb/> <lb/>Loyauté passe tout. <lb/> <lb/></p>
+                <lb/>
+                <p xml:id="d001l2" n=""><lb/>II.<lb/> <lb/>Plus hault.<lb/> <lb/></p>
+                <lb/>
+                <p xml:id="d001l3" n=""><lb/>III.<lb/> <lb/>A bon Droit.<lb/> <lb/></p>
+                <lb/>
+                <p xml:id="d001l4" n=""><lb/>IV.<lb/> <lb/>Rien ne m’est plus, plus ne m’est riens.</p>
+                <lb/>
+                <lb/>
+                <lb/>
+                <lb/>
+                <lb/>
+                <lb/>
+                <lb/>
+                <lb/>
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="SCRITTEASHB1076-scritteAshb1076">
+                    <title type="short">Scritte avventizie del ms. Ashburnham 1076</title>
+                    <abbr>Scritte avventizie del ms. Ashburnham 1076.</abbr>
+                    <note xml:id="note1">XIV-XV sec.</note>
+                    <bibl>Scritte avventizie e prove di penna francesi (secc. XIV-XV) del codice Firenze, Biblioteca Medicea Laurenziana, Ashburnham 1076.</bibl>
+                </title>
+                <author xml:id="SCRITTEASHB1076" n="188.000">
+                    <name></name>
+                    <abbr></abbr>
+                </author>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata e marcatura digitale</resp>
+                    <name>Francesca Gambino</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Reference basis text</resp>
+                    <name>Scritte avventizie e prove di penna francesi (secc. XIV-XV) del codice Firenze, Biblioteca Medicea Laurenziana, Ashburnham 1076.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.rialfri.eu">RIALFrI</ref>
+                </publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <notesStmt>
+                <note type="edizione">
+                    Cfr. Fabrizio Cigni, <i>Due nuove acquisizioni all’atelier pisano-genovese: il "Régime du corps" laurenziano e il canzoniere provenzale p (Gaucelm Faidit); con un’ipotesi sul copista Nerius Sanpantis</i>, in «Studi mediolatini e volgari», 59 (2013), pp. 107-125.
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>Scritte avventizie e prove di penna francesi (secc. XIV-XV) del codice Firenze, Biblioteca Medicea Laurenziana, Ashburnham 1076.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t3"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work">
+                <lb/>
+                <lb/>
+                <p xml:id="d001l1" n="">{{}}<lb/></p>
+                <lb/>
+                <p xml:id="d001l2" n="1" rend="1">c. 48: donay bourguin(g)one e(n) flandre</p>
+                <lb/>
+                <p xml:id="d001l3" n="2" rend="2">c. 63v: Robin se dnt (sedat?) de donay</p>
+                <lb/>
+                <p xml:id="d001l4" n="3" rend="3">c. 62v {{Dopo l'ultimo testo:}}Piot illut prost<lb/>{{e ancora sotto:}}De quinq(ue)
+                piut (prut?) duolz alisot sa/ciant quinq(ue) maneyot ema(n)t<lb/>De quinq(ue) duolz
+                alisot sa/ciant quinq(ue)<lb/></p>
+                <lb/>
+                <p xml:id="d001l5" n="">c 62r{{Preghiera alla Vergine composta di sei paragrafi in prosa:}}</p>
+                <lb/>
+                <p xml:id="d001l6" n="1" rend="1">Un son noviaus vous dirai la Virge qu'il a tant debonereté. Douce<lb/>Dame nete et pure
+                et entiere, par vous furent pecheors delivrés de<lb/>la dolor ou il estoient livrés.
+                Douce Dame, voies a ton fis prier qu'il<lb/>ait merci de nos pour sa bonté. Onques par
+                vous ne fu gerre menee,<lb/>chastiaus brisiés ne home deserités ...<lb/></p>
+                <lb/>
+                <p xml:id="d001l7" n="">c. 62nb{{Preghiera in octosyllabes:}}<lb/>Novele amor qui tant m’apree / Me fet de la
+                Virge chanter / Cele en qui je mis ma pensee/ qui a pover de nos sauver<lb/></p>
+                <lb/>
+                <p xml:id="d001l8" n="">c. 62v{{Invocazione in francoitaliano:}}<lb/>[…] tu […]oit ma(n)t contra ton[…]sino
+                nostro sire / te ferai droit en te merchies / et dois pas dire so que tu / no(n) vois
+                faire ainsi fait / lo dres m(er)chans et loiaus</p>
+                <lb/>
+                <lb/>
+            </div1>
+        </body>
+    </text>
+</TEI>

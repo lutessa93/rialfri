@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="ALISCANSFRAMMBOLOGNA-aliscansFrammBologna">
+                    <title type="short">Bataille d'Aliscans, frammento di Bologna</title>
+                    <title type="alt">Aliscans (Bataille de), frammento di Bologna</title>
+                    <abbr>Bataille d'Aliscans, frammento di Bologna</abbr>
+                    <note xml:id="note1">XIII sec.</note>
+                    <bibl>Armando Antonelli, <emph style="font-style:italic">Brandelli d'epica. I. Chanson de Aliscans</emph>, in «Medioevo romanzo», 36, 2 (2012), pp. 281-309: 296-298.</bibl>
+                </title>
+                <author xml:id="ALISCANSFRAMMBOLOGNA" n="011.000">
+                    <name></name>
+                    <abbr></abbr>
+                </author>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata e marcatura digitale</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Reference basis text</resp>
+                    <name>Armando Antonelli, <emph style="font-style:italic">Brandelli d'epica. I. Chanson de Aliscans</emph>, in «Medioevo romanzo», 36, 2 (2012), pp. 281-309: 296-298.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.rialfri.eu">RIALFrI</ref>
+                </publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <notesStmt>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>Armando Antonelli, <emph style="font-style:italic">Brandelli d'epica. I. Chanson de Aliscans</emph>, in «Medioevo romanzo», 36, 2 (2012), pp. 281-309: 296-298.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t1"/>
+                <keywords>
+                    <term type="form">poetry</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work">
+                <lb/>
+                <p xml:id="d001l1" type="title" n="">I.</p>
+                <lb/>
+                <lb/>
+                <p xml:id="d001l2" type="title" n="">c. 1 recto</p>
+                <lb/>
+                <l xml:id="d001l3" n="1">…</l>
+                <l xml:id="d001l4" n="2">…</l>
+                <l xml:id="d001l5" n="3">…</l>
+                <l xml:id="d001l6" n="4">…</l>
+                <l xml:id="d001l7" n="5">…</l>
+                <l xml:id="d001l8" n="6">…</l>
+                <l xml:id="d001l9" n="7">…</l>
+                <l xml:id="d001l10" n="8">Sainte Marie, reïne coronee,</l>
+                <l xml:id="d001l11" n="9">Quar fuse gie morte et enterree!</l>
+                <l xml:id="d001l12" n="10">Ma granz dolors n'ert gemais obliee</l>
+                <l xml:id="d001l13" n="11">Josque jo ere en la terre botee».</l>
+                <l xml:id="d001l14" n="12">Adonc i ot mancte lerme ploree.</l>
+                <l xml:id="d001l15" n="13">Mout fu li dous en Orenge pesanz;</l>
+                <l xml:id="d001l16" n="14">Plore Guiborc des autres ne sai quanz,</l>
+                <l xml:id="d001l17" n="15">«Sire», dist ele, «o est remés Bertranz</l>
+                <l xml:id="d001l18" n="16">‹E› Guielins et Guischars l‹e va›llanz,</l>
+                <l xml:id="d001l19" n="17">‹G›auters de Termez, Gaudens e Guinemanz,</l>
+                <l xml:id="d001l20" n="18">E Vivïens li hardiz combatanz</l>
+                <l xml:id="d001l21" n="19">Que jo norri ot mei plus de VII anz</l>
+                <l xml:id="d001l22" n="20">E li barnages de la terre des Franz,</l>
+                <l xml:id="d001l23" n="21">Que te bellai quant de ci fus tornanz?</l>
+                <l xml:id="d001l24" n="22">Rendéz les mei sains et saus et vivanz».</l>
+                <l xml:id="d001l25" n="23">«Dame», dist il, «mort sunt en Alischanz.</l>
+                <l xml:id="d001l26" n="24">De‹ci› la mer dejoste les Archanz</l>
+                <l xml:id="d001l27" n="25">T‹ro›vames Turs, Sarazins et Persanz,</l>
+                <l xml:id="d001l28" n="26">Ceus de Palerme e toz les Gorgacansz,</l>
+                <l xml:id="d001l29" n="27">E ceus de Sutre et toz les Agolanz,</l>
+                <l xml:id="d001l30" n="28">Les Minconeus et toz les Aufricanz,</l>
+                <l xml:id="d001l31" n="29">Ceus de Mamiste, les filz Maresalanz</l>
+                <lb/>
+                <lb/>
+                <p xml:id="d001l32" type="title" n="">c. 1 verso</p>
+                <lb/>
+                <l xml:id="d001l33" n="30">…</l>
+                <l xml:id="d001l34" n="31">…</l>
+                <l xml:id="d001l35" n="32">…</l>
+                <l xml:id="d001l36" n="33">…</l>
+                <l xml:id="d001l37" n="34">…</l>
+                <l xml:id="d001l38" n="35">…</l>
+                <l xml:id="d001l39" n="36">… t le fist …</l>
+                <l xml:id="d001l40" n="37">Girarz meis niés, del Gomarquis li franz,</l>
+                <l xml:id="d001l41" n="38">Guischars li proz, Gauters et Elinanz</l>
+                <l xml:id="d001l42" n="39">Sur tos les autres fu Vivïens aidanz</l>
+                <l xml:id="d001l43" n="40">Quar anc ne fu por Sarazins fuianz,</l>
+                <l xml:id="d001l44" n="41">Par nulle force sol plem piè reculanz</l>
+                <l xml:id="d001l45" n="42">Mas de paians fu li plantez si granz</l>
+                <l xml:id="d001l46" n="43">E tant en vint des nies et des chalanz</l>
+                <l xml:id="d001l47" n="44">E des dromonz et des esqueis corranz</l>
+                <l xml:id="d001l48" n="45">Anc tant n'en vit nus hom[e] qui seit vivanz</l>
+                <l xml:id="d001l49" n="46">D'escuz et de armes fu ‹c›uverz li Archanz</l>
+                <l xml:id="d001l50" n="47">Contre un des noz i ot ben .C. Persanz.</l>
+                <l xml:id="d001l51" n="48">Mort sunt mi home, n'en n'est unz eschapanz</l>
+                <l xml:id="d001l52" n="49">E jo meismes navrez par mi les flanz.</l>
+                <l xml:id="d001l53" n="50">Tant i estui, sens menconge disanz,</l>
+                <l xml:id="d001l54" n="51">Qu'en .XXX. loes fu roz mis chaceranz,</l>
+                <l xml:id="d001l55" n="52">De mon escu nen enter dos espanz,</l>
+                <l xml:id="d001l56" n="53">Toz fu quasez mis verz elmes luisanz,</l>
+                <l xml:id="d001l57" n="54">Par mes espalles, par les laz dependanz.</l>
+                <l xml:id="d001l58" n="55">Ne m'en blasmez, si ge m'en soi fuianz».</l>
+                <l xml:id="d001l59" n="56">«Non faz veir», sire, «Ihesus vos seit garanz!»</l>
+                <l xml:id="d001l60" n="57">Granz fu li dous el palais segnoriz;</l>
+                <l xml:id="d001l61" n="58">Les gentis dames plorent par lor mariz</l>
+            </div1>
+        </body>
+    </text>
+</TEI>

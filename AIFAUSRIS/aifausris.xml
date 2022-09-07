@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="AIFAUSRIS-aifausris">
+                    <title type="short">Aï faus ris, pour quoi traï aves</title>
+                    <abbr>Aï faus ris</abbr>
+                    <note xml:id="note1">1306-1308</note>
+                    <bibl>Lucia Lazzerini, <emph style="font-style:italic">Osservazioni testuali in margine al discordo trilingue "Aï faus ris"</emph>, in "Studi danteschi", 68 (2003), pp. 140-65, alle pp. 164-65.</bibl>
+                </title>
+                <author xml:id="AIFAUSRIS" n="044.000">
+                    <name>Dante Alighieri</name>
+                    <abbr>Dante</abbr>
+                </author>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata e marcatura digitale</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Reference basis text</resp>
+                    <name>Lucia Lazzerini, <emph style="font-style:italic">Osservazioni testuali in margine al discordo trilingue "Aï faus ris"</emph>, in "Studi danteschi", 68 (2003), pp. 140-65, alle pp. 164-65.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.rialfri.eu">RIALFrI</ref>
+                </publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <notesStmt>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>Lucia Lazzerini, <emph style="font-style:italic">Osservazioni testuali in margine al discordo trilingue "Aï faus ris"</emph>, in "Studi danteschi", 68 (2003), pp. 140-65, alle pp. 164-65.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t3"/>
+                <keywords>
+                    <term type="form">poetry</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work">
+                <l xml:id="d001l1" n="1">Aï faus ris, pour quoi traï m'avez</l>
+                <l xml:id="d001l2" n="2"><emph style="font-style:italic">{{ocule meus? et quid tibi feci,}}</emph></l>
+                <l xml:id="d001l3" n="3"><emph style="font-style:italic">{{che fatta m’hai sì dispietata fraude?}}</emph></l>
+                <l xml:id="d001l4" n="4"><emph style="font-style:italic">{{Iamque audissent verba mea Greci!}}</emph></l>
+                <l xml:id="d001l5" n="5">Se onques autres, dames, et vous savez</l>
+                <l xml:id="d001l6" n="6"><emph style="font-style:italic">{{che ’ngannator non è degno di laude.}}</emph></l>
+                <l xml:id="d001l7" n="7"><emph style="font-style:italic">{{Tu sai ben come gaude}}</emph></l>
+                <l xml:id="d001l8" n="8"><emph style="font-style:italic">{{miserum eius cor qui prestolatur:}}</emph></l>
+                <l xml:id="d001l9" n="9">en li esperant qui pas de lui ne cure.</l>
+                <l xml:id="d001l10" n="10">Ai Dieus, quantes malure</l>
+                <l xml:id="d001l11" n="11"><emph style="font-style:italic">{{atque fortuna ruinosa datur}}</emph></l>
+                <l xml:id="d001l12" n="12"><emph style="font-style:italic">{{a colui ch’aspettando il tempo perde,}}</emph></l>
+                <l xml:id="d001l13" n="13"><emph style="font-style:italic">{{né già mai tocca di fioretto il verde.}}</emph></l>
+                <lb/>
+                <l xml:id="d001l14" n="14"><emph style="font-style:italic">{{Conqueror, cor suave, de te primo,}}</emph></l>
+                <l xml:id="d001l15" n="15"><emph style="font-style:italic">{{che per un matto guardamento d’occhi}}</emph></l>
+                <l xml:id="d001l16" n="16">vous ne dovriez avoir perdu la loi:</l>
+                <l xml:id="d001l17" n="17"><emph style="font-style:italic">{{mal mi piace che li dard'e stocchi}}</emph></l>
+                <l xml:id="d001l18" n="18"><emph style="font-style:italic">{{semper insurgant contra me de himo,}}</emph></l>
+                <l xml:id="d001l19" n="19">dont je serai mort, par foi que je croi.</l>
+                <l xml:id="d001l20" n="20">Fort me desplait pour moi,</l>
+                <l xml:id="d001l21" n="21"><emph style="font-style:italic">{{ch’io son punito ed aggio colpa nulla,}}</emph></l>
+                <l xml:id="d001l22" n="22"><emph style="font-style:italic">{{nec dicit ipsa: “Malum est de isto”:}}</emph></l>
+                <l xml:id="d001l23" n="23"><emph style="font-style:italic">{{unde querelam sisto.}}</emph></l>
+                <l xml:id="d001l24" n="24"><emph style="font-style:italic">{{Ella sa ben che se ’l mio cor si crulla}}</emph></l>
+                <l xml:id="d001l25" n="25">a penser d’autre, que de li amour lessoit,</l>
+                <l xml:id="d001l26" n="26">li faus cuers grant paine an porteroit.</l>
+                <lb/>
+                <l xml:id="d001l27" n="27"><emph style="font-style:italic">{{Ben avrà questa donna cor di ghiaccio}}</emph></l>
+                <l xml:id="d001l28" n="28">et tant d’aspresse que, par ma foi, est fors,</l>
+                <l xml:id="d001l29" n="29"><emph style="font-style:italic">{{nisi pietatem habuerit servo.}}</emph></l>
+                <l xml:id="d001l30" n="30">Bien set Amours, se je n’en ai secors,</l>
+                <l xml:id="d001l31" n="31"><emph style="font-style:italic">{{che per lei dolorosa morte faccio}}</emph></l>
+                <l xml:id="d001l32" n="32"><emph style="font-style:italic">{{neque plus vitam sperando conservo.}}</emph></l>
+                <l xml:id="d001l33" n="33"><emph style="font-style:italic">{{Ve omni meo nervo,}}</emph></l>
+                <l xml:id="d001l34" n="34">s’ele ne fet que par soun sen verai</l>
+                <l xml:id="d001l35" n="35"><emph style="font-style:italic">{{ch’ïo venga a veder sua faccia allegra.}}</emph></l>
+                <l xml:id="d001l36" n="36"><emph style="font-style:italic">{{Ahï Dio, quant’è integra!}}</emph></l>
+                <l xml:id="d001l37" n="37">Mes je m’en doute, si grant dolor en ai:</l>
+                <l xml:id="d001l38" n="38"><emph style="font-style:italic">{{amorem versus me non tantum curat}}</emph></l>
+                <l xml:id="d001l39" n="39"><emph style="font-style:italic">{{quantum spes in me de ipsa durat.}}</emph></l>
+                <lb/>
+                <l xml:id="d001l40" n="40">Chanson, or puez aler par tout le monde,</l>
+                <l xml:id="d001l41" n="41"><emph style="font-style:italic">{{namque locutus sum in lingua trina}}</emph></l>
+                <l xml:id="d001l42" n="42"><emph style="font-style:italic">{{ut gravis mea spina}}</emph></l>
+                <l xml:id="d001l43" n="43"><emph style="font-style:italic">{{si saccia per lo mondo. Ogn’uomo il senta:}}</emph></l>
+                <l xml:id="d001l44" n="44"><emph style="font-style:italic">{{forse n’avrà pietà chi mi tormenta.}}</emph></l>
+            </div1>
+        </body>
+    </text>
+</TEI>

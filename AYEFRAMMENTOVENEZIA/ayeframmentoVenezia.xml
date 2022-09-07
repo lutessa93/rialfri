@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="AYEFRAMMENTOVENEZIA-ayeframmentoVenezia">
+                    <title type="short">Aye d'Avignon</title>
+                    <abbr>Aye d'Avignon</abbr>
+                    <note xml:id="note1">frammenti di Venezia, fine XIII sec.</note>
+                    <bibl><emph style="font-style:italic">Aye d’Avignon. Chanson de geste anonyme</emph>, édition critique par Samuel J. Borg, Genève, Droz, 1967 («Textes littéraires français»), pp. 309-12.</bibl>
+                </title>
+                <author xml:id="AYEFRAMMENTOVENEZIA" n="020.000">
+                    <name></name>
+                    <abbr></abbr>
+                </author>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata e marcatura digitale</resp>
+                    <name>Francesca Gambino</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Reference basis text</resp>
+                    <name><emph style="font-style:italic">Aye d’Avignon. Chanson de geste anonyme</emph>, édition critique par Samuel J. Borg, Genève, Droz, 1967 («Textes littéraires français»), pp. 309-12.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.rialfri.eu">RIALFrI</ref>
+                </publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <notesStmt>
+                <note type="edizione">
+                    Frammenti di Venezia, Biblioteca Nazionale Marciana, lat. class. XI /129 (4198), cc. 1-2.
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl><emph style="font-style:italic">Aye d’Avignon. Chanson de geste anonyme</emph>, édition critique par Samuel J. Borg, Genève, Droz, 1967 («Textes littéraires français»), pp. 309-12.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t1"/>
+                <keywords>
+                    <term type="form">poetry</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work">
+                <p xml:id="d001l1" type="title" n="">I</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l2" n="1">De dolor s'est pasmee desor le lit atant:</l>
+                <l xml:id="d001l3" n="2">Quant li rois la perçoit, grant merveille l’inprant.</l>
+                <l xml:id="d001l4" n="3">En lor romanz parole, si lor dit hautemant:</l>
+                <l xml:id="d001l5" n="4">«Baron, don estes vos? Ne mel celez noiant. »</l>
+                <l xml:id="d001l6" n="5">Berrangiers le respont: «De France la vaillant.</l>
+                <l xml:id="d001l7" n="6">A la cort Çarlemaine avon fet tel mahant</l>
+                <l xml:id="d001l8" n="7">Nen iert mes acordance a tot nostre vivant. »</l>
+                <l xml:id="d001l9" n="8">Dit Guenors: «Beaus amis, vos dites san d'efant,</l>
+                <l xml:id="d001l10" n="9">Qu'il nen a en ces siegle home tant soit vaillant. »</l>
+                <l xml:id="d001l11" n="10">«Sire, servirons vos se vos vient a talant;</l>
+                <l xml:id="d001l12" n="11">Encontre tote jant vos serons desfendant,</l>
+                <l xml:id="d001l13" n="12">Autrui terre confundre e metre a fou ardant. »</l>
+                <l xml:id="d001l14" n="13">E dit li rois Guenors: «Grant merci vos an rant,</l>
+                <l xml:id="d001l15" n="14">Qui ça estes torné, grant merci vos an rant.</l>
+                <l xml:id="d001l16" n="15">E ne por cant me dites un poi de voz sanblant:</l>
+                <l xml:id="d001l17" n="16">Qui est si belle dame a la chiere riant?</l>
+                <l xml:id="d001l18" n="17">Se bon li est ne bel, a fin or la me vant.</l>
+                <l xml:id="d001l19" n="18">A moiliier la prandrai s'ele le me consant. »</l>
+                <l xml:id="d001l20" n="19">E respont Berrengiers: «Nos n’en farons noiant.</l>
+                <l xml:id="d001l21" n="20">N'est pas costume en France antre la nostre jant</l>
+                <l xml:id="d001l22" n="21">Que nul venda sa feme por nulle rien vivant. »</l>
+                <l xml:id="d001l23" n="22">«Par Mahomet mon deu,» ce dit li rois Guenort,</l>
+                <l xml:id="d001l24" n="23">«Tot tans fu il costume a icest nostre port</l>
+                <l xml:id="d001l25" n="24">Que, se nuls beaus chevaus ne feme i arivort,</l>
+                <l xml:id="d001l26" n="25">Veraiemant l'auroit li rois se lui plesort;</l>
+                <l xml:id="d001l27" n="26">Mes por ce le vos di c'a fin or la vendort. »</l>
+                <l xml:id="d001l28" n="27">E respont Berangiers: «De ce n'i a il mort.»</l>
+                <l xml:id="d001l29" n="28">«Amis,» ce dit li rois, «don me faras tu tort?</l>
+                <l xml:id="d001l30" n="29">Par Mahomet mon deu or me tien tu a sort?</l>
+                <l xml:id="d001l31" n="30">Je ne laroie mie por le tresor roi Lort</l>
+                <l xml:id="d001l32" n="31">Que je ne prange ce que mes ancesstees ort. »</l>
+                <l xml:id="d001l33" n="32">Berrangiers tint la spee don li ponz flanbiort,</l>
+                <l xml:id="d001l34" n="33">Parmi le cef amont an vout ferir Guenort;</l>
+                <l xml:id="d001l35" n="34">Un paien en ferri qui delez lui estort,</l>
+                <l xml:id="d001l36" n="35">Amont sor les espailles que la teste anvalort.</l>
+                <l xml:id="d001l37" n="36">E Amangins li bruns alla ferir Margort;</l>
+                <l xml:id="d001l38" n="37">Dous de tot le plus riches lor i ont gité mort.</l>
+                <l xml:id="d001l39" n="38">Guenors le roi s'anfuit, grant paor ot de mort,</l>
+                <l xml:id="d001l40" n="39">E li François ansenble se ferirent au port.</l>
+                <l xml:id="d001l41" n="40">De la cité sallirent e Turc e Barigort,</l>
+                <l xml:id="d001l42" n="41">E plus de  .C. gallies les anchauce Guenort.</l>
+                <l xml:id="d001l43" n="42">De tote pars la mer les acagnent as bort,</l>
+                <l xml:id="d001l44" n="43">Cum li chien lo sangler quant est venuz a mort;</l>
+                <l xml:id="d001l45" n="44">O il voillent o non, les remaint au port.</l>
+                <l xml:id="d001l46" n="45">Qui lors veït conmaint celé jant s'en aïe!</l>
+                <l xml:id="d001l47" n="46">Il les tirent au port par molt grant aatie;</l>
+                <l xml:id="d001l48" n="47">O il voillent o non, arivent lor galie.</l>
+                <l xml:id="d001l49" n="48">Qui donc oïst cum Aie la duchese s'escrie</l>
+                <l xml:id="d001l50" n="49">E dit a aute voiz: «Aidiez, sainte Marie!</l>
+                <l xml:id="d001l51" n="50">Haï ! fel Berrangiers, li cors Deu te maldie!</l>
+                <l xml:id="d001l52" n="51">Tu m'as gité a tort de doce conpagnie</l>
+                <l xml:id="d001l53" n="52">E fors de dolçe France, o fu soëf norie. »</l>
+                <l xml:id="d001l54" n="53">E Guenorz li respont, qui molt bien l'ot oïe:</l>
+                <l xml:id="d001l55" n="54">«Ne vos esmaiez vos mie, belle suer, douce amie.</l>
+                <l xml:id="d001l56" n="55">Se vos me volez ... oire, Mahomet vos aïe!</l>
+                <l xml:id="d001l57" n="56">Prendrai vos a moiliier, car de feme n'ai mie. »</l>
+                <lb/>
+                <l xml:id="d001l58" n="57">* *  *</l>
+                <lb/>
+                <p xml:id="d001l59" type="title" n="">II</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l60" n="1" rend="">Premerans ont mandé Baidos e Aragon</l>
+                <l xml:id="d001l61" n="2">Des bors e des casteaus e ceus de Carion.</l>
+                <l xml:id="d001l62" n="3">Tant manderent ensenble que  .xiiij. roi son.</l>
+                <l xml:id="d001l63" n="4">E vindrent a Morinde ou trevent le dromon,</l>
+                <l xml:id="d001l64" n="5">Les voilles entaillees par panz e par giron</l>
+                <l xml:id="d001l65" n="6">E bien anfigurees a teste de lion.</l>
+                <l xml:id="d001l66" n="7">De davant anz el celf ot .xiiij. chief de dragon</l>
+                <l xml:id="d001l67" n="8">- Ce fu senefiance que il tant de roi son.</l>
+                <l xml:id="d001l68" n="9">En la terre Guenor prenent lor garison.</l>
+                <l xml:id="d001l69" n="10">E li bers se desfant a coite d'esperon.</l>
+                <l xml:id="d001l70" n="11">Aien a herbergee en une tel meison</l>
+                <l xml:id="d001l71" n="12">Ne savez quex elle est se nos nel vos dison:</l>
+                <l xml:id="d001l72" n="13">Une tor merveillose que Aufelerne ot non.</l>
+                <l xml:id="d001l73" n="14">Desor aval au port arivent maint dromon;</l>
+                <l xml:id="d001l74" n="15">En la roche conversent li sige e li hairon,</l>
+                <l xml:id="d001l75" n="16">En l'autre desertine li hors e li leon.</l>
+                <l xml:id="d001l76" n="17">Se trestuit icil del monde seient environ,</l>
+                <l xml:id="d001l77" n="18">Ne laroient cil de sus ne fable ne chançon,</l>
+                <l xml:id="d001l78" n="19">E que en la douce eve ne prenent li pesson,</l>
+                <l xml:id="d001l79" n="20">E ne chacent les cherf en la forest d'Ardon.</l>
+                <l xml:id="d001l80" n="21">Iluec fu la duchesse trois ainz si an prison;</l>
+                <l xml:id="d001l81" n="22">N'oï vespres ne messes, matines ne sermon,</l>
+                <l xml:id="d001l82" n="23">Ne ne sot rien del siegle, ne quant les festes son.</l>
+                <l xml:id="d001l83" n="24">Il i ot ... raïnes que bien la serviron,</l>
+                <l xml:id="d001l84" n="25">Doucemant par amor e par aflicion;</l>
+                <l xml:id="d001l85" n="26">Se   ...  la loi Tervagant e Mahon.</l>
+                <l xml:id="d001l86" n="27">Elle est e proz e sage de diz e de sermon,</l>
+                <l xml:id="d001l87" n="28">Que nus hom la voit c'an die si bie non;</l>
+                <l xml:id="d001l88" n="29">Ma si bone foi porte Garner le fil Doon</l>
+                <l xml:id="d001l89" n="30">Que onques vers nul home nen ot conversion.</l>
+                <l xml:id="d001l90" n="31">Or le lairomes ci del fil Marsilion,</l>
+                <l xml:id="d001l91" n="32">De Guenor l'Arabi e del fil Gainelon;</l>
+                <l xml:id="d001l92" n="33">E canterons de France, del rice roi Çarlon,</l>
+                <l xml:id="d001l93" n="34">E del bon chevalier, Garner le fil Doon,</l>
+                <l xml:id="d001l94" n="35">Cum il se mist en grant por Aie de Vignon.</l>
+                <l xml:id="d001l95" n="36">Ce fu a une feste del baron sain Richer,</l>
+                <l xml:id="d001l96" n="37">Que li cherf sont tan graisse que l'on les chaicer.</l>
+                <l xml:id="d001l97" n="38">Garner le fil Doon repaire de rivier;</l>
+                <l xml:id="d001l98" n="39">En sa conpagna estoient plus de .c. chevalier.</l>
+                <l xml:id="d001l99" n="40">Li bers se destorna en l'onbre d'un senter,</l>
+                <l xml:id="d001l100" n="41">Par desor l’erbe vert por son cors refreder.</l>
+                <l xml:id="d001l101" n="42">Une çançon fait dire de Robert le vaicer</l>
+                <l xml:id="d001l102" n="43">E de la bone foi Angelart, sa moillier,</l>
+                <l xml:id="d001l103" n="44">Cum garirent de mort lor signor Oliver.</l>
+                <l xml:id="d001l104" n="45">Quant li dux la oï, si li manbra d'Aien;</l>
+                <l xml:id="d001l105" n="46">Tot li sans li fremi, si prit a refrider</l>
+                <l xml:id="d001l106" n="47">Que plus d'une grant liue alast bien un poier</l>
+                <l xml:id="d001l107" n="48">Qu'il ne dit un mot por. la teste trancier.</l>
+                <l xml:id="d001l108" n="49">Atant et vos errant un pellegrin paumer,</l>
+                <l xml:id="d001l109" n="50">et ot la barbe grant, bien la poit trentier,</l>
+                <l xml:id="d001l110" n="51">e escrepe a son col e baston de pomer.</l>
+                <l xml:id="d001l111" n="52">Li dux l'a apellé delez un oliver:</l>
+                <l xml:id="d001l112" n="53">«Pellegrins, don vien tu?» ce li a dit Garnier.</l>
+                <l xml:id="d001l113" n="54">«Sire, de vers Espagne de sain Jaque prier,</l>
+                <l xml:id="d001l114" n="55">E fui vanduz el regne de la jant averser,</l>
+                <l xml:id="d001l115" n="56">il riame a un roi qui molt fait a prisier. »</l>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l116" n="57">{{Si tratta di due frammenti, perché i versi contenuti nei due fogli della Marciana
+                appartengono a parti del testo diverse}}</l>
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,1954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="GESTEFRANCOR_6-gesteFrancor_6">
+                    <title type="short">La Geste Francor, Enfances Ogier le Danois</title>
+                    <title type="alt">Geste Francor, Enfances Ogier le Danois</title>
+                    <abbr>La Geste francor, Enfances Ogier le Danois</abbr>
+                    <note xml:id="note1">prima metà XIV s., Nord-Est (ed.&amp;nbsp;Zarker&amp;nbsp;Morgan)</note>
+                    <bibl><emph style="font-style:italic">La Geste Francor</emph>, Édition of the Chansons de Geste of. MS. Marc. Fr. XIII (=256), with glossary, introduction and notes by Leslie Zarker Morgan, Tempe (Arizona), Arizona Center for Medieval and Renaissance Studies, 2009 («Medieval and Renaissance Texts and Studies», 348).</bibl>
+                </title>
+                <author xml:id="GESTEFRANCOR_6" n="098.000">
+                    <name></name>
+                    <abbr></abbr>
+                </author>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata</resp>
+                    <name>Leslie Zarker Morgan</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale</resp>
+                    <name>Luigi Tessarolo</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Reference basis text</resp>
+                    <name><emph style="font-style:italic">La Geste Francor</emph>, Édition of the Chansons de Geste of. MS. Marc. Fr. XIII (=256), with glossary, introduction and notes by Leslie Zarker Morgan, Tempe (Arizona), Arizona Center for Medieval and Renaissance Studies, 2009 («Medieval and Renaissance Texts and Studies», 348).</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.rialfri.eu">RIALFrI</ref>
+                </publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <notesStmt>
+                <note type="criteri di edizione">&lt;i&gt;Divisione delle parole&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Preposizione e congiunzione sono scritti di seguito
+                    secondo l’uso italiano (per es., &lt;i&gt;Porqe&lt;/i&gt;). Preposizione e articolo determinativo sono
+                    scritti di seguito con il punto in alto (per es., &lt;i&gt;de·l canp&lt;/i&gt;) prima di consonante, ma
+                    separatamente e con l’apostrofo prima di vocale (per es., &lt;i&gt;a l’ami&lt;/i&gt;).&lt;br/&gt;&lt;i&gt;Au&lt;/i&gt;,
+                    la forma velarizzata di &lt;i&gt;a&lt;/i&gt; e &lt;i&gt;l&lt;/i&gt;, nel verso 9424, unica occorrenza
+                    di questa forma, è scritta a sua volta con il punto in alto, &lt;i&gt;a·u&lt;/i&gt;. &lt;br/&gt;&lt;i&gt;Qele&lt;/i&gt;
+                    e &lt;i&gt;dele&lt;/i&gt;, congiunzione o preposizione seguita da pronome femminile, sono scritti &lt;i&gt;Qe
+                    le&lt;/i&gt; e &lt;i&gt;De le&lt;/i&gt;, di nuovo secondo la forma italiana (invece del francese &lt;i&gt;Q’ele&lt;/i&gt;
+                    o &lt;i&gt;D’ele&lt;/i&gt;, che sarebbero pure possibili). &lt;br/&gt;Vocale palatale dopo consonante e prima
+                    di &lt;i&gt;s&lt;/i&gt; impura (per es., &lt;i&gt;sestoit&lt;/i&gt;) è scritta &lt;i&gt;se stoit&lt;/i&gt;
+                    (invece di &lt;i&gt;s’estoit&lt;/i&gt;; cf. &lt;i&gt;a esperon&lt;/i&gt; vs. &lt;i&gt;Le speron&lt;/i&gt;)
+                    dove c’è solo una vocale.&lt;br/&gt;Per &lt;i&gt;aler&lt;/i&gt;, &lt;i&gt;andar(e)&lt;/i&gt;, &lt;i&gt;venir(e)&lt;/i&gt;
+                    e le loro forme, quando vi è la presenza di una &lt;i&gt;a&lt;/i&gt; dopo la forma verbale, la si interpreta
+                    come &lt;i&gt;a&lt;/i&gt; preposizionale prima dell’infinito dipendente (per es., &lt;i&gt;aloit a prender&lt;/i&gt;).
+                    &lt;br/&gt;Per i nomi di luogo che iniziano in &lt;i&gt;A&lt;/i&gt;, o per i verbi con &lt;i&gt;a-&lt;/i&gt;
+                    iniziale, si interpreta l’eventuale mancanza dopo la preposizione &lt;i&gt;a&lt;/i&gt; come un’elisione,
+                    e si rappresenta il fenomeno con l’apostrofo (per es., &lt;i&gt;a ’Ntone&lt;/i&gt; = “a Antone”; &lt;i&gt;a
+                    ’Leris&lt;/i&gt; = “a Aleris”; &lt;i&gt;a ’coler&lt;/i&gt; = &lt;i&gt;a acoler&lt;/i&gt;). &lt;br/&gt;&lt;i&gt;di&lt;/i&gt;:
+                    dove la &lt;i&gt;i&lt;/i&gt; potrebbe essere l’articolo determinativo, si inserisce il punto in alto (&lt;i&gt;d·i
+                    enfant&lt;/i&gt; (v. 633) = “dei bambini”); altrimenti, le due lettere non si separano. &lt;br/&gt;&lt;br/&gt;&lt;i&gt;Abbreviazioni&lt;/i&gt;&lt;br/&gt;(&lt;i&gt;per
+                    chiarezza, le forme sciolte delle abbreviazioni in mezzo alle parole o in mezzo ad una frase qui sono
+                    scritte tra parentesi quadre, ma nel testo sono in corsivo&lt;/i&gt;) &lt;br/&gt;&lt;br/&gt;&lt;b&gt;7:&lt;/b&gt;
+                    È scritta &lt;i&gt;et&lt;/i&gt;, con tre eccezioni (verso 17, e due volte in 15041) dove &lt;i&gt;e&lt;/i&gt;
+                    permette una sillaba di meno nel verso, per mantenere il conto di dieci sillabe: il verso 17 si legge
+                    &lt;i&gt;Morto l’abate, sença nosa [e] tencon&lt;/i&gt;; e il verso 15041, &lt;i&gt;Cun li çivaler vait
+                    [e] arer [e] avant&lt;/i&gt;. &lt;br/&gt;&lt;b&gt;titulus&lt;/b&gt;: Il titulus segnala la mancanza della nasale.
+                    Si segue la forma più comune trovata dove non c’è abbreviazione, cioè, &lt;i&gt;n&lt;/i&gt;.&lt;br/&gt;&lt;b&gt;&lt;i&gt;[r]&lt;/i&gt;&lt;/b&gt;:
+                    Si segue la forma più comune altrove nel testo. Esempi: &lt;i&gt;m[er]&lt;/i&gt;, &lt;i&gt;m[er]velos&lt;/i&gt;,
+                    &lt;i&gt;P[er]sant&lt;/i&gt;, &lt;i&gt;p[re]sant&lt;/i&gt;, &lt;i&gt;p[ri]mer&lt;/i&gt;, &lt;i&gt;p[ri]memant&lt;/i&gt;,
+                    &lt;i&gt;p[ri]nçer&lt;/i&gt;, &lt;i&gt;p[ri]s&lt;/i&gt;, &lt;i&gt;p[ri]sé&lt;/i&gt;, &lt;i&gt;s[er]pant&lt;/i&gt;,
+                    &lt;i&gt;v[er]gognie&lt;/i&gt;. &lt;br/&gt;&lt;b&gt;&#275;:&lt;/b&gt; Per &lt;i&gt;e[st]&lt;/i&gt; 8 volte nei
+                    versi 640, 14102, 14126, 16344, 16671, 16713, 16732, e 16818.&lt;br/&gt;&lt;b&gt;&lt;i&gt;Jesu &#967;&#865;&#961;&#963;&lt;/i&gt;&lt;/b&gt;
+                    appare una volta (v. 9390), per &lt;i&gt;Jesu [Christ]o&lt;/i&gt;.&lt;br/&gt;&lt;b&gt;&lt;i&gt;s&#865;te&lt;/i&gt;&lt;/b&gt;
+                    appare una volta (v. 6187), per &lt;i&gt;s[an]te&lt;/i&gt;. &lt;br/&gt;I &lt;b&gt;nomi propri&lt;/b&gt; si abbreviano
+                    in generale solo per i protagonisti più frequenti. &lt;br/&gt;&lt;b&gt;.K.&lt;/b&gt; si usa per Carlo Magno.
+                    Ci sono otto varianti tra le 88 forme scritte senza abbreviazioni: &lt;i&gt;Karle&lt;/i&gt;, &lt;i&gt;Karloete&lt;/i&gt;,
+                    e &lt;i&gt;Karo&lt;/i&gt; (nelle rubriche); &lt;i&gt;Karles&lt;/i&gt; e &lt;i&gt;Karloto&lt;/i&gt; nel
+                    testo; &lt;i&gt;Karleto&lt;/i&gt; 64 volte, nella sezione di &lt;i&gt;Karleto&lt;/i&gt;; &lt;i&gt;Karlon&lt;/i&gt;,
+                    sempre in rima; &lt;i&gt;Karlo&lt;/i&gt;, all’inizio e nel verso. Nel &lt;i&gt;Karleto&lt;/i&gt; (vv.
+                    5491-9026), dunque, la forma abbreviata è sciolta &lt;i&gt;K[arleto]&lt;/i&gt; con l’eccezione delle forme
+                    in rima dov’è necessario &lt;i&gt;K[arlon]&lt;/i&gt;. Altrove, si è optato per &lt;i&gt;K[arlo]&lt;/i&gt;,
+                    a meno che la rima non richieda &lt;i&gt;K[arlon]&lt;/i&gt;. &lt;br/&gt;&lt;b&gt;.N.&lt;/b&gt; per &lt;i&gt;Naimes&lt;/i&gt;
+                    è frequente. Seguendo le forme scritte per esteso, in rima si dà &lt;i&gt;N[aymon]&lt;/i&gt;; altrove
+                    appare &lt;i&gt;N[aimes]&lt;/i&gt;. &lt;br/&gt;&lt;b&gt;.R.&lt;/b&gt; (&lt;b&gt;&lt;i&gt;.Ro&lt;/i&gt;&lt;/b&gt;.,
+                    Rubriche 530, 580, 581, 585, 617) per Orlando. Nel testo appaiono &lt;i&gt;Rolan&lt;/i&gt; (in rima);
+                    &lt;i&gt;Rolandin&lt;/i&gt;; &lt;i&gt;Rolando&lt;/i&gt;; e &lt;i&gt;Rolant&lt;/i&gt;. Nel testo di &lt;i&gt;Orlandino&lt;/i&gt;,
+                    &lt;i&gt;Rolandin&lt;/i&gt; è la forma preferita, e dunque è questo lo scioglimento usato, a meno che
+                    la rima non richieda un’altra forma. Prima e dopo, secondo il numero di sillabe richieste e l’età del
+                    personaggio si risolve: prima di &lt;i&gt;Orlandino&lt;/i&gt; (vv. 9393, 9480 e 9498) per il bambino e
+                    tre sillabe, &lt;i&gt;R[olandin]&lt;/i&gt;. Dopo l’&lt;i&gt;Orlandino&lt;/i&gt;, però, si usa &lt;i&gt;R[olando]&lt;/i&gt;
+                    per tre sillabe, &lt;i&gt;R[olant]&lt;/i&gt; per due sillabe e nelle rubriche, dove non sono in rima.&lt;br/&gt;&lt;b&gt;.B.&lt;/b&gt;
+                    per &lt;i&gt;B[erte]&lt;/i&gt; (Rubrica 40).&lt;br/&gt;&lt;b&gt;.B.&lt;/b&gt; per &lt;i&gt;B[ra]er&lt;/i&gt;
+                    (Rubrica 363, dopo v. 12649).&lt;br/&gt;&lt;b&gt;.G.&lt;/b&gt; per &lt;i&gt;G[uier]&lt;/i&gt; (Rubrica 112,
+                    dopo v. 4272).&lt;br/&gt;&lt;b&gt;.M.&lt;/b&gt; per &lt;i&gt;Macario&lt;/i&gt; (Rubriche 411 e 413).&lt;br/&gt;&lt;b&gt;.O.&lt;/b&gt;
+                    per &lt;i&gt;O[liver]&lt;/i&gt; (Rubrica 631). &lt;br/&gt;&lt;br/&gt;&lt;i&gt;Emendazioni&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Le aggiunte
+                    editoriali, emendazioni e cancellature sono tra parentesi tonde ( ); le spiegazioni si trovano nelle note
+                    alla fine nel testo stampato. Le parentesi ad angolo &lt; &gt; indicano le letture di altri editori che
+                    non sono chiare ma che sono ragionevoli (spiegazioni nelle note stampate). &lt;br/&gt;&lt;br/&gt;&lt;i&gt;Gli accenti
+                    scritti&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;a. &lt;b&gt;la c con cediglia&lt;/b&gt; &lt;i&gt;Ç&lt;/i&gt; si lascia tale
+                    e quale nell’originale. L’uso non è coerente prima di palatale e dunque l’emendazione sembra illogica.
+                    Per distinguere tra certe forme, però, è stata aggiunta o tolta la cediglia 12 volte: le forme di &lt;i&gt;çuçer&lt;/i&gt;
+                    (&lt; JUDICARE) e lessemi imparentati, nei versi 2824 (&lt;i&gt;(çu(ç)ement&lt;/i&gt;), Rubrica 121 (&lt;i&gt;(ç)uçé&lt;/i&gt;),
+                    11652 (&lt;i&gt;(ç)uçé&lt;/i&gt;), 14730 (&lt;i&gt;(ç)u(ç)ement&lt;/i&gt;), 15345 (&lt;i&gt;çu(ç)ement&lt;/i&gt;);
+                    inoltre, nel verso 4824 &lt;i&gt;(ç)onto&lt;/i&gt; (Ital. “giunto”) (&lt; lat. JUNGERE); &lt;i&gt;(ç)u(b)ler&lt;/i&gt;
+                    (830, per correggere la metatesi dove nel manoscritto si legge &lt;i&gt;bulçer&lt;/i&gt;); &lt;i&gt;(ç)ura&lt;/i&gt;,
+                    v. 4560 (&lt;JURARE per distinzione da &lt;i&gt;curer&lt;/i&gt; &lt; CURARE); &lt;i&gt;(ço)strer&lt;/i&gt;
+                    (v. 897) e &lt;i&gt;(ç)ostraren&lt;/i&gt; (v. 13117) per seguire altre forme di &lt;i&gt;çostrer&lt;/i&gt;;
+                    &lt;i&gt;(ç)ant&lt;/i&gt;, Rubrica 451, dopo v. 16011 (per seguire le altre forme &lt; GENTE(M)). Una
+                    cediglia in più si toglie da &lt;i&gt;(c)oment&lt;/i&gt; (Rubrica 388, dopo v. 3677).&lt;br/&gt;Accenti editoriali
+                    aggiunti:&lt;br/&gt;b. &lt;b&gt;l’accento acuto&lt;/b&gt; si aggiunge solo su &lt;i&gt;-e&lt;/i&gt;. &lt;br/&gt;i.
+                    Per i participi passati (riflessi di, o analoghi a, i riflessi di participi passati della prima coniugazione
+                    latina in -ARE), per distinguerli dalla terza persona singolare o plurale del tempo presente dov’è possibile;
+                    dove non è possibile la distinzione, non c’è accento scritto. &lt;br/&gt;ii. L’acuto si usa anche alla seconda
+                    persona plurale indicativo o imperativo per la prima coniugazione come &lt;i&gt;alé&lt;/i&gt; e &lt;i&gt;alés&lt;/i&gt;,
+                    ma non in &lt;i&gt;-ez/-eç&lt;/i&gt;. &lt;br/&gt;iii. Similmente, le parole con la sillaba tonica che hanno
+                    la stessa struttura: &lt;i&gt;malvés&lt;/i&gt;; &lt;i&gt;jamés&lt;/i&gt;; &lt;i&gt;aprés&lt;/i&gt;; &lt;i&gt;palés&lt;/i&gt;.
+                    Però, dove la tonica non è chiara, come &lt;i&gt;demanes&lt;/i&gt;, non c’è accento scritto (italiano
+                    &lt;i&gt;dománi&lt;/i&gt; o antico francese &lt;i&gt;demanois&lt;/i&gt;?).&lt;br/&gt;iv. Alcune parole di una
+                    sillaba si scrivono con l’accento acuto per distinguerli da altre parole di significato diverso &lt;i&gt;Dé&lt;/i&gt;
+                    (&lt;DEUM, come &lt;i&gt;Damnedé&lt;/i&gt; [&lt;DOMINUS DEUS]); &lt;i&gt;né&lt;/i&gt; (&lt; NATUM); &lt;i&gt;lé&lt;/i&gt;
+                    (ital mod &lt;i&gt;lieto&lt;/i&gt;); &lt;i&gt;mé&lt;/i&gt; (fran mod &lt;i&gt;mais&lt;/i&gt;). Non è possibile
+                    evitare ogni doppiatura; per esempio, &lt;i&gt;ne&lt;/i&gt; può essere la particella negativa e la congiunzione
+                    equivalente al moderno “né”; &lt;i&gt;le&lt;/i&gt; può significare “largo” e “lei” come pronome. &lt;br/&gt;c.
+                    &lt;b&gt;l’accento grave&lt;/b&gt; si aggiunge alle vocali finali &lt;i&gt;a&lt;/i&gt;, &lt;i&gt;e&lt;/i&gt;,
+                    &lt;i&gt;i&lt;/i&gt;, &lt;i&gt;o&lt;/i&gt;. &lt;br/&gt;i. Per la terza persona singolare/plurale del passato
+                    remoto dei verbi regolari in &lt;i&gt;-o&lt;/i&gt;, riflessi o analoghi alla prima coniugazione latina,
+                    in -ARE (per es., &lt;i&gt;trovò&lt;/i&gt;) per distinguerlo dalla prima persona singolare presente. Dove
+                    non è chiaro se il verbo è presente o di una radice regolare o irregolare, come &lt;i&gt;pote&lt;/i&gt;,
+                    non si usa l’accento. Ci sono due lasse con la rima in &lt;i&gt;a&lt;/i&gt; finale che sono problematiche;
+                    il tempo verbale di alcuni verbi così non è evidente.&lt;br/&gt;ii. L’accento grave si usa al futuro: &lt;i&gt;-è&lt;/i&gt;,
+                    &lt;i&gt;-ò&lt;/i&gt;, &lt;i&gt;-à&lt;/i&gt; (per es., &lt;i&gt;farà&lt;/i&gt;), secondo l’uso dell’italiano
+                    moderno.&lt;br/&gt;iii. Si usa sui nomi ossitoni come &lt;i&gt;verità&lt;/i&gt; (290). &lt;br/&gt;iv. Si usa sull’
+                    &lt;i&gt;-i&lt;/i&gt; finale dove vale come desinenza verbale della seconda persona plurale (= &lt;i&gt;és&lt;/i&gt;);
+                    per es., &lt;i&gt;condurì&lt;/i&gt;, &lt;i&gt;avì&lt;/i&gt;. Questo include l’imperativo.&lt;br/&gt;v. Inoltre,
+                    l’accento distingue tra omonimi e in alcuni casi, tempi verbali: &lt;i&gt;ò&lt;/i&gt; (=ho) vs. &lt;i&gt;o&lt;/i&gt;
+                    (=dove); &lt;i&gt;à&lt;/i&gt; (=ha) vs. &lt;i&gt;a&lt;/i&gt; (preposizione); &lt;i&gt;è&lt;/i&gt;, (=è)
+                    vs. &lt;i&gt;e&lt;/i&gt; (=e); &lt;i&gt;dè&lt;/i&gt; (diede; deve) vs. &lt;i&gt;de&lt;/i&gt; (preposizione);
+                    &lt;i&gt;dà&lt;/i&gt; (dal verbo &lt;i&gt;dare&lt;/i&gt;, dà e l’imperativo, da’) vs. &lt;i&gt;da&lt;/i&gt;
+                    (preposizione e participio passato); &lt;i&gt;dì&lt;/i&gt; (verbo, l’imperativo di &lt;i&gt;dire&lt;/i&gt;)
+                    vs. &lt;i&gt;di&lt;/i&gt; (preposizione); &lt;i&gt;fà&lt;/i&gt; (imperativo) vs. &lt;i&gt;fa&lt;/i&gt;
+                    (indicativo); &lt;i&gt;sì&lt;/i&gt; (sei, siete) vs. &lt;i&gt;si&lt;/i&gt; (se; e; sì); &lt;i&gt;sè&lt;/i&gt;
+                    (dal verbo sapere) vs. &lt;i&gt;se&lt;/i&gt; (pronome e congiunzione); &lt;i&gt;lì&lt;/i&gt;, &lt;i&gt;là&lt;/i&gt;
+                    (avverbi) vs. &lt;i&gt;li&lt;/i&gt;, &lt;i&gt;la&lt;/i&gt; (pronomi). &lt;br/&gt;vi. Il grave si usa anche su
+                    &lt;i&gt;-e&lt;/i&gt; ed &lt;i&gt;-i&lt;/i&gt; dove sono forme del passato remoto (per es., &lt;i&gt;avì&lt;/i&gt;,
+                    &lt;i&gt;trovè&lt;/i&gt;). &lt;br/&gt;c. &lt;b&gt;la dieresi&lt;/b&gt;: non si usa; siccome il conto delle sillabe
+                    è tanto variabile, si evita l’uso.&lt;br/&gt;d. &lt;b&gt;l’apostrofo&lt;/b&gt;: rappresenta l’elisione di una
+                    vocale. È spesso poco chiaro quale parte di un’espressione abbia subita l’elisione (per es., &lt;i&gt;elo&lt;/i&gt;:
+                    sarà &lt;i&gt;e&lt;/i&gt; &lt; EGO + &lt;i&gt;l&lt;/i&gt; &lt; ILLU + &lt;i&gt;o&lt;/i&gt; &lt; HABEO?
+                    O sarà &lt;i&gt;el&lt;/i&gt; &lt; ILLU + &lt;i&gt;o&lt;/i&gt; &lt; HABEO?), allora si limita l’uso dell’apostrofo
+                    a:&lt;br/&gt;i. congiunzione pronome soggetto: &lt;i&gt;q’il&lt;/i&gt;; &lt;i&gt;s’i&lt;/i&gt;&lt;br/&gt;ii. articolo
+                    più aggettivo o nome che inizia con vocale: &lt;i&gt;L’uno&lt;/i&gt;&lt;br/&gt;iii. avverbi negativi seguiti
+                    da verbo o pronome oggetto che inizia con vocale: &lt;i&gt;n’en&lt;/i&gt;; &lt;i&gt;n’amo&lt;/i&gt;&lt;br/&gt;iv.
+                    pronome oggetto seguito da verbo che inizia con vocale, o seguito da un altro pronome che inizia con vocale:
+                    &lt;i&gt;l’à&lt;/i&gt;, &lt;i&gt;s’en&lt;/i&gt;&lt;br/&gt;v. &lt;i&gt;a&lt;/i&gt; prima di lessema che inizia
+                    con a; per es., &lt;i&gt;a ’Ntone&lt;/i&gt;, per &lt;i&gt;a [A]ntone&lt;/i&gt;; questo è un esempio particolare,
+                    dove alla seconda parola manca la vocale iniziale. C’è un esempio di &lt;i&gt;a&lt;/i&gt; più un’altra
+                    vocale (o &lt;i&gt;e&lt;/i&gt; o &lt;i&gt;i&lt;/i&gt;, che è simile, v. 10627: &lt;i&gt;Lasa’n&lt;/i&gt;,
+                    dove l’apostrofo sta per la vocale iniziale di &lt;i&gt;en&lt;/i&gt; o &lt;i&gt;in&lt;/i&gt; (tutte e
+                    due le forme si trovano nel testo).&lt;br/&gt;e. &lt;b&gt;punto in alto&lt;/b&gt;: si usa per la combinazione
+                    di due lessemi dove il secondo inizia in consonante.&lt;br/&gt;i. preposizione + articolo: &lt;i&gt;a·l&lt;/i&gt;,
+                    &lt;i&gt;de·l&lt;/i&gt;; l’eccezione qui è &lt;i&gt;a·u&lt;/i&gt;, che appare una volta sola (v. 9424);
+                    &lt;br/&gt;ii. verbo + pronome atono che segue: &lt;i&gt;Fa·la&lt;/i&gt;, &lt;i&gt;à·l&lt;/i&gt;, ecc. A causa
+                    della legge Tobler-Mussafia nella lingua antica (i pronomi oggetto non precedono un verbo all’inizio di
+                    verso o di frase) (Rohlfs, &lt;i&gt;Grammatica storica&lt;/i&gt;, 170-72 [&amp; 469]), è piuttosto frequente.
+                    Il punto in alto si usa anche con gli imperativi, infinitivi, e il futuro ossitono. I pronomi tonici non
+                    sono inclusi (&lt;i&gt;moi&lt;/i&gt;, &lt;i&gt;nos&lt;/i&gt;, &lt;i&gt;vos&lt;/i&gt;);&lt;br/&gt;iii. pronome
+                    soggetto + pronome oggetto: per es., &lt;i&gt;ela·l&lt;/i&gt;, &lt;i&gt;ele·l&lt;/i&gt;, &lt;i&gt;ge·l&lt;/i&gt;
+                    per il moderno “lei lo” or “lei la,” “glielo” or “gliela”;&lt;br/&gt;iv. congiunzione + pronome oggetto: &lt;i&gt;qi·l&lt;/i&gt;,
+                    &lt;i&gt;si·l&lt;/i&gt; per il moderno “che lo,” “se lo”;&lt;br/&gt;v. in pochi casi, il verbo e il soggetto
+                    che segue che inizia in consonante: &lt;i&gt;è·lo&lt;/i&gt;, &lt;i&gt;è·la&lt;/i&gt;, &lt;i&gt;fo·lo&lt;/i&gt;,
+                    ecc.;&lt;br/&gt;vi. in casi di assimilazione: una nasale finale con una parola seguente che inizia in nasale;
+                    per esempio, &lt;i&gt;i·me&lt;/i&gt; per &lt;i&gt;in&lt;/i&gt; + &lt;i&gt;me&lt;/i&gt;, “in mezzo a” (v.
+                    10447); &lt;i&gt;co·la&lt;/i&gt;, per &lt;i&gt;con&lt;/i&gt; + &lt;i&gt;la&lt;/i&gt; (v. 10877); una congiunzione
+                    a un pronome soggetto che segue, &lt;i&gt;e·l&lt;/i&gt;, “et il” (per es., v. 10690), &lt;i&gt;e·s&lt;/i&gt;,
+                    “et les” (v. 16344), ecc.; e similmente, l’avverbio negativo più pronome oggetto che segue, dove la nasale
+                    finale si assimila a &lt;i&gt;l&lt;/i&gt;: &lt;i&gt;no·l&lt;/i&gt;, moderno “non lo.”&lt;br/&gt;&lt;br/&gt;&lt;i&gt;Semivocali&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Il
+                    manoscritto usa &lt;i&gt;u&lt;/i&gt; per &lt;i&gt;u&lt;/i&gt; e per &lt;i&gt;v&lt;/i&gt;, &lt;i&gt;i&lt;/i&gt;
+                    per &lt;i&gt;i&lt;/i&gt; e &lt;i&gt;j/y&lt;/i&gt;. Convenzionalmente, si usa &lt;i&gt;j&lt;/i&gt; come
+                    la seconda dei due “i” &lt;i&gt;i&lt;/i&gt; al plurale (per es., &lt;i&gt;palij&lt;/i&gt;) e nei numeri
+                    (per es., &lt;i&gt;xij&lt;/i&gt;). “&lt;i&gt;j&lt;/i&gt;” si associa con tanti fonemi nelle tradizioni
+                    delle due zone. Contrariamente ad alcuni editori, in questa edizione si trasforma la “i” in “j” in ogni
+                    posizione della parola, non solo all’inizio. &lt;br/&gt;&lt;i&gt;J&lt;/i&gt; è scritta:&lt;br/&gt;i. dove rappresenta
+                    il /&#676;/ nell’italiano moderno, /&#658;/ nel francese moderno: per es., &lt;i&gt;jent&lt;/i&gt;, &lt;i&gt;jant&lt;/i&gt;,
+                    &lt;i&gt;jorno&lt;/i&gt;, &lt;i&gt;je&lt;/i&gt; (= “gente / gens, giorno / jour, -/je”)&lt;br/&gt;ii. dove rappresenta
+                    /j/: per es., &lt;i&gt;çoja&lt;/i&gt;, &lt;i&gt;nojer&lt;/i&gt; (= “gioia, noia”)&lt;br/&gt;iii. dove rappresenta
+                    /&#955;/ nell’italiano moderno: per es., &lt;i&gt;mujer&lt;/i&gt; (= riflesso di “moglie”)&lt;br/&gt;-&lt;i&gt;ij&lt;/i&gt;
+                    (&lt;i&gt;sij&lt;/i&gt;, &lt;i&gt;malvasij&lt;/i&gt;) come convenzione è scritta &lt;i&gt;-ii&lt;/i&gt;
+                    secondo le pratiche moderne.&lt;br/&gt;&lt;i&gt;v&lt;/i&gt; appare:&lt;br/&gt;i. nei numeri cardinali (romani) nel
+                    manoscritto.&lt;br/&gt;ii. &lt;i&gt;savrà&lt;/i&gt; e &lt;i&gt;avrà&lt;/i&gt; perché le forme con la semivocale
+                    predominano.&lt;br/&gt;iii. altrove, si segue l’uso moderno: per es., &lt;i&gt;salver/saluer&lt;/i&gt;, che
+                    significano “salvare” e “salutare.”&lt;br/&gt;&lt;br/&gt;&lt;i&gt;I maiuscoli&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Si usa il maiuscolo
+                    secondo le norme delle lingue romanze moderne. Nel manoscritto, si trova di solito un trattino rosso attraverso
+                    i nomi di persona, raramente un maiuscolo se non all’inizio di verso. Si scrivono qui anche con il maiuscolo
+                    i luoghi d’origine e gli epiteti usati come nomi (per es., &lt;i&gt;Çudé&lt;/i&gt;, &lt;i&gt;Apostoile&lt;/i&gt;,
+                    &lt;i&gt;Ascler&lt;/i&gt;).&lt;br/&gt;&lt;br/&gt;Per più dettagli, si rimanda al volume 1 dell’edizione, pp. 289-304,
+                    da cui è tratta questa presentazione abbreviata. &lt;br/&gt;
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl><emph style="font-style:italic">La Geste Francor</emph>, Édition of the Chansons de Geste of. MS. Marc. Fr. XIII (=256), with glossary, introduction and notes by Leslie Zarker Morgan, Tempe (Arizona), Arizona Center for Medieval and Renaissance Studies, 2009 («Medieval and Renaissance Texts and Studies», 348).</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t2"/>
+                <keywords>
+                    <term type="form">poetry</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work">
+                <lb/>
+                <p xml:id="d001l1" type="title" n="">{{Rubric 277}}</p>
+                <lb/>
+                <p xml:id="d001l2" n="">Or se conmença de li soldan.*</p>
+                <p xml:id="d001l3" type="title" n="">{{Laisse 278}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l4" n="9496">Or laseron de le dux Milon,</l>
+                <l xml:id="d001l5" n="9497">E de dama Berte a la clere façon,</l>
+                <l xml:id="d001l6" n="9498">E de Rolant son petit garçon,</l>
+                <l xml:id="d001l7" n="9499">Qe gran poine el durò en ste mon, (445)*</l>
+                <l xml:id="d001l8" n="9500">Petit enfant e veilart e garçon. ((5))</l>
+                <l xml:id="d001l9" n="9501">Mais a la fin si con por voir saçon,*</l>
+                <l xml:id="d001l10" n="9502">Quant le traì le conte Gainelon,*</l>
+                <l xml:id="d001l11" n="9503">Donde fo morto con tot ses conpagnon</l>
+                <l xml:id="d001l12" n="9504">Da li malvés, li rois Marsilion, (450)</l>
+                <l xml:id="d001l13" n="9505">Da Deo n'oit si gran benecion, ((10))</l>
+                <l xml:id="d001l14" n="9506">Qe il fo santo, si porte li confalon,</l>
+                <l xml:id="d001l15" n="9507">De tot li martires qe in celo se trovon;*</l>
+                <l xml:id="d001l16" n="9508">Porço è bon oldir questa cançon.</l>
+                <l xml:id="d001l17" n="9509">De le soldan de Persia contaron,*</l>
+                <l xml:id="d001l18" n="9510">Qe cun grande oste el vene a Ron; (15)*</l>
+                <l xml:id="d001l19" n="9511">Prese la tere entorno et environ,*</l>
+                <l xml:id="d001l20" n="9512">Si ne caçò l'Apostoilo Milon.*</l>
+                <l xml:id="d001l21" n="9513">Su l'alter san Pero, san Polo e san Simon,</l>
+                <l xml:id="d001l22" n="9514">Fe adorer Trevigant e Macon,</l>
+                <l xml:id="d001l23" n="9515">Donde le Cristian no li oit reençon. (20)</l>
+                <l xml:id="d001l24" n="9516">Morti furent quant i s'en tornon,*</l>
+                <l xml:id="d001l25" n="9517">Se non fust Deo qe mandò a Karlon,</l>
+                <l xml:id="d001l26" n="9518">Par li son angle a far nonciason,</l>
+                <l xml:id="d001l27" n="9519">Qe a Roma alast con li ses confalon,</l>
+                <l xml:id="d001l28" n="9520">Çamais a Rome ne le fose perdon. (25)</l>
+                <lb/>
+                <p xml:id="d001l29" type="title" n="">{{Rubric 278}}</p>
+                <lb/>
+                <p xml:id="d001l30" n="">Coment li soldan fe sa oste.*</p>
+                <p xml:id="d001l31" type="title" n="">{{Laisse 279}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l32" n="9521">Li soldan de Persie si fo orgolos e fer;</l>
+                <l xml:id="d001l33" n="9522">El fe sa oste e banir e crier.</l>
+                <l xml:id="d001l34" n="9523">Por Paganie mandò ses mesaçer,*</l>
+                <l xml:id="d001l35" n="9524">Ne lasò ni cità ni ville ni docler,*</l>
+                <l xml:id="d001l36" n="9525">Q'el non faist venir çivaler. (30)</l>
+                <l xml:id="d001l37" n="9526">Si le avoit de rois e d'amirer,</l>
+                <l xml:id="d001l38" n="9527">Qe a gran mervile furent da priser</l>
+                <l xml:id="d001l39" n="9528">Entro li qual, dos se poroit nomer,</l>
+                <l xml:id="d001l40" n="9529">Qe non fu mie en li altri plu lainer:</l>
+                <l xml:id="d001l41" n="9530">L'un si fo Karoal, li Escler, (35)</l>
+                <l xml:id="d001l42" n="9531">E l'altro Sidonio, in bataja capler.*</l>
+                <l xml:id="d001l43" n="9532">En quisti dos li soldan oit tuta sa sper;</l>
+                <l xml:id="d001l44" n="9533">De tota l'oste elo li fe ançoner.*</l>
+                <l xml:id="d001l45" n="9534">Quant il oit fato sa oste asenbler</l>
+                <l xml:id="d001l46" n="9535">(Do cento mile se poent esmer), (40)</l>
+                <l xml:id="d001l47" n="9536">En nef entrent si pasarent la mer,*</l>
+                <l xml:id="d001l48" n="9537">E vent a Rome, ilec ad alberçer.</l>
+                <l xml:id="d001l49" n="9538">Quant l'Apostoilo li veoit, cuita de·l dol raçer;</l>
+                <l xml:id="d001l50" n="9539">De soi defendre no fait nul penser.</l>
+                <l xml:id="d001l51" n="9540">El non à jent ver de lor canporer, (45)</l>
+                <l xml:id="d001l52" n="9541">Nean q'el posa la tera defenser.*</l>
+                <l xml:id="d001l53" n="9542">O voja o no, el s'en convene aler;</l>
+                <l xml:id="d001l54" n="9543">E lasò la tere a onta et a vituper;</l>
+                <l xml:id="d001l55" n="9544">De Cristian, se no se voient renojer*</l>
+                <l xml:id="d001l56" n="9545">Petita gent li porisés trover,* (50)</l>
+                <l xml:id="d001l57" n="9546">Tuti s'en vont cun filz e con muler,</l>
+                <l xml:id="d001l58" n="9547">E si lasent son avoir e son diner.</l>
+                <l xml:id="d001l59" n="9548">Quant Sarasin li venent a intrer,</l>
+                <l xml:id="d001l60" n="9549">Asa li trovoit da boir e da mançer;</l>
+                <l xml:id="d001l61" n="9550">Deo li confonda, li vor justisier! (55)</l>
+                <l xml:id="d001l62" n="9551">Qe Macometo li metent sor li alter,*</l>
+                <l xml:id="d001l63" n="9552">E si le font a cil pain orer.</l>
+                <l xml:id="d001l64" n="9553">E le penture qe le poent trover,</l>
+                <l xml:id="d001l65" n="9554">Via le fait tore e spegaçer,*</l>
+                <l xml:id="d001l66" n="9555">E si le foit onta e vituper, (60)</l>
+                <l xml:id="d001l67" n="9556">E posa vont corando por la river.*</l>
+                <l xml:id="d001l68" n="9557">Ne li lasoit depreso .XX. lege enter,</l>
+                <l xml:id="d001l69" n="9558">Qe i no faça et arder e bruxer;</l>
+                <l xml:id="d001l70" n="9559">Tot la rivere i ont fato rober.</l>
+                <lb/>
+                <p xml:id="d001l71" type="title" n="">{{Rubric 279}}</p>
+                <lb/>
+                <p xml:id="d001l72" n="">Qui se conte de Rom(e).*</p>
+                <p xml:id="d001l73" type="title" n="">{{Laisse 280}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l74" n="9560">Dedens de Roma e for por li pendant, (65)</l>
+                <l xml:id="d001l75" n="9561">Si le estoit e dol e t(or)mant;*</l>
+                <l xml:id="d001l76" n="9562">E n'en (v)i ma tel in le bateçamant.*</l>
+                <l xml:id="d001l77" n="9563">Quan la cité de Roma, con tot li sant,</l>
+                <l xml:id="d001l78" n="9564">Si è poblea de Turs e de Persant.</l>
+                <l xml:id="d001l79" n="9565">Desor l'auter san Pero e san Jovan* (70)</l>
+                <l xml:id="d001l80" n="9566">Ont polsé Macon e Trevigant,</l>
+                <l xml:id="d001l81" n="9567">Si le aore cele jent mescreant.</l>
+                <l xml:id="d001l82" n="9568">De Cristian n'in à lasé ni çoveno ni ferant,*</l>
+                <l xml:id="d001l83" n="9569">Ne sia morto a·l trencer de li brant.</l>
+                <l xml:id="d001l84" n="9570">E l'Apostoile caçè vilanemant,* (75)</l>
+                <l xml:id="d001l85" n="9571">Et avec lui, amisi e parant.</l>
+                <l xml:id="d001l86" n="9572">Qui Sarasin qi no son in Deo creant,</l>
+                <l xml:id="d001l87" n="9573">Font de Rome tot li son talant.</l>
+                <l xml:id="d001l88" n="9574">Questo non soit Francés et Alamant,</l>
+                <l xml:id="d001l89" n="9575">Ni Karlo el maine, le riçe sorpojant. (80)</l>
+                <l xml:id="d001l90" n="9576">Mais a Damenedé, li rois q'è sorpojant,*</l>
+                <l xml:id="d001l91" n="9577">Nen pote sofrir cotant enojamant,*</l>
+                <l xml:id="d001l92" n="9578">Qe Sarasin alase tant avant,</l>
+                <l xml:id="d001l93" n="9579">Qe i prendese tot li batezamant.</l>
+                <l xml:id="d001l94" n="9580">Quant a Karlo l'inperer poisant (85)</l>
+                <l xml:id="d001l95" n="9581">Oit tramis son angle en dormant,</l>
+                <l xml:id="d001l96" n="9582">Qe tot li conte de Rome li convant,</l>
+                <l xml:id="d001l97" n="9583">Cun prisa estoit Roma sença colpo de brant,</l>
+                <l xml:id="d001l98" n="9584">E l'Apostoile caçé vilanemant,</l>
+                <l xml:id="d001l99" n="9585">Morta sa çente a miler et a çant. (90)</l>
+                <lb/>
+                <p xml:id="d001l100" type="title" n="">{{Rubric 280}}</p>
+                <lb/>
+                <p xml:id="d001l101" n="">Coment l'angle vene a Karlo.</p>
+                <p xml:id="d001l102" type="title" n="">{{Laisse 281}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l103" n="9586">En una noit quant Karlo fu endormençé*</l>
+                <l xml:id="d001l104" n="9587">E Damenedé, qe ame Cristenté,</l>
+                <l xml:id="d001l105" n="9588">A Karlo oit son angle envojé</l>
+                <l xml:id="d001l106" n="9589">(San Gabriel qe molto avoit amé)</l>
+                <l xml:id="d001l107" n="9590">A Karlo el maine la noit a la çelé,* (95)</l>
+                <l xml:id="d001l108" n="9591">Qe li contò tota la verité:</l>
+                <l xml:id="d001l109" n="9592">Coment li Saldan cun la jent desfaé*</l>
+                <l xml:id="d001l110" n="9593">Ont prisa Roma la cité,</l>
+                <l xml:id="d001l111" n="9594">E l'Apostoile è foi e scanpé,*</l>
+                <l xml:id="d001l112" n="9595">E li Cristian qe lì furent trové (100)</l>
+                <l xml:id="d001l113" n="9596">È gran partie morti e detrençé.*</l>
+                <l xml:id="d001l114" n="9597">Li angle fu en la çanbra entré;</l>
+                <l xml:id="d001l115" n="9598">Davant li leto el se fu apojé.</l>
+                <l xml:id="d001l116" n="9599">O il vi Karlo si l'oit aresveilé:</l>
+                <l xml:id="d001l117" n="9600">"Enperer, sire, vu dormés a segurté; (105)</l>
+                <l xml:id="d001l118" n="9601">Nen savés mie ço qe est encontré,</l>
+                <l xml:id="d001l119" n="9602">E li dalmaço grande e desmesuré.</l>
+                <l xml:id="d001l120" n="9603">(Sarasin) son ençe Roma entré,*</l>
+                <l xml:id="d001l121" n="9604">E si ne oit l'Apostoilo caçé.</l>
+                <l xml:id="d001l122" n="9605">Desor li altari qe da Deo son sagré, (110)</l>
+                <l xml:id="d001l123" n="9606">Lì ont son dei metu e repolsé,</l>
+                <l xml:id="d001l124" n="9607">Si le adorent celle jent renojé;</l>
+                <l xml:id="d001l125" n="9608">Si cuitoit prendre tota la Crestenté.</l>
+                <l xml:id="d001l126" n="9609">Perdua est in tot, se no da Deo la defensé;</l>
+                <l xml:id="d001l127" n="9610">Deo a vos si m'avoit mandé, (115)</l>
+                <l xml:id="d001l128" n="9611">Por anonçer questa grant anbasé;*</l>
+                <l xml:id="d001l129" n="9612">Non so cun major ve poust eser conté."</l>
+                <l xml:id="d001l130" n="9613">Li rois s'esvelle, qe fu de·l sono gravé;*</l>
+                <l xml:id="d001l131" n="9614">A le sant angle elo responde aré:</l>
+                <l xml:id="d001l132" n="9615">"Dì mo, ami, como è tu ça entré,* (120)</l>
+                <l xml:id="d001l133" n="9616">Quando le uso è cluso e seré?</l>
+                <l xml:id="d001l134" n="9617">È tu fantasma, o spirto ençanté,</l>
+                <l xml:id="d001l135" n="9618">Qe mon polser m'avez contrarié?"</l>
+                <l xml:id="d001l136" n="9619">E cil le dist, "Vu avì ben falé.</l>
+                <l xml:id="d001l137" n="9620">Ne son fantasma, ni bestia ençanté. (125)</l>
+                <l xml:id="d001l138" n="9621">Angle sui de Deo de majesté;*</l>
+                <l xml:id="d001l139" n="9622">A vos el m'oit tramis et envojé,</l>
+                <l xml:id="d001l140" n="9623">Qe vos die une grant anbasé:</l>
+                <l xml:id="d001l141" n="9624">Qe li soldan c'oit nome Ysoré</l>
+                <l xml:id="d001l142" n="9625">Avoit pasé oltra la mer salé, (130)</l>
+                <l xml:id="d001l143" n="9626">E si oit pris Roma la cité,</l>
+                <l xml:id="d001l144" n="9627">Dont l'Apostoile se n'è fujando torné.</l>
+                <l xml:id="d001l145" n="9628">Le Cristian qe le furent trové,</l>
+                <l xml:id="d001l146" n="9629">Tuti furent morti, a martirio livré.</l>
+                <l xml:id="d001l147" n="9630">Sor li altar li qual sonto sagré, (135)</l>
+                <l xml:id="d001l148" n="9631">Macon et Apolin i le ont polsé,</l>
+                <l xml:id="d001l149" n="9632">Si le adorent quela jent desfaé,</l>
+                <l xml:id="d001l150" n="9633">Si menaçent la santa Crestenté,</l>
+                <l xml:id="d001l151" n="9634">Q'i la destrueroit se no le fi veé."*</l>
+                <l xml:id="d001l152" n="9635">Li rois l'intent, tuto fo abosmé; (140)</l>
+                <l xml:id="d001l153" n="9636">Gran dol en oit, par poi n'est desvé.</l>
+                <l xml:id="d001l154" n="9637">Adonc l'angle, quando se fu sevré,</l>
+                <l xml:id="d001l155" n="9638">El dist a Karlo, "E vos comando a Dé;</l>
+                <l xml:id="d001l156" n="9639">A vos m'envojò, et eo ve l'ò nonçé;</l>
+                <l xml:id="d001l157" n="9640">Guardez ben, q'el non soja oblié." (145)</l>
+                <l xml:id="d001l158" n="9641">A·l departir çitoit tel clarité,</l>
+                <l xml:id="d001l159" n="9642">Qe tota la çanbra en fo aluminé.</l>
+                <lb/>
+                <p xml:id="d001l160" type="title" n="">{{Rubric 281}}</p>
+                <lb/>
+                <p xml:id="d001l161" n="">Coment angle (parole) a Karlo.</p>
+                <p xml:id="d001l162" type="title" n="">{{Laisse 282}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l163" n="9643">Quant l'angle fu retornez arer,</l>
+                <l xml:id="d001l164" n="9644">Karlo se leve sença nul entarder.</l>
+                <l xml:id="d001l165" n="9645">Si oit envojé por Naimes de Baiver, (150)</l>
+                <l xml:id="d001l166" n="9646">Et ensement por Morando de River,</l>
+                <l xml:id="d001l167" n="9647">Por Çofré de Paris, et Aleris li ber,*</l>
+                <l xml:id="d001l168" n="9648">E Bernardo de Clermont, e le dux Guarner,</l>
+                <l xml:id="d001l169" n="9649">E·l Dainese, q'el ama e ten çer,</l>
+                <l xml:id="d001l170" n="9650">E Karloto son filz, qi estoit baçaler. (155)</l>
+                <l xml:id="d001l171" n="9651">"Segnur," fait il, "e vos so ben nonçer,</l>
+                <l xml:id="d001l172" n="9652">Qe l'angle de Deo m'è venu a parler.</l>
+                <l xml:id="d001l173" n="9653">Tel consa m'à dito donde son en penser;*</l>
+                <l xml:id="d001l174" n="9654">Qe un soldan, qe oit nome Ysorer,</l>
+                <l xml:id="d001l175" n="9655">Cun una grant oste oit pasé la mer. (160)</l>
+                <l xml:id="d001l176" n="9656">Roma oit prisa, qe no i è nul sper;</l>
+                <l xml:id="d001l177" n="9657">Caçé l'Apostoilo cun tot li terer.*</l>
+                <l xml:id="d001l178" n="9658">Desor l'auter major de san Per,</l>
+                <l xml:id="d001l179" n="9659">Macometo lì oit fato polser.</l>
+                <l xml:id="d001l180" n="9660">Tot le reliquie en oit fato oster; (165)</l>
+                <l xml:id="d001l181" n="9661">Là le orarent Sarasin et Escler,</l>
+                <l xml:id="d001l182" n="9662">E(n) quela lois qe Deo non oit çer,*</l>
+                <l xml:id="d001l183" n="9663">E si dient q'i no l'avoit a defenser;*</l>
+                <l xml:id="d001l184" n="9664">La Crestenetà virà a deserter.</l>
+                <l xml:id="d001l185" n="9665">Conselés moi, e vos vojo en projer, (170)*</l>
+                <l xml:id="d001l186" n="9666">Qe le mior nu p(o)samo pier."*</l>
+                <l xml:id="d001l187" n="9667">Dist dux Naimes de·l ducha de Bavier,</l>
+                <l xml:id="d001l188" n="9668">"O çentil rois, qe voli vu demander?*</l>
+                <l xml:id="d001l189" n="9669">Non è nul hon qe n'olsase parler,</l>
+                <l xml:id="d001l190" n="9670">Contra colu qi mandò li mesaçer, (175)</l>
+                <l xml:id="d001l191" n="9671">Qe Roma diça secorer et aider.</l>
+                <l xml:id="d001l192" n="9672">Unde vos pre, qe non diça tarder;</l>
+                <l xml:id="d001l193" n="9673">Far vestra jent venir et amaser,</l>
+                <l xml:id="d001l194" n="9674">E si gran oste e banir e crier,</l>
+                <l xml:id="d001l195" n="9675">Qe segurment vu posa çivalçer, (180)</l>
+                <l xml:id="d001l196" n="9676">Trosqua a Roma secorer et aider.</l>
+                <l xml:id="d001l197" n="9677">E qi de ço vos vole contraster,</l>
+                <l xml:id="d001l198" n="9678">Ne vos ama mie la monta d'un diner,</l>
+                <l xml:id="d001l199" n="9679">E si vol Deo en toto contrarier."</l>
+                <l xml:id="d001l200" n="9680">Dist li rois, "Vu parlés como ber." (185)</l>
+                <lb/>
+                <p xml:id="d001l201" type="title" n="">{{Rubric 282}}</p>
+                <lb/>
+                <p xml:id="d001l202" n="">Coment Karlo demanda conseil.*</p>
+                <p xml:id="d001l203" type="title" n="">{{Laisse 283}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l204" n="9681">Karlo li rois, qe filz fo de Pepin,</l>
+                <l xml:id="d001l205" n="9682">A gran mervile fo hon de gran lin.</l>
+                <l xml:id="d001l206" n="9683">Por li conseil de cil baron d'alto brin</l>
+                <l xml:id="d001l207" n="9684">Fe scrivere letre in carte de bergamin;</l>
+                <l xml:id="d001l208" n="9685">Si l'envojò a tere et a çamin (190)</l>
+                <l xml:id="d001l209" n="9686">Par tot cil qe li sonto vesin.</l>
+                <l xml:id="d001l210" n="9687">E fa fair bander de palio e de lin</l>
+                <l xml:id="d001l211" n="9688">E l'oriaflama d'un palio astorin.</l>
+                <l xml:id="d001l212" n="9689">Plus de cento mil homes a bon brant açarin,</l>
+                <l xml:id="d001l213" n="9690">A bone targes, aubers doplantin, (195)</l>
+                <l xml:id="d001l214" n="9691">Fait asenbler Karlo, le filz Pepin.</l>
+                <lb/>
+                <p xml:id="d001l215" type="title" n="">{{Rubric 283}}</p>
+                <lb/>
+                <p xml:id="d001l216" n="">Coment Karlo asenbla sa jent.</p>
+                <p xml:id="d001l217" type="title" n="">{{Laisse 284}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l218" n="9692">Karlo maine fait asenbler sa jant,</l>
+                <l xml:id="d001l219" n="9693">Par tot tere le petit e li grant.</l>
+                <l xml:id="d001l220" n="9694">Ne lì lasò conte ni amirant,</l>
+                <l xml:id="d001l221" n="9695">Q'el no lì vegne con tot son guarnimant. (200)</l>
+                <l xml:id="d001l222" n="9696">Çascun lì vent, legro e çojant;</l>
+                <l xml:id="d001l223" n="9697">Tuto son avoir i le mete in presant.</l>
+                <l xml:id="d001l224" n="9698">Naymes lì fu, e Çofré e Morant;</l>
+                <l xml:id="d001l225" n="9699">E Sansoneto, qe ça fu mescreant;</l>
+                <l xml:id="d001l226" n="9700">E li Danois, e Çarloto l'infant - (205)</l>
+                <l xml:id="d001l227" n="9701">Nen è ancor guaire q'el oit pris guarnimant,*</l>
+                <l xml:id="d001l228" n="9702">Filo est li rois, si l'ama dolçemant -</l>
+                <l xml:id="d001l229" n="9703">Cento mil sont a verdi heumi lusant.*</l>
+                <l xml:id="d001l230" n="9704">Adonc verisés ensegne de mant senblant,</l>
+                <l xml:id="d001l231" n="9705">E mant destrer isné e remuant. (210)</l>
+                <l xml:id="d001l232" n="9706">En questa oste non fo homo vivant,</l>
+                <l xml:id="d001l233" n="9707">Non ame li rois de cor e de talant;</l>
+                <l xml:id="d001l234" n="9708">Par lui servire li dona son arçant.</l>
+                <l xml:id="d001l235" n="9709">Grande fu l'oste, meravelosa e grant.</l>
+                <lb/>
+                <p xml:id="d001l236" type="title" n="">{{Rubric 284}}</p>
+                <lb/>
+                <p xml:id="d001l237" n="">Coment li rois fo en Paris.</p>
+                <p xml:id="d001l238" type="title" n="">{{Laisse 285}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l239" n="9710">Or fu li rois en Paris sens dotançe, (215)</l>
+                <l xml:id="d001l240" n="9711">Sor li palés sença nul demorançe.</l>
+                <l xml:id="d001l241" n="9712">Molto fo ben coneu de la çente de Françe;</l>
+                <l xml:id="d001l242" n="9713">Par tot part alò la nomenançe,</l>
+                <l xml:id="d001l243" n="9714">De l'oste de Karlo e de sa gran posançe.</l>
+                <l xml:id="d001l244" n="9715">Par lui servir li vent trois en Valançe;* (220)</l>
+                <l xml:id="d001l245" n="9716">Çascun li vent cun bona entendançe,</l>
+                <l xml:id="d001l246" n="9717">Cun bon çival e con scu e con lançe;</l>
+                <l xml:id="d001l247" n="9718">Li rois le vi, en lor oit sa fiançe.</l>
+                <l xml:id="d001l248" n="9719">L'oriaflame qe fu de gran valançe,</l>
+                <l xml:id="d001l249" n="9720">Ad Aleris la donò por bona mançe, (225)</l>
+                <l xml:id="d001l250" n="9721">E cil la prent, qe se mis en balançe;*</l>
+                <l xml:id="d001l251" n="9722">Si le çurò de no far·li falançe.</l>
+                <lb/>
+                <p xml:id="d001l252" type="title" n="">{{Rubric 285}}</p>
+                <lb/>
+                <p xml:id="d001l253" n="">Coment li rois dona l'oriaflame.</p>
+                <p xml:id="d001l254" type="title" n="">{{Laisse 286}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l255" n="9723">Quant li rois oit l'oriaflama doné,</l>
+                <l xml:id="d001l256" n="9724">Ad Aleris qe de Puilla fu né,</l>
+                <l xml:id="d001l257" n="9725">E quel s'ençenoile, si le oit li pe basé, (230)</l>
+                <l xml:id="d001l258" n="9726">Vojant li barons li à plevi e çuré</l>
+                <l xml:id="d001l259" n="9727">De no stratornar·la par hon qe soja né.</l>
+                <l xml:id="d001l260" n="9728">Adonc li rois no fo pais entardé;</l>
+                <l xml:id="d001l261" n="9729">Quant tota sa jent furent aparilé,</l>
+                <l xml:id="d001l262" n="9730">Tota sa jent el oit devisé, (235)</l>
+                <l xml:id="d001l263" n="9731">E so bandere doné et otrié,</l>
+                <l xml:id="d001l264" n="9732">Et ordenent coment aler devé;*</l>
+                <l xml:id="d001l265" n="9733">L'oriaflame ad Aleris donè,*</l>
+                <l xml:id="d001l266" n="9734">Una deman quant fu l'aube levé,</l>
+                <l xml:id="d001l267" n="9735">L'oste s'en voit por lo çamin feré. (240)</l>
+                <l xml:id="d001l268" n="9736">Pur bellament nen fo pais desroé</l>
+                <l xml:id="d001l269" n="9737">Qe .X. leues i vont por çorné.*</l>
+                <l xml:id="d001l270" n="9738">Por Lonbardie i se sont pasé,</l>
+                <l xml:id="d001l271" n="9739">E a Toschane i ont acostojé;</l>
+                <l xml:id="d001l272" n="9740">Tanto se sonto de jorno en jorno alé, (245)</l>
+                <l xml:id="d001l273" n="9741">Qe a Rome i forent aprosmé.</l>
+                <l xml:id="d001l274" n="9742">Quando i forent apreso la cité,</l>
+                <l xml:id="d001l275" n="9743">Preso una leue i furent aloçé;*</l>
+                <l xml:id="d001l276" n="9744">Li rois comande sa çent soja armé.</l>
+                <l xml:id="d001l277" n="9745">Quant li mesajes fu en Roma entré, (250)</l>
+                <l xml:id="d001l278" n="9746">A li rois soldan li oit anoncié;</l>
+                <l xml:id="d001l279" n="9747">A gran mervile el ne fo abosmé.</l>
+                <l xml:id="d001l280" n="9748">Rois Karaolo oit a soi apelé,*</l>
+                <l xml:id="d001l281" n="9749">E Sindonio e li rois Galatré;*</l>
+                <l xml:id="d001l282" n="9750">"Segnur," fait il, "nu avon malovré; (255)</l>
+                <l xml:id="d001l283" n="9751">Pre de nos è venu li maine encoroné,</l>
+                <l xml:id="d001l284" n="9752">Qe soit de Françe e de la Cresteneté.</l>
+                <l xml:id="d001l285" n="9753">Bataila averon, se avoir la voré."</l>
+                <l xml:id="d001l286" n="9754">Dist Karaolo, "Eo ne son çojant e lé,</l>
+                <l xml:id="d001l287" n="9755">S'i ven a canpo, e no serò daré: (260)</l>
+                <l xml:id="d001l288" n="9756">Le primeran eo serò armé,</l>
+                <l xml:id="d001l289" n="9757">Sor mon çival corant et abri(v)é.*</l>
+                <l xml:id="d001l290" n="9758">Ensirò de Rome, çirò a la meslé;</l>
+                <l xml:id="d001l291" n="9759">Con qui Francés proarò ma bonté."</l>
+                <l xml:id="d001l292" n="9760">Dist li soldan, "De ço vos so bon gre." (265)</l>
+                <lb/>
+                <p xml:id="d001l293" type="title" n="">{{Rubric 286}}</p>
+                <lb/>
+                <p xml:id="d001l294" n="">Coment Karlo çivalçe.</p>
+                <p xml:id="d001l295" type="title" n="">{{Laisse 287}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l296" n="9761">Karlo li rois fi sa çent çivalçer,</l>
+                <l xml:id="d001l297" n="9762">Par li conseil dux Naimon de Baiver.*</l>
+                <l xml:id="d001l298" n="9763">Aprés de Rome s'en vait ad aloçer;</l>
+                <l xml:id="d001l299" n="9764">Posa comande soa çent a monter,</l>
+                <l xml:id="d001l300" n="9765">Si devisò le schere e le bander. (270)</l>
+                <l xml:id="d001l301" n="9766">L'oriaflama fe davant fiçer;</l>
+                <l xml:id="d001l302" n="9767">"Aleris," fait il, "vu sì confaloner;*</l>
+                <l xml:id="d001l303" n="9768">L'oriaflame vu avez a gujer.</l>
+                <l xml:id="d001l304" n="9769">Guarda·la ben, je vos vojo en projer,*</l>
+                <l xml:id="d001l305" n="9770">Qe por paure ne la diça stratorner." (275)</l>
+                <l xml:id="d001l306" n="9771">E cil le dist, "No aça quel penser,</l>
+                <l xml:id="d001l307" n="9772">Qe por morir no me farò lainer."</l>
+                <l xml:id="d001l308" n="9773">Adoncha li rois no se volse entarder;</l>
+                <l xml:id="d001l309" n="9774">La prime schile qe il volse ordener:</l>
+                <l xml:id="d001l310" n="9775">A Çofroi de Paris donò .X. mil çivaler, (280)</l>
+                <l xml:id="d001l311" n="9776">Et a Teris altri .X. miler,</l>
+                <l xml:id="d001l312" n="9777">E a Morando, li segnor de River,</l>
+                <l xml:id="d001l313" n="9778">E a celu ne dè .XX. miler.</l>
+                <l xml:id="d001l314" n="9779">E a·l dux Naimes, q'era so conseler,*</l>
+                <l xml:id="d001l315" n="9780">Cun Bernardo de Clermont elo lasò darer, (285)</l>
+                <l xml:id="d001l316" n="9781">Con tot les autres par son cors guarder.</l>
+                <l xml:id="d001l317" n="9782">A·l Daynesin, q'estoit baçaler,</l>
+                <l xml:id="d001l318" n="9783">Segnor le fe de tot li scuer,</l>
+                <l xml:id="d001l319" n="9784">Si le donò in guarda mener.</l>
+                <l xml:id="d001l320" n="9785">E li rois comande qui davant monter, (290)</l>
+                <l xml:id="d001l321" n="9786">E l'oriaflame avanti aporter;</l>
+                <l xml:id="d001l322" n="9787">E cil le fait de grez e volunter.</l>
+                <l xml:id="d001l323" n="9788">Adoncha Çofré si pris son corer;</l>
+                <l xml:id="d001l324" n="9789">Monta a çival a .X. mil çivaler.</l>
+                <l xml:id="d001l325" n="9790">Dever de Rome prendent a çivalçer, (295)</l>
+                <l xml:id="d001l326" n="9791">Pres de la porta li trato d'un arçer.</l>
+                <l xml:id="d001l327" n="9792">Quant li soldan li voit a 'prosmer,</l>
+                <l xml:id="d001l328" n="9793">Demantenant fe Karaolo monter</l>
+                <l xml:id="d001l329" n="9794">A .XX. mile de celle jent Escler.</l>
+                <l xml:id="d001l330" n="9795">La porta trapase, fa li pont devaler, (300)</l>
+                <l xml:id="d001l331" n="9796">Ver celle jent vait a tornojer.</l>
+                <l xml:id="d001l332" n="9797">Ça oldirés bataila començer,</l>
+                <l xml:id="d001l333" n="9798">Qe torner doi a molt gran destorber.</l>
+                <lb/>
+                <p xml:id="d001l334" type="title" n="">{{Rubric 287}}</p>
+                <lb/>
+                <p xml:id="d001l335" n="">Coment Çofré de Paris fo pris.</p>
+                <p xml:id="d001l336" type="title" n="">{{Laisse 288}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l337" n="9799">Quant Karaolo ensì fora a li canp,*</l>
+                <l xml:id="d001l338" n="9800">Dever Çofré ponçe son auferant. (305)</l>
+                <l xml:id="d001l339" n="9801">Grande fu la bataile a quel començamant;</l>
+                <l xml:id="d001l340" n="9802">Donc verisés mant çivaler sanglant,</l>
+                <l xml:id="d001l341" n="9803">E manti çivaler caire a li canp.*</l>
+                <l xml:id="d001l342" n="9804">La çent de Karles furent pro e valant;</l>
+                <l xml:id="d001l343" n="9805">Ver Sarasin mostra grande ardimant. (310)</l>
+                <l xml:id="d001l344" n="9806">E Çofroi de Paris ten la spea trençant.</l>
+                <l xml:id="d001l345" n="9807">Co il conseit soa vita è niant.*</l>
+                <l xml:id="d001l346" n="9808">Da l'altra part fu Karaolo li posant;</l>
+                <l xml:id="d001l347" n="9809">A gran mervile fo ardi e valant;</l>
+                <l xml:id="d001l348" n="9810">Non fer Francés q'el non çeti a li canp.* (315)</l>
+                <l xml:id="d001l349" n="9811">Li .X. mil de la François çant,</l>
+                <l xml:id="d001l350" n="9812">Contra le .XX. mil i fose ste perdant,</l>
+                <l xml:id="d001l351" n="9813">Quando Teris fa monter l'altre jant;*</l>
+                <l xml:id="d001l352" n="9814">E furent .X. mil a verdi helmi lusant.</l>
+                <l xml:id="d001l353" n="9815">Grande fu la bataile d'anbes comunelmant. (320)</l>
+                <l xml:id="d001l354" n="9816">Qi donc veist grandi colpi de brant!</l>
+                <l xml:id="d001l355" n="9817">A gran mervile fu Karaolo vailant;</l>
+                <l xml:id="d001l356" n="9818">Por me la presie ven menu e sovant,</l>
+                <l xml:id="d001l357" n="9819">Donando colpi e darer e davant,</l>
+                <l xml:id="d001l358" n="9820">Cu il conseit soa vite è nojant. (325)</l>
+                <l xml:id="d001l359" n="9821">E quant Çofroi li vai reconosant,</l>
+                <l xml:id="d001l360" n="9822">Qe de sa jent fa li dalmaço grant,</l>
+                <l xml:id="d001l361" n="9823">Enver de lui ponçe li auferant,</l>
+                <l xml:id="d001l362" n="9824">E tent la spee a li pomo lusant.</l>
+                <l xml:id="d001l363" n="9825">Gran colpo li done desor l'eumo lusant; (330)</l>
+                <l xml:id="d001l364" n="9826">N'en po trençer un diner valisant,</l>
+                <l xml:id="d001l365" n="9827">Ma de le scu la guincha el porprant,</l>
+                <l xml:id="d001l366" n="9828">Cun de l'auberg e de le maje ben çant.</l>
+                <l xml:id="d001l367" n="9829">E l'oit çité en l'erba verdojant;</l>
+                <l xml:id="d001l368" n="9830">Par un petit ne le fe recreant. (335)</l>
+                <lb/>
+                <p xml:id="d001l369" type="title" n="">{{Rubric 288}}</p>
+                <lb/>
+                <p xml:id="d001l370" n="">Coment Karaolo ferì.</p>
+                <p xml:id="d001l371" type="title" n="">{{Laisse 289}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l372" n="9831">Quant Karaolo sentì li colpo de baron,</l>
+                <l xml:id="d001l373" n="9832">El ten la spee c'oit endoré li pon;</l>
+                <l xml:id="d001l374" n="9833">Dever Çofroi punçe le aragon;</l>
+                <l xml:id="d001l375" n="9834">Gran colpo li done desor l'elmo enson.</l>
+                <l xml:id="d001l376" n="9835">Q'elo·l fe enbronçer desor da l'arçon. (340)</l>
+                <l xml:id="d001l377" n="9836">S'el non fust devalé, morto fust li baron;*</l>
+                <l xml:id="d001l378" n="9837">Fendu l'averoit trosqa en le menton.</l>
+                <l xml:id="d001l379" n="9838">A·l cival trençe li çevo tot reon;</l>
+                <l xml:id="d001l380" n="9839">Çofré de Paris caì a·l sablon.</l>
+                <l xml:id="d001l381" n="9840">Sovra li core Sarasin e Sclavon; (345)</l>
+                <l xml:id="d001l382" n="9841">O voja o no, i l'ont por preson;</l>
+                <l xml:id="d001l383" n="9842">En Roma le conduit, o el volist o non.*</l>
+                <l xml:id="d001l384" n="9843">Le .X. mil qe fu ses conpagnon</l>
+                <l xml:id="d001l385" n="9844">Par lui furent en grant aflecion.</l>
+                <l xml:id="d001l386" n="9845">Morti fuissent sença redencion, (350)</l>
+                <l xml:id="d001l387" n="9846">Nen fust scanpé veilard ni garçon,</l>
+                <l xml:id="d001l388" n="9847">Quando Teris ven cun ses conpagnon.</l>
+                <l xml:id="d001l389" n="9848">E furent .X. mil sota ses confalon;</l>
+                <l xml:id="d001l390" n="9849">Si grant fu la nosa e la tençon,</l>
+                <l xml:id="d001l391" n="9850">Mant çivaler en caent a·l sablon. (355)</l>
+                <l xml:id="d001l392" n="9851">Qui de Karaolo, o i volist o non,*</l>
+                <l xml:id="d001l393" n="9852">Le canpo gerpisent un arpant tot lon.</l>
+                <l xml:id="d001l394" n="9853">Quando Sindonio montò en arçon,</l>
+                <l xml:id="d001l395" n="9854">A .XXX. mile de Turs e de Sclavon,*</l>
+                <l xml:id="d001l396" n="9855">E quando cestor ensirent de Ron, (360)</l>
+                <l xml:id="d001l397" n="9856">Gran fu la nose de graile qe son.</l>
+                <l xml:id="d001l398" n="9857">Se (a) Deo no pe(n)se, por so santisimo non,*</l>
+                <l xml:id="d001l399" n="9858">La çente de Françe mal esploité averon,*</l>
+                <l xml:id="d001l400" n="9859">Qe contra ces non averà guarison.</l>
+                <lb/>
+                <p xml:id="d001l401" type="title" n="">{{Rubric 289}}</p>
+                <lb/>
+                <p xml:id="d001l402" n="">Coment Sandonio ferì.</p>
+                <p xml:id="d001l403" type="title" n="">{{Laisse 290}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l404" n="9860">A gran mervile fo Sandonio orgolos, (365)</l>
+                <l xml:id="d001l405" n="9861">Fort et ardi e de mal en(a)r(t)os.*</l>
+                <l xml:id="d001l406" n="9862">En Paganie environ et intors</l>
+                <l xml:id="d001l407" n="9863">Pochi poisés atrover de milors.</l>
+                <l xml:id="d001l408" n="9864">Bon çivaler est, ardi e virtuos;</l>
+                <l xml:id="d001l409" n="9865">Dist a sa jent, "Non siés spavoros; (370)</l>
+                <l xml:id="d001l410" n="9866">Çascun de vos ben ferà ad estors,</l>
+                <l xml:id="d001l411" n="9867">Qe questa jent nu façan dolors."*</l>
+                <l xml:id="d001l412" n="9868">E qi le font, qe non farent sejors;</l>
+                <l xml:id="d001l413" n="9869">Quant i ferirent, ferirent de tel vigors,*</l>
+                <l xml:id="d001l414" n="9870">Ne le durava nul arma pinta a flors. (375)</l>
+                <l xml:id="d001l415" n="9871">Lora veisés tanti colpi doloros,</l>
+                <l xml:id="d001l416" n="9872">Tant çivaler eser de·l çevo blos;</l>
+                <l xml:id="d001l417" n="9873">L'erba verde devenoit tota ros;</l>
+                <l xml:id="d001l418" n="9874">Mille çivaler çasoit a l'arbors,*</l>
+                <l xml:id="d001l419" n="9875">Qe ma no le vede ne fio ne uxors; (380)</l>
+                <l xml:id="d001l420" n="9876">O voja o no, Françeis s'en tornoit a estors.*</l>
+                <lb/>
+                <p xml:id="d001l421" type="title" n="">{{Rubric 290}}</p>
+                <lb/>
+                <p xml:id="d001l422" n="">Coment Sandonio entra en l'estor.</p>
+                <p xml:id="d001l423" type="title" n="">{{Laisse 291}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l424" n="9877">Quando Sandonio va in l'estor entrer,</l>
+                <l xml:id="d001l425" n="9878">Qe .XXX. mile avit de çivaler,*</l>
+                <l xml:id="d001l426" n="9879">Quant el ferì en le stormeno primer,</l>
+                <l xml:id="d001l427" n="9880">Si grande fo la nose ne se poroit conter. (385)</l>
+                <l xml:id="d001l428" n="9881">A colpi ferir nen valt arme un diner;</l>
+                <l xml:id="d001l429" n="9882">Sovra Franceis vene tot l'ingonbrer.</l>
+                <l xml:id="d001l430" n="9883">O voja o no, conven li canpo laser,</l>
+                <l xml:id="d001l431" n="9884">Qe no li poent sofrir ni endurer.*</l>
+                <l xml:id="d001l432" n="9885">E qui l'encalçe por (v)ie e por senter,* (390)</l>
+                <l xml:id="d001l433" n="9886">Quant se prendent a l'oste aprosmer.</l>
+                <l xml:id="d001l434" n="9887">E la novele voit a l'inperer;</l>
+                <l xml:id="d001l435" n="9888">Quan cil le soit, fa sa çent monter.</l>
+                <l xml:id="d001l436" n="9889">Ço fo dux Naymes, de·l ducha de Baiver,*</l>
+                <l xml:id="d001l437" n="9890">A plus de .XXX. mile fo monta a destrer. (395)</l>
+                <l xml:id="d001l438" n="9891">Quant ensirent, q'i venent a çostrer,*</l>
+                <l xml:id="d001l439" n="9892">Ses grailes fait en ojando soner.</l>
+                <l xml:id="d001l440" n="9893">Qi donc veist de França li çivaler,*</l>
+                <l xml:id="d001l441" n="9894">Cun le lançe ferir li colpi primer.</l>
+                <l xml:id="d001l442" n="9895">Çascun abate li so a li vercer,* (400)</l>
+                <l xml:id="d001l443" n="9896">Donc veisés qui Sarasin verser,</l>
+                <l xml:id="d001l444" n="9897">Morti a la tera cair e trabuçer.</l>
+                <l xml:id="d001l445" n="9898">Quando Sindonio le vi si mal aler,</l>
+                <l xml:id="d001l446" n="9899">El li escrie, "Ne vos aça doter,</l>
+                <l xml:id="d001l447" n="9900">Qe questa jent qe son de l'inperer, (405)</l>
+                <l xml:id="d001l448" n="9901">Encontra nos petit averà durer!"</l>
+                <l xml:id="d001l449" n="9902">Grande fu la bataile e li stormeno plener;</l>
+                <l xml:id="d001l450" n="9903">Adonc verisés tant çivaler verser,</l>
+                <l xml:id="d001l451" n="9904">E a la tera cair e trabuçer.</l>
+                <l xml:id="d001l452" n="9905">Qi qi caì mal se poit relever,* (410)</l>
+                <l xml:id="d001l453" n="9906">Tal estoit la presie d·i corant destrer.</l>
+                <l xml:id="d001l454" n="9907">Li rois Sandonio molt se fait priser;</l>
+                <l xml:id="d001l455" n="9908">Con eso la spea si durament fer,</l>
+                <l xml:id="d001l456" n="9909">Qe nule arme nen po a lui durer.</l>
+                <l xml:id="d001l457" n="9910">Quant Karaolo se le vait a 'prosmer,* (415)</l>
+                <l xml:id="d001l458" n="9911">De cest dos non fa nula projer;*</l>
+                <l xml:id="d001l459" n="9912">Çascun de lor estoit pro çivaler.</l>
+                <lb/>
+                <p xml:id="d001l460" type="title" n="">{{Rubric 291}}</p>
+                <lb/>
+                <p xml:id="d001l461" n="">Coment Naimes ferì in le canpo.</p>
+                <p xml:id="d001l462" type="title" n="">{{Laisse 292}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l463" n="9913">Por me li stor, eco vos Naimes pugnant;</l>
+                <l xml:id="d001l464" n="9914">Sa grosa lançe el vait palmojant.</l>
+                <l xml:id="d001l465" n="9915">Le primer q'el ferì fo un nevo l'amirant; (420)</l>
+                <l xml:id="d001l466" n="9916">Le scu li speçe e l'auberg li destant.</l>
+                <l xml:id="d001l467" n="9917">Par me li cors le mis le fer trençant;</l>
+                <l xml:id="d001l468" n="9918">Morto l'abate, qi s'en rit ni s'en chant,</l>
+                <l xml:id="d001l469" n="9919">E pois escrie, "Ferés, me conbatant!</l>
+                <l xml:id="d001l470" n="9920">Qe çesta lois qe no son in Deo creant, (425)</l>
+                <l xml:id="d001l471" n="9921">Enver de nos i serà recreant."</l>
+                <l xml:id="d001l472" n="9922">Quant cil l'entendent, fait li so talant;</l>
+                <l xml:id="d001l473" n="9923">Çascun li fer de cors e de talant.</l>
+                <l xml:id="d001l474" n="9924">Grant fu la bataile e la nosa grant;</l>
+                <l xml:id="d001l475" n="9925">Par me li stor ven Sandonio pungant. (430)</l>
+                <l xml:id="d001l476" n="9926">O vi dux Naimes, li est venu davant;</l>
+                <l xml:id="d001l477" n="9927">Elo l'apelle, si le dise en ojant:</l>
+                <l xml:id="d001l478" n="9928">"Çivaler, sire, qe parés si manant,</l>
+                <l xml:id="d001l479" n="9929">A gran mervile avés bel guarnimant;</l>
+                <l xml:id="d001l480" n="9930">En la cort li rois sì vu reconosant,* (435)</l>
+                <l xml:id="d001l481" n="9931">Estes vos çivaler o de menua çant?"</l>
+                <l xml:id="d001l482" n="9932">E cil le dist, "A conter mon talant</l>
+                <l xml:id="d001l483" n="9933">Encontra vos, no me varia niant.</l>
+                <l xml:id="d001l484" n="9934">Com o le espée faron li parlamant!"*</l>
+                <l xml:id="d001l485" n="9935">Adonc Naimes si le ferì de·l brant; (440)</l>
+                <l xml:id="d001l486" n="9936">Desor li eume un tel colpo li rant,</l>
+                <l xml:id="d001l487" n="9937">Fendu l'averoit tros in le feltramant.*</l>
+                <l xml:id="d001l488" n="9938">Quando la spee le ferì in schivant,</l>
+                <l xml:id="d001l489" n="9939">L'auberg li trençe e la tarça davant;</l>
+                <l xml:id="d001l490" n="9940">E a·l çival por la schina el fant. (445)</l>
+                <l xml:id="d001l491" n="9941">Morto li çete, e quel caì a·l canp;</l>
+                <l xml:id="d001l492" n="9942">Ma el se driçe tosto et isnelmant.</l>
+                <l xml:id="d001l493" n="9943">La spea trait si se mis en avant;</l>
+                <l xml:id="d001l494" n="9944">Dever dux Naimes un gran salto el prant.</l>
+                <l xml:id="d001l495" n="9945">Za l'aust morto son auferant, (450)</l>
+                <l xml:id="d001l496" n="9946">Quant Sansoneto le colpo no li consant.*</l>
+                <lb/>
+                <p xml:id="d001l497" type="title" n="">{{Rubric 292}}</p>
+                <lb/>
+                <p xml:id="d001l498" n="">Coment Sandonio fo abatu.</p>
+                <p xml:id="d001l499" type="title" n="">{{Laisse 293}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l500" n="9947">Quando Sandonio se vi a tera abatu,*</l>
+                <l xml:id="d001l501" n="9948">E son çival en le pre erbu,</l>
+                <l xml:id="d001l502" n="9949">El se redriçe e ten la spea nu.</l>
+                <l xml:id="d001l503" n="9950">Enver de Naimes est a salti metu; (455)</l>
+                <l xml:id="d001l504" n="9951">Feru l'averoit desor l'eumes agu,</l>
+                <l xml:id="d001l505" n="9952">Quant Sansoneto li oit secoru.*</l>
+                <l xml:id="d001l506" n="9953">E cil le fert par si fera vertu,</l>
+                <l xml:id="d001l507" n="9954">Qe a la tera l'oit abatu,</l>
+                <l xml:id="d001l508" n="9955">E prent le çival o cil ert cau. (460)</l>
+                <l xml:id="d001l509" n="9956">Elo li salte, qe streve n'oit prendu;</l>
+                <l xml:id="d001l510" n="9957">Atant ecote vos (un) rois c'oit nome Valbrun,*</l>
+                <l xml:id="d001l511" n="9958">Sor Sansoneto corent por vertu.</l>
+                <l xml:id="d001l512" n="9959">O voja o no, i l'ont prendu;</l>
+                <l xml:id="d001l513" n="9960">A ses pain i l'ont rendu. (465)</l>
+                <l xml:id="d001l514" n="9961">En Roma li oit a li soldan rendu,</l>
+                <l xml:id="d001l515" n="9962">Avec Çofré li oit in preson metu.</l>
+                <l xml:id="d001l516" n="9963">Naimes le vi, forment fo irascu.</l>
+                <l xml:id="d001l517" n="9964">Grant fu la nose, si fo leva li u;</l>
+                <l xml:id="d001l518" n="9965">Sarasin son for de Roma ensu, (470)</l>
+                <l xml:id="d001l519" n="9966">Plu de cento mile a lançe et a scu.</l>
+                <l xml:id="d001l520" n="9967">Quando Francés ont cosi veu,</l>
+                <l xml:id="d001l521" n="9968">Tot le milor fo en fua metu.</l>
+                <l xml:id="d001l522" n="9969">Ad Aleris fo la stendart abatu;</l>
+                <l xml:id="d001l523" n="9970">E cil s'en va fuant si se·l tira rer lu; (475)</l>
+                <l xml:id="d001l524" n="9971">Grande fu el damaço, s'el no è secoru.</l>
+                <lb/>
+                <p xml:id="d001l525" type="title" n="">{{Rubric 293}}</p>
+                <lb/>
+                <p xml:id="d001l526" n="">Coment Aleris portoit l'oriaflame.*</p>
+                <p xml:id="d001l527" type="title" n="">{{Laisse 294}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l528" n="9972">Va s'en Aleris, nen ait qe coruçer;</l>
+                <l xml:id="d001l529" n="9973">L'oriaflame el se tira darer.</l>
+                <l xml:id="d001l530" n="9974">E le dux Naimes è desendu a ter;</l>
+                <l xml:id="d001l531" n="9975">O vi le rois, si·l prist a derasner: (480)</l>
+                <l xml:id="d001l532" n="9976">"Enperer, sire, e vos so ben nonçer,</l>
+                <l xml:id="d001l533" n="9977">Qe ò veçu l'oriaflame verser;*</l>
+                <l xml:id="d001l534" n="9978">Quel qe l'avoit se l'à tira darer.*</l>
+                <l xml:id="d001l535" n="9979">Grande è·l dalmaço de li ves çivaler,</l>
+                <l xml:id="d001l536" n="9980">Qe s'en fuçen a cento e a miler." (485)</l>
+                <l xml:id="d001l537" n="9981">E li Daines estoit preso d'un boscher,</l>
+                <l xml:id="d001l538" n="9982">Qe sire estoit de tot li scuer.</l>
+                <l xml:id="d001l539" n="9983">Davant da soi elo prist a guarder;</l>
+                <l xml:id="d001l540" n="9984">Vi Aleris l'oriaflame trainer.</l>
+                <l xml:id="d001l541" n="9985">"Segnur," fait il, "se me volés aider,* (490)</l>
+                <l xml:id="d001l542" n="9986">Colu qe l'oriaflame se vait trainando rer,</l>
+                <l xml:id="d001l543" n="9987">Eo ge l'averò de ses man saçer."</l>
+                <l xml:id="d001l544" n="9988">E cil si li dient, "Ne vos estoit doter;</l>
+                <l xml:id="d001l545" n="9989">Viron cun vos, et avant et arer."</l>
+                <l xml:id="d001l546" n="9990">E cil le dist, "Tant ò in Dé bona sper,* (495)</l>
+                <l xml:id="d001l547" n="9991">Qe toti vos eo farò çivaler."</l>
+                <l xml:id="d001l548" n="9992">Donc li Dainos prist un baston de pomer,</l>
+                <l xml:id="d001l549" n="9993">E grant e groso, merveloso e plener;</l>
+                <l xml:id="d001l550" n="9994">O el vi Aleris, ven davanti a l'incontrer</l>
+                <l xml:id="d001l551" n="9995">Elo li scrie, "Estes malvasio liçer! (500)</l>
+                <l xml:id="d001l552" n="9996">Como cuité vos si l'oriaflama porter?</l>
+                <l xml:id="d001l553" n="9997">Tosto desendés, si ne dà li destrer,</l>
+                <l xml:id="d001l554" n="9998">E l'oriaflama cun tot li corer."</l>
+                <l xml:id="d001l555" n="9999">E cil le fait, no li olsò contraster.</l>
+                <l xml:id="d001l556" n="10000">E·l Daineseto s'armò tot en primer; (505)</l>
+                <l xml:id="d001l557" n="10001">Pris l'oriaflame, si la fa redriçer;</l>
+                <l xml:id="d001l558" n="10002">Ver qui pain se voit a 'fiçer.</l>
+                <l xml:id="d001l559" n="10003">Tanti non fer, nen faça trabuçer,</l>
+                <l xml:id="d001l560" n="10004">E lì apreso furent li scuer*</l>
+                <l xml:id="d001l561" n="10005">Qe li tolent le arme e li destrer. (510)</l>
+                <l xml:id="d001l562" n="10006">Quant a çival poent toti monter,</l>
+                <l xml:id="d001l563" n="10007">Çascun de lor senblava a çivaler.</l>
+                <l xml:id="d001l564" n="10008">Qi donc le veist por li estor aler,</l>
+                <l xml:id="d001l565" n="10009">E qui gran colpi donar e inplojer.</l>
+                <l xml:id="d001l566" n="10010">Çascun de lor avoit una bander, (515)</l>
+                <l xml:id="d001l567" n="10011">Qe i avont fato sor pertege lever.</l>
+                <l xml:id="d001l568" n="10012">Ne son pais mie de palio ni de çender,</l>
+                <l xml:id="d001l569" n="10013">Ma de ses camises, q'i s'oit fato despoiler,</l>
+                <l xml:id="d001l570" n="10014">E de le peçé dont forbe li destrer.*</l>
+                <l xml:id="d001l571" n="10015">En si gran fuga el mete qui Ascler, (520)</l>
+                <l xml:id="d001l572" n="10016">Qe le plu saço n'è sensa conseler.*</l>
+                <l xml:id="d001l573" n="10017">Arer s'en fuçe, si se lasa li senter;</l>
+                <l xml:id="d001l574" n="10018">Karlo le voit, si le prist a guarder,</l>
+                <l xml:id="d001l575" n="10019">Et oit dito a le dux Naimes de Baiver:</l>
+                <l xml:id="d001l576" n="10020">"Vu me deisì de·l mon confaloner* (525)</l>
+                <l xml:id="d001l577" n="10021">Qe l'oriaflame el se tirava arer?</l>
+                <l xml:id="d001l578" n="10022">Men esiant, mal n'oit li penser;</l>
+                <l xml:id="d001l579" n="10023">A li colpi q'e li veço doner,*</l>
+                <l xml:id="d001l580" n="10024">No li val arme la monta d'un diner."</l>
+                <l xml:id="d001l581" n="10025">Dist Naimes, "El vos fala li penser; (530)</l>
+                <l xml:id="d001l582" n="10026">Q'el est li Dainos, con tot li scuer."*</l>
+                <lb/>
+                <p xml:id="d001l583" type="title" n="">{{Rubric 294}}</p>
+                <lb/>
+                <p xml:id="d001l584" n="">Coment Naimes pa(r)ole a Karle, / Si li conta le nevelle de li D(a)n(o)is.</p>
+                <p xml:id="d001l585" type="title" n="">{{Laisse 295}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l586" n="10027">"Mon sire," dist Naimes, "entendés voiremant;</l>
+                <l xml:id="d001l587" n="10028">Quel non è mie Aleris li valant,</l>
+                <l xml:id="d001l588" n="10029">Qe l'oriaflame portò en primemant.</l>
+                <l xml:id="d001l589" n="10030">Le Daineseto è cil qe à tel ardimant, (535)</l>
+                <l xml:id="d001l590" n="10031">Qe porta l'oriaflame et arer et avant.</l>
+                <l xml:id="d001l591" n="10032">Scuer sont cil q'elo si destranç;*</l>
+                <l xml:id="d001l592" n="10033">A gran mervile el fer ben de cil brant."</l>
+                <l xml:id="d001l593" n="10034">Li rois l'intende, si s'en va mervelant;</l>
+                <l xml:id="d001l594" n="10035">E si çurò sor li cor san Viçanç,* (540)</l>
+                <l xml:id="d001l595" n="10036">Qe çivaler li farà novellemant;</l>
+                <l xml:id="d001l596" n="10037">Por son amor elo n'adobarà çant.</l>
+                <l xml:id="d001l597" n="10038">Dist Naimes, "Vu farì s(aç)emant."*</l>
+                <l xml:id="d001l598" n="10039">Adonc li Dainois s'en retornò atant,</l>
+                <l xml:id="d001l599" n="10040">Qe li Sarasin e Turches e Persant (545)</l>
+                <l xml:id="d001l600" n="10041">En Roma entrent dolant;</l>
+                <l xml:id="d001l601" n="10042">Qe plus de mil en lasoit a·l canp.</l>
+                <lb/>
+                <p xml:id="d001l602" type="title" n="">{{Rubric 295}}</p>
+                <lb/>
+                <p xml:id="d001l603" n="">Coment l'oste s'en tornarent arer.</p>
+                <p xml:id="d001l604" type="title" n="">{{Laisse 296}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l605" n="10043">Li bon Dainois fu por li canpo alé,</l>
+                <l xml:id="d001l606" n="10044">E li ses scuer avec lui sont alé,</l>
+                <l xml:id="d001l607" n="10045">Ferant qui Sarasin e davant e daré. (550)</l>
+                <l xml:id="d001l608" n="10046">Qe quant en fu en via trové,</l>
+                <l xml:id="d001l609" n="10047">Tot i furent morti, a martirio livré.*</l>
+                <l xml:id="d001l610" n="10048">Qui qi forent en orenga entré,</l>
+                <l xml:id="d001l611" n="10049">E questa fu Roma, la mirabel çité,</l>
+                <l xml:id="d001l612" n="10050">A la tenda li rois i sonto desmonté. (555)</l>
+                <l xml:id="d001l613" n="10051">Li rois li guarda, oit Naimes apelé;</l>
+                <l xml:id="d001l614" n="10052">"Naimes," fait il, "dites moi verité:</l>
+                <l xml:id="d001l615" n="10053">Questa masnea q'è si ben coroé,</l>
+                <l xml:id="d001l616" n="10054">L'oriaflama i m'ont aporté.</l>
+                <l xml:id="d001l617" n="10055">Qe vos deisés qe estoit sbaraté? (560)</l>
+                <l xml:id="d001l618" n="10056">Quel qi la porte me senbla de gran berné."</l>
+                <l xml:id="d001l619" n="10057">Dist dux Naimes, "Donc no le conosé?</l>
+                <l xml:id="d001l620" n="10058">Non è pais Aleris a qi la fu doné;</l>
+                <l xml:id="d001l621" n="10059">Anch'è·lo li Dainois, è li vestre scué,*</l>
+                <l xml:id="d001l622" n="10060">Qe a 'Leris l'avoit de man saçé* (565)</l>
+                <l xml:id="d001l623" n="10061">Porq'elo la portava trainando soi daré;</l>
+                <l xml:id="d001l624" n="10062">Çestu oit le canpo vinto et aquité."</l>
+                <l xml:id="d001l625" n="10063">Dist li rois, "El oit ben ovré."</l>
+                <l xml:id="d001l626" n="10064">E li Dainois quando fu desmonté,</l>
+                <l xml:id="d001l627" n="10065">Davant li rois estoit apresenté; (570)</l>
+                <l xml:id="d001l628" n="10066">Quant davant lui elo fo arosté,*</l>
+                <l xml:id="d001l629" n="10067">Avantqe moto el aust parlé</l>
+                <l xml:id="d001l630" n="10068">Elo se fu davant lui ençenolé,</l>
+                <l xml:id="d001l631" n="10069">E altament li oit salué:</l>
+                <l xml:id="d001l632" n="10070">"Çentil rois, sire, vestra oriaflame prendé, (575)</l>
+                <l xml:id="d001l633" n="10071">Qe ves scuer si l'oit recovré.</l>
+                <l xml:id="d001l634" n="10072">Un autre fois a tel si la doné*</l>
+                <l xml:id="d001l635" n="10073">Qe no sia coardo ne qe fuça aré,</l>
+                <l xml:id="d001l636" n="10074">Perdua estoit quando l'ò reçaté."</l>
+                <l xml:id="d001l637" n="10075">Dist li rois, "Vu avì ben ovré. (580)</l>
+                <l xml:id="d001l638" n="10076">Dache l'avés in le canpo conquisté,</l>
+                <l xml:id="d001l639" n="10077">Da ora avanti ve soja otrié,</l>
+                <l xml:id="d001l640" n="10078">Qe por un altro vu non serì cançé.</l>
+                <l xml:id="d001l641" n="10079">A ves voloir la condué e mené."</l>
+                <l xml:id="d001l642" n="10080">E quel le dist, "Mile marçé n'açé." (585)</l>
+                <l xml:id="d001l643" n="10081">E Naimes le dist, "Ben l'avés esploité;</l>
+                <l xml:id="d001l644" n="10082">Poisqe l'avés donea e delivré,</l>
+                <l xml:id="d001l645" n="10083">L'oriaflame non doit eser avilé.</l>
+                <l xml:id="d001l646" n="10084">Colu qe la doit porter doit eser adobé,</l>
+                <l xml:id="d001l647" n="10085">E çivaler adobé e coroé." (590)</l>
+                <l xml:id="d001l648" n="10086">Dist li rois, "El me ven ben a gre;</l>
+                <l xml:id="d001l649" n="10087">Tot les autres qe son d(e) sa masné,*</l>
+                <l xml:id="d001l650" n="10088">Por son amor seran tot adobé."</l>
+                <l xml:id="d001l651" n="10089">Quant li Dainois li oit asculté,</l>
+                <l xml:id="d001l652" n="10090">Plu fo·lo çojoso cha se le fust doné (595)</l>
+                <l xml:id="d001l653" n="10091">Toto l'onor d'una bona çité;</l>
+                <l xml:id="d001l654" n="10092">Por ses conpagni plu qe de lu asé.</l>
+                <lb/>
+                <p xml:id="d001l655" type="title" n="">{{Rubric 296}}</p>
+                <lb/>
+                <p xml:id="d001l656" n="">Coment s(e) conta de Karlo.*</p>
+                <p xml:id="d001l657" type="title" n="">{{Laisse 297}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l658" n="10093">De una ren, segnur, siés certan,</l>
+                <l xml:id="d001l659" n="10094">Qe Karlo el maine uncha no fo vilan;</l>
+                <l xml:id="d001l660" n="10095">Ne mais no servì ad omo a ingan. (600)</l>
+                <l xml:id="d001l661" n="10096">A li prodomes no fu mie da luitan,*</l>
+                <l xml:id="d001l662" n="10097">A li povres çivaler qe estoit en achan,*</l>
+                <l xml:id="d001l663" n="10098">Doner li fasoit e de·l vin e de·l pan,</l>
+                <l xml:id="d001l664" n="10099">Siq'elo li fasoit toti quant çojan.</l>
+                <l xml:id="d001l665" n="10100">Li ses nemisi q'era mal Cristian (605)</l>
+                <l xml:id="d001l666" n="10101">Elo metea en dolo et en torman;</l>
+                <l xml:id="d001l667" n="10102">Tanto li dotava Sarasin e Persan</l>
+                <l xml:id="d001l668" n="10103">Como fasoit ne lion ni serpan.</l>
+                <l xml:id="d001l669" n="10104">A li Dainese donò arme e guarniman</l>
+                <l xml:id="d001l670" n="10105">Por son amor ne fe adober çan; (610)</l>
+                <l xml:id="d001l671" n="10106">Qe çascun avoit çinto li bran,</l>
+                <l xml:id="d001l672" n="10107">Qe scuer furent apelé de ilec in avan.*</l>
+                <l xml:id="d001l673" n="10108">Qe dapois çascun fo si valan,</l>
+                <l xml:id="d001l674" n="10109">Q'i no dotava ni rois ni amiran.</l>
+                <lb/>
+                <p xml:id="d001l675" type="title" n="">{{Rubric 297}}</p>
+                <lb/>
+                <p xml:id="d001l676" n="">Coment (K)arlo fi le Danois çivaler, / E tot (li) altri scuer.*</p>
+                <p xml:id="d001l677" type="title" n="">{{Laisse 298}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l678" n="10110">Quant Karlo oit fato qui çivaler (615)</l>
+                <l xml:id="d001l679" n="10111">Por le conseil dux Naimes de Baiver,</l>
+                <l xml:id="d001l680" n="10112">Çascun de ceus c'oit pris corer,</l>
+                <l xml:id="d001l681" n="10113">A gran mervile dapois se fe priser;</l>
+                <l xml:id="d001l682" n="10114">En tota l'oste n'estoit milor çivaler.</l>
+                <l xml:id="d001l683" n="10115">Gran dolo oit Karlo maino l'inperer, (620)</l>
+                <l xml:id="d001l684" n="10116">Por Çofré de Paris e por li altri çivaler.</l>
+                <l xml:id="d001l685" n="10117">Qe estoient amena presoner.</l>
+                <l xml:id="d001l686" n="10118">Se li rois oit dol, non è da merviler.</l>
+                <l xml:id="d001l687" n="10119">Or laseron de Karlo, si vos averon conter,</l>
+                <l xml:id="d001l688" n="10120">Coment Karaolo se retornò arer. (625)</l>
+                <l xml:id="d001l689" n="10121">Avec lui Sandonio, qi est pro e ber;</l>
+                <l xml:id="d001l690" n="10122">En Paganie ne sonto milor çivaler.</l>
+                <l xml:id="d001l691" n="10123">Li soldan le prist a desrasner,</l>
+                <l xml:id="d001l692" n="10124">Coment ont fato là defor a·l çostrer. (630)</l>
+                <l xml:id="d001l693" n="10125">E cil le dient, "Françés son pro e fer;</l>
+                <l xml:id="d001l694" n="10126">Meltri çivaler ne se poroit trover;</l>
+                <l xml:id="d001l695" n="10127">Molto n'oit ad aste a ferir et a capler,</l>
+                <l xml:id="d001l696" n="10128">Si m'ont mort mon corant destrer.</l>
+                <l xml:id="d001l697" n="10129">A molto gran poine da lor me potì sevrer."</l>
+                <l xml:id="d001l698" n="10130">Dist li soldan, "Nu avon presoner." (635)</l>
+                <l xml:id="d001l699" n="10131">Adonc se le fait avanti lui amener;</l>
+                <l xml:id="d001l700" n="10132">Quando le vi le prist a derasner,</l>
+                <l xml:id="d001l701" n="10133">"Segnur," fait il, "estes vos çivaler,</l>
+                <l xml:id="d001l702" n="10134">O d'altra jent qe soja soldaer?"*</l>
+                <l xml:id="d001l703" n="10135">Çofré le dist, qe parlò en primer, (640)</l>
+                <l xml:id="d001l704" n="10136">"Sarasin, sire, ne vos le do nojer;</l>
+                <l xml:id="d001l705" n="10137">En l'ost Karlo, qi est enperer,</l>
+                <l xml:id="d001l706" n="10138">No se poroit trover nul soldaer.</l>
+                <l xml:id="d001l707" n="10139">Çascun serve li rois de grez e volunter,</l>
+                <l xml:id="d001l708" n="10140">A son espese cun arme e destrer; (645)</l>
+                <l xml:id="d001l709" n="10141">Qi mejo po se fait plus priser."</l>
+                <l xml:id="d001l710" n="10142">Dist li rois, "Quest'è ben da graer</l>
+                <l xml:id="d001l711" n="10143">Oltra la mer entro Turs et Ascler,</l>
+                <l xml:id="d001l712" n="10144">Molto l'ò oldu loer et apriser;</l>
+                <l xml:id="d001l713" n="10145">Et avec lui tuti so çivaler. (650)</l>
+                <l xml:id="d001l714" n="10146">Gran peçé fait quant se lasa ençegner,</l>
+                <l xml:id="d001l715" n="10147">Croir celu qe no li po aider."</l>
+                <l xml:id="d001l716" n="10148">Dist Çofré, "Vu avì mala sper;</l>
+                <l xml:id="d001l717" n="10149">No val Macon la monta d'un diner,</l>
+                <l xml:id="d001l718" n="10150">Se no por l'oro dont le faites acesmer." (655)</l>
+                <lb/>
+                <p xml:id="d001l719" type="title" n="">{{Rubric 298}}</p>
+                <lb/>
+                <p xml:id="d001l720" n="">Coment li Soldam parlò.*</p>
+                <p xml:id="d001l721" type="title" n="">{{Laisse 299}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l722" n="10151">Li rois soldan si le mist por rason:</l>
+                <l xml:id="d001l723" n="10152">"Cristian, sire, tu me par ben saçes hon;</l>
+                <l xml:id="d001l724" n="10153">Karlo, ton sir, el è de gran renon."*</l>
+                <l xml:id="d001l725" n="10154">"Oil voir, sire, nul meltre no saçon;</l>
+                <l xml:id="d001l726" n="10155">Bon çivaler est, un d·i milor de·l mon. (660)</l>
+                <l xml:id="d001l727" n="10156">Si oit en sa masné de molto çentil hon</l>
+                <l xml:id="d001l728" n="10157">Qe a lui serve por soa reençon,</l>
+                <l xml:id="d001l729" n="10158">Qe voluntera voit a risa et a tençon</l>
+                <l xml:id="d001l730" n="10159">Ver Sarasin de la loi de Macon.</l>
+                <l xml:id="d001l731" n="10160">E quisti son Françés e Bergognon, (665)</l>
+                <l xml:id="d001l732" n="10161">Qe tent l'autre jent tota quant a bricon."*</l>
+                <l xml:id="d001l733" n="10162">Dist li soldan, "E nu questo savron:*</l>
+                <l xml:id="d001l734" n="10163">Qe un mesaço l'invojarò de randon,</l>
+                <l xml:id="d001l735" n="10164">Savoir se in sa cort aust du de·l renon</l>
+                <l xml:id="d001l736" n="10165">Qe conbatre volust cun du me canpion (670)</l>
+                <l xml:id="d001l737" n="10166">Por tal convento cun nu vos contaron:</l>
+                <l xml:id="d001l738" n="10167">S'i me serà vençu, nu Roma lasaron;</l>
+                <l xml:id="d001l739" n="10168">Si pasaren oltra mer sens tençon.</l>
+                <l xml:id="d001l740" n="10169">E se li so è vinti, nu altro non queron,</l>
+                <l xml:id="d001l741" n="10170">Q'el torni arer, lui e ses baron. (675)</l>
+                <l xml:id="d001l742" n="10171">El è ben mejo qe dos parta sta tençon</l>
+                <l xml:id="d001l743" n="10172">Cha el ge mora tanti çentil hon."</l>
+                <l xml:id="d001l744" n="10173">Dist Çofré, "Quest'è droita rason;</l>
+                <l xml:id="d001l745" n="10174">S'e fose fora de la vestra preson,</l>
+                <l xml:id="d001l746" n="10175">Eo voria eser un de qui canpion." (680)</l>
+                <lb/>
+                <p xml:id="d001l747" type="title" n="">{{Rubric 299}}</p>
+                <lb/>
+                <p xml:id="d001l748" n="">Coment Soldam mandò a Karlo li me(s)açer.*</p>
+                <p xml:id="d001l749" type="title" n="">{{Laisse 300}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l750" n="10176">Li rois soldan non demorò nojant;</l>
+                <l xml:id="d001l751" n="10177">Por li conseil de le ses amirant,</l>
+                <l xml:id="d001l752" n="10178">Un mesaçer oit apelé erant:</l>
+                <l xml:id="d001l753" n="10179">"Va·t'en," fait il, "a li rois de li Franc.</l>
+                <l xml:id="d001l754" n="10180">Di·li da ma part, q'eo si le mant, (685)</l>
+                <l xml:id="d001l755" n="10181">Se çest pla vol definir a·l presant,</l>
+                <l xml:id="d001l756" n="10182">Qe elo prenda du de ses conbatant,</l>
+                <l xml:id="d001l757" n="10183">De le milor e de le plus valant.</l>
+                <l xml:id="d001l758" n="10184">Et eo si averò du d·i me ensemant;</l>
+                <l xml:id="d001l759" n="10185">Du contra dos çostrerà a li canp. (690)</l>
+                <l xml:id="d001l760" n="10186">S'i me serà vinti ni recreant,</l>
+                <l xml:id="d001l761" n="10187">Roma laserò sença . . . de brant,*</l>
+                <l xml:id="d001l762" n="10188">Si m'en andarò oltra en Jerusalant.</l>
+                <l xml:id="d001l763" n="10189">E s'i so è vi(n)çu, el farà altretant:*</l>
+                <l xml:id="d001l764" n="10190">Si tornerà en França et en Proanç.* (695)</l>
+                <l xml:id="d001l765" n="10191">Et in tal mo faremo acordamant;</l>
+                <l xml:id="d001l766" n="10192">Nen io ne lu no le perderen nojant."</l>
+                <l xml:id="d001l767" n="10193">Dist li mesajes, "Farò li ves comant;</l>
+                <l xml:id="d001l768" n="10194">Ben le dirò ço qe a l'ovra apant."</l>
+                <l xml:id="d001l769" n="10195">E cil mesaçer fu saçes e valant; (700)</l>
+                <l xml:id="d001l770" n="10196">Nen volse pais demorer tant ni quant.</l>
+                <l xml:id="d001l771" n="10197">Desor un palafroi el monta erant;</l>
+                <l xml:id="d001l772" n="10198">Ne finò pais enfina a l'oste d·i Franc.</l>
+                <l xml:id="d001l773" n="10199">O·l trove li rois, ilec el desant.</l>
+                <l xml:id="d001l774" n="10200">Un damisel pris li mulet anblant; (705)</l>
+                <l xml:id="d001l775" n="10201">E le dux Naimes por me la man li prant.</l>
+                <l xml:id="d001l776" n="10202">Davant li rois el si le presant;</l>
+                <l xml:id="d001l777" n="10203">Li rois le vi, si l'apele primemant,</l>
+                <l xml:id="d001l778" n="10204">S'il est mesaçer, o hon d'altro convant.</l>
+                <l xml:id="d001l779" n="10205">E cil le dist, "Ne vos çelo niant; (710)</l>
+                <l xml:id="d001l780" n="10206">Mesaçer sui de le riçe rois soldant,</l>
+                <l xml:id="d001l781" n="10207">Li meltre rois qe soja en Oriant.</l>
+                <l xml:id="d001l782" n="10208">Soa anbasea e ço qe li apant,*</l>
+                <l xml:id="d001l783" n="10209">E vos dirò ben e lojalmant;</l>
+                <l xml:id="d001l784" n="10210">Ne vo·l falderò par nul ren vivant." (715)</l>
+                <l xml:id="d001l785" n="10211">Dist li rois, "Vu farì gran siant,</l>
+                <l xml:id="d001l786" n="10212">Qe mesaçer po ben dir son talant."</l>
+                <lb/>
+                <p xml:id="d001l787" type="title" n="">{{Rubric 300}}</p>
+                <lb/>
+                <p xml:id="d001l788" n="">Coment parole li mesaçer.*</p>
+                <p xml:id="d001l789" type="title" n="">{{Laisse 301}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l790" n="10213">Dist il, li mesaço, "E no vos quer nojer.*</l>
+                <l xml:id="d001l791" n="10214">De li rois soldan eo son mesaçer;</l>
+                <l xml:id="d001l792" n="10215">Elo vos mande, e no vos do nojer, (720)</l>
+                <l xml:id="d001l793" n="10216">Se in vestra oste fose du çivaler,</l>
+                <l xml:id="d001l794" n="10217">Qe por arme se volese far priser,</l>
+                <l xml:id="d001l795" n="10218">Contra du d·i so volist en canpo çostrer.</l>
+                <l xml:id="d001l796" n="10219">Dos contra dos, questo pla adefiner,*</l>
+                <l xml:id="d001l797" n="10220">Por tel convento con vos saverò deviser. (725)</l>
+                <l xml:id="d001l798" n="10221">Se li so en vinti, el s'en vol aler,*</l>
+                <l xml:id="d001l799" n="10222">Con soa jent pasar oltra mer,</l>
+                <l xml:id="d001l800" n="10223">Si v'avrà Roma tot in aquito laser;</l>
+                <l xml:id="d001l801" n="10224">Ne no lì remarà Sarasin ni Escler.</l>
+                <l xml:id="d001l802" n="10225">E se li ves è vi(n)ti, vu averés retorner (730)</l>
+                <l xml:id="d001l803" n="10226">En dolçe França cun li ves çivaler.</l>
+                <l xml:id="d001l804" n="10227">Mei è qe du cun dos deça ste pla adefiner,</l>
+                <l xml:id="d001l805" n="10228">Qe meter a morir cento mil çivaler."</l>
+                <l xml:id="d001l806" n="10229">Li rois l'oì, si le parse strainer,</l>
+                <l xml:id="d001l807" n="10230">Quela ovre si de leve acreenter,* (735)</l>
+                <l xml:id="d001l808" n="10231">Qe se li so perdese gran seroit li danger;</l>
+                <l xml:id="d001l809" n="10232">Se Roma deust eser senpre d·i Escler.</l>
+                <l xml:id="d001l810" n="10233">Quant Naimes oì quel mesaçer,</l>
+                <l xml:id="d001l811" n="10234">El dist a·l roi, "Ben est da 'creenter!</l>
+                <l xml:id="d001l812" n="10235">Milor novela no demando ni quer; (740)</l>
+                <l xml:id="d001l813" n="10236">Mei è q'el mora dos sol çivaler,</l>
+                <l xml:id="d001l814" n="10237">Qe cento mile metere a justisier.</l>
+                <l xml:id="d001l815" n="10238">Otrié·li, rois, ço q'el demanda e quer,*</l>
+                <l xml:id="d001l816" n="10239">Et eo serò un de qui çivaler."</l>
+                <l xml:id="d001l817" n="10240">"Non serì," dist li rois, "par tot l'or de Baiver." (745)</l>
+                <l xml:id="d001l818" n="10241">A ste parole, eco dos baçaler,</l>
+                <l xml:id="d001l819" n="10242">Qe de novelo preso ont li corer:</l>
+                <l xml:id="d001l820" n="10243">Ço fo le Dainese, qe s'apela Uçer,</l>
+                <l xml:id="d001l821" n="10244">E l'altro fo Çarloto, qe estoit pro e ber,</l>
+                <l xml:id="d001l822" n="10245">E si fo filz de Karlo de sa prima muler.* (750)</l>
+                <l xml:id="d001l823" n="10246">Quisti dient a·l roi qe in don i requer</l>
+                <l xml:id="d001l824" n="10247">Questa bataila fare e definer,</l>
+                <l xml:id="d001l825" n="10248">Contra li dos de la loi averser.</l>
+                <l xml:id="d001l826" n="10249">Dist li rois, "De l'un vojo otrier;</l>
+                <l xml:id="d001l827" n="10250">Ma vu Çarloto, alez vos repolser, (755)</l>
+                <l xml:id="d001l828" n="10251">Tropo estes vos çovençel, aler a tornojer;*</l>
+                <l xml:id="d001l829" n="10252">E guardés ben, ne ve olda plu parler."</l>
+                <l xml:id="d001l830" n="10253">Çarloto l'olde, cuita li seno cançer.</l>
+                <l xml:id="d001l831" n="10254">"Pere," fait il, "donc me tenés lainer?</l>
+                <l xml:id="d001l832" n="10255">Plu de·l Dainois me faites aviler. (760)</l>
+                <l xml:id="d001l833" n="10256">Ma d'una ren nen serò mençoner;</l>
+                <l xml:id="d001l834" n="10257">Qe demanes prenderò mon corer,</l>
+                <l xml:id="d001l835" n="10258">En Roma alirò a li soldan parler.</l>
+                <l xml:id="d001l836" n="10259">E s'el vorà a mon consei(l) ovrer,*</l>
+                <l xml:id="d001l837" n="10260">El me farà un de qui dos çivaler (765)</l>
+                <l xml:id="d001l838" n="10261">Qe avec li vos vignirà a çostrer."</l>
+                <l xml:id="d001l839" n="10262">Li rois l'olde, pris le vis enbronçer;</l>
+                <l xml:id="d001l840" n="10263">Ni ben ni mal no li responde arer.</l>
+                <l xml:id="d001l841" n="10264">Naimes l'olde, si le prist a guarder;</l>
+                <l xml:id="d001l842" n="10265">Dist a li rois, "Quest'è grant destorber; (770)</l>
+                <l xml:id="d001l843" n="10266">Quest'è ben colse da dever otrier."</l>
+                <lb/>
+                <p xml:id="d001l844" type="title" n="">{{Rubric 301}}</p>
+                <lb/>
+                <p xml:id="d001l845" n="">Coment Naimes parole.*</p>
+                <p xml:id="d001l846" type="title" n="">{{Laisse 302}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l847" n="10267">Quant Naimes oit entendu l'infant,</l>
+                <l xml:id="d001l848" n="10268">Tot airés e plen de maltalant,</l>
+                <l xml:id="d001l849" n="10269">Elo parole, dist a li rois posant,</l>
+                <l xml:id="d001l850" n="10270">"Çentil rois, sire, veez li ves enfant, (775)</l>
+                <l xml:id="d001l851" n="10271">Qe vos demanda la bataile primemant,*</l>
+                <l xml:id="d001l852" n="10272">Con li Dainois eser a·l torniemant</l>
+                <l xml:id="d001l853" n="10273">Verso qui dos pain de la lo mescreant?*</l>
+                <l xml:id="d001l854" n="10274">Se vu li otriés, elo s'en fa çojant,</l>
+                <l xml:id="d001l855" n="10275">Colsa como no, dise apertemant (780)</l>
+                <l xml:id="d001l856" n="10276">Qe in Roma alirà a l'amirant,</l>
+                <l xml:id="d001l857" n="10277">Da la part serà de Turs e de Persant.</l>
+                <l xml:id="d001l858" n="10278">Nen vos plaça mie de perder ves enfant,</l>
+                <l xml:id="d001l859" n="10279">Qe ço q'elo dist, tuto l'oit en talant."</l>
+                <l xml:id="d001l860" n="10280">Li rois l'oldì; par poi d'ire non fant. (785)</l>
+                <l xml:id="d001l861" n="10281">Por li conseil Naimes, li guanto li rant,</l>
+                <l xml:id="d001l862" n="10282">De la bataile qe ben le virent çant*</l>
+                <l xml:id="d001l863" n="10283">Li qual ne furent grami e dolant,</l>
+                <l xml:id="d001l864" n="10284">Qe se dotent de lui porqe estoit si enfant.</l>
+                <l xml:id="d001l865" n="10285">Se Çarloto oit çoie, nesuno non demant; (790)</l>
+                <l xml:id="d001l866" n="10286">En soa vite el no fo si çojant.</l>
+                <l xml:id="d001l867" n="10287">E li rois parole a·l mesaçer en ojant:</l>
+                <l xml:id="d001l868" n="10288">"Va·t'en ami, non demorer nojant,</l>
+                <l xml:id="d001l869" n="10289">E dì a ton sir q'eo si le mant,</l>
+                <l xml:id="d001l870" n="10290">E si le otriò tuto li son comant. (795)</l>
+                <l xml:id="d001l871" n="10291">Du contra dos, sença altro hon vivant,</l>
+                <l xml:id="d001l872" n="10292">Por lialté, sença nul tradimant."</l>
+                <l xml:id="d001l873" n="10293">Dist li mesaço, "Vu parlé saçemant.</l>
+                <l xml:id="d001l874" n="10294">Només li terme quando serà a·l canp."</l>
+                <l xml:id="d001l875" n="10295">Dist li rois, "Deman a l'aube aparisant."* (800)</l>
+                <l xml:id="d001l876" n="10296">Li mesaçer non demanda plu nojant;</l>
+                <l xml:id="d001l877" n="10297">Arer s'en torne e legro e çojant.</l>
+                <l xml:id="d001l878" n="10298">El entre en Rome, a li palés desant;</l>
+                <l xml:id="d001l879" n="10299">O vi li rois, por rason li demant.</l>
+                <l xml:id="d001l880" n="10300">Tuto li conte, ço qe a l'ovra apant. (805)</l>
+                <lb/>
+                <p xml:id="d001l881" type="title" n="">{{Rubric 302}}</p>
+                <lb/>
+                <p xml:id="d001l882" n="">Coment li mesoço retorne.</p>
+                <p xml:id="d001l883" type="title" n="">{{Laisse 303}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l884" n="10301">"Çentil rois, sire, saça por verité,</l>
+                <l xml:id="d001l885" n="10302">Qe li François son çente ben adoté.</l>
+                <l xml:id="d001l886" n="10303">Vestre mesaço ont molto agraé,</l>
+                <l xml:id="d001l887" n="10304">Si como jent ben saça e dotriné.</l>
+                <l xml:id="d001l888" n="10305">La bataila ert, si ert ben acreenté; (810)</l>
+                <l xml:id="d001l889" n="10306">Dos damisé de novelo adobé,</l>
+                <l xml:id="d001l890" n="10307">Qe a moi apare eser de gran berné</l>
+                <l xml:id="d001l891" n="10308">De la bataile ont li guanto pié.</l>
+                <l xml:id="d001l892" n="10309">Deman a l'aube seran adobé,</l>
+                <l xml:id="d001l893" n="10310">A li pre serà sença nul falsité." (815)</l>
+                <l xml:id="d001l894" n="10311">Dist li soldan, "Questo m'è ben a gre.</l>
+                <l xml:id="d001l895" n="10312">Qi prenderà sta bataile contra li batezé?"</l>
+                <l xml:id="d001l896" n="10313">Dist Karaolo, "E son aparilé."</l>
+                <l xml:id="d001l897" n="10314">Da l'altra part fu Sa(n)donio levé;</l>
+                <l xml:id="d001l898" n="10315">Quisti dos ont quel ovra otrié, (820)</l>
+                <l xml:id="d001l899" n="10316">E de far la bataile ont li guant pié.</l>
+                <l xml:id="d001l900" n="10317">En Paganie ni oltra la mer salé,</l>
+                <l xml:id="d001l901" n="10318">Dos milor nen seroit reçaté,*</l>
+                <l xml:id="d001l902" n="10319">Ne de bataile fust plu adoté.</l>
+                <l xml:id="d001l903" n="10320">Le enperer de Françe mal se fu conselé (825)</l>
+                <l xml:id="d001l904" n="10321">Quant a son fil elo oit otrié</l>
+                <l xml:id="d001l905" n="10322">De far quela bataile contra tel amiré.</l>
+                <l xml:id="d001l906" n="10323">Ma li rois li otrie, veçando sa volunté,</l>
+                <l xml:id="d001l907" n="10324">Qe dapoi en fu dolant et abosmé.</l>
+                <l xml:id="d001l908" n="10325">Nen fust Naimes qe l'oit conselé, (830)</l>
+                <l xml:id="d001l909" n="10326">Par nul ren no li fust li guanto doné;</l>
+                <l xml:id="d001l910" n="10327">Daq'el è fato, non serà st(r)atorné.*</l>
+                <l xml:id="d001l911" n="10328">Tuto quel çorno i ont seçorné,</l>
+                <l xml:id="d001l912" n="10329">E tuta la noit como fu longa e le.</l>
+                <l xml:id="d001l913" n="10330">A la deman quan l'aube fu levé, (835)</l>
+                <l xml:id="d001l914" n="10331">Li Dainois no à l'ovra oblié.</l>
+                <l xml:id="d001l915" n="10332">Nian Çarloto non remist daré;</l>
+                <l xml:id="d001l916" n="10333">Çascun si s'arme e prende ses coré.</l>
+                <lb/>
+                <p xml:id="d001l917" type="title" n="">{{Rubric 303}}</p>
+                <lb/>
+                <p xml:id="d001l918" n="">Coment s'ar(maient) (çivaler).</p>
+                <p xml:id="d001l919" type="title" n="">{{Laisse 304}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l920" n="10334">Li dos damisé prendent ses corer;</l>
+                <l xml:id="d001l921" n="10335">Naimes, le dux de·l ducha de Baiver, (840)</l>
+                <l xml:id="d001l922" n="10336">Ad arme prendere d'anbi li baçaler.</l>
+                <l xml:id="d001l923" n="10337">Le muniscoit coment deveroit ovrer,</l>
+                <l xml:id="d001l924" n="10338">Quando seront a·l ferir e çostrer.</l>
+                <l xml:id="d001l925" n="10339">Dist li Danois, "Quel pla lasez ester."</l>
+                <l xml:id="d001l926" n="10340">Adoncha montent anbidos a destrer; (845)</l>
+                <l xml:id="d001l927" n="10341">Li rois li otria a li canpo aler;</l>
+                <l xml:id="d001l928" n="10342">E cil le font, sença nul entarder.</l>
+                <l xml:id="d001l929" n="10343">E Karaolo e Sandonio li Ascler,</l>
+                <l xml:id="d001l930" n="10344">D'arme prendre se vont a 'pariler.</l>
+                <l xml:id="d001l931" n="10345">Çascun veste l'aubers e calça le ganber; (850)</l>
+                <l xml:id="d001l932" n="10346">Alaça li elmi, çinse li brandi d'açer;</l>
+                <l xml:id="d001l933" n="10347">Posa montent sor li corant destrer.</l>
+                <l xml:id="d001l934" n="10348">E li soldan li voit a convojer,</l>
+                <l xml:id="d001l935" n="10349">Trois a li canpo o dovent çostrer.</l>
+                <l xml:id="d001l936" n="10350">Dist Karaolo, "E vos vojo nonçer,* (855)</l>
+                <l xml:id="d001l937" n="10351">Se ne veisés oncir e desmenbrer,</l>
+                <l xml:id="d001l938" n="10352">No ne venés secorer ni aider."</l>
+                <l xml:id="d001l939" n="10353">Dist li soldan, "Ne vos estoit doter."</l>
+                <l xml:id="d001l940" n="10354">Arere torne, si le lasa ester.</l>
+                <l xml:id="d001l941" n="10355">Karaolo fu molto sajes in la lo averser; (860)</l>
+                <l xml:id="d001l942" n="10356">O vi li Danois si·l prist ad apeler:</l>
+                <l xml:id="d001l943" n="10357">"Çivaler, sire, dites moi veriter;</l>
+                <l xml:id="d001l944" n="10358">En la cort Karlo avez nul mester?"</l>
+                <l xml:id="d001l945" n="10359">Dist li Danois, "Eo fu so scuer,*</l>
+                <l xml:id="d001l946" n="10360">Ma por sa cortexia fato m'à çivaler, (865)</l>
+                <l xml:id="d001l947" n="10361">Si m'à doné soa ensegna a porter.</l>
+                <l xml:id="d001l948" n="10362">E questo altro, qe veez qui ester,</l>
+                <l xml:id="d001l949" n="10363">Filz est li rois de·l maino enperer;</l>
+                <l xml:id="d001l950" n="10364">Non è a·l mondo ren q'elo aça plu çer."</l>
+                <l xml:id="d001l951" n="10365">"Por la ma foi," ço dist Karoer, (870)</l>
+                <l xml:id="d001l952" n="10366">"Quest'è una colsa q'è molto da graer!</l>
+                <l xml:id="d001l953" n="10367">Quando son fil manda a nos çostrer,</l>
+                <l xml:id="d001l954" n="10368">No ne ten mie coardi ni lainer.</l>
+                <l xml:id="d001l955" n="10369">Nu saveron in tel modo deviser,*</l>
+                <l xml:id="d001l956" n="10370">Enver de moi vu averì capler, (875)</l>
+                <l xml:id="d001l957" n="10371">E quel enfant con l'altro çivaler."</l>
+                <l xml:id="d001l958" n="10372">Dist li Danois, "Ben est da otrier."</l>
+                <l xml:id="d001l959" n="10373">Nen volse plus ni plaider ni tençer;</l>
+                <l xml:id="d001l960" n="10374">De le canpo se done li trato d'un arçer.</l>
+                <l xml:id="d001l961" n="10375">L'un contra l'altro lasent li destrer,* (880)</l>
+                <l xml:id="d001l962" n="10376">E fait ses lances brandir e palmojer.</l>
+                <l xml:id="d001l963" n="10377">Grant colpi se fer a·l primer encontrer,</l>
+                <l xml:id="d001l964" n="10378">Qe le tarçe font fe(n)dere e peçojer.</l>
+                <l xml:id="d001l965" n="10379">Fort fu li aubers, ne le pote desmajer;</l>
+                <l xml:id="d001l966" n="10380">Tot le aste fait in troncon voler, (885)</l>
+                <l xml:id="d001l967" n="10381">Ne l'un por l'autre no se pl(o)ja en destrer.*</l>
+                <l xml:id="d001l968" n="10382">Quant le aste son fraite, i tra li brant d'açer;</l>
+                <l xml:id="d001l969" n="10383">L'un contra l'autre ven fort cun cengler.</l>
+                <lb/>
+                <p xml:id="d001l970" type="title" n="">{{Rubric 304}}</p>
+                <lb/>
+                <p xml:id="d001l971" n="">Coment fu grant la bataille.*</p>
+                <p xml:id="d001l972" type="title" n="">{{Laisse 305}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l973" n="10384">Defor de Rome en le pre verdojant</l>
+                <l xml:id="d001l974" n="10385">Fo la bataile mervilosa e grant. (890)</l>
+                <l xml:id="d001l975" n="10386">Rois Karaolo si oit traito li brant;</l>
+                <l xml:id="d001l976" n="10387">Fer li Dainois desor l'elmo lusant.</l>
+                <l xml:id="d001l977" n="10388">Quanto ne prende, elo·l çeta a·l canp;</l>
+                <l xml:id="d001l978" n="10389">Deo le guarì, quant in carne no li prant.*</l>
+                <l xml:id="d001l979" n="10390">Gran fo li colpo, merviloso e pesant; (895)</l>
+                <l xml:id="d001l980" n="10391">E de maile trença plus de çant.</l>
+                <l xml:id="d001l981" n="10392">Trois in l'erbeta est avalé li brant;</l>
+                <l xml:id="d001l982" n="10393">Ne li Danois no se smaja niant.</l>
+                <l xml:id="d001l983" n="10394">El ten la spea a·l pomo d'or lusant;</l>
+                <l xml:id="d001l984" n="10395">Fer Karaolo un colpo si pesant, (900)</l>
+                <l xml:id="d001l985" n="10396">De l'elmo no trençe la monta d'un besa(n)t.*</l>
+                <l xml:id="d001l986" n="10397">Ma li colpo fo merveliso e grant,</l>
+                <l xml:id="d001l987" n="10398">Q'elo·l fe enbronçer sor li col de l'auferant;</l>
+                <l xml:id="d001l988" n="10399">Par un petit ne li çitò a·l canp.*</l>
+                <l xml:id="d001l989" n="10400">D'altra part fu Sandonio li posant, (905)</l>
+                <l xml:id="d001l990" n="10401">Con Çarloto a le spee trençant.</l>
+                <l xml:id="d001l991" n="10402">L'un ferì l'altro e menu e sovant;</l>
+                <l xml:id="d001l992" n="10403">Le armaure se trençoit tot davant.</l>
+                <l xml:id="d001l993" n="10404">Li un por l'altro no s'apresia un guant;</l>
+                <l xml:id="d001l994" n="10405">Ma Sindonio si era plu manant; (910)</l>
+                <l xml:id="d001l995" n="10406">Par un petit ne·l fasea recreant.</l>
+                <l xml:id="d001l996" n="10407">Quant li Danois s'en vait apercevant,</l>
+                <l xml:id="d001l997" n="10408">E vi Çarloto en pena et in tormant,</l>
+                <l xml:id="d001l998" n="10409">E cil Sandonio l'andava si adestant,*</l>
+                <l xml:id="d001l999" n="10410">Qe enver de lui n'aust de mort guarant. (915)</l>
+                <l xml:id="d001l1000" n="10411">Quant li Danois le voit, paure oit de l'infant;</l>
+                <l xml:id="d001l1001" n="10412">El lasava Karaolo, a Sandonio vait corant,</l>
+                <l xml:id="d001l1002" n="10413">E si le feria e menu e sovant,</l>
+                <l xml:id="d001l1003" n="10414">Qe a Çarloto dava res(t)oramant.*</l>
+                <l xml:id="d001l1004" n="10415">Qe a celle fois se fasea en rer alquant.* (920)</l>
+                <l xml:id="d001l1005" n="10416">Quella bataile era si dura e pesant;</l>
+                <l xml:id="d001l1006" n="10417">Ne·l poria conter nesun hon vivant.</l>
+                <l xml:id="d001l1007" n="10418">Or entendés de li mal amirant,</l>
+                <l xml:id="d001l1008" n="10419">Ço fo li soldan malvasio recreant.</l>
+                <l xml:id="d001l1009" n="10420">Quando (vi) la bataile durer si longemant,* (925)</l>
+                <l xml:id="d001l1010" n="10421">De li ses çivaler se dotò feremant.</l>
+                <l xml:id="d001l1011" n="10422">Demantinent el pensò tradimant;</l>
+                <l xml:id="d001l1012" n="10423">Mille çivaler fa monter en auferant,</l>
+                <l xml:id="d001l1013" n="10424">Si le comande de aler a li canp</l>
+                <l xml:id="d001l1014" n="10425">Por prender li Francés o mener·se davant. (930)</l>
+                <l xml:id="d001l1015" n="10426">E qui li otrient, oltra son maltalant;*</l>
+                <l xml:id="d001l1016" n="10427">Quant se partent, q'i vont a li canp,*</l>
+                <l xml:id="d001l1017" n="10428">E li Dainois s'en vait aperçevant;</l>
+                <l xml:id="d001l1018" n="10429">Dist a Karaolo, "Fraita è vestra fianç;</l>
+                <l xml:id="d001l1019" n="10430">La foi de Turs non val mie un besant." (935)</l>
+                <l xml:id="d001l1020" n="10431">Karaolo, quant le vi, no fo ma si dolant.</l>
+                <lb/>
+                <p xml:id="d001l1021" type="title" n="">{{Rubric 305}}</p>
+                <lb/>
+                <p xml:id="d001l1022" n="">Coment Karoer vi venir la jent.*</p>
+                <p xml:id="d001l1023" type="title" n="">{{Laisse 306}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l1024" n="10432">Quant Karaolo vi venir q(ue)la jent deslojal,*</l>
+                <l xml:id="d001l1025" n="10433">Li qual erent de li son general,*</l>
+                <l xml:id="d001l1026" n="10434">A gran mervile elo li ten por mal.</l>
+                <l xml:id="d001l1027" n="10435">Dist a Sandonio, "Li soldan à fato mal;* (940)</l>
+                <l xml:id="d001l1028" n="10436">En la bataile erames tot ogual,</l>
+                <l xml:id="d001l1029" n="10437">Quant le venimes anco en ste jornal.</l>
+                <l xml:id="d001l1030" n="10438">Mais li soldan si est deslojal;</l>
+                <l xml:id="d001l1031" n="10439">Ço q'el promis non oit tenu a estal.*</l>
+                <l xml:id="d001l1032" n="10440">Mais en ma vite e no·l tirò lojal."* (945)</l>
+                <lb/>
+                <p xml:id="d001l1033" type="title" n="">{{Rubric 306}}</p>
+                <lb/>
+                <p xml:id="d001l1034" n="">Coment ensent de Rome li çivaler.</p>
+                <p xml:id="d001l1035" type="title" n="">{{Laisse 307}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l1036" n="10441">Le mil çivaler son de Roma ensu,</l>
+                <l xml:id="d001l1037" n="10442">A li dos çivaler sont sovracoru.</l>
+                <l xml:id="d001l1038" n="10443">E i le ont molto ben recevu;</l>
+                <l xml:id="d001l1039" n="10444">A·l primer colpo ont si ben feru</l>
+                <l xml:id="d001l1040" n="10445">Qe li Danois fo a tera abatu; (950)</l>
+                <l xml:id="d001l1041" n="10446">Qe son çival soto li fo cau;</l>
+                <l xml:id="d001l1042" n="10447">I le oncient i·me li pre erbu.</l>
+                <l xml:id="d001l1043" n="10448">Ma li Danois no fo mie esperdu;</l>
+                <l xml:id="d001l1044" n="10449">El ten la spea a·l pomo d'or batu.</l>
+                <l xml:id="d001l1045" n="10450">Tot li primer qe il oit conseu, (955)</l>
+                <l xml:id="d001l1046" n="10451">Trois en l'arçon elo l'oit fendu.</l>
+                <l xml:id="d001l1047" n="10452">E fer un altro, si le oit li çevo tolu;*</l>
+                <l xml:id="d001l1048" n="10453">E qui li lançent li gran dard amolu;</l>
+                <l xml:id="d001l1049" n="10454">O voja o no i l'ont prendu.</l>
+                <l xml:id="d001l1050" n="10455">Quando Çarloto vi ço qe ert avenu, (960)</l>
+                <l xml:id="d001l1051" n="10456">E vide ben q'el no è secoru,</l>
+                <l xml:id="d001l1052" n="10457">De soi defendre n'oit penser metu.</l>
+                <l xml:id="d001l1053" n="10458">Via s'en fuit a força et a vertu,</l>
+                <l xml:id="d001l1054" n="10459">Trosqua a l'oste no à rena tenu.</l>
+                <l xml:id="d001l1055" n="10460">Karlo le vi, a rason l'oit metu: (965)</l>
+                <l xml:id="d001l1056" n="10461">"De le Danois, qe est adevenu?"</l>
+                <l xml:id="d001l1057" n="10462">E cil le dist, "Nu l'avemo perdu;</l>
+                <l xml:id="d001l1058" n="10463">Qe da mile pain nos fumes asalu.</l>
+                <l xml:id="d001l1059" n="10464">Encontra lor non aumes vertu;</l>
+                <l xml:id="d001l1060" n="10465">Li Danois si fo preso e retenu. (970)</l>
+                <l xml:id="d001l1061" n="10466">Et eo perço si m'en sonto venu,</l>
+                <l xml:id="d001l1062" n="10467">Qe dever qui pain e no fu secoru."</l>
+                <l xml:id="d001l1063" n="10468">Dist li rois, "Se ma creça en Jesu,</l>
+                <l xml:id="d001l1064" n="10469">Vu ne serés por la gorça apendu."</l>
+                <lb/>
+                <p xml:id="d001l1065" type="title" n="">{{Rubric 307}}</p>
+                <lb/>
+                <p xml:id="d001l1066" n="">(Ç)o qe fi Kar(o)er.*</p>
+                <p xml:id="d001l1067" type="title" n="">{{Laisse 308}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l1068" n="10470">A gran mervile fo prodomo Karoer; (975)</l>
+                <l xml:id="d001l1069" n="10471">Quant li Danois vi prender e liger,</l>
+                <l xml:id="d001l1070" n="10472">Contra son gre en Roma mener,</l>
+                <l xml:id="d001l1071" n="10473">Tel dol n'oit cuita li seno cançer.</l>
+                <l xml:id="d001l1072" n="10474">Sa lieltà el non volse falser;</l>
+                <l xml:id="d001l1073" n="10475">Nen dist mie de retornar arer, (980)</l>
+                <l xml:id="d001l1074" n="10476">Ançi, civalça droito por li senter,</l>
+                <l xml:id="d001l1075" n="10477">A l'oste Karlo e Naimes de Baiver.</l>
+                <l xml:id="d001l1076" n="10478">Davant Karlo se vait presenter:</l>
+                <l xml:id="d001l1077" n="10479">"Bon rois," fait il, "je son ves presoner.</l>
+                <l xml:id="d001l1078" n="10480">Dapoiqe li soldan non est droiturer, (985)</l>
+                <l xml:id="d001l1079" n="10481">A vos me rendo cun arme e destrer,</l>
+                <l xml:id="d001l1080" n="10482">Qe quelo qe li soldan faroit de li ves presoner,</l>
+                <l xml:id="d001l1081" n="10483">Facés de moi, e vos vojo en projer."</l>
+                <l xml:id="d001l1082" n="10484">Li rois l'intent, molto le prist a loer;</l>
+                <l xml:id="d001l1083" n="10485">A·l pavilon li fait desendre e desmonter, (990)</l>
+                <l xml:id="d001l1084" n="10486">A le dux Naimes le fait aconvojer,</l>
+                <l xml:id="d001l1085" n="10487">Qe altament le prist ad honorer.</l>
+                <l xml:id="d001l1086" n="10488">E li rois Karlo, tant fu de mal penser,*</l>
+                <l xml:id="d001l1087" n="10489">Qe no li valt ni amor ni projer;</l>
+                <l xml:id="d001l1088" n="10490">Q'elo vol Zarloto far apiçer. (995)</l>
+                <l xml:id="d001l1089" n="10491">E ça l'avoit fato prender e liger,</l>
+                <l xml:id="d001l1090" n="10492">Davant la façe li ocli enbinder.</l>
+                <l xml:id="d001l1091" n="10493">Ne le valea projer ni losenger,</l>
+                <l xml:id="d001l1092" n="10494">Qe de son cor le poust remuer.</l>
+                <l xml:id="d001l1093" n="10495">Quant Naimes si n'oit prega Karoer, (1000)</l>
+                <l xml:id="d001l1094" n="10496">Q'elo le diça a li rois demander,</l>
+                <l xml:id="d001l1095" n="10497">Qe in don elo le diça doner,</l>
+                <l xml:id="d001l1096" n="10498">Karoer responde, "De greç e volunter."</l>
+                <l xml:id="d001l1097" n="10499">Davant li rois se vait ençenoler:</l>
+                <l xml:id="d001l1098" n="10500">"Ai, çentil rois, eo son ves presoner, (1005)</l>
+                <l xml:id="d001l1099" n="10501">E si son rois clama amirer,</l>
+                <l xml:id="d001l1100" n="10502">De un reame d'oltra l'aigua de mer.</l>
+                <l xml:id="d001l1101" n="10503">E vos vojo un don ademander,</l>
+                <l xml:id="d001l1102" n="10504">Qe vu Çarloto me diça doner,</l>
+                <l xml:id="d001l1103" n="10505">Qe davanti vos ben le poso escuser. (1010)</l>
+                <l xml:id="d001l1104" n="10506">S'elo s'avè de li canpo desevrer*</l>
+                <l xml:id="d001l1105" n="10507">E·l vojo çuçer q'el fe si cun ber,</l>
+                <l xml:id="d001l1106" n="10508">Qe li soldan si cun malvasio lainer</l>
+                <l xml:id="d001l1107" n="10509">La lialtà el vos avè falser."*</l>
+                <l xml:id="d001l1108" n="10510">Li rois reguarde ferament Karoer, (1015)</l>
+                <l xml:id="d001l1109" n="10511">E si le dist, "Ben li val vestra projer.</l>
+                <l xml:id="d001l1110" n="10512">Non è hon in Françe ni Puile ni Baiver,*</l>
+                <l xml:id="d001l1111" n="10513">Qe de ste don poust vanter,*</l>
+                <l xml:id="d001l1112" n="10514">Or le prendés, si le faites deslojer;</l>
+                <l xml:id="d001l1113" n="10515">Ma ben se guardi plu de far tel mester, (1020)</l>
+                <l xml:id="d001l1114" n="10516">Anci se lasi tot le menbre couper,</l>
+                <l xml:id="d001l1115" n="10517">Q'elo s'en fuça par un sol çivaler."</l>
+                <lb/>
+                <p xml:id="d001l1116" type="title" n="">{{Rubric 308}}</p>
+                <lb/>
+                <p xml:id="d001l1117" n="">Coment Çarloto fo çuçés.</p>
+                <p xml:id="d001l1118" type="title" n="">{{Laisse 309}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l1119" n="10518">Çarloto fu delivrés da li stacon pendant;</l>
+                <l xml:id="d001l1120" n="10519">Nen fust Karoer, par tot l'or de Brusbant</l>
+                <l xml:id="d001l1121" n="10520">Nen fust scanpé, nen fust apendu a·l vant. (1025)</l>
+                <l xml:id="d001l1122" n="10521">Ma la marçé Deo, li per roimant,</l>
+                <l xml:id="d001l1123" n="10522">El est delivré da mort e da tormant.</l>
+                <l xml:id="d001l1124" n="10523">Dist Karoer, "Bon roi, ora m'entant</l>
+                <l xml:id="d001l1125" n="10524">Qe un mesaçer me faites venir davant;</l>
+                <l xml:id="d001l1126" n="10525">Mandar dir vojo a·l soldan un poi de mon talant." (1030)</l>
+                <l xml:id="d001l1127" n="10526">Dist li rois, "Vu parlé saçemant."</l>
+                <l xml:id="d001l1128" n="10527">Adonc un mesajes li fo mené a·l presant;</l>
+                <l xml:id="d001l1129" n="10528">Karoer quant le vi, si le dist en ojant:</l>
+                <l xml:id="d001l1130" n="10529">"Mesaçer, frer, eo si te comant,</l>
+                <l xml:id="d001l1131" n="10530">Qe tu entri en Rome demanes a·l presant. (1035)</l>
+                <l xml:id="d001l1132" n="10531">A li soldan dirà certanemant,</l>
+                <l xml:id="d001l1133" n="10532">Se demane sença termen prendant,*</l>
+                <l xml:id="d001l1134" n="10533">El no m'envoie li presoner tot quant,</l>
+                <l xml:id="d001l1135" n="10534">Eo renegaroie Macon e Trevigant;</l>
+                <l xml:id="d001l1136" n="10535">Crerò en Deo, prenderò bateçamant: (1040)</l>
+                <l xml:id="d001l1137" n="10536">Mai en ma vite ne le serò so benvojant;</l>
+                <l xml:id="d001l1138" n="10537">E si le dì, no li çeler de nojant,</l>
+                <l xml:id="d001l1139" n="10538">Qe presoner sui de l'inperer d·i Franc."*</l>
+                <l xml:id="d001l1140" n="10539">Dist li mesaço, "No ne doté niant;*</l>
+                <l xml:id="d001l1141" n="10540">L'anbasea farò e ben e lojalmant." (1045)</l>
+                <lb/>
+                <p xml:id="d001l1142" type="title" n="">{{Rubric 309}}</p>
+                <lb/>
+                <p xml:id="d001l1143" n="">Coment s'en vait li mesaçer.</p>
+                <p xml:id="d001l1144" type="title" n="">{{Laisse 310}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l1145" n="10541">Li mesaçer no fo pais demoré;*</l>
+                <l xml:id="d001l1146" n="10542">Da Karoer oit conçé demandé.</l>
+                <l xml:id="d001l1147" n="10543">El ven a Rome, entrò en la çité;</l>
+                <l xml:id="d001l1148" n="10544">A li palés oit li soldan trové,</l>
+                <l xml:id="d001l1149" n="10545">Qe li preson li estoit davant mené. (1050)</l>
+                <l xml:id="d001l1150" n="10546">Si durament li avoit menaçé,</l>
+                <l xml:id="d001l1151" n="10547">S'i no renojese la loi de le son Dé,</l>
+                <l xml:id="d001l1152" n="10548">Apendu seroit, et a forçes levé.</l>
+                <l xml:id="d001l1153" n="10549">Quant li mesaço li fu davant alé,</l>
+                <l xml:id="d001l1154" n="10550">Tot primement li oit salué;* (1055)</l>
+                <l xml:id="d001l1155" n="10551">E pois le dist, "Bon rois, or m'e(n)tendé;</l>
+                <l xml:id="d001l1156" n="10552">Mesaçer sui, a vos son envojé</l>
+                <l xml:id="d001l1157" n="10553">Da part Karaolo, qe rois est coroné.</l>
+                <l xml:id="d001l1158" n="10554">Elo vos mande, ne vos serà çelé,</l>
+                <l xml:id="d001l1159" n="10555">Qe li rois Karlo si l'oit enpresoné, (1060)</l>
+                <l xml:id="d001l1160" n="10556">Par son voloir e por sa volunté.</l>
+                <l xml:id="d001l1161" n="10557">Elo ve fa asavoir, se vu no le envojé*</l>
+                <l xml:id="d001l1162" n="10558">Li presoner qe v'è sta amené</l>
+                <l xml:id="d001l1163" n="10559">Elo renegarà Macometo son dé.</l>
+                <l xml:id="d001l1164" n="10560">En Deo crerà se serà batezé; (1065)</l>
+                <l xml:id="d001l1165" n="10561">Nen serà ma ves dru ni ves privé."</l>
+                <l xml:id="d001l1166" n="10562">Li soldan quan l'olde, tuto fo trapensé;</l>
+                <l xml:id="d001l1167" n="10563">Dist Sandonio, "Bon rois, torto avé.*</l>
+                <l xml:id="d001l1168" n="10564">Non est mervele se il est airé,</l>
+                <l xml:id="d001l1169" n="10565">Quant contra nos faistes deslialté. (1070)</l>
+                <l xml:id="d001l1170" n="10566">Men esiant, ela fo falsité*</l>
+                <l xml:id="d001l1171" n="10567">Qe in nostra vite nu seren avilé;</l>
+                <l xml:id="d001l1172" n="10568">Ora en faites la soa volunté."</l>
+                <l xml:id="d001l1173" n="10569">Dist li rois, "Dapoiq'el vos agré,</l>
+                <l xml:id="d001l1174" n="10570">Eo ne farò la vostra volunté." (1075)</l>
+                <l xml:id="d001l1175" n="10571">E li soldan si fo saço e doté;*</l>
+                <l xml:id="d001l1176" n="10572">Avantiqe li presoner li fust envojé,</l>
+                <l xml:id="d001l1177" n="10573">Molto richament furent coroé,</l>
+                <l xml:id="d001l1178" n="10574">De riche robe, de manté aflubé.</l>
+                <l xml:id="d001l1179" n="10575">Tot ses arme li furent delivré, (1080)</l>
+                <l xml:id="d001l1180" n="10576">E bon destrer corant (e) abravé.*</l>
+                <l xml:id="d001l1181" n="10577">E quant de Roma i furent desevré,</l>
+                <l xml:id="d001l1182" n="10578">Sandonio fo a palafroi monté;</l>
+                <l xml:id="d001l1183" n="10579">A plus de mil li ont aconvojé;</l>
+                <l xml:id="d001l1184" n="10580">Trosqua a l'oste non à rena tiré.* (1085)</l>
+                <l xml:id="d001l1185" n="10581">Li rois le vi, molto s'en fu mervelé;</l>
+                <l xml:id="d001l1186" n="10582">Tot li baron qe erent asenblé,</l>
+                <l xml:id="d001l1187" n="10583">Contra li vont tot çojant e lé.</l>
+                <l xml:id="d001l1188" n="10584">Ma no fo çoja veua ni esguardé,</l>
+                <l xml:id="d001l1189" n="10585">Como s'ont fato quant se sont encontré; (1090)</l>
+                <l xml:id="d001l1190" n="10586">Ma desor tuti fu Sandonio honoré.</l>
+                <lb/>
+                <p xml:id="d001l1191" type="title" n="">{{Rubric 310}}</p>
+                <lb/>
+                <p xml:id="d001l1192" n="">Coment retornent in Rome.</p>
+                <p xml:id="d001l1193" type="title" n="">{{Laisse 311}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l1194" n="10587">Grant fu la çoja, mervilosa e plener,</l>
+                <l xml:id="d001l1195" n="10588">Quando Françeis vede li presoner.</l>
+                <l xml:id="d001l1196" n="10589">E Karoer si dist a l'inperer,</l>
+                <l xml:id="d001l1197" n="10590">"Çentil rois, sire, de vos me poso lolder; (1095)</l>
+                <l xml:id="d001l1198" n="10591">Ben dist voir li Turchi e li Ascler,</l>
+                <l xml:id="d001l1199" n="10592">Qe vos estes li meltro rois qe se posa trover.</l>
+                <l xml:id="d001l1200" n="10593">Se non creist la mia lois falser,</l>
+                <l xml:id="d001l1201" n="10594">Eo me faroie bateçer e laver.</l>
+                <l xml:id="d001l1202" n="10595">Eo m'en andarò a mon segnor parler; (1100)</l>
+                <l xml:id="d001l1203" n="10596">A la deman, quan l'aube serà cler,</l>
+                <l xml:id="d001l1204" n="10597">Vu farés ves çivaler monter;</l>
+                <l xml:id="d001l1205" n="10598">Et eo averò prender mon corer,</l>
+                <l xml:id="d001l1206" n="10599">Cun Sandonio seremo a li çostrer."</l>
+                <l xml:id="d001l1207" n="10600">Dist li rois, "Et eo li vojo otrier. (1105)</l>
+                <l xml:id="d001l1208" n="10601">Ma d'una ren e vos vojo en projer;</l>
+                <l xml:id="d001l1209" n="10602">Qe a·l soldan deça dir e nonçer,</l>
+                <l xml:id="d001l1210" n="10603">Q'elo lasi plu de far quel mester,</l>
+                <l xml:id="d001l1211" n="10604">Q'elo no se perten a rois ni amirer:</l>
+                <l xml:id="d001l1212" n="10605">Par nul ençegno traimento mener." (1110)</l>
+                <l xml:id="d001l1213" n="10606">Dist Karaolo, "E l'ò ben en penser."</l>
+                <l xml:id="d001l1214" n="10607">Conçé el prist, si se m&lt;is&gt; ad aler;*</l>
+                <l xml:id="d001l1215" n="10608">Avec lui . . . li altri çivaler,*</l>
+                <l xml:id="d001l1216" n="10609">Qe con Sandonio era venu a convojer</l>
+                <l xml:id="d001l1217" n="10610">Li Danois e li altri presoner. (1115)</l>
+                <l xml:id="d001l1218" n="10611">Quant fu en Rome se vait ad hostaler,</l>
+                <l xml:id="d001l1219" n="10612">E posa vait a li palés monter.</l>
+                <l xml:id="d001l1220" n="10613">Li soldan vi Karaolo, prist so a vergogner,</l>
+                <l xml:id="d001l1221" n="10614">E Karaolo si le prist a parler:</l>
+                <l xml:id="d001l1222" n="10615">"O çentil rois, qe tant estes pro e ber, (1120)</l>
+                <l xml:id="d001l1223" n="10616">En vestra vite perdu avés ves loer,</l>
+                <l xml:id="d001l1224" n="10617">Qe homo traites non è pais da priser.</l>
+                <l xml:id="d001l1225" n="10618">E son esté en l'oste l'inperer;</l>
+                <l xml:id="d001l1226" n="10619">De vos oldì boni e re parler,</l>
+                <l xml:id="d001l1227" n="10620">Li rois meesme (s)i ve n'avè blasmer,* (1125)</l>
+                <l xml:id="d001l1228" n="10621">Et ensement dux Naimes de Baiver,</l>
+                <l xml:id="d001l1229" n="10622">Le milor dux qe se poust trover.</l>
+                <l xml:id="d001l1230" n="10623">Ne vos poria ne dir ni conter</l>
+                <l xml:id="d001l1231" n="10624">Como i me ont fato servir et honorer.</l>
+                <l xml:id="d001l1232" n="10625">Da part de Karlo, e vos do en projer, (1130)</l>
+                <l xml:id="d001l1233" n="10626">Qe de trair vu lasa li mester;</l>
+                <l xml:id="d001l1234" n="10627">Lasa 'n avanti tot le menbre couper,*</l>
+                <l xml:id="d001l1235" n="10628">Qe n'invoja secorso por aider.</l>
+                <l xml:id="d001l1236" n="10629">A la deman, quando serà l'auba cler,</l>
+                <l xml:id="d001l1237" n="10630">Nu den tornar ancora a li çostrer." (1135)</l>
+                <l xml:id="d001l1238" n="10631">Dist li soldan, "Et eo li vojo otrier;</l>
+                <l xml:id="d001l1239" n="10632">Ma d'una ren e vos vojo nonçer:</l>
+                <l xml:id="d001l1240" n="10633">El vos estoit ben eser bon çivaler,</l>
+                <l xml:id="d001l1241" n="10634">Qe dever moi non aça nulla sper."</l>
+                <l xml:id="d001l1242" n="10635">Dist Karaolo, "Vu farì como ber, (1140)</l>
+                <l xml:id="d001l1243" n="10636">Qe altro non demando ni quer."</l>
+                <lb/>
+                <p xml:id="d001l1244" type="title" n="">{{Rubric 311}}</p>
+                <lb/>
+                <p xml:id="d001l1245" n="">Coment s'(a)rmaient.</p>
+                <p xml:id="d001l1246" type="title" n="">{{Laisse 312}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l1247" n="10637">A la deman, a l'aube aparisant,</l>
+                <l xml:id="d001l1248" n="10638">Rois Karaolo pris son guarnimant,</l>
+                <l xml:id="d001l1249" n="10639">Et avec lui Sandonio ensemant.</l>
+                <l xml:id="d001l1250" n="10640">Quant sont armé, montent en auferant; (1145)</l>
+                <l xml:id="d001l1251" n="10641">Lançe oit grose, e li feri trençant.*</l>
+                <l xml:id="d001l1252" n="10642">Karaolo oit çinta Curtana, li bon brant,</l>
+                <l xml:id="d001l1253" n="10643">Pois quirirent conçé a l'amirant,</l>
+                <l xml:id="d001l1254" n="10644">E cil li oit comandé a Trevigant.</l>
+                <l xml:id="d001l1255" n="10645">E qui ensent de Rome sença termen prendant; (1150)</l>
+                <l xml:id="d001l1256" n="10646">Trosqua a li canpo non vait rena tirant.</l>
+                <l xml:id="d001l1257" n="10647">Li Danois, quant le voit, demanda ses guarnimant;</l>
+                <l xml:id="d001l1258" n="10648">Nian Çarloto no se fe pais lant.</l>
+                <l xml:id="d001l1259" n="10649">Quant furent armé e monté en auferant,</l>
+                <l xml:id="d001l1260" n="10650">Karlo li proie e ben e dolçemant, (1155)</l>
+                <l xml:id="d001l1261" n="10651">Qe i soie e pro e valant.</l>
+                <l xml:id="d001l1262" n="10652">"Anda," fait il, "a Jesu vos comant."</l>
+                <l xml:id="d001l1263" n="10653">E cil s'en vont ad esperon bronçant,</l>
+                <l xml:id="d001l1264" n="10654">Tantq'i forent là o çelor li atant.</l>
+                <l xml:id="d001l1265" n="10655">Karaolo, quant le vi, si le dist en ojant, (1160)</l>
+                <l xml:id="d001l1266" n="10656">"Ben soja venu li nostri conbatant;</l>
+                <l xml:id="d001l1267" n="10657">Cosi vada l'ovra como andò en avant."</l>
+                <l xml:id="d001l1268" n="10658">Dist li Danois, "Et eo si le contant."</l>
+                <l xml:id="d001l1269" n="10659">Lor se donent de li canpo un arpant;</l>
+                <l xml:id="d001l1270" n="10660">L'un dever l'altro ponçe l'auferant. (1165)</l>
+                <l xml:id="d001l1271" n="10661">Brandist le aste là ò est li feri trençant,*</l>
+                <l xml:id="d001l1272" n="10662">Si se ven a ferir totes comunelmant.</l>
+                <l xml:id="d001l1273" n="10663">Si grant colpi se done qe çival auferant</l>
+                <l xml:id="d001l1274" n="10664">Ne le pote sofrir: ançi s'ençenocla a li canp.</l>
+                <l xml:id="d001l1275" n="10665">Ma li baron le punçì por si fer maltalant, (1170)</l>
+                <l xml:id="d001l1276" n="10666">A·l relever le aste vola avant.</l>
+                <l xml:id="d001l1277" n="10667">Quant à ço fato si ont trato li brant,</l>
+                <l xml:id="d001l1278" n="10668">E Çarloto cun Sandonio se ferì ensemant.</l>
+                <l xml:id="d001l1279" n="10669">Anbi s'abatent a tera d·i auferant,</l>
+                <l xml:id="d001l1280" n="10670">M'i se redriçe tosto et isnelemant, (1175)</l>
+                <l xml:id="d001l1281" n="10671">Prende son çivali n·i alò deslojant;*</l>
+                <l xml:id="d001l1282" n="10672">A cival monte, qe strivere non prant*</l>
+                <l xml:id="d001l1283" n="10673">Quant à ço fato, si oit trato li brant;</l>
+                <l xml:id="d001l1284" n="10674">La bataila començent mervilosa e grant.</l>
+                <lb/>
+                <p xml:id="d001l1285" type="title" n="">{{Rubric 312}}</p>
+                <lb/>
+                <p xml:id="d001l1286" n="">Coment fo pro li baron.</p>
+                <p xml:id="d001l1287" type="title" n="">{{Laisse 313}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l1288" n="10675">Grande fu la bataile de qui quatro baron; (1180)</l>
+                <l xml:id="d001l1289" n="10676">Çascun è pro (s)i oit cor de lion.*</l>
+                <l xml:id="d001l1290" n="10677">Karaolo ten Curtane dont a or è li pon;</l>
+                <l xml:id="d001l1291" n="10678">Fer li Danois desor l'elmo enson.</l>
+                <l xml:id="d001l1292" n="10679">Quant ne prende, fa cair a·l sablon;</l>
+                <l xml:id="d001l1293" n="10680">E tota l'armaure de·l hermin sigloton,* (1185)</l>
+                <l xml:id="d001l1294" n="10681">Cun la ghironée de l'auberg framiron,*</l>
+                <l xml:id="d001l1295" n="10682">Si l'oit trençé cun pano d'aquinton.*</l>
+                <l xml:id="d001l1296" n="10683">Deo le guardi por soa redencion,</l>
+                <l xml:id="d001l1297" n="10684">Qe in carne no le fe engonbrason.</l>
+                <l xml:id="d001l1298" n="10685">E le Danois fer lui si fort enson, (1190)</l>
+                <l xml:id="d001l1299" n="10686">De l'elmo no trençe la monta d'un boton.</l>
+                <l xml:id="d001l1300" n="10687">Ma rer la grope conseguì l'aragon;</l>
+                <l xml:id="d001l1301" n="10688">Do mité oit fato de l'auferant Guascon,</l>
+                <l xml:id="d001l1302" n="10689">E Karaolo remist a li sablon.</l>
+                <l xml:id="d001l1303" n="10690">Dentro Sandonio e·l damisel Çarlon (1195)</l>
+                <l xml:id="d001l1304" n="10691">Si començoit grande la capleson;</l>
+                <l xml:id="d001l1305" n="10692">Gran colpi se done desor li elmi reon.</l>
+                <l xml:id="d001l1306" n="10693">I se trençent quant i ne prendon,*</l>
+                <l xml:id="d001l1307" n="10694">E d·i aubergi trençent li ghiron.</l>
+                <l xml:id="d001l1308" n="10695">A gran mervile fu Sandonio prodon; (1200)</l>
+                <l xml:id="d001l1309" n="10696">Morto aust Çarloto sença redencion,</l>
+                <l xml:id="d001l1310" n="10697">Quant li Danois li fu bon conpagnon.</l>
+                <l xml:id="d001l1311" n="10698">Quant feru avoit Karaolo, po fa retornason;</l>
+                <l xml:id="d001l1312" n="10699">A quel Sandonio un altro colpo li donon.</l>
+                <l xml:id="d001l1313" n="10700">Grant fu la bataile, conter ne la poroit hon; (1205)</l>
+                <l xml:id="d001l1314" n="10701">Karaolo vi li Danois si le mis por rason:</l>
+                <l xml:id="d001l1315" n="10702">"Çivaler, sire, morto ai mon aragon;</l>
+                <l xml:id="d001l1316" n="10703">Le vostro non vojo oncir, qe blasmo me seron.</l>
+                <l xml:id="d001l1317" n="10704">Desendés avec moi, seremo anbi peon,</l>
+                <l xml:id="d001l1318" n="10705">E questo serà cortexia, se me perdoni Macon." (1210)</l>
+                <l xml:id="d001l1319" n="10706">Dist li Danois, "Vu avez rason."</l>
+                <l xml:id="d001l1320" n="10707">Demantenant desis de l'aragon;</l>
+                <l xml:id="d001l1321" n="10708">Or son i anbi comunal a·l sablon.</l>
+                <l xml:id="d001l1322" n="10709">Con le spee se fa gran capleson;</l>
+                <l xml:id="d001l1323" n="10710">Çarloto e Sandonio anbidos descendon, (1215)</l>
+                <l xml:id="d001l1324" n="10711">Plu d·i altri nen volse avoir reençon.</l>
+                <lb/>
+                <p xml:id="d001l1325" type="title" n="">{{Rubric 313}}</p>
+                <lb/>
+                <p xml:id="d001l1326" n="">Coment fu grant la bataille.</p>
+                <p xml:id="d001l1327" type="title" n="">{{Laisse 314}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l1328" n="10712">Defor de Rome en le pre verdojent,</l>
+                <l xml:id="d001l1329" n="10713">Grande fu la bataile e dura e pesent.</l>
+                <l xml:id="d001l1330" n="10714">Da la deman a l'aube aparisent</l>
+                <l xml:id="d001l1331" n="10715">Durò entro lor grande torniament. (1220)</l>
+                <l xml:id="d001l1332" n="10716">Çascun s'oit doné d·i colpi plus de cent;</l>
+                <l xml:id="d001l1333" n="10717">Trençé s'avoient tot li guarniment,</l>
+                <l xml:id="d001l1334" n="10718">Si son lasé de poine e de torment</l>
+                <l xml:id="d001l1335" n="10719">Qe çascun se fa indré un arpent,</l>
+                <l xml:id="d001l1336" n="10720">Por dar a soi un poi de s(t)orament.* (1225)</l>
+                <l xml:id="d001l1337" n="10721">Por li gran colpi q'i s'ont doné sovent,</l>
+                <l xml:id="d001l1338" n="10722">Quant son polsé i vont ardiement,</l>
+                <l xml:id="d001l1339" n="10723">L'un contra l'autre con le spee trençent.</l>
+                <l xml:id="d001l1340" n="10724">Gran dol oit li Danois, par poi d'ire non fent;*</l>
+                <l xml:id="d001l1341" n="10725">Quant la bataile dura si longament, (1230)</l>
+                <l xml:id="d001l1342" n="10726">E Karaolo non fo mie recreent,</l>
+                <l xml:id="d001l1343" n="10727">El ten Curtane a·l pomo lusent;</l>
+                <l xml:id="d001l1344" n="10728">A li Danois un si gran colpo li rent,</l>
+                <l xml:id="d001l1345" n="10729">Par un petit a tera no se destent.</l>
+                <l xml:id="d001l1346" n="10730">Dist le pain, "El vos va malement; (1235)</l>
+                <l xml:id="d001l1347" n="10731">E vos conseilo, se avez esient,</l>
+                <l xml:id="d001l1348" n="10732">Qe contra moi vos clama recreent;</l>
+                <l xml:id="d001l1349" n="10733">A li rois soldan vos darò por present.</l>
+                <l xml:id="d001l1350" n="10734">Nen vos farà nesun ennojament;</l>
+                <l xml:id="d001l1351" n="10735">Ançi vos farà richo e manent, (1240)</l>
+                <l xml:id="d001l1352" n="10736">Se adorarés la loi qe a noi apent."</l>
+                <l xml:id="d001l1353" n="10737">Dist li Danois, "Tu parli folement;</l>
+                <l xml:id="d001l1354" n="10738">E no t'apresio un diner valisent!</l>
+                <l xml:id="d001l1355" n="10739">E veço ben, tu me ten por nient.</l>
+                <l xml:id="d001l1356" n="10740">Avantiqe da moi faça desevrament, (1245)</l>
+                <l xml:id="d001l1357" n="10741">Vu senterì de ma spea trençent."</l>
+                <l xml:id="d001l1358" n="10742">Sovra li cor por ire e maltalent;</l>
+                <l xml:id="d001l1359" n="10743">Gran colpo li done desor l'elmo lusent;</l>
+                <l xml:id="d001l1360" n="10744">Ne l'inpira, ma la spea desent</l>
+                <l xml:id="d001l1361" n="10745">Par me l'auber, qe li trença e fent. (1250)</l>
+                <l xml:id="d001l1362" n="10746">Navré l'oit un petit, qe li sangue li desent,</l>
+                <l xml:id="d001l1363" n="10747">Dont Karaolo par poi d'ire non fent.</l>
+                <l xml:id="d001l1364" n="10748">Et apreso cest colpo, li Danois se fa en avent;</l>
+                <l xml:id="d001l1365" n="10749">Un altro en done a Sandonio ensement,</l>
+                <l xml:id="d001l1366" n="10750">Qe a la tera elo·l çeta sanglent. (1255)</l>
+                <lb/>
+                <p xml:id="d001l1367" type="title" n="">{{Rubric 314}}</p>
+                <lb/>
+                <p xml:id="d001l1368" n="">Coment fu mort Karoer.</p>
+                <p xml:id="d001l1369" type="title" n="">{{Laisse 315}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l1370" n="10751">Gran dol oit Karoer, no l'oit unqua major;</l>
+                <l xml:id="d001l1371" n="10752">Le sangue se vi rajer environ et entor.</l>
+                <l xml:id="d001l1372" n="10753">Nul se mervile se il oit gran dolor;</l>
+                <l xml:id="d001l1373" n="10754">Elo reclama Macometo son segnor.</l>
+                <l xml:id="d001l1374" n="10755">Dist a·l Danois, "Vu sì bon çostreor! (1260)</l>
+                <l xml:id="d001l1375" n="10756">Mais en ma vie e non vi un milor.</l>
+                <l xml:id="d001l1376" n="10757">Navré m'avés, mais ne le daria un flor;</l>
+                <l xml:id="d001l1377" n="10758">Ma çer la conprarés en petit de or."</l>
+                <l xml:id="d001l1378" n="10759">La spea tent cun homo de gran vigor;</l>
+                <l xml:id="d001l1379" n="10760">Fer li Danois sor l'eume pint a flor; (1265)</l>
+                <l xml:id="d001l1380" n="10761">De l'elmo trençe e de la cofia ancor.</l>
+                <l xml:id="d001l1381" n="10762">Si grande fo cil colpo q'el valant pugneor</l>
+                <l xml:id="d001l1382" n="10763">Ne·l pote sostenir, ançi caì a l'arbor.</l>
+                <l xml:id="d001l1383" n="10764">Ma tosto se redriçe, cun homo de gran vigor;</l>
+                <l xml:id="d001l1384" n="10765">La spea tent, ne la mis en sejor. (1270)</l>
+                <l xml:id="d001l1385" n="10766">Ver Karoer s'en vent por grant iror;</l>
+                <l xml:id="d001l1386" n="10767">No·l volse ferir sor l'e(u)mo pinto a flor.*</l>
+                <l xml:id="d001l1387" n="10768">Un colpo li done a la guisa Francor;</l>
+                <l xml:id="d001l1388" n="10769">Entro l'elmo e le spales le mis li brant de color.</l>
+                <l xml:id="d001l1389" n="10770">La testa li trençe, sença nesun restor; (1275)</l>
+                <l xml:id="d001l1390" n="10771">Voler la fait en me lois de l'erbor.*</l>
+                <l xml:id="d001l1391" n="10772">Quant à ço fato, nen volse far nul demor;</l>
+                <l xml:id="d001l1392" n="10773">El pris Curtane da le rubio color.*</l>
+                <l xml:id="d001l1393" n="10774">Quando la tent, ne fe çoja e baldor,</l>
+                <l xml:id="d001l1394" n="10775">Dever Sandonie s'en vait a gran vigor. (1280)</l>
+                <lb/>
+                <p xml:id="d001l1395" type="title" n="">{{Rubric 315}}</p>
+                <lb/>
+                <p xml:id="d001l1396" n="">Coment fu mort Sidonio.*</p>
+                <p xml:id="d001l1397" type="title" n="">{{Laisse 316}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l1398" n="10776">Quando Sandonio vi q'è mort Karoer,</l>
+                <l xml:id="d001l1399" n="10777">S'el oit dol non è da merviler.</l>
+                <l xml:id="d001l1400" n="10778">Dever Çarloto el se·l cuita vençer;</l>
+                <l xml:id="d001l1401" n="10779">Contra lui vent cun li brando d'açer.</l>
+                <l xml:id="d001l1402" n="10780">Un si gran colpo elo li va doner, (1285)</l>
+                <l xml:id="d001l1403" n="10781">Qe de l'elmo trençe un gran quarter.</l>
+                <l xml:id="d001l1404" n="10782">Pres la orele fait li brant aler;</l>
+                <l xml:id="d001l1405" n="10783">Un petit l'à navrés aprés la çerveler.</l>
+                <l xml:id="d001l1406" n="10784">Si le stornì a tera, li fa verser;</l>
+                <l xml:id="d001l1407" n="10785">Morto l'aust o au presoner, (1290)</l>
+                <l xml:id="d001l1408" n="10786">Quan s'en percoit li bon Danois Uçer,*</l>
+                <l xml:id="d001l1409" n="10787">E vi le sang de la testa rajer,</l>
+                <l xml:id="d001l1410" n="10788">E a li canpo elo lo vide verser.</l>
+                <l xml:id="d001l1411" n="10789">Or vede·l ben, secorso li ait mester;</l>
+                <l xml:id="d001l1412" n="10790">En quella part vene sença entarder, (1295)</l>
+                <l xml:id="d001l1413" n="10791">E ten Curtana qe fo de Karoer</l>
+                <l xml:id="d001l1414" n="10792">(Ne quella spea no volse unqua cançer).</l>
+                <l xml:id="d001l1415" n="10793">Tel colpo li dona desor l'elmo verçer,</l>
+                <l xml:id="d001l1416" n="10794">Tuto li trença, nen lasa qe couper.</l>
+                <l xml:id="d001l1417" n="10795">Trosqu'a le spales elo la fa aler, (1300)</l>
+                <l xml:id="d001l1418" n="10796">E pois escria, "Monçoja, çivaler!*</l>
+                <l xml:id="d001l1419" n="10797">Por Karlo el maine vinto avon li torner!"</l>
+                <l xml:id="d001l1420" n="10798">Adonc li rois e Naimes de Baiver,</l>
+                <l xml:id="d001l1421" n="10799">Teris d'Ardene e Morando de River,</l>
+                <l xml:id="d001l1422" n="10800">Bernardo de Clermont et le dux Belençer, (1305)</l>
+                <l xml:id="d001l1423" n="10801">E des autres, plus de .X. miler,</l>
+                <l xml:id="d001l1424" n="10802">Li corent por lor esguarder.</l>
+                <l xml:id="d001l1425" n="10803">Quando li soit li soldan Ysorer,</l>
+                <l xml:id="d001l1426" n="10804">De gran dolor cuita li seno cançer.</l>
+                <l xml:id="d001l1427" n="10805">Dist a sa jent, "Qui avon mal converser.* (1310)</l>
+                <l xml:id="d001l1428" n="10806">Dapoisq'è morti Sandonio e Karoer,</l>
+                <l xml:id="d001l1429" n="10807">De tot les autres nen daria un diner.</l>
+                <l xml:id="d001l1430" n="10808">Se qui avon longament demorer,</l>
+                <l xml:id="d001l1431" n="10809">E i ne poust ni prender ni bailer,</l>
+                <l xml:id="d001l1432" n="10810">Tot l'or de·l mondo non aust mester (1315)</l>
+                <l xml:id="d001l1433" n="10811">Qe no·n faist a mala mort finer."*</l>
+                <l xml:id="d001l1434" n="10812">Adonc farent ses arms torser*</l>
+                <l xml:id="d001l1435" n="10813">E si prendent ses muli e ses destrer.</l>
+                <l xml:id="d001l1436" n="10814">Avantqe de Rome se volist sevrer,</l>
+                <l xml:id="d001l1437" n="10815">A l'inperer son venu a parler, (1320)</l>
+                <l xml:id="d001l1438" n="10816">E si le prist conçé a demander.</l>
+                <l xml:id="d001l1439" n="10817">"E inperer, sire," ço dist Ysoler,</l>
+                <l xml:id="d001l1440" n="10818">"Dapoiq'è morto Sandonio e Karoer,</l>
+                <l xml:id="d001l1441" n="10819">E no intendo contra vos tençer.</l>
+                <l xml:id="d001l1442" n="10820">Ço qe fo fato e no vojo stratorner, (1325)</l>
+                <l xml:id="d001l1443" n="10821">Mais ben vos poso desor Macon jurer,</l>
+                <l xml:id="d001l1444" n="10822">Q'el est morto li milor çivaler</l>
+                <l xml:id="d001l1445" n="10823">Qe se poust trovar da çela part de mer.</l>
+                <l xml:id="d001l1446" n="10824">De una ren e vos vojo en projer:</l>
+                <l xml:id="d001l1447" n="10825">Qe vu le façés altament enterer." (1330)</l>
+                <l xml:id="d001l1448" n="10826">Dist li rois, "Quel pla lasez ester,</l>
+                <l xml:id="d001l1449" n="10827">Qe si cun rois dux e amirer</l>
+                <l xml:id="d001l1450" n="10828">E li farò altament seveler,</l>
+                <l xml:id="d001l1451" n="10829">E a li major de ma çent aporter."</l>
+                <lb/>
+                <p xml:id="d001l1452" type="title" n="">{{Rubric 316}}</p>
+                <lb/>
+                <p xml:id="d001l1453" n="">Coment s'en vait li soldan.</p>
+                <p xml:id="d001l1454" type="title" n="">{{Laisse 317}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l1455" n="10830">Quant li soldan fu da Karlo sevré, (1325)</l>
+                <l xml:id="d001l1456" n="10831">Tot en quito li lasò Roma la cité.</l>
+                <l xml:id="d001l1457" n="10832">Cun soa jent elo fo açaminé</l>
+                <l xml:id="d001l1458" n="10833">E si pasò oltra la mer salé.</l>
+                <l xml:id="d001l1459" n="10834">E lasò morto li fort rois Karoé,</l>
+                <l xml:id="d001l1460" n="10835">Et avec lui Sandonio l'amiré. (1340)</l>
+                <l xml:id="d001l1461" n="10836">Gran dol en fait e Turchi et Asclé;</l>
+                <l xml:id="d001l1462" n="10837">Ne vos poroit nul hon dire ni conté.</l>
+                <l xml:id="d001l1463" n="10838">E l'inperer fo saço e doté;</l>
+                <l xml:id="d001l1464" n="10839">Avantiqe in Roma elo fose intré,</l>
+                <l xml:id="d001l1465" n="10840">Li dos pain fo molto ben enteré, (1345)</l>
+                <l xml:id="d001l1466" n="10841">E a li major de sa jent aporté;</l>
+                <l xml:id="d001l1467" n="10842">E richament fo vesti e coroé,</l>
+                <l xml:id="d001l1468" n="10843">En un sarcol furent repolsé;</l>
+                <l xml:id="d001l1469" n="10844">Non pais mie in logo qe fust sagré,*</l>
+                <l xml:id="d001l1470" n="10845">Porq'i no furent batezé e lavé. (1350)</l>
+                <l xml:id="d001l1471" n="10846">Quant à ço fato, qe pain fo sevré,</l>
+                <l xml:id="d001l1472" n="10847">Adonc li rois con tot li berné</l>
+                <l xml:id="d001l1473" n="10848">En furent entra in la çité.</l>
+                <l xml:id="d001l1474" n="10849">Quele maconarie q'i le ont trové*</l>
+                <l xml:id="d001l1475" n="10850">Tot en furent e arse e brusé. (1355)</l>
+                <l xml:id="d001l1476" n="10851">Gran çoja fo da tot part mené;</l>
+                <l xml:id="d001l1477" n="10852">Por l'Apostoile i ont envojé.</l>
+                <l xml:id="d001l1478" n="10853">E cil le vene voluntera e de gre;</l>
+                <l xml:id="d001l1479" n="10854">Grande honor li fe Karlo l'inperé;</l>
+                <l xml:id="d001l1480" n="10855">E l'Apostoilo no à l'ovra oblié. (1360)</l>
+                <l xml:id="d001l1481" n="10856">Çascun de ceus qe li forent trové</l>
+                <l xml:id="d001l1482" n="10857">Tuti li ses pezé li furent perdoné.</l>
+                <l xml:id="d001l1483" n="10858">Gran çoja n'oit çes Françés amené,</l>
+                <l xml:id="d001l1484" n="10859">Bia colu qe là fo envojé,*</l>
+                <l xml:id="d001l1485" n="10860">Qe in sa vite avoit li gran peçé. (1365)</l>
+                <lb/>
+                <p xml:id="d001l1486" type="title" n="">{{Rubric 317}}</p>
+                <lb/>
+                <p xml:id="d001l1487" n="">Coment l'Apostoille . . .</p>
+                <p xml:id="d001l1488" type="title" n="">{{Laisse 318}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l1489" n="10861">Gran çoja oit l'Apostoile Milon:</l>
+                <l xml:id="d001l1490" n="10862">Deliberé fu da Turs e da Sclavon</l>
+                <l xml:id="d001l1491" n="10863">La merçé de Deo e l'inperer Karlon,</l>
+                <l xml:id="d001l1492" n="10864">E de·l Dainois e de le dux Naimon,</l>
+                <l xml:id="d001l1493" n="10865">E de Çarloto, li novel canpion. (1370)</l>
+                <l xml:id="d001l1494" n="10866">"Segnur," dist l'Apostoilo, "porqe vos çelaron?</l>
+                <l xml:id="d001l1495" n="10867">Caçé fu de Rome por Turchi e Sclavon,</l>
+                <l xml:id="d001l1496" n="10868">Qe in Roma orent Trevigant e Macon,</l>
+                <l xml:id="d001l1497" n="10869">Et Apolin e ses deo Balatron.</l>
+                <l xml:id="d001l1498" n="10870">Çascun de çeus q'è venu a perdon, (1375)</l>
+                <l xml:id="d001l1499" n="10871">Eo li do cotal remision,</l>
+                <l xml:id="d001l1500" n="10872">Qe tot li peçé q'oit fato n·iste mon,*</l>
+                <l xml:id="d001l1501" n="10873">No le seria remenbré unqua in l'altro mon.</l>
+                <l xml:id="d001l1502" n="10874">Ma una colse primiran nu faron:</l>
+                <l xml:id="d001l1503" n="10875">Avantiqe vos ve departa de Ron, (1380)</l>
+                <l xml:id="d001l1504" n="10876">Par tot la tera entorno et environ,</l>
+                <l xml:id="d001l1505" n="10877">Nu aliron co·la precesion,*</l>
+                <l xml:id="d001l1506" n="10878">E de novo tuti li sagraron."</l>
+                <l xml:id="d001l1507" n="10879">Dist li rois, "A Deo benecion!"</l>
+                <l xml:id="d001l1508" n="10880">Lor se levò l'Apostoilo Milon, (1385)</l>
+                <l xml:id="d001l1509" n="10881">Cun veschivi, arçiveschivi, prete e clereçon;</l>
+                <l xml:id="d001l1510" n="10882">Tuti li altari quanti trovent in Ron</l>
+                <l xml:id="d001l1511" n="10883">Tuti quanti de novo li sagraron;</l>
+                <l xml:id="d001l1512" n="10884">Quando à ço fato, dè la benecion.*</l>
+                <l xml:id="d001l1513" n="10885">Çascun s'en vait a le soe mason, (1390)</l>
+                <l xml:id="d001l1514" n="10886">E l'inperer e le dux Naimon,</l>
+                <l xml:id="d001l1515" n="10887">XV. jorni i demorò en Ron,</l>
+                <l xml:id="d001l1516" n="10888">Po pris conçé con tot li ses baron.</l>
+                <l xml:id="d001l1517" n="10889">Gran çoja en fait Manseli e Berton,*</l>
+                <l xml:id="d001l1518" n="10890">E li Françeis, Normandi, e Guascon. (1395)</l>
+                <l xml:id="d001l1519" n="10891">A le çamin se metent, arer s'en tornon;</l>
+                <l xml:id="d001l1520" n="10892">E l'Apostoiles con tot li cleriçon,</l>
+                <l xml:id="d001l1521" n="10893">Le convoient trois defor de Ron.</l>
+                <l xml:id="d001l1522" n="10894">Karlo s'en vait, a Deo benecion,</l>
+                <l xml:id="d001l1523" n="10895">E l'Apostoile remist a Deo non. (1400)</l>
+            </div1>
+        </body>
+    </text>
+</TEI>

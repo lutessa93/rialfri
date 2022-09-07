@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="MATTEOCORREGGIAIOTERNARI-matteoCorreggiaioTernari">
+                    <title type="short">Ternari</title>
+                    <abbr>Ternari</abbr>
+                    <note xml:id="note1">prima metà XIV sec.</note>
+                    <bibl>Roberta Frezza, <emph style="font-style:italic">I ternari trilingui di Matteo Correggiaio. Nuova edizione e commento</emph>, in <emph style="font-style:italic">La Cultura volgare padovana nell'età del Petrarca. Atti del Convegno Monselice-Padova (7-8 maggio 2004)</emph>, Padova, Il Poligrafo, 301-342.</bibl>
+                </title>
+                <author xml:id="MATTEOCORREGGIAIOTERNARI" n="135.000">
+                    <name>Matteo Correggiaio</name>
+                    <abbr>Matteo Correggiaio</abbr>
+                </author>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale</resp>
+                    <name>Luigi Tessarolo</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Reference basis text</resp>
+                    <name>Roberta Frezza, <emph style="font-style:italic">I ternari trilingui di Matteo Correggiaio. Nuova edizione e commento</emph>, in <emph style="font-style:italic">La Cultura volgare padovana nell'età del Petrarca. Atti del Convegno Monselice-Padova (7-8 maggio 2004)</emph>, Padova, Il Poligrafo, 301-342.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.rialfri.eu">RIALFrI</ref>
+                </publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <notesStmt>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>Roberta Frezza, <emph style="font-style:italic">I ternari trilingui di Matteo Correggiaio. Nuova edizione e commento</emph>, in <emph style="font-style:italic">La Cultura volgare padovana nell'età del Petrarca. Atti del Convegno Monselice-Padova (7-8 maggio 2004)</emph>, Padova, Il Poligrafo, 301-342.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t3"/>
+                <keywords>
+                    <term type="form">poetry</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work">
+                <div2 xml:id="d001c001">
+                    <head>
+                        <title>I</title>
+                        <abbr>I</abbr>
+                    </head>
+                    <l xml:id="d001l1" n="1"><emph style="font-style:italic">{{Euguço, el coreçato tuo Matheo}}</emph></l>
+                    <l xml:id="d001l2" n="2"><emph style="font-style:italic">{{salutem copiosam [...] gl [...]}}</emph></l>
+                    <l xml:id="d001l3" n="3">de bien, de honeur, de pres et tote çoie.</l>
+                    <l xml:id="d001l4" n="4"><emph style="font-style:italic">{{Quando uno amico en alto se ti leva,}}</emph></l>
+                    <l xml:id="d001l5" n="5"><emph style="font-style:italic">{{quod altri sit in infimis oblitus,}}</emph></l>
+                    <l xml:id="d001l6" n="6">ni êt pas degne ne raxonabel zonse.</l>
+                    <l xml:id="d001l7" n="7"><emph style="font-style:italic">{{Negar non se pò çò ch'el non sia vero:}}</emph></l>
+                    <l xml:id="d001l8" n="8"><emph style="font-style:italic">{{est enim amicicie talis ordo}}</emph></l>
+                    <l xml:id="d001l9" n="9">che li bien e li mal d'amdos doit estre.</l>
+                    <l xml:id="d001l10" n="10"><emph style="font-style:italic">{{Però te voglio dir lo mio secreto,}}</emph></l>
+                    <l xml:id="d001l11" n="11"><emph style="font-style:italic">{{ut videas quid nunc fero et quid jam tuli}}</emph></l>
+                    <l xml:id="d001l12" n="12">dedenç mo[n] cuer, e quel'êt ma pensié.</l>
+                    <l xml:id="d001l13" n="13"><emph style="font-style:italic">{{Anni çà fa plu de doe volte çinque,}}</emph></l>
+                    <l xml:id="d001l14" n="14"><emph style="font-style:italic">{{quod ab Amoris arcu fui percus[sus]}}</emph></l>
+                    <l xml:id="d001l15" n="15">par une dame asa' plaisant e belle.</l>
+                    <l xml:id="d001l16" n="16"><emph style="font-style:italic">{{L'afano e'l ben che per ley ò sentito}}</emph></l>
+                    <l xml:id="d001l17" n="17"><emph style="font-style:italic">{{scileo, quia non expedit propallar[e],}}</emph></l>
+                    <l xml:id="d001l18" n="18">e poy non li porie a plen descrire.</l>
+                    <l xml:id="d001l19" n="19"><emph style="font-style:italic">{{&lt;Io&gt; dico bene che quella percossa}}</emph></l>
+                    <l xml:id="d001l20" n="20"><emph style="font-style:italic">{{usque ad radices cordis fuit [...],}}</emph></l>
+                    <l xml:id="d001l21" n="21">may ie te voy conter une merveile.</l>
+                    <l xml:id="d001l22" n="22"><emph style="font-style:italic">{{Se quel che tut[o ete]rnalmentre reçe}}</emph></l>
+                    <l xml:id="d001l23" n="23"><emph style="font-style:italic">{{me dignum faciat gloria pacis eius,}}</emph></l>
+                    <l xml:id="d001l24" n="24">je te diray el voir si cum a frere.</l>
+                    <l xml:id="d001l25" n="25"><emph style="font-style:italic">{{Al meo segnor&lt;e&gt; porto amor e fede}}</emph></l>
+                    <l xml:id="d001l26" n="26"><emph style="font-style:italic">{{in mortalibus precuncti[s] huius vite:}}</emph></l>
+                    <l xml:id="d001l27" n="27">par luy voy morir et par luy viver.</l>
+                    <l xml:id="d001l28" n="28"><emph style="font-style:italic">{{Ma s'yo morisse mille volte al zorno,}}</emph></l>
+                    <l xml:id="d001l29" n="29"><emph style="font-style:italic">{{meritari non poss[et] ullo modo}}</emph></l>
+                    <l xml:id="d001l30" n="30">el grant honeur e·l bien ch'el fet a moy.</l>
+                    <l xml:id="d001l31" n="31"><emph style="font-style:italic">{{Io sum ville e de valor sì pocho,}}</emph></l>
+                    <l xml:id="d001l32" n="32"><emph style="font-style:italic">{{excellencia tanta fulget ipse}}</emph></l>
+                    <l xml:id="d001l33" n="33">che a [moy] ni si convient parler de luy.</l>
+                    <l xml:id="d001l34" n="34"><emph style="font-style:italic">{{Da po' la söa mirabel grandeça,}}</emph></l>
+                    <l xml:id="d001l35" n="35"><emph style="font-style:italic">{{te fratrem dilligo, socium et amicum,}}</emph></l>
+                    <l xml:id="d001l36" n="36">de fin cuer e de tote ma entençe.</l>
+                    <l xml:id="d001l37" n="37"><emph style="font-style:italic">{{Non creço mai che algun amante dona}}</emph></l>
+                    <l xml:id="d001l38" n="38"><emph style="font-style:italic">{{sic affectar[et], sui amoris ardens,}}</emph></l>
+                    <l xml:id="d001l39" n="39">che tant por ley sofrist travail e paine,</l>
+                    <l xml:id="d001l40" n="40"><emph style="font-style:italic">{{ch'el cor mëo plu per ti non portasse,}}</emph></l>
+                    <l xml:id="d001l41" n="41"><emph style="font-style:italic">{{ut rerum scit ille qui nichil ignorat,}}</emph></l>
+                    <l xml:id="d001l42" n="42">car por l'ami doyt l'om metre la [vie].</l>
+                    <l xml:id="d001l43" n="43"><emph style="font-style:italic">{{O beato cholui che en vita sua}}</emph></l>
+                    <l xml:id="d001l44" n="44"><emph style="font-style:italic">{{relinquens malum operatur [bonum],}}</emph></l>
+                    <l xml:id="d001l45" n="45">car cil êt amés da Dé e da lis homes.</l>
+                    <l xml:id="d001l46" n="46"><emph style="font-style:italic">{{Tu vidi sença requie d'ora in hora}}</emph></l>
+                    <l xml:id="d001l47" n="47"><emph style="font-style:italic">{{orbem vollubilli ro[ta ...],}}</emph></l>
+                    <l xml:id="d001l48" n="48">e non êt çonse en luy che durer possa.</l>
+                    <l xml:id="d001l49" n="49"><emph style="font-style:italic">{{Unde io te prego che tegni la via dreta,}}</emph></l>
+                    <l xml:id="d001l50" n="50"><emph style="font-style:italic">{{cavens tibi a falsis laqueis mulierum,}}</emph></l>
+                    <l xml:id="d001l51" n="51">car toç le maus dou monde fiunt po[r eles].</l>
+                    <l xml:id="d001l52" n="52"><emph style="font-style:italic">{{A bon entendaor poche parole,}}</emph></l>
+                    <l xml:id="d001l53" n="53"><emph style="font-style:italic">{{quod longum scripssi non te tedeat, quia}}</emph></l>
+                    <l xml:id="d001l54" n="54">forma convient seguir a la matire.</l>
+                    <l xml:id="d001l55" n="55"><emph style="font-style:italic">{{Alegra vita e bona fin te done,}}</emph></l>
+                    <l xml:id="d001l56" n="56"><emph style="font-style:italic">{{post anime tue regnum celeste,}}</emph></l>
+                    <l xml:id="d001l57" n="57">cil che naschi de la pulcelle honeste.</l>
+                    <l xml:id="d001l58" n="58"><emph style="font-style:italic">{{Data ne l'orto de la vertute}}</emph></l>
+                    <l xml:id="d001l59" n="59"><emph style="font-style:italic">{{\[$Annis M. iiiC]\}}</emph></l>
+                    <p xml:id="d001l60" n="">e trente d[eus], Indicion quinze.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c002">
+                    <head>
+                        <title>II</title>
+                        <abbr>II</abbr>
+                    </head>
+                    <l xml:id="d001l61" n="1"><emph style="font-style:italic">{{Piero Suscendullo, amico dilletto,}}</emph></l>
+                    <l xml:id="d001l62" n="2"><emph style="font-style:italic">{{Matheus Corigiarus cum salute}}</emph></l>
+                    <l xml:id="d001l63" n="3">sa arme e sun cors a toy servir otroye.</l>
+                    <l xml:id="d001l64" n="4"><emph style="font-style:italic">{{Possa ch'i' me partì' di tua cumpagna,}}</emph></l>
+                    <l xml:id="d001l65" n="5"><emph style="font-style:italic">{{quid esset quies vel gaudium ignoravi,}}</emph></l>
+                    <l xml:id="d001l66" n="6">car bien m'ancist le pensier de ma dame.</l>
+                    <l xml:id="d001l67" n="7"><emph style="font-style:italic">{{Intesi che partirse fuor del cerchio}}</emph></l>
+                    <l xml:id="d001l68" n="8"><emph style="font-style:italic">{{curie volebat, ubi prius eam vidi,}}</emph></l>
+                    <l xml:id="d001l69" n="9">e fere en altro leu sa demoranze.</l>
+                    <l xml:id="d001l70" n="10"><emph style="font-style:italic">{{Se questo è vero o·nno, vorey saperlo;}}</emph></l>
+                    <l xml:id="d001l71" n="11"><emph style="font-style:italic">{{nam si redirem illuc, ut intendo,}}</emph></l>
+                    <l xml:id="d001l72" n="12">che za poes veoir sa belle clere,</l>
+                    <l xml:id="d001l73" n="13"><emph style="font-style:italic">{{la cuy belleza, crudeltà e valore}}</emph></l>
+                    <l xml:id="d001l74" n="14"><emph style="font-style:italic">{{sunt mihi mortis principium et causa:}}</emph></l>
+                    <l xml:id="d001l75" n="15">ay, las zaytif! Cum la vit en mal'hore!</l>
+                    <l xml:id="d001l76" n="16"><emph style="font-style:italic">{{Meyo el me seria may non esser nato,}}</emph></l>
+                    <l xml:id="d001l77" n="17"><emph style="font-style:italic">{{vel exul fuissem semper et ignotus}}</emph></l>
+                    <l xml:id="d001l78" n="18">un oltra mere, in leu che est plus sauvaze,</l>
+                    <l xml:id="d001l79" n="19"><emph style="font-style:italic">{{prima che'l mortal colpo aver ateso}}</emph></l>
+                    <l xml:id="d001l80" n="20"><emph style="font-style:italic">{{sagite Mortis cuncta penetrantis;}}</emph></l>
+                    <l xml:id="d001l81" n="21">mes nul da tal arcer se puet defendre.</l>
+                    <l xml:id="d001l82" n="22"><emph style="font-style:italic">{{O falso, ingrato, rio servo ch'io sono,}}</emph></l>
+                    <l xml:id="d001l83" n="23"><emph style="font-style:italic">{{de illo conquerens qui est digne laudandus:}}</emph></l>
+                    <l xml:id="d001l84" n="24">ce est l'Amors, che de tout bien est pere.</l>
+                    <l xml:id="d001l85" n="25"><emph style="font-style:italic">{{Dove descende sua grandeza digna,}}</emph></l>
+                    <l xml:id="d001l86" n="26"><emph style="font-style:italic">{{ornat valorem, prudenciam atque locum,}}</emph></l>
+                    <l xml:id="d001l87" n="27">e d'um vilen, cortois foit par sa force.</l>
+                    <l xml:id="d001l88" n="28"><emph style="font-style:italic">{{Non dubito che quel che tuto guida}}</emph></l>
+                    <l xml:id="d001l89" n="29"><emph style="font-style:italic">{{unicuique quod convenit largitur,}}</emph></l>
+                    <l xml:id="d001l90" n="30">et est tout par ingual partiz le monde.</l>
+                    <l xml:id="d001l91" n="31"><emph style="font-style:italic">{{Però se 'sto segnor trovar sapesse,}}</emph></l>
+                    <l xml:id="d001l92" n="32"><emph style="font-style:italic">{{genibus flexis pia voce clamarem:}}</emph></l>
+                    <l xml:id="d001l93" n="33">-Sirri, merci, ma folie ne regarde!-</l>
+                    <l xml:id="d001l94" n="34"><emph style="font-style:italic">{{Ma perch'io non so ben dov'el demori,}}</emph></l>
+                    <l xml:id="d001l95" n="35"><emph style="font-style:italic">{{omnes amantes rogo, teque primo,}}</emph></l>
+                    <l xml:id="d001l96" n="36">che pre[c]i luy che de cest mal mi garisse</l>
+                    <l xml:id="d001l97" n="37"><emph style="font-style:italic">{{un cum securso o cum morte cruda,}}</emph></l>
+                    <l xml:id="d001l98" n="38"><emph style="font-style:italic">{{aud cum quo debet liberare me:}}</emph></l>
+                    <l xml:id="d001l99" n="39">beneurus mi tenroy plus de nul autre.</l>
+                    <l xml:id="d001l100" n="40"><emph style="font-style:italic">{{L'anima mia zamay cridar non cessa:}}</emph></l>
+                    <l xml:id="d001l101" n="41"><emph style="font-style:italic">{{-Amabillis, amabillis Mabillia,}}</emph></l>
+                    <l xml:id="d001l102" n="42">vos estes mon deus, mon foy e mon creanze!-</l>
+                    <l xml:id="d001l103" n="43"><emph style="font-style:italic">{{Tal è la vita mia cum' io ti scrivo,}}</emph></l>
+                    <l xml:id="d001l104" n="44"><emph style="font-style:italic">{{et acrior; sed id taceo, quia sunt fesse}}</emph></l>
+                    <l xml:id="d001l105" n="45">le man dou scrivre e dou parler la bocce.</l>
+                    <l xml:id="d001l106" n="46"><emph style="font-style:italic">{{Se cossa e' posso far di tuo piacere,}}</emph></l>
+                    <l xml:id="d001l107" n="47"><emph style="font-style:italic">{{denotes mihi prompto, nam sum tuus,}}</emph></l>
+                    <l xml:id="d001l108" n="48">e par tout le iors che ie vive seray.</l>
+                    <l xml:id="d001l109" n="49"><emph style="font-style:italic">{{Colui ti guidi a la vera leticia}}</emph></l>
+                    <l xml:id="d001l110" n="50"><emph style="font-style:italic">{{qui pater est et filius matris sue,}}</emph></l>
+                    <l xml:id="d001l111" n="51">e che ame cil che de foy la salve.</l>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

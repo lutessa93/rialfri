@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="CONTOITALOFRANCESE-contoItalofrancese">
+                    <title type="short">Conto anonimo italo-francese</title>
+                    <abbr>Conto anonimo italo-francese</abbr>
+                    <note xml:id="note1">1423</note>
+                    <bibl>Daniele Baglioni, <emph style="font-style:italic">La scripta italoromanza del regno di Cipro. Edizione e commento di testi di scriventi ciprioti del Quattrocento</emph>, a cura di Daniele Baglioni, Roma, Aracne, 2006 («Scienze dell’antichità filologico-letterarie e storico-artistiche», 226), pp. 175-183.</bibl>
+                </title>
+                <author xml:id="CONTOITALOFRANCESE" n="038.000">
+                    <name></name>
+                    <abbr></abbr>
+                </author>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale</resp>
+                    <name>Francesca Gambino</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Reference basis text</resp>
+                    <name>Daniele Baglioni, <emph style="font-style:italic">La scripta italoromanza del regno di Cipro. Edizione e commento di testi di scriventi ciprioti del Quattrocento</emph>, a cura di Daniele Baglioni, Roma, Aracne, 2006 («Scienze dell’antichità filologico-letterarie e storico-artistiche», 226), pp. 175-183.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.rialfri.eu">RIALFrI</ref>
+                </publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <notesStmt>
+                <note type="edizione">
+                    Conto anonimo italo-francese (1423)
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>Daniele Baglioni, <emph style="font-style:italic">La scripta italoromanza del regno di Cipro. Edizione e commento di testi di scriventi ciprioti del Quattrocento</emph>, a cura di Daniele Baglioni, Roma, Aracne, 2006 («Scienze dell’antichità filologico-letterarie e storico-artistiche», 226), pp. 175-183.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t4"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work">
+                <p xml:id="d001l1" type="title" n="">[I]</p>
+                <lb/>
+                <lb/>
+                <p xml:id="d001l2" n="1" rend="1"><lb/> <lb/>{{Ultima carta di guardia recto, colonna di sinistra}}<lb/> <lb/>1 {{Th(oma)sin
+                de' dare p(er) resto de b. MVc |}}<lb/>a la coumesarie d(e) dam(e) Eschive Nast(re)<lb/>{{|
+                como ap(er)t aff. CIIII     b. LXI  k. XIII}}<lb/>2  {{It. I quali à recevudo}} d(e)
+                la vente | dou vin<lb/>dou vesq(ue) d(e) Baffe d(e) Mo(n)coubel |<lb/>(et) Ramondin
+                p(er) tout delly(er) aff. 98:   b. XIIII k. V<lb/>de Ramo(n)din b. V k. XVII;<lb/>de
+                Mo(n)coubel, b. VIII1/2.<lb/>3  {{It. de' dare p(er) VI palmy d(e) pano |<lb/>negro
+                ave p(er) capuzo d(e) q(ue)llo me fuy |<lb/>mandà d(e) Vency a dì XVI de […] a b. 2
+                k.   b. XXI  k. XII}}<lb/>4  {{It. de' dare, i quali de mia}} seur | {{de Ramena<lb/>de
+                b. XXV q(ue) me d[…] p(er) la dezi|ma<lb/>d(e) Mazouriari v[…]t,}} se que elle| d(e)voit<lb/>avoir
+                p(er) les b. […] schandeles ot    b. X  k. 0<lb/>5  {{It. de' dare, i q[uali av]e d(e)
+                | Ramondin a<lb/>d[ì…]ro        b. VIII  k. 0}}<lb/>6 {{It. a dì XI d[e … b.] l k. VIII
+                ave | d(e)<lb/>Vasili […] me dounà b. VI k. VIII (et) luy   b. V  k. 0}}<lb/>7  {{It.
+                de' dare, i q(ua)li ave de Vasili Rasa, |<lb/>capetain de Guenagra, a dì VIII m(ar)zo<lb/>1423
+                | aff. CVII      b. IIII  k. 0}}<lb/>8  {{It. de Nicolin Melissino p(er) li dn. del
+                vin 98        b. VI  k. 0}}<lb/>9  {{It. de la vente di boi de Saraca p(er) la |<lb/>ma(n)
+                de Zorzi tou P(a)p(a)petrou aff. | a dì<lb/>XVI m(ar)zo 1423      b. LXXII k. 0}}<lb/>10
+                 {{It. a dì XXVIII m(ar)zo (con)tadi p(er) li | <lb/>Marabouini duc. II      b. XI 
+                k. XII}}<lb/>11  {{It. a dì VI av(ri)ll, di suto scrity:  b. XLI  k. XI<lb/> d(e) Pifany
+                b. XIIII k. XI;<lb/> d(e) Protop(a)p(a) d(e) o(n)f b. VII;<lb/> d(e) s(er) Pier Ziblin,
+                b. XX.}}<lb/>12  {{It. a dì XVII de' dare, i q(ua)li ave Joh(an)i<lb/> | soi vignadour
+                a dì souto scrity:   b. VII  k. XIII<lb/> a dì XVII fo(rmen)t del soi, c. VI (et) dn.<lb/>
+                | b. I c(ar)t;<lb/> a dì X[…] av(ri)ll b. I c(ar)t, | ausi<lb/> fo(rmen)t (et) b.;<lb/>
+                a dì IX de azu b.[…];<lb/> a dì XVII mazo | de Pifany b. II k. I.}}<lb/>13  {{It. de'
+                dare p(er) lo modre del soi | orzo<lb/> p(er) marabouni doxe a k. XVIII (et) b. | […]<lb/>
+                b. I k. X<lb/>14  {{It. i quali ò dado a Marousa de Stiliano, |<lb/> fo(rmen)t ms. I
+                c(a)f(is) II del soi (et) dn.  b.  k. XV}}<lb/>15 It. de' dare, i q(ua)li ò dado a Omero
+                | p(er)<lb/>la carta del soi notariado, duc. X b. IX  k. 0}}<lb/>16 {{It. de' dare,
+                i q(ua)li ò dado a Yany vigneor<lb/> | lo meys d(e) luyo q(ue) era fora de la tera<lb/>
+                fin a dì XX:      b. III  k. 0<lb/> la p(ri)ma setemana | a dì X b. II;<lb/> la segonda
+                | b. II.}}<lb/>17  {{It. de' dare, i q(ua)li ò dado a Pier<lb/> |(Con)tarin | p(er)
+                ello p(er) pano cane III a <lb/> b. XVIII, | li q(ua)l ave e(n) houtov(re) d(e)<lb/>
+                IIIIcXXII      b. LXIII k. 0}}<lb/>18  {{It. i q(ua)li ò dado a dito Piero p(er)<lb/>
+                fustagno | ave lo dito     b. VIII  k. 0}}<lb/>19  It. de' dare p(er) l'ensensiva de
+                la vigne |<lb/> {{p(er) l'ano de MIIIIcXXII b. XVI b. XVI  k. 0}}<lb/>20  {{It. p(er)
+                le dihme de son gardin   b.}} <lb/></p>
+                <lb/>
+                <p xml:id="d001l3" n="2" rend="2"><lb/> <lb/>{{Colonna di destra}}<lb/> <lb/>21 {{Th(oma)sin de' avere, i quali me suno
+                |<lb/> remasi de b. LXXV qu'il me ma(n)dà | in III<lb/> fiade siando luy de fora de
+                zà. | Ò dado ai <lb/> marabouni de le sue vigne | b. 48 k. 4,<lb/> guabelle}} a la p(er)te
+                p(er) son aniau | b. XV<lb/> {{rest b.}}<lb/>22  {{It. de' avere, i q(ua)li de amia
+                Sozeray | a dì<lb/> 12 m(ar)zo 1423 b.}}<lb/>13  {{It. a Zorzi Stratocopo p(er)}} ses
+                sodées b. II |<lb/> {{(et) p(er) VI pedouchà b. I, CVI   b.}}<lb/>24  {{It. a Nicolin
+                tou Smerliou, a dì XII m(ar)zo,<lb/> 95       b.}}<lb/>25  {{It. a Silizo, p(er) moy
+                a dito   b.}}<lb/>26  {{It. a Simony sourien p(er)}} ses sodées k. XII,<lb/> (et) I
+                aut(re) fois k. VI, {{(et) p(er) altro k. XII,<lb/> 94       b.}}<lb/>27 {{It.}} amon(e)
+                a la dam(e) de Sain Queras  b.<lb/>28 {{It.}} p(er) les saints de VI mois, 94 b.<lb/>29
+                {{It. scire labouré r(ote) I (onquie), 94  b.}}<lb/>30 {{It. pag[a]to a Paulo a dì XXVI,
+                94   b.}}<lb/>31 {{It. o pr[…] de Vorgo Pacousa    b.}}<lb/>32 {{It. a Vasily v[igne]our
+                de s(er) Joha(n)<lb/> Badi|no       b.}}<lb/>33 {{It. p(er)}} I courchi[e]f qui fui
+                ach[eté] | p(er)<lb/> la nourise [de] Perin {{a dì XX m(ar)zo  b.}}<lb/>34 {{It. a dì
+                VIII av(ri)ll, i q(ua)li à dado | ai souto<lb/> scrity p(er) my:     b.<lb/> a Stratocopo
+                b. II;<lb/> a Yorgui (illeggibile);<lb/> a p(a)p(a) Joh(an)i de Laliana b. XXV;}}<lb/>
+                achet d(e) chandeles p(er) luy k. VII.<lb/>35 {{It. a dì XII mazo de' avere, i quali
+                | me<lb/> mandà misari b. VIII (et) soi (com)pagni | b.<lb/> IIII p(er) le boute.}}<lb/>36
+                {{It. de' avere | p(er) duc. I q[…]ianta.}}<lb/>37 {{It. de' avere p(er) rest de q(ue)sta
+                ra[…]| fata}}<lb/> {{d'acordo […] a dì […]to | de ms. XXIII […] X}}<lb/> {{(l'ultima
+                riga è completamente illeggibile)}}<lb/></p>
+                <lb/>
+                <p xml:id="d001l4" n="3" rend="3"><lb/> <lb/>{{Ultima carta di guardia verso, colonna di destra<lb/> <lb/>38 {{It. a dì
+                XII Armenioty (et) Asca   b. XXVI k. 0}}<lb/> p(er) cullie (et) aut(re) | p(er) oudres
+                b.<lb/> XVIII;<lb/> cests q(ue) fistre(n)t les oudres b. VII1/2. <lb/>39 {{It. a dì
+                XIII a vigneour b. II a l'ostel b. I<lb/> c(ar)t       b. III   k. X[…]}}<lb/>40 {{It.
+                a dì XIIII p(er) l'ostel    b.   [k.] III}}<lb/>41 {{It. a dì XV}} a la nourise de Johan(e)
+                (et)<lb/> aut(re)       b. VI  k. XV<lb/>42 {{It. a dì XVI a mia amida Damalis b. X
+                | et<lb/> a l'ostel k. XII aff. 96    b. X  k. XII}}<lb/>43 {{It. a dì XVII a l'ostel
+                b. I  k. VI}}<lb/>44 {{It. a dì XVIII p(er) l'ostel b. I k. XX  b. I  k. XX}}<lb/>45
+                {{It. a dì XIX a Stratocopo b. II1/2 a l'ostel b.<lb/> I       b. III  k. XII}}<lb/>46
+                {{It. a dì XX o vigneour b. II1/2 a l'ostel b. I1/2 b. IIII  k. 0}}<lb/>47 {{It. a dì
+                [X]XI}} a madam(e) b. V, a l'ostel b.<lb/> I b. VI  k. 0<lb/>48 {{It. a dì XXII dito
+                a l'ostel b. II1/2 a p(a)p(a)<lb/> Joh(an)i de | Kaliana p(er) le cuindeze b.<lb/> XXV
+                aff. 74      b. XXVI  k. XII}}<lb/>49 {{It. a dì XXIII p(er) (con)fit b. II, p(er)<lb/>
+                l'ostel, b. II k. III     b. IIII  k. III}}<lb/>50 {{It. a dì XXIIII p(er) Agripina
+                b. III (et) a<lb/> l'ostel b. IIII k. 17     b. VII  k. XVII}}<lb/>51 {{It. a dì XXV
+                p(er)}} l'ostel (et) aut(re)  b. I  k. XXII1/2<lb/>52 {{It. a dì XXVI p(er)}} l'ostel
+                (et) aut(re)  b. I  k. V1/2<lb/>53 {{It. a dì XXVII o vigneour}} (et) a l'ostel (et)<lb/>
+                aut(re)       b. VIII  k. XI1/2<lb/>54 {{It. a dì XXVIII a l'ostel    b.  k. X}}<lb/>55
+                {{It. a dì XXVIIII otoubrio p(er) meses XXV  b. VI  k. VI}}<lb/>56 {{It. a dì 2[9] dito
+                Athanasi b. k. XII  b.  k. XII}}<lb/>          131<lb/>57 {{It. de' avere, i quali à
+                dado p(er)}} toute | le<lb/> XV dì de novembre p(er) meses (et) |<lb/> {{Loutourgiquo
+                q(ua)ndo era a Potamya   b. III  k. X}}<lb/>58 {{It. a mio soumely(e) Zorgui | in puy
+                fiade<lb/> aff. 88 b. II  k. XVIII}}<lb/>59 {{It.}} a l'ostel (et) autre     b. II 
+                k. 0<lb/>60 {{It. p(er) ferar i cavali de la caravana  b. I  k. XVII1/2}}<lb/>61 {{It.
+                guabella de XIIII ms. de fo(rmen)t (et)<lb/> orzo | q(ue) fui p(or)tà d(e) Mazouriari
+                a dì<lb/> XIII no(vembre)      b. I  k. XX}}<lb/>62 It. p(er) les univ(er)sares de XL
+                jour de | la<lb/> benoit arme d(e) {{mea mad(re) aff. 94:   b. XXXII k. XIIII}}<lb/>
+                {{p(ri)ayazes b. 261/2;}}<lb/> {{cere k. XIIII;}}<lb/> saints {{b. V c(ar)t.}}<lb/>63
+                {{It. a Thodorin}} de la nourise de Johan | grec b. I  k. XII<lb/>64 {{It.}} achet de
+                poch p(er) l'ostel   b. II  k. 0<lb/>65 {{It. a la feme de berzier {{a d[ì … de<lb/>no]vemb(re)
+                b. I  k. 0}}<lb/>        48<lb/>66 {{It. i quali ssoye}} des XVI jour de | novembre<lb/>
+                p(er) tout delly(er):     b. XVI  k. XX<lb/> a l'ostel b. I k. III;<lb/> {{o barby(er)
+                k. VI;}}<lb/> {{Pifany b. I<lb/> sartour b. I;<lb/> Ptaloudy b. I;<lb/> p(er) I ma(n)tel
+                b. III k. XXIII;<lb/> (et) a l'ostel b. I1/2;<lb/> a XX a li sou k. XVIII;<lb/> a XXVII
+                no(vembre) a moy | b. V.}}<lb/>67 {{It. des XXII de delly(er) a p(a)p(a) Nifo<lb/> p(er)
+                la feste | dou Noell de b. ms. (et)<lb/> c(a)f(i)s de Pifany, b. XX    b. XV  k. 0<lb/>68
+                {{It. a la nou(n)nan de Palouriotisa p(er) s(er)<lb/> Iaq(ues) Bibi      b. XI  k. 0<lb/>69
+                {{It. au V a Pifany b. I, a moy b. II,<lb/> Stratocopo b. I, chandeles k. XIIII b. IIII
+                 k. XIIII}}<lb/>{{It. au VI a Pifany b. I  k. 0<lb/>It. [au] VII a Sacoumano (et) p(a)p(a)<lb/>Nicola
+                b. III, a p(a)p(a) Nifo, k. XII b. III k. XII}}<lb/>70 {{[It.]}} a ma feme, esta(n)t
+                moy a {{Quaq(ui), b. <lb/>XV:<lb/>o sartor [...];<lb/>a Simony b. I;<lb/>Pifany b. I;<lb/>guabelle
+                b. I k. X;<lb/>Strato|[copo...] b. XXI  k. XXII <lb/>(il resto è illeggibile)}}    <lb/></p>
+                <lb/>
+                <p xml:id="d001l5" n="4" rend="4"><lb/> <lb/>{{A lato, in basso a sinistra}}<lb/> <lb/>71 {{It.,}} lesq(ue)ls furent dounés
+                | a Nicolin <lb/>de Lio[...] p(er) rescodre | le chandely(er) [...] <lb/>{{lasò au [...]}}<lb/></p>
+                <lb/>
+                <p xml:id="d001l6" n="5" rend="5"><lb/> <lb/>{{Prima carta di guardia verso, colonna di destra}}<lb/> <lb/>72 {{S(er)
+                Johan de Greny(er) d(e') dare p(er) I}}<lb/> apodye | d(e) la Seg(re)te R(eale) a XIIII<lb/>
+                mazo o defaut de dam(e) | Eschive d(e)<lb/>Mo(n)tholif p(er) le vin de la c(or)t aff.
+                72 b. IIcI  k. 0<lb/> {{(et) l'apodiya l'ò dada in main de s(er)<lb/> Johan | de Balian
+                a dì XVIII mazo.}}<lb/>73 La (con)tesse Jene […]as de dare | p(er) I<lb/> apodixa [...]te
+                p(er) l'asenem(en)t de dame |<lb/> Eschive de Mo(n)th[olif] [...] acyeptasion<lb/> d(e)
+                la c(or)t | aff. 72.    b. LXXV  k. 0<lb/> {{L'apodiya l'ò dada a m[ia s]ourela, | p(er)ò<lb/>
+                q(ue) d(e') aver(e) p(er) vin soi aff. CVI, |<lb/> (et) fuy pagady.}}<lb/>74 {{S(er)
+                Th(oma)s Henry de' dare p(er) I<lb/> Apodiye | d(e) la Seg(re)te d(e) la cyeptasion<lb/>
+                de la c(or)t, p(er) vin | q(ue) la dite c(or)t à<lb/> hou d(e) la rason d(e) | sa ballye,
+                aff. 72  b. XXXIIII k. 0<lb/> Fui pagada, aff. CVI.}}<lb/> {{L'apodiye l'ò dada a mia
+                | sourela p(er) soi<lb/> vin aff. CVI | pagady p(er) Th(oma)sin a mia<lb/> sourelay.}}<lb/>75
+                {{S(er) Johan de m(a)st(ro) Brahim de' dare |<lb/> p(er) V p(almy) d(e) lira gli mandà
+                a dì | XX<lb/> mazo 1423; a meterly p(er) cousto | coustano<lb/> le II kane scarse duc.
+                VII | t(ome)s(e) II,<lb/> valleno le V palmy}}     b. XV<lb/></p>
+                <lb/>
+                <p xml:id="d001l7" n="6" rend="6"><lb/> <lb/>{{A lato, in basso a destra}}<lb/> <lb/>76 {{S(er) Johan (contra)scrito de'
+                avere p(er) |<lb/> 143 r(ot)e de fero me ma(n)dà a dì VIII |<lb/> av(ri)ll a b. LXXX
+                le qq.}}<lb/></p>
+                <lb/>
+                <p xml:id="d001l8" n="7" rend="7"><lb/> <lb/>{{Prima carta di guardia recto, colonna di sinistra}}<lb/> <lb/>77 {{[…]e,
+                i q(ua)li […]a | […] ma(n) de}}<lb/> {{Th(oma)sin de b. CXXV b.}}<lb/>78 {{[…]do dadi
+                a soi far[…] b.}}<lb/>79 {{[…]l a ma(n) de diaco}}<lb/>80 {{[…]my del mio soldo    
+                b. XXX}}<lb/>81 {{[…]to b. V qu'il | […] de Vavla b. LXXV b. LXXV}}<lb/>82 {{[…] XII
+                houtov(re)     b. XXV}}<lb/>83 {{[…] desous noumés     b. XXXII}}<lb/>        212}}<lb/>
+                <lb/>84 […] d(e) Th(oma)s p(er) les b. V | […] q(ue)<lb/> home me devoit | […] p(er)
+                mes sodées   b. XVI<lb/>85 […] apaute<lb/> […] de la gent<lb/> {{[…]23.      b. L  k.
+                0}}<lb/>86 {{[…] li sou}}<lb/> {{[…] d(e) Cafra}}<lb/> {{[…]mbre      b. IIII  k. 0}}<lb/>87
+                {{[…]dre.}}<lb/> {{[…] de là}}<lb/> {{[…]ndo b. L;}}<lb/> {{[…] b. CXVI      b. CXVI}}<lb/>
+                {{(il resto è illeggibile)}}<lb/></p>
+                <lb/>
+                <p xml:id="d001l9" n="8" rend="8"><lb/> <lb/>{{Colonna di destra}}<lb/> <lb/>88 {{Antonio Lary de' avere}} p(er) apodixe
+                | de la<lb/> Seg(re)te en l'apaut de la mareschassie en |<lb/> l'an de IIIIcXXII, aff.
+                    b. IIcXVI  <lb/>89 {{S(er) Badin et soi (com)pagni (contra)scrity<lb/> deno aver(e)
+                | p(er) alcuni pegni me dè de <lb/> Marcho, zoè una | zentura (et) I bouste, b.<lb/>
+                XXVII1/2      b. XXVII [k.] XII}}<lb/> 90 {{It. a dì IIII setembre de' avere, i q(ua)li
+                ave<lb/> mo(n) | ceuq}}<lb/>91 {{It. al figlio de Cobes p(er) resto de duc. III b. V
+                [k.] XII}}<lb/>92 {{It. a Yifteri}} mo(n) enfant {{a dì II houtov(re) b. [...] [k.]
+                II}}<lb/>93 {{It. i q(ua)li vole p(er) sua fadiga   b. [...] [k.] XII}} <lb/>94 {{Thodero
+                Couleuri (contra)scrito de' avere, |<lb/> i q(ua)li me dè (con)tadi b. IIII   b. [...]
+                [k.] XII}} <lb/>95 {{Quir Dimitri Boustron de' avere, | i quali dè<lb/> Antonio Lary:
+                     b. IIII<lb/> a XII houtov(re) b. XXV, a XXVI dito b.<lb/> XVI.       b. XLI}}<lb/>96
+                {{It. a m(a)st(ro) Jehan Singritico in puy fiade<lb/> | aff. 189      b. […]}}<lb/>{{(il
+                resto è illeggibile)}}</p>
+                <lb/>
+                <lb/>
+            </div1>
+        </body>
+    </text>
+</TEI>

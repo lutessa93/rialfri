@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="CANTOPELLEGRINAGGIO-cantoPellegrinaggio">
+                    <title type="short">Canto di pellegrinaggio</title>
+                    <title type="alt">Canto di pellegrinaggio di Cremona</title>
+                    <abbr>Canto di pellegrinaggio</abbr>
+                    <note xml:id="note1">intorno al 1355</note>
+                    <bibl>Giovanna Santini, <emph style="font-style:italic">La Franza, la Toscana e la Lombardia</emph>, in <emph style="font-style:italic">Storie di viaggi, viaggi nella storia. Studi in onore di Gaetano Platania</emph>, a cura di Stefano Pifferi e Matteo Sanfilippo, Viterbo, Settecittà, [2017], pp. 69-78 (con modifiche).</bibl>
+                </title>
+                <author xml:id="CANTOPELLEGRINAGGIO" n="030.000">
+                    <name></name>
+                    <abbr></abbr>
+                </author>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata</resp>
+                    <name>Giovanna Santini</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale</resp>
+                    <name>Francesca Gambino</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Reference basis text</resp>
+                    <name>Giovanna Santini, <emph style="font-style:italic">La Franza, la Toscana e la Lombardia</emph>, in <emph style="font-style:italic">Storie di viaggi, viaggi nella storia. Studi in onore di Gaetano Platania</emph>, a cura di Stefano Pifferi e Matteo Sanfilippo, Viterbo, Settecittà, [2017], pp. 69-78 (con modifiche).</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.rialfri.eu">RIALFrI</ref>
+                </publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <notesStmt>
+                <note type="edizione">
+                    Edizione precedente: Angelo Monteverdi, <i>Due canzoncine trecentesche</i>, in «Studi medievali», n.s., VI, 1933, pp. 29-44; poi in Id., <i>Saggi neolatini</i>, Roma, 1945, pp. 183-208.
+                </note>
+                <note type="apparato">Note e apparato &lt;br/&gt;&lt;br/&gt;a cura di Giovanna Santini (ultimo aggiornamento: 2018)&lt;br/&gt;&lt;br/&gt;I 2 alere]
+                    alegre, 6 menray] menaray ; II 10 partir] parti; III 17 alant] aler, venant] venat; IV 19 e pugi] esugi;
+                    23 poys] poyos; V 26 d’eschus] leschus&lt;br/&gt;&lt;br/&gt;
+                </note>
+                <note type="modifiche all'edizione">Modifiche all’edizione di Angelo Monteverdi, &lt;i&gt;Due canzoncine trecentesche&lt;/i&gt;, «Studi medievali»,
+                    n.s., VI (1933), pp. 29-44, e poi in Id., &lt;i&gt;Saggi neolatini&lt;/i&gt;, Roma, Edizioni di Storia
+                    e Letteratura, 1945, pp. 183-208.&lt;br/&gt;&lt;br/&gt;a cura di Giovanna Santini (ultimo aggiornamento: 25 aprile
+                    2018)&lt;br/&gt;&lt;br/&gt; Monteverdi  nuova ed.&lt;br/&gt;   &lt;br/&gt;2 alegre ma  alere m’a&lt;br/&gt;3 Romania.  Romania;&lt;br/&gt;4
+                    E si e si&lt;br/&gt;6 menaray   menray &lt;br/&gt;9 desire; desire,&lt;br/&gt;10 convent   covent&lt;br/&gt;14 recontemant recovremant&lt;br/&gt;15
+                    martire.  martire,&lt;br/&gt;16 E Mon e Mon&lt;br/&gt;17 aler ... vena[n]t, alant ... venant&lt;br/&gt;19 Et li … o sugi
+                    agut, Li … e pugi agut&lt;br/&gt;23 poyos o plus;  poys o plus&lt;br/&gt;24 espendray esparan&lt;br/&gt;26 et an l’eschus
+                     e tan d’eschus;&lt;br/&gt;27 los plan mia.  les plan mia!&lt;br/&gt;28 , on ay zagut,  on ay zagut&lt;br/&gt;29 boysut:
+                      boysut,&lt;br/&gt;30 so non es  se non es&lt;br/&gt;32 bolgant, bolgant:&lt;br/&gt;34 verzus,   verzus&lt;br/&gt;
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>Giovanna Santini, <emph style="font-style:italic">La Franza, la Toscana e la Lombardia</emph>, in <emph style="font-style:italic">Storie di viaggi, viaggi nella storia. Studi in onore di Gaetano Platania</emph>, a cura di Stefano Pifferi e Matteo Sanfilippo, Viterbo, Settecittà, [2017], pp. 69-78 (con modifiche).</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t1"/>
+                <keywords>
+                    <term type="form">poetry</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work">
+                <p xml:id="d001l1" type="title" n="">I</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l2" n="1" rend="">Sy magre son devenus,</l>
+                <l xml:id="d001l3" n="2">tropo alere m'a enfondus,</l>
+                <l xml:id="d001l4" n="3">so n'a fat Romania;</l>
+                <l xml:id="d001l5" n="4">E si in Franza son venus,</l>
+                <l xml:id="d001l6" n="5">z'en serai zoli e drus</l>
+                <l xml:id="d001l7" n="6">e menray gaya via.</l>
+                <lb/>
+                <p xml:id="d001l8" type="title" n="">II</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l9" n="7">Quan de Franza mi sovent,</l>
+                <l xml:id="d001l10" n="8">de gran bien che de li vent,</l>
+                <l xml:id="d001l11" n="9">tot mon cor mi desire,</l>
+                <l xml:id="d001l12" n="10">pos che partir me covent</l>
+                <l xml:id="d001l13" n="11">por aler a ssalvament</l>
+                <l xml:id="d001l14" n="12">ver Yesu notre sire.</l>
+                <lb/>
+                <p xml:id="d001l15" type="title" n="">III</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l16" n="13">La Toscana, che est tan grant,</l>
+                <l xml:id="d001l17" n="14">m'a donet recovremant</l>
+                <l xml:id="d001l18" n="15">de morte e de martire,</l>
+                <l xml:id="d001l19" n="16">E Mon Senis veremant,</l>
+                <l xml:id="d001l20" n="17">lo alant e lo venant</l>
+                <l xml:id="d001l21" n="18">me fat tenir de rire.</l>
+                <lb/>
+                <p xml:id="d001l22" type="title" n="">IV</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l23" n="19">Li gran mons e pugi agut</l>
+                <l xml:id="d001l24" n="20">co li gran cayraz cornus</l>
+                <l xml:id="d001l25" n="21">per plana Lonbardia.</l>
+                <l xml:id="d001l26" n="22">Gros tornos son de refus,</l>
+                <l xml:id="d001l27" n="23">se non son de poys o plus</l>
+                <l xml:id="d001l28" n="24">e no ly esparan mia.</l>
+                <lb/>
+                <p xml:id="d001l29" type="title" n="">V</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l30" n="25">Z'ay florin toz despendus,</l>
+                <l xml:id="d001l31" n="26">gros tornos e tan d'eschus</l>
+                <l xml:id="d001l32" n="27">las! ze ne les plan mia.</l>
+                <l xml:id="d001l33" n="28">Ma lo let on ay zagut</l>
+                <l xml:id="d001l34" n="29">m'a fat lo costat boysut,</l>
+                <l xml:id="d001l35" n="30">se non es conpagnia.</l>
+                <lb/>
+                <p xml:id="d001l36" type="title" n="">VI</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l37" n="31">Lo bon vin froyt e ardant</l>
+                <l xml:id="d001l38" n="32">cho lo bon pastis bolgant:</l>
+                <l xml:id="d001l39" n="33">lay si fa bon alere!</l>
+                <lb/>
+                <lb/>
+                <p xml:id="d001l40" type="title" n="">VII</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l41" n="34">E polzinix son a verzus</l>
+                <l xml:id="d001l42" n="35">chi non son pont de refus:</l>
+                <l xml:id="d001l43" n="36">lay si fa bon dedure!</l>
+                <lb/>
+                <lb/>
+                <lb/>
+                <lb/>
+                <lb/>
+            </div1>
+        </body>
+    </text>
+</TEI>

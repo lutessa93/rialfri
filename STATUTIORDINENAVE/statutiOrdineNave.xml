@@ -1,0 +1,2592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="STATUTIORDINENAVE-statutiOrdineNave">
+                    <title type="short">Statuti dell'Ordine della Nave di Napoli</title>
+                    <title type="alt">Statuti dell'Ordine della Nave</title>
+                    <abbr>Statuti dell'Ordine della Nave di Napoli</abbr>
+                    <note xml:id="note1">1381, Napoli</note>
+                    <bibl>D'Arcy J. Boulton, <emph style="font-style:italic">The Middle French Statutes of the Monarchical Order of the Ship (Naples, 1381). A Critical Edition with Introduction and Notes</emph>, in «Medieval Studies», 47:1, 1985, pp. 168-271.</bibl>
+                </title>
+                <author xml:id="STATUTIORDINENAVE" n="189.000">
+                    <name></name>
+                    <abbr></abbr>
+                </author>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale</resp>
+                    <name>Luigi Tessarolo</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Messa in linea</resp>
+                    <name>Francesca Gambino</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Reference basis text</resp>
+                    <name>D'Arcy J. Boulton, <emph style="font-style:italic">The Middle French Statutes of the Monarchical Order of the Ship (Naples, 1381). A Critical Edition with Introduction and Notes</emph>, in «Medieval Studies», 47:1, 1985, pp. 168-271.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.rialfri.eu">RIALFrI</ref>
+                </publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <notesStmt>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>D'Arcy J. Boulton, <emph style="font-style:italic">The Middle French Statutes of the Monarchical Order of the Ship (Naples, 1381). A Critical Edition with Introduction and Notes</emph>, in «Medieval Studies», 47:1, 1985, pp. 168-271.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t5"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work">
+                <div2 xml:id="d001c000">
+                    <head>
+                        <title>Prologes</title>
+                        <abbr>Prol.</abbr>
+                    </head>
+                    <lb/>
+                    <p xml:id="d001l1" n="1">Cy commence le prologue de l'ordre de la Nef.<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l2" n="2">(f. 1r) Le Pere et le Fils et le Saint Esperit, un Dieu en trois personnes, adorons
+                    et tenons fermement sans doubtance, mes simplement ainssi le creons.</p>
+                    <p xml:id="d001l3" n="3">&lt;a&gt; La seconde personne envoia en terre en une verge et Virge, char humaine prenre
+                    pour les pecheours rachater de paines perdurables, et de ceste verge et Virge nasqui
+                    la flour sur la quelle repose et maint le Saint Esperit, et qui sur toutes flours a
+                    odour, vertu et poissance, de la quelle viengnent et naissent toutes autres flours de
+                    bonté et de bien, et sans qui nulle ne puet naistre ne venir a perfection. Fist jadis
+                    et edefia en France un jardin ou quel planta et fist naistre flours tres nobles sur
+                    toutes autres terriennes, souef flairant, et de tres douce odour et de tres grant biauté,
+                    et aus quelles nulle ne s'apparelle qui par nonbres sont trois et non plus plantees.
+                    Premierement, non par main de home humain, mes par celui qui de nient crea et fist tout
+                    le monde, et qui la verge, seste de Aaron, fist flourir et porter fruit oultre le cours
+                    de nature; et qui le monde en trois estas establi, ordena et fist, c'est asavoir en
+                    clergie, chevalerie et menu peuple laboureu[r]s; donna et voult donner a ces trois flours
+                    vertu, poissance et odour, par quoi ces trois estas du monde peussent estre et fussent
+                    desoremés sostenu et raempli de lour odour, vertu et poissance, et par mistere les ordena
+                    trois et planta, en senefiant la Benoite et Sainte Trinité, deulz dessus et une desoubz.
+                    Les deuls dessus senefiant le[s] deuls plus haus estas du monde: la premiere, a destre,
+                    senefie la clergie; la seconde, a senestre, senefie chevalerie; et la tierce, desous,
+                    senefie le menu peuple, laboureurs de divers labours. Des quelles flours la premiere
+                    a en soy odour d'entendement et de sapience, la seconde a en soy odour de hardement
+                    et de poissance, la tierce a en soy odour de humilité et d'obedience. Des quelles sont
+                    yssues et nees maintes flours tres belles et tres souef flairant, qui par leur vertu,
+                    poissance et odour ont toute nostre foy catholique et tout le monde assasié, raempli
+                    et comforté, et par leur tres douce et bonne odour toutes puours et odours mauveses
+                    ont chaciés et boutees hours du monde, come il apert es ystoires enciennes de Charlemaine
+                    et autres maint, qui de cestui jardin et de ces flours sont né et yssu, par les quelles
+                    a esté Crestienté et nostre foy gardee, soustenue et sauvee, le clergie gardé, deffendu
+                    et maintenu, chevalerie sourmontee et essaucee, et le menu peuple en bonnes pais gardé
+                    et de tous maulx deffendu. Et maintes fois leurs corps, biens et avoir ont mis et bonnes
+                    pais gardé et de tous maulx deffendu. Et maintes fois leurs corps, biens et avoir ont
+                    mis et exposé en tres grans perilz, et combatu contre mescreans et Sarrazins, et les
+                    vaincu par leur vertu et poissance, ainssi come Dieu leur a volu donner grace, pour
+                    ces trois estas sauver et garder, et par especial la sainte foy catholique, pour l'eglise
+                    et son estat maintenir et acroistre, (f. 1v) et pour l'onneur de chevalerie essaucier.
+                    Et tanto nt esté les perils plus grans, plus tost et plus volentiers se sont exposé
+                    et mis en peril pour les choses desus dictes, sanz la mort en rien doubter, car plusours
+                    de leur en ce faisant ont receu mort honnorable et bonne, ainssi come a tous est notoire.
+                    Mes au jour d'ui sont les perilz plus grant et plus apperissant qu'il ne furent jamés,
+                    et la mer plus troublee par vens contraires et [horribles, par tempestes] espouentables,
+                    et par autres tres grans perilz, ainssi est faite come [non navigable]. La foy catholique
+                    est en peril tres grant, l'eglise est desceue, [chevalerie anul]lee et le menu peuple
+                    destruit.</p>
+                    <p xml:id="d001l4" n="4">&lt;b&gt; Pour quoy celui qui premier le [jardin dessus dit] et les flours planta une
+                    flour: fist naistre et yssir de tel vertu, [puissance et odour come dessus] est dit
+                    pour garder et deffendre nostre foy et les trois estaz [dessus dit. Laquelle fl]our
+                    nouvelle – c'est asavoir tres excellent prince et seigneur monseigneur [Charles] de
+                    Duras, par la grace de Deu Roy de Jerusalem et de Scicile, qui de ce jardin et flours
+                    est yssu et descendu par droite ligne – considerant les biensfaiz, prouece, vertu et
+                    foy de ces antecessours, qui de ce jardin et flours on testé estrait, non obstant les
+                    perilz tres grans du jour d'uy, et la mer ainssi troublee, se veult et a voulu exposer
+                    aux perilz et fortunes de la mer, pour nostre foy soustenir, le clergie garder et deffendre,
+                    chevalerie acroistre et essaucer, et le menu peuple tenir en paiz, a mis sa neif en
+                    la dite mer, et exposé a tous perilz, sans voile, sans treif et sans banieres, sans
+                    ancres, sans tymons et sans cordes. Car aussi come telle neif la mer troblee est en
+                    peril, estant en la mer ainssi le dit prince, ces trois estas dessus dit, et par especial
+                    pour nostre foy maintenir, se veult et a volu du tout, sans la mort redoubter, metre,
+                    exposer et abandonner a tous perilz, et sa neif metre en la mer troublee. Et come celui
+                    prince et seigneur catholique, qui ces anteccessours veult de tout son pouoir ensuir,
+                    a volenté et propos, a l'aide de Nostre Seigneur Jesu Crist, de nostre foy contre tous
+                    a son pouoir maintenir, garder et deffendre, et les trois estaz dessus dit aussi, et
+                    de passer oultre mer pour la mort de Nostre Seigneur Jesu Crist vengier, et oster la
+                    Terre Sainte des mains aux mescreans, et la metre en la main des Crestiens, afin que
+                    Diex y soit adhoré et loé come il doit estre, et nostre foy essaucer a l'aide de Dieu
+                    et de la Verge Marie et de tous les sains de paradis.</p>
+                    <p xml:id="d001l5" n="5">&lt;c&gt; Et pour ce que par un seul home sans aide d'autres nullement ne se pourroit
+                    ce faire, le dit prince, meu de devocion, de vertu et de foy, et de tres grant bien,
+                    a fait et ordené une ordre de chevalerie en l'onneur de la Benoite et Sainte Trinité,
+                    Pere et Filz et Saint Esperit, en l'an de l'incarnation de Nostre Seigneur Jesu Crist
+                    mil trois cens quatre vins et un, et de l'aage du dit seigneur l'an vint et quatreme
+                    non compli, afin que la Benoite Trinité luy donne force et pouoir de bien et loialment
+                    garder l'ordre telle come elle est devisee et ordenees par les chapistres si dessous
+                    escript, et fait sur ce, pour les bons chevaliers aloser, et pour leur non acroistre,
+                    et pour chevalerie essaucer, et pour ce que des bons soit memoire perpetuel, et pour
+                    que ceuls qui aprés venrront pregnent essamples aus bontés et proheces des trespassés,
+                    et pour donner cuer et hardement a tous de bien faire, et pour les bons et preuz amer,
+                    honorer, et tenir chier, et pour (f. 2r) les mauvés t couars haïr et desprisier, come
+                    il est de raison, et come l'ordre veult et commande, come par les chapistres de celle
+                    appert clerement.</p>
+                    <p xml:id="d001l6" n="6">&lt;d&gt; Et pour ce que tous ceulz qui l'ordre prendront soient des autres conneu,
+                    et que par vraie charité et amour soient uny comme frere et compaignon doivent estre,
+                    pourteront por ensengne et devise tous les jours de leur vie depuis qu'il auront l'ordre
+                    prise et receue, une neif dedens la mer, sanz voille, sans treif et sans tymons, sans
+                    banieres, sans ancres et sans cordes, jusques a tant que par fait d'armes garnissent
+                    la dite neif et devise des choses dessus dites, ainssi et par tel maniere come veult
+                    et commande l'ordre et les chapistres d'ycelle. Et ceste enseigne [et devise a esleu
+                    et prise] le dit prince pour la plus noble qui peust estre et qui mielz a l'ordre soit
+                    convenable et mielz seiant, car par cestui vaissel et enseigne fu jadis ou temps du
+                    deluge l'umain lignage sauvé et gardé, par cestui est la mer contre le commun cours
+                    de nature aux homes faite navigable et habitable, et par cestui ont maint bon chevalier
+                    et preudomme diverses terres et pais cerchié et conquis et aqquis honnour, loenges,
+                    vertus et prouueces demonstrees, qui sans cestui vaissel nullement ne l'eussent peu
+                    faire, [comme appert] par le Greyois, Rommains et autres assés. Cestui est le vaissel
+                    de mer qui plus comprent que nul autre. Cestui entre les autres est plus fort et plus
+                    deffensable contre les fortunes de mer. Cestui est le virginal vaissel en qui les trois
+                    flours reposerent, c'est la Sainte Trinité par qui de ebulacion somes amenees a port
+                    de salut. Cestui est le vaissel du grant pecheour qui maintes fois et par especial maintenant
+                    par fortunes et tempestes de mer est en peril de perir, mes toutes fois perir ne puet,
+                    car a l'aide de la Sainte Trinité et de la Virge Marie et de tous les sains de Paradis,
+                    le dit prince et ces compaignons garderont et deffendront le dit vaissel, c'est nostre
+                    foy, de tous contraires, et l'essauceront de tout leur poueir, a l'onnour de la Benoite
+                    Trinité, de la Virge Marie et de toute la court celestial de nostre foy catholique,
+                    et des trois estas dessus dit, et par especial en acroissement de honnour de chevalerie,
+                    ainssi comme veulent et commandent les chapistres de l'ordre qui s'ensuient, par tel
+                    maniere et forme comme cy dessoubz sont escript.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c001">
+                    <head>
+                        <title>1.</title>
+                        <abbr>1</abbr>
+                    </head>
+                    <p xml:id="d001l7" n="1">Cy commencent les chapitres de l'ordre, et [premierement] de recevoir nouviax compaignons
+                    en l'ordre, quant et comment. Premierement, en quelles festes et conbien ilz dureront.</p>
+                    <lb/>
+                    <p xml:id="d001l8" n="2">&lt;a&gt; Premiere[me]nt que en quatre festes de l'an, c'est assavoir la feste de la
+                    Trinité, la feste de Tous Sains, la feste de Noël et la feste de Pasquez, en ces quatres
+                    festes se puissent et doivent recevoir nouvialx compaingnons, et non autrement, ne en
+                    autre temps ne feste,</p>
+                    <p xml:id="d001l9" n="3">&lt;b&gt; se n'estoit aucun haut prince ou seigneur, a qui le prince, au conseill et
+                    voulentè des compaignons qui lors seroient presens avec le prince, ou de la plus grant
+                    partie de lour, la dite ordre et devise (f. 2v) poura mander et envoier toutes fois
+                    qui leur plaira et semblera bon.</p>
+                    <p xml:id="d001l10" n="4">&lt;c&gt; Et chascune des quatre festes dessus dites durera trois jours devant le jour
+                    de la feste, qui durera huis jours devant et huis jours aprés.</p>
+                    <p xml:id="d001l11" n="5">&lt;d&gt; Et en chascune de ces quatre festes dessus dites pourra le prince, au conseil
+                    et volenté des compaignons presens a celle foiz, c'est assavoir des deus parties des
+                    compaignons au moins, mander et envoier [l'ordre] a tous absens tels come les chapistres
+                    sur ce fait veullent et commandent qu'il soient.</p>
+                    <p xml:id="d001l12" n="6">&lt;e&gt; Chascun veullent entrer en l'ordre doient supplier au prince qu'il lui plaise
+                    a le recevoir.</p>
+                    <p xml:id="d001l13" n="7">&lt;f&gt; Et en l'une de ces quatre festes dessus dites le poura le prince nommeraux
+                    compaignons et dire la requeste de cellui, et nul autre le prince ne pourra ce faire.</p>
+                    <p xml:id="d001l14" n="8">&lt;g&gt; Et sera sur ce lez compaignons asambler et lors s'enformeront de celluy veullant
+                    entrer en l'ordre, s'il est tiex comme veult l'ordre, et s'il a les condicions telles
+                    come il s'ensuient.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c002">
+                    <head>
+                        <title>2.</title>
+                        <abbr>2</abbr>
+                    </head>
+                    <p xml:id="d001l15" n="1">Quel et quelles condicions doit avoir qui en l'ordre peut estre receu.</p>
+                    <lb/>
+                    <p xml:id="d001l16" n="2">&lt;a&gt; Premierement, tout voulant entrer en l'ordre sera chevalier de bonne renonmee.</p>
+                    <p xml:id="d001l17" n="3">&lt;b&gt; Il sera bon et vray catholique.</p>
+                    <p xml:id="d001l18" n="4">&lt;c&gt; Il sera sain de ces menbres en tel maniere qu'il se puisse travaillier en
+                    fait d'armes honorablement.</p>
+                    <p xml:id="d001l19" n="5">&lt;d&gt; Il sera chevalier lay, non religieux.</p>
+                    <p xml:id="d001l20" n="6">&lt;e&gt; Il sera vaillant home et preuz de la personne, ou home de qui on ait esperance
+                    le temps a venir qu'il soit vaillant et preuz, ou tel par quoi l'ordre et compaignie
+                    puisse estre essaucié, ethonnour avoir, et estat.</p>
+                    <p xml:id="d001l21" n="7">&lt;f&gt; Il sera sages et prudent.</p>
+                    <p xml:id="d001l22" n="8">&lt;g&gt; Il sera gentil homme, et de noble lignage.</p>
+                    <p xml:id="d001l23" n="9">&lt;h&gt; Il sera coneu par aucun des compaignons, qui luy portera tesmoing de son
+                    estre et estat.</p>
+                    <p xml:id="d001l24" n="10">&lt;j&gt; Il ne sera ne juges, ne advocas, ne medecin.</p>
+                    <p xml:id="d001l25" n="11">&lt;k&gt; Il ne sera mercheant ne usurier.</p>
+                    <p xml:id="d001l26" n="12">&lt;l&gt; Il ne sera heretique ne scismatique.</p>
+                    <p xml:id="d001l27" n="13">&lt;m&gt; Il [ne] sera obligiéz a [nul] autre ordre contraire a ceste.</p>
+                    <p xml:id="d001l28" n="14">&lt;n&gt; Il ne sera infamé ne parjuré.</p>
+                    <p xml:id="d001l29" n="15">&lt;o&gt; Il ne sera larron ne traitres.</p>
+                    <p xml:id="d001l30" n="16">&lt;p&gt; Il ne sera provisionaire de nulluy du monde qui soit ennemi ou contraire
+                    du prince ne de nul des compaignons de l'ordre ou de la compaignie quant il prenra
+                    nouvellement la devise et ordre.</p>
+                    <p xml:id="d001l31" n="17">&lt;q&gt; Il ne sera briquex ne d'autre male conversacion.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003">
+                    <head>
+                        <title>3.</title>
+                        <abbr>3</abbr>
+                    </head>
+                    <p xml:id="d001l32" n="1">Comme le prince doit en chascun nouviau compaignon recevoir demander a tous les compaignons
+                    leur volenté.</p>
+                    <lb/>
+                    <p xml:id="d001l33" n="2">&lt;a&gt; Et lors le prince et compaignons enformés et certefiéz de cellui voulant
+                    prendre l'ordre, et de condicions et qu'il auront trouvé, tel comme l'ordre veult et
+                    commande, demandera le prince a tous les compaignons, et a chascun a par soy, sa voulenté
+                    et deliberation sur cellui recevoir.</p>
+                    <p xml:id="d001l34" n="3">&lt;b&gt; Et se tous, ou au mains les deus pars des compagnons, si acordent a le recevoir,
+                    il sera receu, et non autrement, par la maniere [et] forme qui s'ensuient. (f. 3r)</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c004">
+                    <head>
+                        <title>4.</title>
+                        <abbr>4</abbr>
+                    </head>
+                    <p xml:id="d001l35" n="1">Comme tous entrant en l'ordre pardonra tous mau[x ta]lens et haines a tous les compagnons
+                    s'il peut faire bonnement.</p>
+                    <lb/>
+                    <p xml:id="d001l36" n="2">&lt;a&gt; Premierement, au dit voulant recevoir l'ordre par l'acort et volenté du prince
+                    et des compaignons comme dit est, tous les nomz des compaignons de l'ordre luy seront
+                    nommé et dit.</p>
+                    <p xml:id="d001l37" n="3">&lt;b&gt; Et se il avoit guerre, haine ou male voulenté encontre aucun des compaignons,
+                    ou question et descort, quel qui fust, il luy pardonnera, et remetra toute guerre,
+                    haine et male volenté, et fera paiz avec lui de toutes question et descort, se bonnement
+                    le puet faire, sauf son honnour et sans grant domage.</p>
+                    <p xml:id="d001l38" n="4">&lt;c&gt; Et se il ne peut faire paiz avec lui sanz grant domage et sauf son honnour,
+                    il metra toutes guerres, hainez, malez voulentéz, questions et descors qu'il eussent
+                    entre eux en l'ordenance du prince du tout en tout, et jurera de tenir fermement tout
+                    ce que le dit prince ordenera.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c005">
+                    <head>
+                        <title>5.</title>
+                        <abbr>5</abbr>
+                    </head>
+                    <p xml:id="d001l39" n="1">Come tous les chapistres de l'ordre lui seront leu.</p>
+                    <lb/>
+                    <p xml:id="d001l40" n="2">&lt;a&gt; Item, luy seront leus tous les chapistres et estatus de l'ordre,</p>
+                    <p xml:id="d001l41" n="3">&lt;b&gt; tous ceulx qui sont de serement, et que tous doivent jurer, il jurera de
+                    tenir et observer par son serement.</p>
+                    <p xml:id="d001l42" n="4">&lt;c&gt; Lez autres prometra, ainssi come dient et commandent les chapistres de la
+                    dite ordre, sur les poines sur ce faites et establies.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c006">
+                    <head>
+                        <title>6.</title>
+                        <abbr>6</abbr>
+                    </head>
+                    <p xml:id="d001l43" n="1">Comme tous seremens a entrer en l'ordre chascun dira telx come il les aura devant fait.<lb/>Chascun
+                    voulant entrer en l'ordre dira et declarera touz les seremens, fois et obligations
+                    qu'il ait a autre, et a qui il aura foi, serement ou obligation, et par quelle maniere
+                    et commant, sanz rien celler.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c007">
+                    <head>
+                        <title>7.</title>
+                        <abbr>7</abbr>
+                    </head>
+                    <p xml:id="d001l44" n="1">Come chascun entrant en l'ordre le corps Nostre Seigneur.</p>
+                    <lb/>
+                    <p xml:id="d001l45" n="2">&lt;a&gt; Anchois que le voulant prenre en l'ordre soit receu et que lui soit donee
+                    la devise, jeunera un jour devant qu'il soit receu.</p>
+                    <p xml:id="d001l46" n="3">&lt;b&gt; Se jour se confessera de ces pechiéz.</p>
+                    <p xml:id="d001l47" n="4">&lt;c&gt; Et lors qu'il aura jeuné ainssi, et soi[t] confessé comme dit est cy dessus,
+                    venra l'une des quatre festes dessus nommees a la grant messe, ou sera la personne
+                    du prince.</p>
+                    <p xml:id="d001l48" n="5">&lt;d&gt; Et sera jeun et confés comme est dit, et oïra la dite messe a genoulx devant
+                    le grant autel,</p>
+                    <p xml:id="d001l49" n="6">&lt;e&gt; et prenra et recevra le corps de Nostre Seigneur Jesu Crist devotement, confés
+                    et contrit de ces pechiéz, afin que celui Seigneur qui reçoit luy vuelle donner grace
+                    et puissance de faire chose au temps a venir, par quoy lui et la compaignie aient et
+                    puissant honneur, avoir et essaucement. (f. 3v)</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c008">
+                    <head>
+                        <title>8.</title>
+                        <abbr>8</abbr>
+                    </head>
+                    <p xml:id="d001l50" n="1">Comme le prince et touz ces compaignons s'agenoilleront et les clers qui la messe auront
+                    chantee avec cellui compaignon, et comme la devise luy sera donnee.</p>
+                    <lb/>
+                    <p xml:id="d001l51" n="2">&lt;a&gt; La messe finee et oïe, et le corps Nostre Seigneur Jesu Crist receu par cellui
+                    chevalier comme dit est, le prince et touz les compaignons a ce presens, confés et
+                    contrit de leur pechiéz, avec le nouviau compagnon s'agenolleront vers le grant autel,
+                    en priant Dieu devotement pour celluy nouviau compagnon que Dieu le veuille recevoir
+                    en grace et lui donner force et pouoir de tenir l'ordre, et essaucier a son honnour
+                    et de la compaignie.</p>
+                    <p xml:id="d001l52" n="3">&lt;b&gt; Et les chappellains et clers qui la messe auront chantee aussi s'agenoulleront
+                    avec le prince et compaignons come dit est, et chanteront devotement cestui psalme.
+                    Exaudivit te dominus, etc., avec une antienne et oroison de la Sainte Trinité.</p>
+                    <p xml:id="d001l53" n="4">&lt;c&gt; Dite la messe et chantee la dite psalme, oroison et antienne come dit est,
+                    le prince, les compaignons, et les chappellains et clers se leveront, et le nouviau
+                    compaignon demoura a genoulz, et lors lui seront touz les chapistres de l'ordre leus
+                    entierement,</p>
+                    <p xml:id="d001l54" n="5">&lt;d&gt; et donc jurera sur les saintes evvangillez de tenir l'ordre et tous les chapistres
+                    ainssi et par telle maniere comme il sont fait et ordené. Ceulz de serement jurera,
+                    [ceulx] de promission prometra, et ceulx de ordenance tenra sanz autre promission.</p>
+                    <p xml:id="d001l55" n="6">&lt;e&gt; Et se par aventure failloit sanz amonnestement d'autrui, les poines sur ce
+                    establies portera et acomplira, selont ce que commandent les chapistres de la dite
+                    ordre.</p>
+                    <p xml:id="d001l56" n="7">&lt;f&gt; Et les chapistrez juréz et promis par cellui chevalier, et les autres sollempnités
+                    faites come dit est, le prince le recevra par la main, et luy baillera et donra la
+                    devise de l'ordre.</p>
+                    <p xml:id="d001l57" n="8">&lt;g&gt; Et le baisera en la bouche, et touz les autres compaignons aussi, en signe
+                    d'amour et de fraternité.</p>
+                    <p xml:id="d001l58" n="9">&lt;h&gt; Et lors sera escript ou livre des estatus et chapistrez de l'ordre, c'est
+                    ass[av]oir en cestui livre, avec les autres compaignons en son ordre.</p>
+                    <p xml:id="d001l59" n="10">&lt;j&gt; Et si tost comme il aura prise l'ordre et devise, soit tenu de prenre et
+                    prenra la copie de tous les chapistres et ordenances et estatus de la dite ordre, de
+                    mot a mot entierement, ainssi comme il sont escript en cest livre.</p>
+                    <p xml:id="d001l60" n="11">&lt;k&gt; Et ce jureront touz nouvialx entrans en l'ordre.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c009">
+                    <head>
+                        <title>9.</title>
+                        <abbr>9</abbr>
+                    </head>
+                    <p xml:id="d001l61" n="1">Des absens recevoir. Et premierement comme le prince a tous roys et autres haus seignours
+                    peut mander l'ordre.<lb/>Toutes foiz que le prince voura, sanz [autruy] apeller, poura
+                    envoier et mander l'ordre et devise a quelconque roy, duc, prince, ou autre haut seigneur.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c010">
+                    <head>
+                        <title>10.</title>
+                        <abbr>10</abbr>
+                    </head>
+                    <p xml:id="d001l62" n="1">Comment autres chevaliers absens se pouent recevoir.<lb/>En ces quatre festes dessus
+                    dites pouront le prince et les compagnons, c'est assa(f. 4r)voir par la volenté des
+                    deus pars des compaignons presens a celle fois, mander et envoier [l'ordre et devise]
+                    a touz chevaliers qu'il voudront, mais toutes fois qu'il soient tel comme est dit devant.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c011">
+                    <head>
+                        <title>11.</title>
+                        <abbr>11</abbr>
+                    </head>
+                    <p xml:id="d001l63" n="1">Comme par la licence du dit prince par autre que par le prince pouront estre receu
+                    en l'ordre nouviaux compaignons.</p>
+                    <lb/>
+                    <p xml:id="d001l64" n="2">&lt;a&gt; Le prince par l'acort des deus pars des compaignons poura donner licence
+                    et poissance a toute roy, prince, duc ou autre haut seigneur a qui l'ordre et devise
+                    il aura mandee et envolé de donner l'ordre et devise a autres chevaliers, et a tant
+                    de chevaliers comme le dit prince de l'ordre lui octroiera par ces lettres quant il
+                    lui envoiera l'ordre.</p>
+                    <p xml:id="d001l65" n="3">&lt;b&gt; Et aura puissance cellui seigneur a qui sera l'ordre envoié de recevoir les
+                    seremens fais de lour ou nom du prince et de la compaignie, et de leur donner la devise
+                    de l'ordre e par tel maniere les recevra et donnra l'ordre, come il aura receue lui
+                    meesmes.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c012">
+                    <head>
+                        <title>12.</title>
+                        <abbr>12</abbr>
+                    </head>
+                    <p xml:id="d001l66" n="1">Par quel personne mandera aus absens l'ordre.</p>
+                    <lb/>
+                    <p xml:id="d001l67" n="2">&lt;a&gt; Quantes et toutes foiz que le prince mandera et envoiera l'ordre et devise
+                    a aucun come dit est, il envoiera par aucun honeste home, connus a ce par le prince,
+                    portant les lettres du dit prince contenans le pouoir que le prince aura donné au porteur
+                    des ditez lettres.</p>
+                    <p xml:id="d001l68" n="3">&lt;b&gt; Et se le prince donne licence et pouoir a cellui a qui sera mandee l'ordre
+                    de recevoir et donner la dite ordre et devise, es dites lettres sera contenu le nombre
+                    a quielx il poura donner.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c013">
+                    <head>
+                        <title>13.</title>
+                        <abbr>13</abbr>
+                    </head>
+                    <p xml:id="d001l69" n="1">Comme et quant l'ordre se mandera, touz les chapistres se manderont aussi.<lb/>A cellui
+                    ou a ceulz a qui ou au quielz se mandera et envoiera l'ordre et devise come dessus
+                    est dit, tous les chapistrez de l'ordre, c'est assavoir tous celx qui sont contenu
+                    en cest livre, seront mandé et envoié.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c014">
+                    <head>
+                        <title>14.</title>
+                        <abbr>14</abbr>
+                    </head>
+                    <p xml:id="d001l70" n="1">Comme a tous receus en l'ordre par autre que par le prince, tous les chapistrez lui
+                    seront donné et baillié.<lb/>Ce sellui a qui l'ordre sera ainssi mandee comme est dit
+                    avoit poissance du prince d'autres recevoir en l'ordre, a tous ceulx qui recevra en
+                    l'ordre et compaignie baillera tous les chapistrez de l'ordre entierement, comme dessus
+                    est dit.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c015">
+                    <head>
+                        <title>15.</title>
+                        <abbr>15</abbr>
+                    </head>
+                    <p xml:id="d001l71" n="1">Comme ceulz a qui l'ordre sera mandee jureront.</p>
+                    <lb/>
+                    <p xml:id="d001l72" n="2">&lt;a&gt; Celui a qui l'ordre sera mandee jurera en la presence de cellui qui l'ordre
+                    et devise luy aura de par le prince portee.</p>
+                    <p xml:id="d001l73" n="3">&lt;b&gt; Et il recevra le serement de cellui au nom du prince et de la compaignie.</p>
+                    <p xml:id="d001l74" n="4">&lt;c&gt; Et ceulz qu'il recevra, se (f. 4v) il en a poissance, lui jureront aussi
+                    ou nom du prince et de la compaignie dessus dite.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c016">
+                    <head>
+                        <title>16.</title>
+                        <abbr>16</abbr>
+                    </head>
+                    <p xml:id="d001l75" n="1">Comme et par quel maniere seront les absens receus.<lb/>Ceux a qui l'ordre sera mandee
+                    seront receu par telle maniere et forme come se le prince les receust en propre personne,
+                    excepté des festes, car tous les jours que l'ordre lui sera mandee pourra recevoir
+                    l'ordre, et donner a tous ceulx que le prince lui aura mandé et donné licence par ces
+                    lettres.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c017">
+                    <head>
+                        <title>17.</title>
+                        <abbr>17</abbr>
+                    </head>
+                    <p xml:id="d001l76" n="1">Comme tous absens receus en l'ordre, de leur recepte et serement feront lettre seellee
+                    de leur seaux.</p>
+                    <lb/>
+                    <p xml:id="d001l77" n="2">&lt;a&gt; De tous absens receus par licence du prince comme dit est, toutes foiz qu'il
+                    seront receu et prenront l'ordre et feront les seremens acoustumés, cellui a qui il
+                    feront le serement, et qui leur donrra l'ordre et devise ou nom et de par le prince,
+                    de la dite recepte et serement qu'il auront [prenra letre sellee] de leur seaus, la
+                    quelle il sera tenu de porter ou mander au dit prince le plus tost qu'il pourra.</p>
+                    <p xml:id="d001l78" n="3">&lt;b&gt; Et lors sera escript ou livre avec les autres compaignons.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c018">
+                    <head>
+                        <title>18.</title>
+                        <abbr>18</abbr>
+                    </head>
+                    <p xml:id="d001l79" n="1">Les chapistres espiritueulz.<lb/>Premierement, le dit prince, cognoissant que selonc
+                    le psalmiste le commancement de sapience est de doubter son creator, le prince et tous
+                    les compaignons de l'ordre doubteront et ameront leur creator de tout leur cuer et
+                    courage.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c019">
+                    <head>
+                        <title>19.</title>
+                        <abbr>19</abbr>
+                    </head>
+                    <p xml:id="d001l80" n="1">Comme nulz ne blafemera le nom de Dieu.</p>
+                    <lb/>
+                    <p xml:id="d001l81" n="2">&lt;a&gt; Pour chose du monde quelle que soit, le prince et chascun des compaignons
+                    jamés ne blasfemera le nom de Dieu, ne de la Virge Marie, ne de saint ne sainte de
+                    Paradis.</p>
+                    <p xml:id="d001l82" n="2">&lt;a&gt; Et ce par aventure aucun le fesoit autrement, le plus tost qu'il pourra se
+                    confessera, et avecque la penitence qui lui sera donnee, jeunera un jor tel comme il
+                    vourra.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c020">
+                    <head>
+                        <title>20.</title>
+                        <abbr>20</abbr>
+                    </head>
+                    <p xml:id="d001l83" n="1">Comme chascun est tenu de jeuner tous les vendrediz.<lb/>En l'onnour et remambrance
+                    de la mort et passion que souffri pour nous Nostre Seigneur Jesu Crist en l'arbre de
+                    la crois le jour de vendredi, le prince et chascun des compaignons jeuneront touz les
+                    venredis de l'an se maladie ou autre juste cause ne l'en excusoit.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c021">
+                    <head>
+                        <title>21.</title>
+                        <abbr>21</abbr>
+                    </head>
+                    <p xml:id="d001l84" n="1">Comme chascun est tenu de dire tous les venredis le petit office de la crois ou Pater
+                    nostre qui ne saura lire.</p>
+                    <lb/>
+                    <p xml:id="d001l85" n="2">&lt;a&gt; En l'onnour de la dite passion et mort de Nostre Seigneur Jesu Crist, le
+                    prince et chascun des compaignons touz les venredis de l'an diront le petit office
+                    de la crois, qui commance: Patris sapientia, c'est assavoir ceulz qui sauront lire.</p>
+                    <p xml:id="d001l86" n="3">&lt;b&gt; Et les autres qui ne sauront lire diront touz les venredis dessus dis vint
+                    cinc Pater noster et vint cinc Ave Maria. (f. 5r)</p>
+                    <p xml:id="d001l87" n="4">&lt;c&gt; Et quiconques faillera, pour chascun jour qu'il aura failli de dire de dessus
+                    dit jeunera le premier lundi ensuiant, se maladie ou autre juste cause ne lez excusoit.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c022">
+                    <head>
+                        <title>22.</title>
+                        <abbr>22</abbr>
+                    </head>
+                    <p xml:id="d001l88" n="1">Comme chascun se vestira de noir tous les vendredis de l'an.<lb/>En la remanbrance
+                    de la dite mort et passion de Nostre Seigneur Jesu Crist, le prince et tous les compaignons
+                    ce vestiront de noir touz les venredis de l'an, se maladie ou prison ou jour de battaille
+                    qu'il convenist porter armes, ou autre juste cause ne les excusoit.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c023">
+                    <head>
+                        <title>23.</title>
+                        <abbr>23</abbr>
+                    </head>
+                    <p xml:id="d001l89" n="1">Comme tous les jours de l'sn chascun est tenu de oïr messe.</p>
+                    <lb/>
+                    <p xml:id="d001l90" n="2">&lt;a&gt; En l'onnour de la Sainte Trinité, Pere et Filz et Saint Esperit, et de la
+                    benoite Virge Marie, et de touz sains et saintes de Paradis, [le prince] et chascun
+                    des compaignons orront tous les jours de l'an messe.</p>
+                    <p xml:id="d001l91" n="3">&lt;b&gt; Et ce aucun par aventure defalloit d'oïr messe comme dit est, le jour qu'il
+                    n'aura oïe messe, s'il estoit jour de menger char, ne mengera char, et s'il estoit
+                    jour qu'il ne mengiast char, il ne mengera chose aut[r]e excepté pain seulement, se
+                    maladie ou autre cause juste ne l'escusoit.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c024">
+                    <head>
+                        <title>24.</title>
+                        <abbr>24</abbr>
+                    </head>
+                    <p xml:id="d001l92" n="1">Comme touz les jours chascun dira l'office de Nostre Dame.</p>
+                    <lb/>
+                    <p xml:id="d001l93" n="2">&lt;a&gt; En l'onnour et remenbrance de la benoite Virge Marie, pour qu'elle vuille
+                    estre advocat du prince et de touz les compaignons envers la Sainte Trinité, le dit
+                    prince et chascun des compaignons qui sauront lire diront tous les jours de l'an l'office
+                    de la gloriose Virge Marie ou les sept psalmes penitenciaux, lequel qu'il voudront
+                    et ameront miex.</p>
+                    <p xml:id="d001l94" n="3">&lt;b&gt; Et qui ne saura lire dira tous les jours cent Pater noster et cent Ave Maria.</p>
+                    <p xml:id="d001l95" n="4">&lt;c&gt; Et se aucun par aventure defailloit de ce faire, pour chascun jour qu'il
+                    deffaudroit donrra et sera tenu de donner pour Dieu en l'onnour de la Virge Marie la
+                    quinte part de un florin d'or, pour l'ame de trespassés et pour le salut des vis de
+                    la compaignie.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c025">
+                    <head>
+                        <title>25.</title>
+                        <abbr>25</abbr>
+                    </head>
+                    <p xml:id="d001l96" n="1">Des exeques du prince et des compaignons. Et premierement comme le prince peut eslire
+                    son successour en l'ordre.</p>
+                    <lb/>
+                    <p xml:id="d001l97" n="2">&lt;a&gt; Le prince, estant en sain et bon propos et memoire, doubtant de la mort ou
+                    pour autre juste cause, doie et puisse eslire un de ces filz legitimes, se plusours
+                    en avoit, le quel qui voudroit, son successour et prince de la dite ordre.</p>
+                    <p xml:id="d001l98" n="3">&lt;b&gt; Et ou cas qu'il n'eust fil masle legitime, puisse et doie eslire un de son
+                    lignage, de lignie masle et non autrement, pour son succesour et prince de l'ordre.</p>
+                    <p xml:id="d001l99" n="4">&lt;c&gt; Et eslira le meillour a son avis, et se soit en (f. 5v) sa conscience et
+                    voulenté.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c026">
+                    <head>
+                        <title>26.</title>
+                        <abbr>26</abbr>
+                    </head>
+                    <p xml:id="d001l100" n="1">Comme le successour du prince pourra eslire son successour. <lb/>Et celui ainssi par
+                    le prince comme dit est pourra et devra eslire son successour un de ces filz, ou autre
+                    de son lignage ou cas qu'il n'eust fil masle, par telle maniere come est dit du prince
+                    cy devant.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c027">
+                    <head>
+                        <title>27.</title>
+                        <abbr>27</abbr>
+                    </head>
+                    <p xml:id="d001l101" n="1">Se cellui que le prince eust esleu ne le veult acepter, les conpaignons esliront un
+                    autre. <lb/>Par le prince esleu un successour et prince de l'ordre, son fil ou autre
+                    de son lignage comme dit est devant, et cellui esleu par le prince ne le vousist acepter,
+                    mais le refusat, les compaignons esliront un autre pour successeur, et prince, aussi
+                    comme ce le prince [de successour et prince] n'eust porveu ou esleu.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c028">
+                    <head>
+                        <title>28.</title>
+                        <abbr>28</abbr>
+                    </head>
+                    <p xml:id="d001l102" n="1">Comme ou cas que le prince n'eust lignie masle, les compaignons esliront un autre.</p>
+                    <lb/>
+                    <p xml:id="d001l103" n="2">&lt;a&gt; Ou cas que le prince ou son successeur n'eussent filz ou autre de leur lignge
+                    de lignie masle come est desus dit, ilz ne pourront eslire ne ordener de successour
+                    et prince de l'ordre.</p>
+                    <p xml:id="d001l104" n="3">&lt;b&gt; Ains les compaignons present a la mestre prochaine court venant, par commun
+                    acort, ou par la plus grant partie, esliront un de leur compaignons, le meilleur et
+                    plus habile a ce. Et seront tenu de pourveoir de prince, et de eslire a celle court
+                    prochaine, ainssi comme dit est. Et ce chapistre jureront tous les compaignons, a
+                    fin que l'ordre ne fallist par deffaut de prince.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c029">
+                    <head>
+                        <title>29.</title>
+                        <abbr>29</abbr>
+                    </head>
+                    <p xml:id="d001l105" n="1">Comme, mort le prince, tous les compaignons doivent venir a la court.<lb/>Sceue la
+                    mort du prince, tous les compaignons seront et sont tenu de venir a celle court, se
+                    bonnement le pouent faire, pour porveoir de nouviau prince, ou cas que le dit prince
+                    n'eust esleu successour et prince.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c030">
+                    <head>
+                        <title>30.</title>
+                        <abbr>30</abbr>
+                    </head>
+                    <p xml:id="d001l106" n="1">Comme au successour de l'ordre tous sont obligié comme a son predecessour.</p>
+                    <lb/>
+                    <p xml:id="d001l107" n="2">&lt;a&gt; A cellui prince et successour esleu par le prince ou par les compaignons
+                    seront tenu touz les compaignons, et chascun a par soy, comme il estoient au premier
+                    prince ou a son predecessour.</p>
+                    <p xml:id="d001l108" n="3">&lt;b&gt; Luy aussi sera tenu come estoit son predecessour aux compaignons et a l'ordre
+                    et compaignie ensement.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c031">
+                    <head>
+                        <title>31.</title>
+                        <abbr>31</abbr>
+                    </head>
+                    <p xml:id="d001l109" n="1">Quantes messes chascun des compaignons fera dire por l'ame du prince.</p>
+                    <lb/>
+                    <p xml:id="d001l110" n="2">&lt;a&gt; La mort du prince sceue, chascun compaignon de l'ordre soit et sera tenu
+                    de faire por l'ame du dit prince chanter a note quinze messes, et mes(f. 6r)ses fera
+                    dire en lisant trente, se il en son lit se mourist comme bon Crestien, et sanz fait
+                    d'armes, se n'estoit roy ou duco u prince qui fust compaignon de l'ordre;</p>
+                    <p xml:id="d001l111" n="3">&lt;b&gt; car roy ou duc ou prince sera tenu, sceue la mort du dit prince, de faire
+                    dire et chanter pour l'ame du dit prince les messes dessus dites et oultre davantage
+                    fera pour l'ame du dit prince selont son estat plus que les autres, ainssi comme bon
+                    luy samblera.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c032">
+                    <head>
+                        <title>32.</title>
+                        <abbr>32</abbr>
+                    </head>
+                    <p xml:id="d001l112" n="1">Comme por la mort du prince tous les compaignons se vestiront de noir.</p>
+                    <lb/>
+                    <p xml:id="d001l113" n="2">&lt;a&gt; Et chascun des compaignons, sceue la mort du prince, se vestira de noir
+                    pour la mort du dit prince pour l'espasse de quinze jours continués, se en son lit
+                    le dit prince mouroit.</p>
+                    <p xml:id="d001l114" n="3">&lt;b&gt; Et se en fait d'armes mouroit, comme est dit devant, chascun des compaignons
+                    se vestira de noir pour l'espasse de trente jours continués, se n'estoit en une des
+                    quatre festes.</p>
+                    <p xml:id="d001l115" n="4">&lt;c&gt; Car lors differeront a vestir de noir jusques aprés la feste et court passee.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c033">
+                    <head>
+                        <title>33.</title>
+                        <abbr>33</abbr>
+                    </head>
+                    <p xml:id="d001l116" n="1">Comme l'escu et baniere du prince aprés sa mort sera pendu en la chapelle.</p>
+                    <lb/>
+                    <p xml:id="d001l117" n="2">&lt;a&gt; Mort et trespassé de cest monde le prince, le successor du dit prince fera
+                    l'escu et baniere du dit prince presenter en la chappelle de l'ordre par les deus
+                    meillours chevaliers de l'ordre qui pour lors ce pourront bonnement trouver en la
+                    court et compaignie du successour et prince de la dite ordre.</p>
+                    <p xml:id="d001l118" n="3">&lt;b&gt; Et avant qu'il tiengnent court a la feste de la Trinité, le prince nouviau
+                    fait et les compaignons feront le service du prince trespassé en commun, le mielz
+                    et le plus honorablement comme affiert a roy, et mielz se mielz le pouent faire.</p>
+                    <p xml:id="d001l119" n="4">&lt;c&gt; Et alors sera le dit escu et baniere pendu en la dite chappelle, ou plus
+                    honnorable et premier lieu.</p>
+                    <p xml:id="d001l120" n="5">&lt;d&gt; Et de tousles prince de l'ordre si fera aussi: c'est asavoir l'escu et baniere
+                    du premier prince [sera mis et pendu] ou premier lieu, du secont son successour ou
+                    secont lieu, du tiers ou tiers lieu, et ainssi par ordre de touz les princes de la
+                    dite ordre, chascun en son lieu et ordre come dit est.</p>
+                    <p xml:id="d001l121" n="6">&lt;e&gt; Et se pluseurs chappelles de l'ordre fussent, en chascune sera pendu comme
+                    dit est.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c034">
+                    <head>
+                        <title>34.</title>
+                        <abbr>34</abbr>
+                    </head>
+                    <p xml:id="d001l122" n="1">Quantes messes chascun fera dire pour l'ame du dit prince se en fait d'armes mouroit.<lb/>Se
+                    le prince mourroit par fait d'armes, en son honnour faisant, chas[cun] des compaignons,
+                    de quel que estat soit, fera dire le service du dit prince au double, c'est asavoir
+                    du fere chanter et dire [les messes] au doubble. (f. 6v)</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c035">
+                    <head>
+                        <title>35.</title>
+                        <abbr>35</abbr>
+                    </head>
+                    <p xml:id="d001l123" n="1">Comme chascun des conpaignons pour l'ame de chascun des conpaignons trespassé sera
+                    et [est] tenu de faire.</p>
+                    <lb/>
+                    <p xml:id="d001l124" n="2">&lt;a&gt; Sceue la mort d'aucun des compaignons qui fust trespasséz en son lit ou
+                    autrement, confés et communiéz comme bon Crestien, chascun des compaignons fera dire
+                    pour l'ame de cellui trespassé vint quatre messes, des quelles seront, huit chanteez
+                    a note, et seize dites en lisant.</p>
+                    <p xml:id="d001l125" n="3">&lt;b&gt; Et aussi se vestira chascun des compaignons pour la mort de cellui trespassé
+                    pour l'espasse de huit jors de noir.</p>
+                    <p xml:id="d001l126" n="4">&lt;c&gt; Et se par fait d'armes, en son honnour faisant et de la compaignie, se mouroit,
+                    sceue la mort de cellui, chascun des compaignons soit et sera tenu de faire son service
+                    au double, tant des messes come de soi vestir et noir.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c036">
+                    <head>
+                        <title>36.</title>
+                        <abbr>36</abbr>
+                    </head>
+                    <p xml:id="d001l127" n="1">Comme le prince est tenu, et de quoi fere, pour l'ame et mort de chascun des conpaignons.</p>
+                    <lb/>
+                    <p xml:id="d001l128" n="2">&lt;a&gt; Le prince sceue la mort d'aucun des compaignons, soit mort en son lit ou
+                    en fait d'armes comme dit est, sera et soit tenu de faire son service au double. C'est
+                    asavoir s'il est mort en son lit, fera chanter et dire quarante-huit messez, des quelles
+                    seront seize chanteez a note et [trente-deus] dites en lisant. Et se par fait d'armes
+                    se mouroit, il fera fere son service au double.</p>
+                    <p xml:id="d001l129" n="3">&lt;b&gt; Et encore fera faire et chanter une messe sollennement en sa chappelle,
+                    aussi comme se le corps du dit trespassé fust present, et les sollempnitéz qui a ce
+                    appartiennent, soit mort en armes ou autrement, comme est dit devant.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c037">
+                    <head>
+                        <title>37.</title>
+                        <abbr>37</abbr>
+                    </head>
+                    <p xml:id="d001l130" n="1">Comme tous sont tenu de dite en la cort les compaignons qui seront trespasséz.<lb/>Tous
+                    les compaignons de l'ordre, et le prince aussi, sceue la mort d'aucuns des compaignons,
+                    a la premiere court qui se tenra soit tenu de dire et anoncier la mort de tous les
+                    compaignons de l'ordre qu'il saura trespasséz depuis l'autre court devant celle.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c038">
+                    <head>
+                        <title>38.</title>
+                        <abbr>38</abbr>
+                    </head>
+                    <p xml:id="d001l131" n="1">Comme l'escu de chascun compaignon aprés sa mort sera presenté au prince et pendu
+                    en la chapelle.</p>
+                    <lb/>
+                    <p xml:id="d001l132" n="2">&lt;a&gt; Les executeurs de cellui compaignon trespassé comme dit est, s'il a fait
+                    executeurs compaignons de l'ordre, soient tenu de presenter l'escu du dit compaignon
+                    au prince a la premiere court aprés sa mort, point a ces armes.</p>
+                    <p xml:id="d001l133" n="3">&lt;b&gt; Et se executeus n'avoit fait qui fussent de l'ordre, ou de ce faire fussent
+                    negligent, le prince les compaignons supplieront a la dite court ce que par les (f.
+                    7r) executeurs devroit estre fait.</p>
+                    <p xml:id="d001l134" n="4">&lt;c&gt; Et lors fera le dit prince l'escu de celui trespassé pendre en la chappelle
+                    de l'ordre, selont sa chevalerie et estat.</p>
+                    <p xml:id="d001l135" n="5">&lt;d&gt; Et se plusers chappelles de l'ordre estoient, en chascune sera pendu comme
+                    dit est.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c039">
+                    <head>
+                        <title>39.</title>
+                        <abbr>39</abbr>
+                    </head>
+                    <p xml:id="d001l136" n="1">Comme pour tous les compaignons trespassés chascun an se chantera une messe sollempnee.</p>
+                    <lb/>
+                    <p xml:id="d001l137" n="2">&lt;a&gt; Le lundi prochain aprés la feste de la Trinité le prince et touz les compaignons
+                    presens a celle court feront chanter une messe sollempnee des mors por l'ame de touz
+                    les compaignons trespasséz de l'ordre.</p>
+                    <p xml:id="d001l138" n="3">&lt;b&gt; Et a celle messe seront present le prince et touz les compaignons presens
+                    a la court.</p>
+                    <p xml:id="d001l139" n="4">&lt;c&gt; Et seront vestu de noir tant que la dite messe soit chantee, et non plus.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c040">
+                    <head>
+                        <title>40.</title>
+                        <abbr>40</abbr>
+                    </head>
+                    <p xml:id="d001l140" n="1">[De quoy sont obligié les compagnons au prince]. Et premierement nulz des compaignons
+                    ne sera jamé contre le prince.</p>
+                    <lb/>
+                    <p xml:id="d001l141" n="2">&lt;a&gt; Pour chouse du monde, quelle que soit, nul des compaignons ne sera contre
+                    le prince en fait, en parole, ne autrement, ne ne fera ne actentera rien contre le
+                    dit prince pour cause du monde,</p>
+                    <p xml:id="d001l142" n="3">&lt;b&gt; se n'estoit en deffendant son lige seigneur, de qui il tenist fieu ou heritage,
+                    ou pour autre de qui il eust provision ou eust serement devant qu'il preïst l'ordre,
+                    et de ce serement eust fait mencion a l'ordre prenre. Et ce jureront touz les compaignons,
+                    et chascun par soi, par leur serement.</p>
+                    <p xml:id="d001l143" n="4">&lt;c&gt; Et ou cas que pour aucune de ces causes dessus dites convenist que aucun
+                    des compaignons fust contre le prince, et avec autre, il sera et soit tenu de notefier
+                    et faire assavoir au prince comme il convient qu'il soit contre lui, et la cause pour
+                    quoy, anchois qu'il face rien contre le dit prince tant [de fait] que de parole. Et
+                    ce jureront touz les compaignons par leur serement.</p>
+                    <p xml:id="d001l144" n="5">&lt;d&gt; Et qui autrement le feroit, il sera reputé parjuréz et foy mentie, et puny
+                    comme parjuré.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c041">
+                    <head>
+                        <title>41.</title>
+                        <abbr>41</abbr>
+                    </head>
+                    <p xml:id="d001l145" n="1">Comme tous les compaignons [contre tous] aideront le prince.<lb/>Tous les compaignons
+                    seront et sont tenu d'aidier le prince, et aideront de tout leur pouoir contre touz
+                    hommes, de quelque [estat] qu'ilz fussent, se n'estoit es cas dessus diz, et pour
+                    les causes dessus dites. Et ce jureront tous les compaignons.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c042">
+                    <head>
+                        <title>42.</title>
+                        <abbr>42</abbr>
+                    </head>
+                    <p xml:id="d001l146" n="1">Comme les compaignons serviront le prince en toutes ces guerres.<lb/>Touz les compaignons,
+                    et chascun a par soi, soient et seront tenu de servir le prince en toutes ces guerres
+                    justes, menees et a mouvoir, (f. 7v) chascun selont son poueir et estat, et a ces
+                    despens, se n'estoit en cas et pour les causes dessus dites. Et ce jureront touz les
+                    compangnons.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c043">
+                    <head>
+                        <title>43.</title>
+                        <abbr>43</abbr>
+                    </head>
+                    <p xml:id="d001l147" n="1">Comme aux non puissanz et pouvrez le prince est tenu de pou[r]veoir.</p>
+                    <lb/>
+                    <p xml:id="d001l148" n="2">&lt;a&gt; Se par impotenté et pouvreté aucun des compaignons ne pouoit suir le dit
+                    prince en ces guerres a ces despens, ains n'eust de quoi: si tost comme il saura le
+                    dit pince avoir guerre, il senefiera au prince et fera asavoir son estat et sa non
+                    poissance.</p>
+                    <p xml:id="d001l149" n="3">&lt;b&gt; Et lors devra et sera tenu le dit prince a luy pourveoir selont l'estat
+                    du dit compaignon, en tel maniere qu'il puisse honnourablement servir le prince en
+                    ces guerres selont son estat, si veult que le dit compaignon impotent le serve.</p>
+                    <p xml:id="d001l150" n="4">&lt;c&gt; Car autrement et ou cas que le dit prince ne li vousist pourveoir comme
+                    dit est, et il n'eust de quoi, il sera quites et absoubz de sa foi et serement, quant
+                    en cest cas, de servir le prince.</p>
+                    <p xml:id="d001l151" n="5">&lt;d&gt; Mais toutes fois le dit compaignon ne alleguera non poissance faintement.
+                    Et ce jureront tous les compaignons.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c044">
+                    <head>
+                        <title>44.</title>
+                        <abbr>44</abbr>
+                    </head>
+                    <p xml:id="d001l152" n="1">Comme tous les compaignons, sceu que le prince ait guerre, sont tenu de y venir.</p>
+                    <lb/>
+                    <p xml:id="d001l153" n="2">&lt;a&gt; Touz les compaignons, et chascun a par soi, si tost comme il sauront le
+                    prince avoit guerre et [guerre] estre mené entre lui et autre, quel qui soit, se n'estoit
+                    es cas et pour les causes dessus dites, les poissanz, selonc leur estat et pouoir,
+                    sanz eulz desherités, venront au prince le servir en ces guerres a leur despens.</p>
+                    <p xml:id="d001l154" n="3">&lt;b&gt; Les non poissans feront assavoir au dit prince leur impotenté, et manderont
+                    comme dit est. Et ce jureront touz les compaignons.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c045">
+                    <head>
+                        <title>45.</title>
+                        <abbr>45</abbr>
+                    </head>
+                    <p xml:id="d001l155" n="1">Comme les poissant qui n'y pourront venir en persone y manderont gens d'armes.<lb/>Se
+                    aucun des compaignons poissant servir a ces despens estoit enpoechié par maladie ou
+                    autrement que par pouvreté, sceue la guerre du prince, il mandera ou envoiera gent
+                    en la dite guerre du prince, selont son estat et poissance, et a ces despens, sanz
+                    [soy] desheriter ou domagier trop fort, ou autre juste excusation ne l'en excusoit.
+                    Et ce jureront touz les compaignons.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c046">
+                    <head>
+                        <title>46.</title>
+                        <abbr>46</abbr>
+                    </head>
+                    <p xml:id="d001l156" n="1">Comme tous les compaignons sont tenu de deffendre tous les biens moibles et immoibles
+                    du prince.<lb/>(f. 8r) Chascun des compaignons soit et sera tenu de aidier a maintenir
+                    et garder et deffendre contre touz selont son pouoir touz les drois, haritages, meubles,
+                    honnour et estat du prince, qu'il a de present et qui possiede, ce n'estoit es cas
+                    et pour les causes dessus dites. Et ce jureront touz les compaignons.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c047">
+                    <head>
+                        <title>47.</title>
+                        <abbr>47</abbr>
+                    </head>
+                    <p xml:id="d001l157" n="1">Comme tous les compaignons sont [tenu] de venir et estre a la conqueste du roiaume
+                    de Jherusalem et de l'avance de Sicile, de l'empire de Constantinoble et de la conté
+                    de Provence et de Pymont.</p>
+                    <lb/>
+                    <p xml:id="d001l158" n="2">&lt;a&gt; Touz les compaignons, et chascun a par soi, selont son estat et pouoir et
+                    a ces despens, se poissant est (s'il n'est puissant, fera come est dit dessus) sera
+                    et soit tenu de aidie[r a] conquester, et venir en propre personne s'il n'est excusé
+                    par maladie, prison ou autre cause juste, toutes les foiz que le prince lui mandera
+                    et fera assavoir, ou cas que le dit prince y fust en personne, ou aucun de ces filz,
+                    ou autre de son lignage de lignie masle, tous ces droiz, par especial le roialme de
+                    Jerusalem, et de Sicile entierement, l'empire de Constantinople entierement, et la
+                    conté de Provence et de Pymont entierement.</p>
+                    <p xml:id="d001l159" n="3">&lt;b&gt; Et se aucuns poissant par maladie ou autre juste cause n'y poueit venir
+                    en personne, il sera tenu de mander gens au dit prince en cest selont son estat et
+                    pouoir, et a ces despens, pour le dit prince en ce aidier.</p>
+                    <p xml:id="d001l160" n="4">&lt;c&gt; Et mandera le prince a chascun des compaignons, et sera tenu de mander pour
+                    eulz toutes fois qu'il voudra ce enprendre et commencier, c'est assavoir de conquester
+                    et de mouvoir guerre contre ceulz qui tiengnent occupé ses droiz dessus dis, ou aucun
+                    de ceulx.</p>
+                    <p xml:id="d001l161" n="5">&lt;d&gt; Et aux non puissans, sera tenu de pourveoir comme dit est devant, si veult
+                    qu'il viengnent. Et ce jureront tous les compaignons.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c048">
+                    <head>
+                        <title>48.</title>
+                        <abbr>48</abbr>
+                    </head>
+                    <p xml:id="d001l162" n="1">Comme touz les compaignons sont tenu de vengier la honte ou despit qui ou prince seroit
+                    fait.<lb/>Se aucune villannie, honte, ou despit seroit faite au prince ou a la conpaignie
+                    en general, touz les compaignons, et chascun a par soi, soit et sera tenue de la vengier
+                    a son poueir. Et se jureront tous les compaignons.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c049">
+                    <head>
+                        <title>49.</title>
+                        <abbr>49</abbr>
+                    </head>
+                    <p xml:id="d001l163" n="1">De quoi sont tenu les chevaliers fais d'ore en avant par le rpince ou par aucun des
+                    compaignons.</p>
+                    <lb/>
+                    <p xml:id="d001l164" n="2">&lt;a&gt; Premierement, touz hommes fait chevalier d'ore en avant par le prince ou
+                    par aucun des compaignons de l'ordre soient et seront tenu de venir en (f. 8v) personne
+                    et a leur despens, s'il sont poissant, a la conqueste dez dessus diz roiaumes, empire
+                    et contés, toutes les foiz qu'il sauront que le prince, ou aucun de ces filz, ou autre
+                    de son lignage, son heritier et successour en l'ordre et haritage, enprendra la conqueste
+                    dessus dite. Et en personne il sera, se maladie ou autre juste cause ne les excusoit.</p>
+                    <p xml:id="d001l165" n="3">&lt;b&gt; Et en cest cas, seront tenu de y mander gent a leur despens, pour chascun
+                    selont son estat et pouoir, sanz soy desherites ou domagier trop grandement.</p>
+                    <p xml:id="d001l166" n="4">&lt;c&gt; Et ce jureront tous les chevaliers fais par le prince ou par autre des compaignons
+                    de l'ordre quant il seront fait chevalier nouvel.</p>
+                    <p xml:id="d001l167" n="5">&lt;d&gt; Et aussi le prince et tous les compaignons jureront que touz les chevaliers
+                    que [feront] d'ore en avant feront jurer ce dessus dit.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c050">
+                    <head>
+                        <title>50.</title>
+                        <abbr>50</abbr>
+                    </head>
+                    <p xml:id="d001l168" n="1">Comme tous chevaliers fait d'ore en avant par le prince ou par aucun des compaignons
+                    qui n'eussent de quoi sont [tenu] de mander au dit prince leur non poissance et le
+                    prince leur devra pourveoir.</p>
+                    <lb/>
+                    <p xml:id="d001l169" n="2">&lt;a&gt; Que ou cas que aucun pour povreté des chevaliers ainssi fait comme dit est
+                    ne peust venir a la dite conqueste a ses despens, si tost come il saura que le prince
+                    vuille et doie enprendre le dite conqueste, et y estre en personne, ou son filz, ou
+                    autre de son lignage comme dit est dessus, ou que le dit prince luy manderoit et feroit
+                    assavoir par ses lettres ou autrement, il sera tenu de mander au dit prince, et mandera
+                    son estat et non poissance.</p>
+                    <p xml:id="d001l170" n="3">&lt;b&gt; Et lors le prince, oïe sa non poissance, lui pou[r]verra et fera pourveoir
+                    selont l'estat du dit non poissant de toutes choses neccessairez, tant de chevaux,
+                    armes, argent, et finance, por y venir et estre en la dite conqueste.</p>
+                    <p xml:id="d001l171" n="4">&lt;c&gt; Et se le dit prince, oïe sa non poissance, ne lui pourveroit comme est dit,
+                    le dit chevalier sera absoulz du serement qu'il [avoit] de y venir. Et ce jureront
+                    touz les [chevaliers ainsi fait].</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c051">
+                    <head>
+                        <title>51.</title>
+                        <abbr>51</abbr>
+                    </head>
+                    <p xml:id="d001l172" n="1">Comme tous chevaliers ainssi fait ne seront jamés contre le prince ne contre la compaignie,
+                    mes seront tenu de anoncier [et] porchacier leur bien et honnour.</p>
+                    <lb/>
+                    <p xml:id="d001l173" n="2">&lt;a&gt; Que tous chevaliers fait par le prince ou par aucun des compaignons de l'ordre,
+                    comme dit est, seront et soient tenu de pourchacier et anoncier et essaucier a leur
+                    poueir le bien, honnour et estat du dit prince, et de jamés non estre, par fait ou
+                    autrement, contre le dit prince et compaignie en general, par soi ne par autrui, publiquement
+                    non occultement,</p>
+                    <p xml:id="d001l174" n="3">&lt;b&gt; se n'estoit en deffendant son lige seigneur, ou autre de qui eust provision,
+                    et auquel fust tenu de serement avant qui fust chevalier fait, et non autrement.</p>
+                    <p xml:id="d001l175" n="4">&lt;c&gt; Et ce jureront tous chevaliers ainssi [fait], come dit est.</p>
+                    <p xml:id="d001l176" n="5">&lt;d&gt; Et ce leur feront jurer celz qui chevalier les feront (f. 9r).</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c052">
+                    <head>
+                        <title>52.</title>
+                        <abbr>52</abbr>
+                    </head>
+                    <p xml:id="d001l177" n="1">Comme tous les compaignons et tous chevaliers fait par aucun d'eux pourteront honnour.</p>
+                    <lb/>
+                    <p xml:id="d001l178" n="2">&lt;a&gt; De l'ordre tous les compaignons et touz chevaliers faiz par le prince ou
+                    par aucun des compaignons, seront et soient tenu de porter honnour et reverence au
+                    dit prince, en touz lieux et quel que part qu'il soient.</p>
+                    <p xml:id="d001l179" n="3">&lt;b&gt; Et ce jureront touz compaignons et chevaliers ainssi fait, come dit est.</p>
+                    <p xml:id="d001l180" n="4">&lt;c&gt; Et les compaignons de l'ordre oultre ce seront tenu de obeïr a tous les
+                    commandemens justes et licitez du dit prince. Et ce jureront tous les compaignons.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c053">
+                    <head>
+                        <title>53.</title>
+                        <abbr>53</abbr>
+                    </head>
+                    <p xml:id="d001l181" n="1">Comme tous les compaignons et tous chevaliers ainssi fait comme dit est, anonceont
+                    les prohieces et vertus du prince, et le deffendront de honte et de deshonnour.</p>
+                    <lb/>
+                    <p xml:id="d001l182" n="2">&lt;a&gt; Chascun des compaignons de l'ordre, et touz chevaliers fais par le prince
+                    et par aucun des compaignons, comme est dit dessus, seront et soient tenu en tous
+                    lieus, quel part qui soient, de annoncier et reciter les biens et vertus du prince
+                    et de la compaignie, a leur pouer, toutes les fois que lie[u] et temps seroit de ce
+                    dire et faire, selont l'avis de chascun, et de deffendre le dit [prince] de honte
+                    et de deshonnour, a leur pouer, et la compaignie.</p>
+                    <p xml:id="d001l183" n="3">&lt;b&gt; Et touz les compaignons de l'ordre, l'un a l'autre, sera et soit tenu de
+                    ce faire et pourchacier a son poueir, comme dit est.</p>
+                    <p xml:id="d001l184" n="4">&lt;c&gt; Et ce jureront touz les compaignons, et touz les chevaliers fais par le
+                    prince ou par aucun des compaignons.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c054">
+                    <head>
+                        <title>54.</title>
+                        <abbr>54</abbr>
+                    </head>
+                    <p xml:id="d001l185" n="1">Comme tous les compaignons et les chevaliers ainssi fait come dit est reveleront au
+                    prince toutes chouses qu'il sauroient estre en son deshonnour ou domage.<lb/></p>
+                    <p xml:id="d001l186" n="2">&lt;a&gt; Toutes chouses touchans l'onnour et estat de la compaignie et du prince
+                    par quoy peust venir mal, honte, damage ou villainie au dit prince, ou a la compaignie,
+                    touz les compaignons, et chascun par soi, soit tenu, si tost comme il saura et pourra
+                    bonnement, de l'anoncier, reveler et faire savoir au prince, ou a cellui ou a ceulx
+                    des compaignons au quielx ou au quel pourroit venir honte, villanie ou domage,</p>
+                    <p xml:id="d001l187" n="3">&lt;b&gt; sur paine de perdre l'ordre, et d'estre reputés et puniz comme parjuréz
+                    et traitres. Et ce jureront toz les compaignons.</p>
+                    <p xml:id="d001l188" n="4">&lt;c&gt; Et aussi touz chevaliers faiz par le prince ou par aucun des compaignons,
+                    (f. 9v) come dit est, sera et soit tenu de ce annoncier et faire assavoir au prince,
+                    ci tost comme il sauroient et pourroient bonnement faire.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c055">
+                    <head>
+                        <title>55.</title>
+                        <abbr>55</abbr>
+                    </head>
+                    <p xml:id="d001l189" n="1">De quoy est tenu le prince au compaignons. Et premierement le prince est tenu de aidier
+                    et deffendre tous les compaignons.</p>
+                    <lb/>
+                    <p xml:id="d001l190" n="2">&lt;a&gt; Le prince et tous ces successours en l'ordre seront et sont tenu d'aidier
+                    et maintenir et deffendre tous les compaignons de l'ordre, et chascun a par soi, contre
+                    toutes personnes du monde, a ces despens, selont son pouoir et l'estat du compaignon,
+                    qui de ce auroit mestier, en leur droit et justes quereles,</p>
+                    <p xml:id="d001l191" n="3">&lt;b&gt; se n'estoit contre l'eglise de Rome, et le roy Loys de Ungrie, ou autre
+                    de quoi le dit prince tenist fieu ou eust serement avant [qu'il eust] l'ordre prise.</p>
+                    <p xml:id="d001l192" n="4">&lt;c&gt; Et encore en ce cas, sera tenu de procurer paiz entre le dit compaignon
+                    et son adversaire.</p>
+                    <p xml:id="d001l193" n="5">&lt;d&gt; Et ce jurera le prince,</p>
+                    <p xml:id="d001l194" n="6">&lt;e&gt; et de ces vassaux et hommes fere justice.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c056">
+                    <head>
+                        <title>56.</title>
+                        <abbr>56</abbr>
+                    </head>
+                    <p xml:id="d001l195" n="1">Comme le prince est tenu de procurer le bien de tous les compaignons et de enpechier
+                    leur mal.</p>
+                    <lb/>
+                    <p xml:id="d001l196" n="2">&lt;a&gt; [L]e dit prince sera tenu de procurer le bien, honneur et estat de chascun
+                    des compaignons a son pouoir,</p>
+                    <p xml:id="d001l197" n="3">&lt;b&gt; et d'anoncier et faire assavoir a chascun d'eulx toutes choses par quoi
+                    peust avoir honte, damage ou villannie, si tost come il saura et pourra savoir,</p>
+                    <p xml:id="d001l198" n="4">&lt;c&gt; et de l'empechier a son pouoir.</p>
+                    <p xml:id="d001l199" n="5">&lt;d&gt; Et ce jurera le prince.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c057">
+                    <head>
+                        <title>57.</title>
+                        <abbr>57</abbr>
+                    </head>
+                    <p xml:id="d001l200" n="1">Comme le prince n'est obligié a nulle chose ce de lui n'est faite mencion. <lb/>Le
+                    prince n'est ne sera obligié a nul chapistre de l'ordre par serement ce le chapistre
+                    ne fesoit mencion especial du dit prince et de son serement.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c058">
+                    <head>
+                        <title>58.</title>
+                        <abbr>58</abbr>
+                    </head>
+                    <p xml:id="d001l201" n="1">Comme le prince et les compaignons sont obligié l'un a l'autre. Et premierement come
+                    ilz doivent maintenir bonne compaignie perpetuelment.<lb/>[P]remierement, le prince
+                    et toz les compaignons ensamble perpetuelment maintendront et tenront bone et leal
+                    compaignie et fraternité l'un a l'autre, en touz lieux et toz cas, quel part qui se
+                    trouvassent. Et ce jureront tant le prince (f. 10r) comme tous les compaignons.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c059">
+                    <head>
+                        <title>59.</title>
+                        <abbr>59</abbr>
+                    </head>
+                    <p xml:id="d001l202" n="1">Comme le prince et touz les compaignons se entrederont et toutes ma[la]dies et prisons.<lb/>[E]n
+                    toutes autres aventures, bonnes et mauveses, le prince et touz les compaignons s'entraideront
+                    de tout leur pouoir, justement, contre tous. Et ce jureront le prince et touz les
+                    compaignons. Et par especial en toutes maladies et prisons et pouvretéz et autres
+                    merites.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c060">
+                    <head>
+                        <title>60.</title>
+                        <abbr>60</abbr>
+                    </head>
+                    <p xml:id="d001l203" n="1">Comme l'un est tenu de couvrir la honte de l'autre.</p>
+                    <lb/>
+                    <p xml:id="d001l204" n="2">&lt;a&gt; [L]e prince et tous les compaignons seront et sont tenu de couvrir et abscondre
+                    la honte et deshonnour de chascun de lour, ou cas quel es chapistres de l'ordre ne
+                    commandassent le contraire – car sur toutes choses garderont ce que conmande les chapistrez
+                    – mes toute traison ou autre mavestié qui fust contre le prince [faite ou traitié,
+                    ou contre] aucun des compaignons, ou de la compaignie, qui ne se deust celer nullement.</p>
+                    <p xml:id="d001l205" n="3">&lt;b&gt; Et en ce cas, chascun le dira et sera tenu de reveler au prince et a la
+                    compaignie, ou cas qu'il en peust venir honte ou damage ou villanie au prince, ou
+                    aucun des compaignons, ou a la compaignie. Et ce jureront le prince et toz les compaignons.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c061">
+                    <head>
+                        <title>61.</title>
+                        <abbr>61</abbr>
+                    </head>
+                    <p xml:id="d001l206" n="1">Comme chascun est tenu de reveler le prince et chascun de autre c[h]euz en bataille.<lb/>[S]'il
+                    avenoit que aucun des compaignons, et par especial le prince, en aucune bactaille
+                    fust abatu et cheu a terre, chascum soit tenu de lui aidier et relever a son pouoir,
+                    se bonnement et sanz trop grant peril de son cors le peut faire. Et ce jureront le
+                    prince et tous les compaignons.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c062">
+                    <head>
+                        <title>62.</title>
+                        <abbr>62</abbr>
+                    </head>
+                    <p xml:id="d001l207" n="1">Comme le prince en toutes questions des compaignons est tenu de pourveoir de remede
+                    conveneble.</p>
+                    <lb/>
+                    <p xml:id="d001l208" n="2">&lt;a&gt; [Q]ue le prince sceust le descort, questiono u guerre entre aucuns des compaignons,
+                    tost et sanz delay, au conseil des compaignons presens por lors avec lui, y pourverront
+                    de remede convenable, tel come bon leur samblera.</p>
+                    <p xml:id="d001l209" n="3">&lt;b&gt; Et ce les descordans sont absent, per ces lettres ce que sur leur descort,
+                    question ou guerre aura ordené, leur (f. 10v) fera assavoir et mandera le plus tost
+                    qu'il poura bonement.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c063">
+                    <head>
+                        <title>63.</title>
+                        <abbr>63</abbr>
+                    </head>
+                    <p xml:id="d001l210" n="1">Comme que de l'ordenance du prince se sentiroit grevé pourra appeller a la court general.</p>
+                    <lb/>
+                    <p xml:id="d001l211" n="2">&lt;a&gt; [E]t ou cas qu'il ne fussent content de l'ordenance du prince sur se, ou
+                    aucun des descordans, il leur deffendra par ces lettres, sur poine de privation de
+                    l'ordre, q[ue] nul de leur ne face chose de nouvel en leur descort, question ou guerre,
+                    l'un contre l'autre, soit de fait ou autrement, mes pourront appeller les descordans
+                    dessuz diz de l'ordenance du prince dessus dite, ou aucun d'eux qui grevé se sentiront
+                    de la dite ordenance, devant le prince a la court general de la Trinité.</p>
+                    <p xml:id="d001l212" n="3">&lt;b&gt; Et lors, au conseil des compaignons, ordenera et determinera du descort,
+                    question ou guerre dessus dis.</p>
+                    <p xml:id="d001l213" n="4">&lt;c&gt; Et ce qui sera ordené par le prince, tenrront les parties descordans, sanz
+                    jamés [en] appeller.</p>
+                    <p xml:id="d001l214" n="5">&lt;d&gt; Et seront tenu les dites parties de estre presens a la dite court.</p>
+                    <p xml:id="d001l215" n="6">&lt;e&gt; Et ou cas que l'une des parties ne fust present, se l'autre vieult et requiert
+                    le prince en la dite court de justice, sur ce le prince luy fera justice, et determinera
+                    la question, au conseil des compaignons, non obstant l'absence de l'autre partie.</p>
+                    <p xml:id="d001l216" n="7">&lt;f&gt; Et seront tenu tant le present [que l'absent de tenir l'ordenance et sentence
+                    du dit prince] sur ce come ce les deus parties fussent present.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c064">
+                    <head>
+                        <title>64.</title>
+                        <abbr>64</abbr>
+                    </head>
+                    <p xml:id="d001l217" n="1">Comme nul des compaignons ne batra l'autre, ne metre sur autre par maltalent.</p>
+                    <lb/>
+                    <p xml:id="d001l218" n="2">&lt;a&gt; [S]e par aucune aventure avenoit aucun descort ou paroles injuriouses entre
+                    aucun des compaignons, nullement [ne] metront main l'un sur l'autre, por cause du
+                    monde, quelle que soit,</p>
+                    <p xml:id="d001l219" n="3">&lt;b&gt; se n'estoit en bactaille licite, en quoi convenist l'un estre contre [l'autre],
+                    comme en deffendant soi ou son seigneur lige, comme est dit devant, et que l'un fust
+                    d'une part et l'autre d'autre d'aventure. Et ce jureront tous les compaignons.</p>
+                    <p xml:id="d001l220" n="4">&lt;c&gt; Se entre aucun des compaignons avoit descort, distancion, question, guerre
+                    ou haine, touz les autres compaignons, et chascune d'eux, sera et soit tenu de y mettre
+                    peiz et acort de tout son poueir. Et ce jureront touz les compaignons.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c065">
+                    <head>
+                        <title>65.</title>
+                        <abbr>65</abbr>
+                    </head>
+                    <p xml:id="d001l221" n="1">Comme ilz doivent faire si ne les pouent metre a acort.</p>
+                    <lb/>
+                    <p xml:id="d001l222" n="2">&lt;a&gt; [O]u cas que entre les compaignons descordans ne peussent les autre metre
+                    peiz et acort, il deffendront ax (f. 11r) parties discordans, sur poine de privation
+                    de l'ordre et devise, qu'il ne facent ne attentent rien l'un contre l'autre, ne en
+                    fait ne en paroles, jusques a tant qu'il aient sceue leur descort la voulenté du prince.</p>
+                    <p xml:id="d001l223" n="3">&lt;b&gt; Et lors manderont au dit prince tout leur descort et question, et leur propres
+                    noms, por ce que tost y pourvoie de remede convenable.</p>
+                    <p xml:id="d001l224" n="4">&lt;c&gt; Et qui feroit le contraire sera privé de l'ordre et reputé et punis comme
+                    parjuré, et foi mentie.</p>
+                    <p xml:id="d001l225" n="5">&lt;d&gt; Et le prince, ou cas que la partie offendue de ce l'acusast, et fust trouvé
+                    coupable, escripra a tous roys [et] princes de grant estat son deffault, et comme
+                    por ce deffault est privé de l'ordre.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c066">
+                    <head>
+                        <title>66.</title>
+                        <abbr>66</abbr>
+                    </head>
+                    <p xml:id="d001l226" n="1">Comme qui seroit contre la deffense dessus dite, et la partie offendue fust contente
+                    du malfateur, il est en la voulenté du prince de le priver de l'ordre ou non.<lb/>[Q]ue
+                    ou cas que la partie offendue en ce cas dessus dit fust contente du malfaiteur depuis
+                    la deffense fait, comme dit est, et de ce ne l'acusast, il sera en l'arbitre du prince
+                    de priver de l'ordre celui offendant, ou de non priver.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c067">
+                    <head>
+                        <title>67.</title>
+                        <abbr>67</abbr>
+                    </head>
+                    <p xml:id="d001l227" n="1">Comme toutes choses secrees de l'ordre chascun tenra secret.<lb/>[L]e prince et tous
+                    les compaignons sont et seront tenu de celer et tenir secret toutes les choses secreez
+                    de l'ordre et de la compaignie, et de non reveler a nul estrange du monde qui ne fust
+                    de la compaignie. Et ce jureront touz les compaignons.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c068">
+                    <head>
+                        <title>68.</title>
+                        <abbr>68</abbr>
+                    </head>
+                    <p xml:id="d001l228" n="1">Comme chascun est tenu de reveler toz traitres et traisons et de acuser.</p>
+                    <lb/>
+                    <p xml:id="d001l229" n="2">&lt;a&gt; [L]e prince et tous les compaignons, ou cas qu'il sceussent et venist a
+                    la congnoissance de leur aucune traison, pourpensee ou fait ou traitié par aucun des
+                    compaignons, contre le prince, ou contre aucun des compaignons, ou de la compaignie,
+                    comme qu'il fust, le plus tost qu'il pourront le feront et notefieront a celui contre
+                    qui la dite traison vourroit et devroit estre faite et pourpensee.</p>
+                    <p xml:id="d001l230" n="3">&lt;b&gt; Et aussi le feront assavoir au prince, pour qu'il luy pourvoie de remede.</p>
+                    <p xml:id="d001l231" n="4">&lt;c&gt; Et lors, sceue la traison et le traiteur proué, le prince cellui traitre
+                    privera de l'ordre et devise, et sera declarey (f. 11v) traitre parjuréz et foy mentie.</p>
+                    <p xml:id="d001l232" n="5">&lt;d&gt; Et ce sera escript par le dit prince a tous roys et princes de grant estat,
+                    et comment et por quoi il est privéz de l'ordre.</p>
+                    <p xml:id="d001l233" n="6">&lt;e&gt; Et aussi se aucun des compaignons contre autre qui ne fust de la compaignie,
+                    quel qui fust, fesoit traison, si tost que le prince le saura et sera enformé sur
+                    se, de verité il privera de l'ordre comme dit est.</p>
+                    <p xml:id="d001l234" n="7">&lt;f&gt; Et chascun des compaignons sera et soit tenu de accuser et reveler au prince
+                    tous traitres et toutes traisons, quellez qu'ilsoient, et contre qui il soient [faites
+                    ou pourpensees], soit de la compaignie ou non. Et ce jureront le prince et tous les
+                    compaignons.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c069">
+                    <head>
+                        <title>69.</title>
+                        <abbr>69</abbr>
+                    </head>
+                    <p xml:id="d001l235" n="1">De tenir la court et avant.</p>
+                    <lb/>
+                    <p xml:id="d001l236" n="2">&lt;a&gt; [P]remierement, le jour de la Sainte Trinité, qui est le octave de la Pentecoste,
+                    chascun an se tenra court general, c'est assavoir de tous les compaignons de l'ordre.</p>
+                    <p xml:id="d001l237" n="3">&lt;b&gt; Et dura celle court huit jours devant la dite feste de la Trinité et aussi
+                    huit jours aprés la feste de la Trinité dessus dite.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c070">
+                    <head>
+                        <title>70.</title>
+                        <abbr>70</abbr>
+                    </head>
+                    <p xml:id="d001l238" n="1">Comme tous les compaignons sont tenu de venir a ceste court.</p>
+                    <lb/>
+                    <p xml:id="d001l239" n="2">&lt;a&gt; [T]ous les compaignons de l'ordre seront et sont tenu de venir a la dite
+                    court de la Trinité, quel que part qu'il soient,</p>
+                    <p xml:id="d001l240" n="3">&lt;b&gt; se maladie ou autre juste cause ne les excusoit,</p>
+                    <p xml:id="d001l241" n="4">&lt;c&gt; ou ce il n'avoient licence du prince de non venir a celle court, par ces
+                    lettres ou de bouce.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c071">
+                    <head>
+                        <title>71.</title>
+                        <abbr>71</abbr>
+                    </head>
+                    <p xml:id="d001l242" n="1">Comme en ceste court se criera ou l'autre court general se tenra.</p>
+                    <lb/>
+                    <p xml:id="d001l243" n="2">&lt;a&gt; [L]a dite court seant, le prince fera crier et assavoir publiquement en
+                    la dite court le royaume ou païs ou quel l'autre court general prochain venant se
+                    tenra l'an revolu.</p>
+                    <p xml:id="d001l244" n="3">&lt;b&gt; Et es festes de Pasques devant la dite court prochain venant dessus dite,
+                    fera crier publiquement en la mestre cité ou ville du dit roiaulme ou païs ou ce doit
+                    tenir la dite court, et fera nommer et crier la cité, ville ou chastel ou se tenra
+                    la dite court prochaine general.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c072">
+                    <head>
+                        <title>72.</title>
+                        <abbr>72</abbr>
+                    </head>
+                    <p xml:id="d001l245" n="1">Come chascun qui justement fust enpeschié est tenu de y mander un message.<lb/>(f.
+                    12r) [S]e aucun des compaignons daffailloit de venir a la dite feste et court, et
+                    sur ce n'eust licence du dit prince comme dit est, et eust juste cause pour quoi il
+                    ne peust venir a la dite court, il sera et soit tenu de mander y message convenable,
+                    selont son estat, portant ces lettres contenans la cause pour quoi il ne peust venir
+                    en soy excusant, toutes fois se bonnement le pouent fere.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c073">
+                    <head>
+                        <title>73.</title>
+                        <abbr>73</abbr>
+                    </head>
+                    <p xml:id="d001l246" n="1">Conbien paiera chascun pour le premier deffaut.</p>
+                    <lb/>
+                    <p xml:id="d001l247" n="2">&lt;a&gt; [S]e aucun des compaignons qui n'eust licence de [non] venir a la dite court
+                    par le prince, comme dit est, deffailloit de y venir, et ne mandast pour excuser personne
+                    convenable, se bonnement le pouoit faire, comme dit est devant, se il estoit roy,
+                    pour le premier deffaut poiera et sera tenu de donner la value de cent florins d'or
+                    a la chapelle de l'ordre,</p>
+                    <p xml:id="d001l248" n="3">&lt;b&gt; les quielx seront despenduz au profit de la chapelle. Et aussi tout ce qui
+                    por ce deffaut par autres de l'ordre se poiera sera ainssi despendu comme est dit.</p>
+                    <p xml:id="d001l249" n="4">&lt;c&gt; Et se il estoit duc ou prince de grant estat, por tel deffaut poiera quatre-vint
+                    florins.</p>
+                    <p xml:id="d001l250" n="5">&lt;d&gt; S'il estoit conte, il poiera soissante florins;</p>
+                    <p xml:id="d001l251" n="6">&lt;e&gt; s'il estoit baron, poiera quarante florins;</p>
+                    <p xml:id="d001l252" n="7">&lt;f&gt; et se il estoit simple chevalier, poiera vint florins.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c074">
+                    <head>
+                        <title>74.</title>
+                        <abbr>74</abbr>
+                    </head>
+                    <p xml:id="d001l253" n="1">Conbien poiera chascun por le secont deffaut.<lb/>[P]our le secont deffaut, c'est
+                    asavoir se aucun defailloit encore a l'autre court de non y venir, et eust failli
+                    a l'autre devant desrain passé, par tel maniere come dessus est dit, il poiera tant
+                    comme pour le premier deffaut, selont son estat, et encore ne portera d'un an la devise
+                    [et] por cellui an perdra son siege. Mes l'an conpli, si viennent a la court et poie
+                    son deffaut, lui sera la devise et son siege restitué comme devant.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c075">
+                    <head>
+                        <title>75.</title>
+                        <abbr>75</abbr>
+                    </head>
+                    <p xml:id="d001l254" n="1">Combien il poiera por le tiers deffaut.</p>
+                    <lb/>
+                    <p xml:id="d001l255" n="2">&lt;a&gt; [P]our le tiers deffaut de non venir a la court comme est dit devant, chascun
+                    ainssi deffaillant perdra du tout l'ordre et devise, sanz jamés la recevoir, et sera
+                    par le prince au tiers deffaut la court (f. 12v) seant privé de l'ordre et compaignie.</p>
+                    <p xml:id="d001l256" n="3">&lt;b&gt; Et ce escripra le dit prince a touz roys et princez de grant estat, et comment
+                    et porquoi il est privé de l'ordre.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c076">
+                    <head>
+                        <title>76.</title>
+                        <abbr>76</abbr>
+                    </head>
+                    <p xml:id="d001l257" n="1">Bien et loialment se doit tenir la court.<lb/>[L]e prince avec les compaignons presens
+                    a la court bien et loialment a l'onnour et profit du dit prince et de la compaignie
+                    tenront la dite court a leur poueir.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c077">
+                    <head>
+                        <title>77.</title>
+                        <abbr>77</abbr>
+                    </head>
+                    <p xml:id="d001l258" n="1">[Comme les compaignons termineront tous descors entre eulz].</p>
+                    <lb/>
+                    <p xml:id="d001l259" n="2">&lt;a&gt; [P]remierement, tous descors, questions, guerres et haines qui fussent entre
+                    aucuns des compaignons, metront a fin et termineront, et feront et metront peiz entre
+                    leur a leur poueir.</p>
+                    <p xml:id="d001l260" n="3">&lt;b&gt; Et ou cas qu'il ne peussent mettre paiz et acort entre les descordans, le
+                    prince deffendra aux deus parties sur poine de privacion de l'ordre qu'il ne facent
+                    l'un contre l'autre chose nulle de fait [ou autrement], mais procedent et puissent
+                    proceder sur leur descort, question ou guerre devant leur juge et seignour ordinaire
+                    come raison veult.</p>
+                    <p xml:id="d001l261" n="4">&lt;c&gt; Et qui autrement le fera sera privé de l'ordre.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c078">
+                    <head>
+                        <title>78.</title>
+                        <abbr>78</abbr>
+                    </head>
+                    <p xml:id="d001l262" n="1">Comme en cest cort le prince metra a fin toutes chouses mises en son ordenance.</p>
+                    <lb/>
+                    <p xml:id="d001l263" n="2">&lt;a&gt; [T]outes appellations des compaignons ou questions misses en l'ordenance
+                    du prince au conseil des compaignons, terminera et metra a fin le prince, seant la
+                    dite court.</p>
+                    <p xml:id="d001l264" n="3">&lt;b&gt; Et de son ordenance et sentence sur ce dessus dit ne pourra jamés nul appeler
+                    ne metre devant autre juge depuisque en l'ordenance du prince se sera mis, et le prince
+                    sur ce aura donné sentence en la dite court.</p>
+                    <p xml:id="d001l265" n="4">&lt;c&gt; Et qui autrement le fera sera privé de l'ordre.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c079">
+                    <head>
+                        <title>79.</title>
+                        <abbr>79</abbr>
+                    </head>
+                    <p xml:id="d001l266" n="1">Comme le prince pourra faire autres chapistres et ajuster a ces presens et aussi anichiler
+                    de ceux devant fait.<lb/>[A] la dite court le prince, ou cas que tous les compaignons
+                    de l'ordre fussent present, ou que il eust esté crié en l'autre court general precedent
+                    que nouviauls chapistres et ordenances le prince voudroit faire, ou anichiller aucuns
+                    devant fait, a la (f. 13r) court prochain venant, et non autrement, pourra par la
+                    voulenté et [a]cort des compaignons, ou des deus pars au moins, fere nouvialx chapitres
+                    et ordenances, et aussi anichiller et muer des chapitres devant fait et ordené.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c080">
+                    <head>
+                        <title>80.</title>
+                        <abbr>80</abbr>
+                    </head>
+                    <p xml:id="d001l267" n="1">Comme a tous chapistres fait de nouvel chascun sera tenu come aux premiers.</p>
+                    <lb/>
+                    <p xml:id="d001l268" n="2">&lt;a&gt; [E]t aux chapistres et ordenances ainssi faites a la dite court comme dit
+                    est, et au contenu en ces chapistres et ordenances, seront tenu tous les compaignons
+                    de l'ordre selont la forme et tenor des dessus diz chapistres et ordenances, aussi
+                    come au premiers chapistres devant fait.</p>
+                    <p xml:id="d001l269" n="3">&lt;b&gt; Et aussi seront absoubz des chapistres anichillés du tout se aucun fust.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c081">
+                    <head>
+                        <title>81.</title>
+                        <abbr>81</abbr>
+                    </head>
+                    <p xml:id="d001l270" n="1">Comme en ceste court tous deffaillans seront puniz selont leur deffaut.</p>
+                    <lb/>
+                    <p xml:id="d001l271" n="2">&lt;a&gt; [E]n ceste court ceulx qui auront fait contre les chapistres, et le contenu
+                    de aucun d'eulz, seront puni selont l'ordre et les chapistres, ainssi et par tel maniere
+                    comme commandent les chapistres et prdenances de l'ordre.</p>
+                    <p xml:id="d001l272" n="3">&lt;b&gt; Et qui aura fait [chose] pour quoy il soit privé ou doye estre privéz, lors
+                    en celle court, s'il est devant privéz, sera denoncié privé de l'ordre.</p>
+                    <p xml:id="d001l273" n="4">&lt;c&gt; Et s'il doit estre privéz, lors sera privé et denoncié privé publiquement
+                    en la dite court, selont les chapistres et ordenances de l'ordre.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c082">
+                    <head>
+                        <title>82.</title>
+                        <abbr>82</abbr>
+                    </head>
+                    <p xml:id="d001l274" n="1">Comme le jour de la Trinité le prince et tous les conpaignons oïront la grant messe
+                    sollempnement.</p>
+                    <lb/>
+                    <p xml:id="d001l275" n="2">&lt;a&gt; [C]elle court seant le jour de la Sainte Trinité, le prince et tous les
+                    compaignons oïrront la grant messe chantee, et les vespres aussi, en une eglise la
+                    quelle vourra le prince a ce eslire, se la court ne se tenoit ou lieu [ou] fust la
+                    chappelle de l'ordre.</p>
+                    <p xml:id="d001l276" n="3">&lt;b&gt; Car [lors] en la dite chappelle oïroient le dit service. Et sera en l'ordenance
+                    et voulenté [du dit prince] de donner lieu au dit service.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c083">
+                    <head>
+                        <title>83.</title>
+                        <abbr>83</abbr>
+                    </head>
+                    <p xml:id="d001l277" n="1">Comme le prince et tous les compaignons ce jour seront vestu.</p>
+                    <lb/>
+                    <p xml:id="d001l278" n="2">&lt;a&gt; [C]e jour de la Trinité le prince et chascuns des compaignons seront vestu
+                    par telle maniere. Premierement, le gippon ou cote courte dessouz le sercot sera de
+                    pers. Le sercot (qui en France est appellé [f. 13v] villain) sera de balnc, lonc jusques
+                    a mie jambe, et large asséz, et chevit [et vermeilles], le mantiau et le chaperon
+                    seront vermel. Et cest habit tous porteront ce jour dessus dit, et non plus.</p>
+                    <p xml:id="d001l279" n="3">&lt;b&gt; Au dyner seront ainssi vestu fors de mantel et de chaperon, qui n'aront
+                    pas, mes en lieu de chaperon aura chascun un chapellet de flour ou de verdure.</p>
+                    <p xml:id="d001l280" n="4">&lt;c&gt; Et le dit jour, ce aucun cas avenoit qu'il s'armast et feist fait d'armes,
+                    il sera obligié a soi vestir par tel maniere comme dit est, mais s'armera a sa voulenté.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c084">
+                    <head>
+                        <title>84.</title>
+                        <abbr>84</abbr>
+                    </head>
+                    <p xml:id="d001l281" n="1">Comme en ceste cort por le profit et honnour de la compaignie chascun est de dire
+                    ce que lui samblera bon et expedient.</p>
+                    <lb/>
+                    <p xml:id="d001l282" n="2">&lt;a&gt; [E]n ceste court le prince, au conseill et voulenté et aide des compaignons,
+                    toutes chouses expediens et neccessairez por l'onnour, estat et profit de la compaignie
+                    ordeneront et metront a effet, et en eure ce par eulz ordené d'estre fait.</p>
+                    <p xml:id="d001l283" n="3">&lt;b&gt; Et chascun en celle court sera tenu par son serement de annoncier et dire
+                    au prince ce que lui samblera bon, expedient ou neccessaire por l'onnour, profit et
+                    estat de la compaignie, [pour que la dicte compagnie] puisse touz jours meillourer
+                    et estre essaucié, et aussi estre gardé de domage, deshonnour et villainie.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c085">
+                    <head>
+                        <title>85.</title>
+                        <abbr>85</abbr>
+                    </head>
+                    <p xml:id="d001l284" n="1">Comme en ceste court chascun poura accuser tout autre.</p>
+                    <lb/>
+                    <p xml:id="d001l285" n="2">&lt;a&gt; [C]hascun des compaignons en ceste court pourra accuser tout compaignon
+                    de l'ordre qui en aucune maniere luy eust fait tort,</p>
+                    <p xml:id="d001l286" n="3">&lt;b&gt; et le prince a chascun sera tenu de faire justice selon son pouer, au conseil
+                    des compaignons.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c086">
+                    <head>
+                        <title>86.</title>
+                        <abbr>86</abbr>
+                    </head>
+                    <p xml:id="d001l287" n="1">Comme en ceste court touz ceulz qui auront failli seront puny.</p>
+                    <lb/>
+                    <p xml:id="d001l288" n="2">&lt;a&gt; [E]n ceste court tout compaignon qui aura fait contre tel deffaut por quoi
+                    il doie estrepuni ou privéz de [l'ordre], sera par le prince au conseil des compaignons
+                    puny ou privéz, aussi come son defaut requiert et l'ordre commande.</p>
+                    <p xml:id="d001l289" n="3">&lt;b&gt; Et ce pourra faire le prince sanz les compaignons (se n'estoit chose grant,
+                    pour quoy deust estre requis le conseil des compaignons), toutes foiz qu'il venra
+                    a sa cognoissance.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c087">
+                    <head>
+                        <title>87.</title>
+                        <abbr>87</abbr>
+                    </head>
+                    <p xml:id="d001l290" n="1">Comme en ceste court qui devant aura esté [privé de l'ordre se criera].<lb/>(f. 14r)
+                    [T]out compaignon qui por son deffaut aura esté privé de l'ordre en ceste court, se
+                    criera [et] manifestera come il est privé de l'ordre, et que tous les compaignons
+                    sont absoulz de touz seremenz et compaignie qu'il avoient eue a celluy devant, [et]
+                    que l'ore en avant nul ne le tiengne pour compaignon.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c088">
+                    <head>
+                        <title>88.</title>
+                        <abbr>88</abbr>
+                    </head>
+                    <p xml:id="d001l291" n="1">Comme en ceste court chascun contera ses aventures.</p>
+                    <lb/>
+                    <p xml:id="d001l292" n="2">&lt;a&gt; [T]ouz les compaignons, et chascun a par soy, soit et sera tenu de conter
+                    et dire au prince [et] aux compaignons a ceste court, toutes les aven[tures] notables,
+                    bonnes et mauveses, qui en cel an lui seront, bien et loialment, sanz mentir de rien,
+                    tant d'armes comme autrement.</p>
+                    <p xml:id="d001l293" n="3">&lt;b&gt; Et aussi ou cas que aucun des compaignons sceust les aventures d'un autre
+                    qui ne fust present a la court, ou qui dire ne les vousist, por honte ou aultrement,
+                    il soit et sera tenu de les dire et conter bien et loiaulment come les siennes.</p>
+                    <p xml:id="d001l294" n="4">&lt;c&gt; Et se aucun estoit qui n'eust esté a la court precedent, et venist a ceste,
+                    il dira toutes les aventures qui en deus ans luy seront avenues,</p>
+                    <p xml:id="d001l295" n="5">&lt;d&gt; se n'estoit d'amours.</p>
+                    <p xml:id="d001l296" n="6">&lt;e&gt; Et toutes foiz que aucun des compaignons de l'ordre venra a la presence
+                    du prince sanz attendre autre court, pourra dire et conter toutes ces aventures comme
+                    dit est devant.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c089">
+                    <head>
+                        <title>89.</title>
+                        <abbr>89</abbr>
+                    </head>
+                    <p xml:id="d001l297" n="1">Comme en ceste ordre seront deus livrez et quielz.</p>
+                    <lb/>
+                    <p xml:id="d001l298" n="2">&lt;a&gt; [E]n ceste ordre seront deus livrez: l'un sera pour mettre en escript, et
+                    ou quel se mettront en escript, toutes les aventures bonnes et mauveses, ainssi comme
+                    chascun des compaignons les aura dites et contees, sanz faire autre inquisicion. Et
+                    cest livre sera apellé Le livre et romans des preuz.</p>
+                    <p xml:id="d001l299" n="3">&lt;b&gt; L'autre livre sera apellé Le romans de la nef. Et en celui romanz seront
+                    mis en escript pour perpetuel memoire toutes les notables aventures qui seront avenues
+                    et qui auront fait les compaignons, ou aucun d'eulz, par tel maniere qui premierement
+                    [ont esté] es[crip]tes ou Livre des preuz.</p>
+                    <p xml:id="d001l300" n="4">&lt;c&gt; Le prince et les compaignons s'enformeront s'il est ainssi come il est ou
+                    dit Livre des preuz escript. Et [se] ainssi le treuvent por verité et de certain faite
+                    sur ce bonne et vraie inquisicion, le prince fera ces aventures, telles come [pour]
+                    verité les aura trouvees, translater du dit Livre des preuz el Romainz de la nef,
+                    bien et loialment, sanz favour nulle ne haine, quelle que soit, par les plus belles
+                    paroles (f. 14v) que on pourra, toutes foiz, c'est la substance du fait et verité
+                    non changié ne muee aucunement.</p>
+                    <p xml:id="d001l301" n="5">&lt;d&gt; Et nullement ne se metront en escript en cestui Romans de la nef ce n'est
+                    par le commandement du prince et des compaignons, et en la mestre court de la Trinité.</p>
+                    <p xml:id="d001l302" n="6">&lt;e&gt; Mais ou Livre des preus, toutes foiz que aucun des compaignons devant le
+                    prince contera et dira ses aventures, par entencion qu'il soient mis ou dit Livre
+                    des preuz, il seront escriptes ou dit livre ainssi comme dit est, sanz plus attendre.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c090">
+                    <head>
+                        <title>90.</title>
+                        <abbr>90</abbr>
+                    </head>
+                    <p xml:id="d001l303" n="1">Comme seront gardez ces deus livrez.</p>
+                    <lb/>
+                    <p xml:id="d001l304" n="2">&lt;a&gt; [C]es deus livrez fera garder le prince par quelque personne notable [a
+                    ce eslire] qui voudra.</p>
+                    <p xml:id="d001l305" n="3">&lt;b&gt; L'un, c'est assavoir le Livre des preuz, fera touz jours [avec soy] porter
+                    le dit prince quel part qu'il voist.</p>
+                    <p xml:id="d001l306" n="4">&lt;c&gt; L'autre, Romans de la nef, fera garder ou il vourra,</p>
+                    <p xml:id="d001l307" n="5">&lt;d&gt; mes toutes fois a la mestre [court] le fera tous jours aporter.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c091">
+                    <head>
+                        <title>91.</title>
+                        <abbr>91</abbr>
+                    </head>
+                    <p xml:id="d001l308" n="1">Comme sera puni qui mentiront et tro[u]ant ces aventurez.</p>
+                    <lb/>
+                    <p xml:id="d001l309" n="2">&lt;a&gt; [S]e aucun contoit ces aventures, et soient mises en escript ou dit Livre
+                    des preuz, et autrement se trouvoit qu'il n'eust dit et conté vrais, soit de ce, ou
+                    de partie trouvé manchongier, son deffaut et manchonge sera criee en la court general
+                    par les heraus.</p>
+                    <p xml:id="d001l310" n="3">&lt;b&gt; Et ne pourtera l'ord[r]e plus jusques a tant qu'il ait garnie la nef d'aucunes
+                    des choses qui y faillent, excepté des cordes.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c092">
+                    <head>
+                        <title>92.</title>
+                        <abbr>92</abbr>
+                    </head>
+                    <p xml:id="d001l311" n="1">Comme tous compaignons descordans leur descort pourront mectre en l'ordenance du prince.</p>
+                    <lb/>
+                    <p xml:id="d001l312" n="2">&lt;a&gt; [S]e entre aucun des compaignons avoit et estoit descort ou question, quelle
+                    que fust, de l'acort et voulenté des deus parties pourront mettre leur questiono u
+                    descort, quel qu'il soit, en l'ordenance du prince.</p>
+                    <p xml:id="d001l313" n="3">&lt;b&gt; Et le prince lors pourra et devra metre acort et paiz entre leur, et determinera
+                    et ordenera sur ce, ainssi comme verra estre a faire.</p>
+                    <p xml:id="d001l314" n="4">&lt;c&gt; Et son ordenance en cest cas sera tenue pour sentence diffinitive, de la
+                    quelle en cest cas ne pourra nul apeller, ne devant autre faire convenir, puis que
+                    par le prince de la voulenté des deus parties aura estey jugé et ordené.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c093">
+                    <head>
+                        <title>93.</title>
+                        <abbr>93</abbr>
+                    </head>
+                    <p xml:id="d001l315" n="1">Comme chascun est tenu de porter la devise.<lb/>[C]hascun des compaignons de l'ordre
+                    soit et sera tenu de porter la devise de l'ordre tous les jours de l'an, c'est asavoir
+                    la nef. (f. 15r)</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c094">
+                    <head>
+                        <title>94.</title>
+                        <abbr>94</abbr>
+                    </head>
+                    <p xml:id="d001l316" n="1">Quel paine aura qui deffaudra.</p>
+                    <lb/>
+                    <p xml:id="d001l317" n="2">&lt;a&gt; [E]t se aucun par aventure deffailloit de ce faire, pour chascun jour qui
+                    deffaudroit de porter la dite ordre et devise, paiera un florin d'or,</p>
+                    <p xml:id="d001l318" n="3">&lt;b&gt; lequel florin sera destribuéz et donné pour l'ame des compaignons trespasséz
+                    de l'ordre, et pour le salut des vis.</p>
+                    <p xml:id="d001l319" n="4">&lt;c&gt; Et sera baillié a l'aumosnier de la chapelle, quant elle sera faite et fondee.</p>
+                    <p xml:id="d001l320" n="5">&lt;d&gt; Et jusques a tant qu'elle soit fondee, sera un deputé par le prince a ce
+                    faire.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c095">
+                    <head>
+                        <title>95.</title>
+                        <abbr>95</abbr>
+                    </head>
+                    <p xml:id="d001l321" n="1">Comme plus legierement sera puny qui confessera son deffaut de bonne voulenté [que
+                    par contraire].         <lb/>[S]e aucun des compaignons par aventure eust failli et
+                    fait contre l'ord[r]e et chapistres d'icelle, ou contre aucun d'eulz, et por ce deffaut
+                    fust obligié de porter paine, quelle quel soit, et son deffaut publiquement au prince
+                    devant tous les compaignons en la court general estans, sanz contrainte [et accusation
+                    de autruy, confessast et cogneust] de sa pure voulenté, le prince, au conseill des
+                    compaignons, la poine qu'il deust porter et avoir pour ce deffaut selont les chapistrez
+                    et ordenance de l'ordre, pourra muer en autre poyne, et aussi aminis[t]ier de celle
+                    poine, ainssi comme bon leur semblera. Car por ce que de sa voulenté, sanz contrainte,
+                    confesse son deffaut, l'en ly doit plus de legier pardonner.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c096">
+                    <head>
+                        <title>96.</title>
+                        <abbr>96</abbr>
+                    </head>
+                    <p xml:id="d001l322" n="1">Comme chascun est tenu d'acuser les deffaillans.</p>
+                    <lb/>
+                    <p xml:id="d001l323" n="2">&lt;a&gt; [C]hascun des compaignons, et le prince aussi, soit et sera tenu de reveler,
+                    accuser et denoncier touz ceulz de l'ordre qu'il saura avoir failly et fait deffaut
+                    contre l'ordre, ou contre aucun des chapistrez ou ordenan[ces] d'ycelle, au dit prince,
+                    la court de la Trinité seant.</p>
+                    <p xml:id="d001l324" n="3">&lt;b&gt; Et ne lessera nul d'acuser l'autre pour amour ne favour qu'il ait a lui,
+                    ne aussi pour haine ne rancour ne accusera autrui.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c097">
+                    <head>
+                        <title>97.</title>
+                        <abbr>97</abbr>
+                    </head>
+                    <p xml:id="d001l325" n="1">Comme sera puni qui fausement autrui accusera.</p>
+                    <lb/>
+                    <p xml:id="d001l326" n="2">&lt;a&gt; [S]e par aventure estoit que aucuns des compaignons accusast aucun de ses
+                    compaignons faussement de aucun forfait et deffaut contre l'ordre et chapistres d'ycelle,
+                    sceue et conneu la verité, comment faussement et malvaisement est, et aura esté accusé
+                    par aucun des compaignons come dit est, le prince, la court seant, au conseil des
+                    compaignons, privera de l'ordre et compaignie cellui qui faussement aura son compaignon
+                    accusé.</p>
+                    <p xml:id="d001l327" n="3">&lt;b&gt; Et se criera en la dite court comme il est privé de l'ordre, et pour quoy.</p>
+                    <p xml:id="d001l328" n="4">&lt;c&gt; Et aussi l'escrip(f. 15v)ra le prince a touz rois et princes de grant estat.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c098">
+                    <head>
+                        <title>98.</title>
+                        <abbr>98</abbr>
+                    </head>
+                    <p xml:id="d001l329" n="1">Comme sera puny qui son deffaut ne vourra confesser.<lb/>[S]e aucun estoit par aucun
+                    de ses compaignons vraiement accusé de aucun deffaut qu'il eust fait contre l'ordre
+                    ou aucun des chapistres, et le neast, et ne vousist confesser, sceue la verité de
+                    ce deffaut et prouvé contre luy, le prince le punira selonc ce que commandent les
+                    chapistres de l'ordre, sanz nulle misericorde.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c099">
+                    <head>
+                        <title>99.</title>
+                        <abbr>99</abbr>
+                    </head>
+                    <p xml:id="d001l330" n="1">De tenir la court en l'absence [du prince. Comme le prince en son absence] fera lieutenent
+                    por tenir la court. <lb/>[O]u cas que le prince ne peust estre en personne a la court
+                    general p[our la] tenir, il soit et sera tenu de y mander et ordener ou deus, ou trois,
+                    ou tant comme il vourra, de lieutenans por la dite court tenir.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c100">
+                    <head>
+                        <title>100.</title>
+                        <abbr>100</abbr>
+                    </head>
+                    <p xml:id="d001l331" n="1">Comme les lieustenaux tenrront la court.</p>
+                    <lb/>
+                    <p xml:id="d001l332" n="2">&lt;a&gt; [O]u conseill des compaignons, les lieutenanz ordenés par le prince pour
+                    la court tenir la tenrront bien et loialment, a l'onnour et profit du prince et de
+                    la compaignie.</p>
+                    <p xml:id="d001l333" n="3">&lt;b&gt; Et ce jureront les diz lieutenans faiz par le prince, toutes foiz que par
+                    le dit prince seront fait et mandé lieutenans a ce faire.</p>
+                    <p xml:id="d001l334" n="4">&lt;c&gt; Et aussi jureront de non exceder leur mandement et poissance en nul cas
+                    du monde, mes tenrront la court ainssi et par tel maniere comme les chapistres de
+                    l'ordre veullent et commandent, sanz faillir.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c101">
+                    <head>
+                        <title>101.</title>
+                        <abbr>101</abbr>
+                    </head>
+                    <p xml:id="d001l335" n="1">Comme seront puni s'il fessoient oultre leur mandement et poissance.<lb/>[S]e par
+                    aventure vouloient et fesoient oultre leur pouoir les lieutenanz du dit prince en
+                    tenant la dite court, le prince les punira a sa voulenté et selont la qualité du forfait.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c102">
+                    <head>
+                        <title>102.</title>
+                        <abbr>102</abbr>
+                    </head>
+                    <p xml:id="d001l336" n="1">Que pourront faire les lieutenans.</p>
+                    <lb/>
+                    <p xml:id="d001l337" n="2">&lt;a&gt; [L]es lieutenans dessus dis, au conseill des compaignons, pourront toutes
+                    chouses faire que le prince pourroit s'il [au] lieu estoit present (f. 16r) en la
+                    dite court, exceptéz ce qui s'ensuient.</p>
+                    <p xml:id="d001l338" n="3">&lt;b&gt; Premierement, les lieutenans ne pourront nul nouvial compaignon recevoir
+                    en l'ordre, ne la mander a nul absent.</p>
+                    <p xml:id="d001l339" n="4">&lt;c&gt; Et ne pourront faire chapistres nouviaulx, ne anichiller aucun des premiers
+                    chapistres.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c103">
+                    <head>
+                        <title>103.</title>
+                        <abbr>103</abbr>
+                    </head>
+                    <p xml:id="d001l340" n="1">Des lieutenanz.</p>
+                    <lb/>
+                    <p xml:id="d001l341" n="2">&lt;a&gt; [I]lz ne pourront faire autre chose en la dite court fors seulement traitier
+                    avec les compaignons du bien, honnour, estat et profit de l'ordre et compaignie.</p>
+                    <p xml:id="d001l342" n="3">&lt;b&gt; Mes toutes foiz ne pourront sur ce faire status ne ordenances sanz la voulenté
+                    et acort du prince.</p>
+                    <p xml:id="d001l343" n="4">&lt;c&gt; Et ou cas qu'il semblast bon et expedient de ordener et faire aucuns estatus
+                    aux lieutenans et aux compaignons presenz a celle court, ainssi comme il auront fait
+                    et deliberé, sur ce manderont et escriperont au prince.</p>
+                    <p xml:id="d001l344" n="5">&lt;d&gt; Et lors le prince, au conseill des compaignons presens avec luy, pourra
+                    ce que ces lieutenans auront fait et luy mandé confermer.</p>
+                    <p xml:id="d001l345" n="6">&lt;e&gt; Et s'il le conferme, vaudra tant comme s'il eust estey fait en la court
+                    par le dit prince present.</p>
+                    <p xml:id="d001l346" n="7">&lt;f&gt; Et se au dit prince ne plaist a confermer ce que par ces lieutenans aura
+                    esté fait et mandé comme dit est, nullement ne vaura ne sera de value. Ainz pourra
+                    le dit prince anichiller a sa voulenté.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c104">
+                    <head>
+                        <title>104.</title>
+                        <abbr>104</abbr>
+                    </head>
+                    <p xml:id="d001l347" n="1">Comme de toutes ordenances et sentences donnees et faites par les lieutenans chascun
+                    pourra apeller.<lb/>[O]u cas que par les lieuxtenans fust mis paiz et acort entre
+                    aucuns des compaignons en la dite court, ou fust par eulz ordené sur leur descort,
+                    et nul d'eulz n'apellast [de leur ordenance], ce qu'il auront fait sur ce et ordené
+                    vaudra perpetuelment, comme se par le prince fust fait, se par eulz, ou aucun d'eux,
+                    ne fust appellé au prince.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c105">
+                    <head>
+                        <title>105.</title>
+                        <abbr>105</abbr>
+                    </head>
+                    <p xml:id="d001l348" n="1">Comme de toutes sentences et ordenances faites par les lieutenans chascun pourra apeller.</p>
+                    <lb/>
+                    <p xml:id="d001l349" n="2">&lt;a&gt; [D]e toute ordenance, sentence ou autre chouses faite en la dite court par
+                    les lieutenans pourra chascun appeller au prince.</p>
+                    <p xml:id="d001l350" n="3">&lt;b&gt; Et le dit prince, veue et sceue l'apellacion, au conseill des compaignons
+                    terminera et metra a fin.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c106">
+                    <head>
+                        <title>106.</title>
+                        <abbr>106</abbr>
+                    </head>
+                    <p xml:id="d001l351" n="1">Comme il tenrront la court aussi come ce le prince y fust present.</p>
+                    <lb/>
+                    <p xml:id="d001l352" n="2">&lt;a&gt; [I]lz tenrront la court par telle maniere come se le prince fust present,
+                    et feront le service et ce vestiront et toutes autres choses [feront] comme ce le
+                    (f. 16v) prince i fust present,</p>
+                    <p xml:id="d001l353" n="3">&lt;b&gt; excepté que nul ne serra ou lieu du prince, mesa u secont lieu seront ces
+                    lieutenans.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c107">
+                    <head>
+                        <title>107.</title>
+                        <abbr>107</abbr>
+                    </head>
+                    <p xml:id="d001l354" n="1">Comme les lieutenans ordeneront en celle court ou [et] en quel lieu l'autre court
+                    se tenra.<lb/>[L]es lieutenans dessus dis ordeneront, au conseill et voulenté des
+                    compaignons, le roialme ou quel se tenra la court general prochain venant.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c108">
+                    <head>
+                        <title>108.</title>
+                        <abbr>108</abbr>
+                    </head>
+                    <p xml:id="d001l355" n="1">Comme les lieutenans pourront faire et establir choses neccessaires.<lb/>[T]outes
+                    fois les diz lieutenans, au conseil et voulenté des compaignons, pourront, se par
+                    aventure avenoit aucunes chouses qui delaient ne peust souffrir sanz damage ou deshonnour
+                    de l'ordre, ou d'aucun des compaignons, sur ce ordener et faire comme bon leur samblera,
+                    et en ce cas sanz confirmacion du prince sera ce qu'il auroient fait et ordené ferme
+                    et estable, ainssi comme par eulz sera fait et ordené.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c109">
+                    <head>
+                        <title>109.</title>
+                        <abbr>109</abbr>
+                    </head>
+                    <p xml:id="d001l356" n="1">Comme tout ce qu'il auront fait il doivent escripre au prince. <lb/>[T]outes chouses
+                    faites, traitiees et ordenees par les lieutenans en la dite court comme dit est, escripront
+                    et manderont au prince tout ainssi comme par eulz aura esté fait et ordené, tant de
+                    la court a venir come de toutes autres chouses, quelles qu'il soient.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c110">
+                    <head>
+                        <title>110.</title>
+                        <abbr>110</abbr>
+                    </head>
+                    <p xml:id="d001l357" n="1">Comme et quant la poissance des lieutenans expirer[a].<lb/>[T]enue la court dessus
+                    dite comme dit est, la poissance des lieutenans dessus diz expirera, ne n'auront plus
+                    [aucun] pouoir, et ne seront plus lieutenans.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c111">
+                    <head>
+                        <title>111.</title>
+                        <abbr>111</abbr>
+                    </head>
+                    <p xml:id="d001l358" n="1">Comme touz les compaignons sont tenu de venir a court aux quatre mestres festes de
+                    l'ordre.</p>
+                    <lb/>
+                    <p xml:id="d001l359" n="2">&lt;a&gt; [A] ceste court general de la Trinité seront tenuz tous les compaignons
+                    de venir, sur la poine ordenee come dit est. Et aussi en ces autres trois, c'est assavoir
+                    a la feste de Touz Sains, de Noël et de Pasques, seront tenu de venir tous les conpaignons
+                    qui soient pres du lieu, ou la personne du prince sera a celle feste dessus dite,</p>
+                    <p xml:id="d001l360" n="3">&lt;b&gt; se maladie ou autre juste cause ne l'escusoit,</p>
+                    <p xml:id="d001l361" n="4">&lt;c&gt; sur la poine dessus dite. (f. 17r)</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c112">
+                    <head>
+                        <title>112.</title>
+                        <abbr>112</abbr>
+                    </head>
+                    <p xml:id="d001l362" n="1">Aucunes ordenances et estatus.</p>
+                    <lb/>
+                    <p xml:id="d001l363" n="2">&lt;a&gt; [L]e prince et la compaignie auront en toutes fais de l'ordre et compaignie
+                    un seel commun,</p>
+                    <p xml:id="d001l364" n="3">&lt;b&gt; lequel gardera le prince.</p>
+                    <p xml:id="d001l365" n="4">&lt;c&gt; Et de cestui seel toutes lettres mandees et envoieez et faites par le prince
+                    et pour la compaignie touchant l'ordre seront de cest seel seelleez, et nulles autres
+                    lettres non.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c113">
+                    <head>
+                        <title>113.</title>
+                        <abbr>113</abbr>
+                    </head>
+                    <p xml:id="d001l366" n="1">Comme nul des compaignons ne mesdira jamés de gentil fame.</p>
+                    <lb/>
+                    <p xml:id="d001l367" n="2">&lt;a&gt; [P]our ce que touz chevaliers doivent honnourer et portera honnour a toutes
+                    gentilz fames, nul des compaignons de l'ordre jamés ne mesdira ne dira villainie a
+                    nulle gentil fame, soit dame ou damoisele,</p>
+                    <p xml:id="d001l368" n="3">&lt;b&gt; se n'estoit pour l'onnour du prince sauver, ou aucun des compaignons, ou
+                    de son seignour lige, ou de soy, de son pere ou frere, ou autre a qui fust obligié
+                    par serement ou de lignage prochain, toutes fois en disant verité, sans controuver
+                    menchonge.</p>
+                    <p xml:id="d001l369" n="4">&lt;c&gt; Et qui autrement en mesdiroit, se n'estoit par soulaz et jeu, la court general
+                    seant, sera vestu de noir, et aprés [par] l'espasse de deus mois ensuiant,</p>
+                    <p xml:id="d001l370" n="5">&lt;d&gt; et ne serra a table le jour de la Trinité avec les autres.</p>
+                    <p xml:id="d001l371" n="6">&lt;e&gt; Et sera en la voulenté du prince d'autre poyne luy donner, consideré son
+                    mesfait.</p>
+                    <p xml:id="d001l372" n="7">&lt;f&gt; Et si criera son deffaut en la dite court, se n'estoit chose par quoy s'en
+                    peust ensuier damage et peril aucunement.</p>
+                    <p xml:id="d001l373" n="8">&lt;g&gt; Et se prometront, sanz jurer, tous les conpaignons.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c114">
+                    <head>
+                        <title>114.</title>
+                        <abbr>114</abbr>
+                    </head>
+                    <p xml:id="d001l374" n="1">Comme jamés nul des compaignons ne sera homme de compaignie.</p>
+                    <lb/>
+                    <p xml:id="d001l375" n="2">&lt;a&gt; [N]ul des compaignons ne sera jamés homme de compaigné, ne ne sievra compaignie.</p>
+                    <p xml:id="d001l376" n="3">&lt;b&gt; Se n'estoit que aucun plus poissant de luy ly eust fait tort, villanie,
+                    domage ou grant deshonnour, et autrement ne se peust de luy vengier sanz estre homme
+                    de compaigné,</p>
+                    <p xml:id="d001l377" n="4">&lt;c&gt; ou que son seignour ly feist faire et luy vengier, s'en metra hors.</p>
+                    <p xml:id="d001l378" n="5">&lt;d&gt; Et qui autrement le fera, sera privé de l'ordre.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c115">
+                    <head>
+                        <title>115.</title>
+                        <abbr>115</abbr>
+                    </head>
+                    <p xml:id="d001l379" n="1">Comme qui injustement feroit a aucun guerre, nul n'est tenu de aidier.</p>
+                    <lb/>
+                    <p xml:id="d001l380" n="2">&lt;a&gt; [N]ul des compaignons ne mouvera ne fera guerre a autres, quel qui soit,
+                    se n'estoit justement, c'est assavoir qui luy eust fait villanie, deshonnour ou grant
+                    domage, et n'en peust avoir raison se par guerre n'estoit.</p>
+                    <p xml:id="d001l381" n="3">&lt;b&gt; Et qui autrement feroit guerre, le prince ne les compaignons (f. 17v) ne
+                    seront [tenu] a lui aidier aucunement en sa guerre.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c116">
+                    <head>
+                        <title>116.</title>
+                        <abbr>116</abbr>
+                    </head>
+                    <p xml:id="d001l382" n="1">Comme tous les compaignons, hommes du prince, ne seront ne ne pourront estre contre
+                    le prince.<lb/>[T]ous compaignons qui vassax et hommes fussent du prince, por chose
+                    du monde ne pourront estre contre le dit prince, mes en toutes ses guerres et autres
+                    chouses seront et sont tenu de luy aidier comme vassaux et hommes sont tenu a leur
+                    seigneur, et aussi d'abondant come l'ordre veult et commande.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c117">
+                    <head>
+                        <title>117.</title>
+                        <abbr>117</abbr>
+                    </head>
+                    <p xml:id="d001l383" n="1">Comme le prince peut declarer les chapistres obscurs de l'ordre.<lb/>[S]e aucun des
+                    chapistres, ou partie d'aucun, estoient obscurs, que clerement ne se peussent entendre
+                    par les compaignons, le prince, au conseill des compaignons a la court general, les
+                    pourra declarer et donner entendement, tel comme il leur semblera bon.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c118">
+                    <head>
+                        <title>118.</title>
+                        <abbr>118</abbr>
+                    </head>
+                    <p xml:id="d001l384" n="1">Comme en prison et maladie et pouvreté l'un est tenu de l'autre aidier.<lb/>[L]e prince
+                    et tous compaignons, a tout compaignon decheu de son estat par prison ou maladie,
+                    mes que ne fust par sa coulpe, aideront chascun a son pouoir, selont l'estat de celui
+                    compaignon. Et ce jureront le prince et tous les compaignons.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c119">
+                    <head>
+                        <title>119.</title>
+                        <abbr>119</abbr>
+                    </head>
+                    <p xml:id="d001l385" n="1">Comme en l'abitacion des religieux dessuz diz sera faite une grande sale pour les
+                    compaignons.</p>
+                    <lb/>
+                    <p xml:id="d001l386" n="2">&lt;a&gt; [E]n l'abitacion des religieux de la chappelle sera par le prince fondé
+                    et fait une grant sale et tynel,</p>
+                    <p xml:id="d001l387" n="3">&lt;b&gt; [ou] quel sera point la gloire de la chevalerie de l'ordre;</p>
+                    <p xml:id="d001l388" n="4">&lt;c&gt; c'est assavoir le prince ou premier lieu, et aprés chascun selont sa chevalerie
+                    et bonté a l'esgart du prince, et par especial de la chevalerie qu'il auroit faite
+                    depuys l'ordre prise.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c120">
+                    <head>
+                        <title>120.</title>
+                        <abbr>120</abbr>
+                    </head>
+                    <p xml:id="d001l389" n="1">Comme en ceste salle mengeront les compaignons le hour de la Trinité.</p>
+                    <lb/>
+                    <p xml:id="d001l390" n="2">&lt;a&gt; [E]n ceste sale et tynel mengeront le prince et les compaignons le jour
+                    de la Trinité.</p>
+                    <p xml:id="d001l391" n="3">&lt;b&gt; Et seront tous, chascun selont sa bonté et chevalerie a l'esgart du prince.</p>
+                    <p xml:id="d001l392" n="4">&lt;c&gt; Et jusques a tant que soit la chapelle fait et fondee, le prince tenra la
+                    court et le disner ou il vourra.</p>
+                    <p xml:id="d001l393" n="5">&lt;d&gt; Et seront assis a la voulenté et ordenance du prince, comme il luy plaira
+                    et semblera bon. (f. 18r)</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c121">
+                    <head>
+                        <title>121.</title>
+                        <abbr>121</abbr>
+                    </head>
+                    <p xml:id="d001l394" n="1">De fait d'armes. Comme en ceste ordre sera une baniere et quelle.<lb/>[E]n ceste ordre
+                    et compaignie aura et sera une baniere et penon, de quoy le champ sera de guelles
+                    a une nef d'or dedens la mer, desgarnie fors que du mast.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c122">
+                    <head>
+                        <title>122.</title>
+                        <abbr>122</abbr>
+                    </head>
+                    <p xml:id="d001l395" n="1">Comme, et par quel commandement, et por quoy se levera la dite baniere.</p>
+                    <lb/>
+                    <p xml:id="d001l396" n="2">&lt;a&gt; [C]este baniere ou penon se pourra lever et porter par le commandement du
+                    prince, et ou sera sa personne ou un lieutenant (si en a ce fait et ordené par le
+                    dit prince, ou cas que le dit prince n'y fust en personne). En toutes bactailles et
+                    jours de baictailles nommés, en touz encontre touz annemis, en toutes conquestes de
+                    paiz et terres, et touz assaux et combatemens de forteressez, villes et chaustiax,
+                    ou autres terres.</p>
+                    <p xml:id="d001l397" n="3">&lt;b&gt; Mais toutes foiz que se portera et levera la dite baniere ou penon par la
+                    licence et commandement du dit prince, ou y fust en personne, ou non sera, [il doit
+                    estre] acompaignié de diz compaignons de l'ordre et de cinc cent lances,</p>
+                    <p xml:id="d001l398" n="4">&lt;c&gt; se n'estoit en joustez ou en tournoys. Car lors se levera a la voulenté
+                    du prince et acompaignié comme il luy plaira.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c123">
+                    <head>
+                        <title>123.</title>
+                        <abbr>123</abbr>
+                    </head>
+                    <p xml:id="d001l399" n="1">Combien durera l'office du lieutenant por lever la baniere.<lb/>[E]t l'office et poissance
+                    du lieutenant por la dite baniere ou panon faire lever et porter durera tant comme
+                    le prince luy [aura] commis et donné pouoir et licence.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c124">
+                    <head>
+                        <title>124.</title>
+                        <abbr>124</abbr>
+                    </head>
+                    <p xml:id="d001l400" n="1">Comme tous les compaignons obeïront au dit lieutenent en faisant ce.<lb/>[A] celluy
+                    lieutenant ainssi fait par le prince come dit est, obeïront toz les compaignons quant
+                    en cest cas por quoy est ordené par le prince, come il feroient au prince s'il y estoit
+                    en propre personne, et non pas en autres [cas] qui ne touchassent se por quoy est
+                    ordené lieutenant, comme dit est.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c125">
+                    <head>
+                        <title>125.</title>
+                        <abbr>125</abbr>
+                    </head>
+                    <p xml:id="d001l401" n="1">Comme en defafut et negligence du lieutenant [ou] s'il n'estoit habile le prince pou[r]verra
+                    de un autre.<lb/>[S]e le dit lieutenant estoit negligent en ce por quoy est ordené
+                    par le prince, ou ne se portast bien et loialment, ou ne fust habile a ce faire, ou
+                    fust suspet, les compaignons le manderont et feront assavoir au dit prince le plus
+                    tost qu'il pourront, et le prince sera tenu de y pourveoir de un autre, souffisant
+                    et habile por ce faire et acomplir.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c126">
+                    <head>
+                        <title>126.</title>
+                        <abbr>126</abbr>
+                    </head>
+                    <p xml:id="d001l402" n="1">Comme en Prusse se pourra lever la banniere en penon de l'ordre. <lb/>(f. 18v) [S]e
+                    aucuns des compaignons estoient en Prusse, et sur ce eussent especial licence du prince,
+                    il pourront lever et porter baniere ou penon de l'ordre.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c127">
+                    <head>
+                        <title>127.</title>
+                        <abbr>127</abbr>
+                    </head>
+                    <p xml:id="d001l403" n="1">Comme tous les compaignons sont [tenu] de la baniere ou penon acompaignier.<lb/>[T]outes
+                    les foiz que la baniere ou penon se levera, tous les compaignons de l'ordre qui fussent
+                    de l'autre part, si tost qu'il sauront la dite baniere ou penon estre levé, ne seront
+                    contre la dite baniere ou penon, ains venrront a acompaignier la dite baniere ou penon,
+                    se bonnement le pouent faire, sauf leur honeur.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c128">
+                    <head>
+                        <title>128.</title>
+                        <abbr>128</abbr>
+                    </head>
+                    <p xml:id="d001l404" n="1">Comme la baniere levee, por paour de mort nul ne la doit lesser.</p>
+                    <lb/>
+                    <p xml:id="d001l405" n="2">&lt;a&gt; [T]outes les fois que ce portera la dite baniere ou penon, touz les compaignons
+                    de l'ordre (ce il n'estoit official d'armes a ce presens) l'acompaigneront, ne ne
+                    la lesseront por paour de mort ne autrement, ainz la sievront, quelle part qu'elle
+                    soit, et voist en toutes placez,</p>
+                    <p xml:id="d001l406" n="3">&lt;b&gt; en faisant chascun son pouer d'armes a l'onneur de l'ordre et de la compaignie,
+                    et de soy meesmes.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c129">
+                    <head>
+                        <title>129.</title>
+                        <abbr>129</abbr>
+                    </head>
+                    <p xml:id="d001l407" n="1">Qui portera ceste baniere.</p>
+                    <lb/>
+                    <p xml:id="d001l408" n="2">&lt;a&gt; [C]este baniere ou penon portera le meilleur chevalier de l'ordre, et par
+                    especial qui plus fait d'armes depuys l'ordre prise (si n'estoit capitaine ou mareschal),
+                    qui pour lors se trouvera present.</p>
+                    <p xml:id="d001l409" n="3">&lt;b&gt; Et chascun vespre la rendra au prince, que ce meillour de celui venoit aprés,
+                    le prince le matin luy bailleroit la baniere, au conseil des compaignons.</p>
+                    <p xml:id="d001l410" n="4">&lt;c&gt; Et sera par le prince et compaignons presens le meilleur chevalier esleu
+                    por porter la dite baniere et penon.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c130">
+                    <head>
+                        <title>130.</title>
+                        <abbr>130</abbr>
+                    </head>
+                    <p xml:id="d001l411" n="1">Comme sera puni qui la baniere au prince lessera.</p>
+                    <lb/>
+                    <p xml:id="d001l412" n="2">&lt;a&gt; [S]e aucun des compaignons fust en bactalle ou en fait d'armes, et lessast
+                    la baniere ou panon desouz, qui y soit, quel que soit, ou le dit prince ou son lieutenant,
+                    comme dit est, ou s'enfuist ou feist autre recreance, jamés ne ait honnour en l'ordre.
+                    Mais le prince, sceu [son] deffaut, le privera de l'ordre et devise.</p>
+                    <p xml:id="d001l413" n="3">&lt;b&gt; Et a la court general prochain venant se criera son deffaut publiquement,
+                    et comment il est privé de l'ordre.</p>
+                    <p xml:id="d001l414" n="4">&lt;c&gt; Et aussi le prince l'escripra a toz rois et princes de grant estat.</p>
+                    <p xml:id="d001l415" n="5">&lt;d&gt; Se celluy ainssi deffaillant est present a la dite court general, quant
+                    les autres compaignons le jour de la Trinité serront a table, il serra a terre devant
+                    eulx, et mengera avec un chien en une escuelle.</p>
+                    <p xml:id="d001l416" n="6">&lt;e&gt; Ne jamés ne recouverra l'ordre (f. 19r) [et] devise.</p>
+                    <p xml:id="d001l417" n="7">&lt;f&gt; Et les compaignons, et chascun a par soy, sera et soit tenu d'amener a la
+                    dite court touz compaignons ainssi deffaillant, se bonnement et sanz trop grant peril
+                    du corps et damage le pouent faire.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c131">
+                    <head>
+                        <title>131.</title>
+                        <abbr>131</abbr>
+                    </head>
+                    <p xml:id="d001l418" n="1">De garnir la nef. Premierement, [de la] garnir de tymon.</p>
+                    <lb/>
+                    <p xml:id="d001l419" n="2">&lt;a&gt; [P]remierement, qui vourra garnir la nef de tymon et mettre en sa devise
+                    l'un des tymons, il convient qu'il treuve et soit en une bactaille contre Sarrasins,
+                    heretiques ou scismatiques, en la quelle besoigne de sa partie soient au mains mil
+                    et cinc cent hommes, souz baniere ou penon, et de la partie contraire soient au moins
+                    deus mil hommes.</p>
+                    <p xml:id="d001l420" n="3">&lt;b&gt; Et se la besoigne est en terre ferme, il convient qu'il soit un des premiers
+                    combatans et bon chevalier en celle besoigne et de sa bactaille.</p>
+                    <p xml:id="d001l421" n="4">&lt;c&gt; Se en mer estoit, a descendre de la mer contre ses ennemis, convient qu'il
+                    soit un des premiers descendans por combatre, et face comme bon chevalier doit faire,
+                    s'il n'estoit official d'armes, ou fussent por la garde du corps du seigneur de la
+                    bactalle.</p>
+                    <p xml:id="d001l422" n="5">&lt;d&gt; Et ce en leur office faissant se portent bien et honnorablement les diz
+                    officiax, et le seigneur aussi, et soit de l'ordre, le prince et les compaignons luy
+                    donrront poissance de garnir sa nef selont le fait d'armes qui aura esté fait et qu'il
+                    auront deservi.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c132">
+                    <head>
+                        <title>132.</title>
+                        <abbr>132</abbr>
+                    </head>
+                    <p xml:id="d001l423" n="1">Comme [se] garnira la nef de l'autre tymon.<lb/>[Q]ui vourra garnir la nef de l'autre
+                    tymon, il convient qu'il se treuve et soit en une autre et telle besoigne comme il
+                    aura esté por metre le premier, comme dit est dessus, depuys qu'il aura garnie la
+                    nef du premier tymon.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c133">
+                    <head>
+                        <title>133.</title>
+                        <abbr>133</abbr>
+                    </head>
+                    <p xml:id="d001l424" n="1">Comme se garnira la nef du grant tymon.<lb/>[Q]ui du grant tymon voura la nef garnir,
+                    il convient qu'il se treuve et soit en une telle besoigne come il aura esté por metre
+                    l'un des tymons, par tel maniere come dit est devant, et que la besoigne soit en la
+                    conqueste de la Terre Sainte, c'est assavoir du roialme de Jerusalem.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c134">
+                    <head>
+                        <title>134.</title>
+                        <abbr>134</abbr>
+                    </head>
+                    <p xml:id="d001l425" n="1">Comme se garnira la nef d'ancres.</p>
+                    <lb/>
+                    <p xml:id="d001l426" n="2">&lt;a&gt; [Q]ui la nef voura garnir d'ancre, por chascune ancre que metra en la nef
+                    il convient qu'il se treuve et soit en une prise de cité, ou de ville fort ou chastel,
+                    de cinc cent feux ou de plus se elle est de (f. 19v) Crestiens, se de Sarrazins, de
+                    mil feux ou de plus.</p>
+                    <p xml:id="d001l427" n="3">&lt;b&gt; Et convient qu'il soit des premiers entrans en la prise de la terre, c'est
+                    assavoir du premier jusques au tiers, s'il veult metre et garnir sa nef d'ancre doree.</p>
+                    <p xml:id="d001l428" n="4">&lt;c&gt; S'il est du tiers jusques au sixieme il metra et garnira sa nef d'ancre
+                    [d'argent;</p>
+                    <p xml:id="d001l429" n="5">&lt;d&gt; s'il est du sixieme jusques au dixieme, il la garnira d'ancre] de fer, ou
+                    s'il [faisoit] fait d'armes notable sus les murs de la terre.</p>
+                    <p xml:id="d001l430" n="6">&lt;e&gt; Se la terre prise estoit des Crestiens, et face les choses dessus dites,
+                    il metra les ancres au dessus de la mer.</p>
+                    <p xml:id="d001l431" n="7">&lt;f&gt; Se de Sarrazins estoit, il metra les ancrez dedens de la mer.</p>
+                    <p xml:id="d001l432" n="8">&lt;g&gt; Por chascune prise de cité, chastel, ou ville fort que ce trouvera aucun
+                    de compaignons, par tel maniere come dessus est dit, metra un autre, car tant d'ancres
+                    metra en sa nef come il aura estey de prisez de terre.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c135">
+                    <head>
+                        <title>135.</title>
+                        <abbr>135</abbr>
+                    </head>
+                    <p xml:id="d001l433" n="1">Comme se garnira la nef de cordes. Et premierement de cordes dorees.<lb/>[Q]ui de
+                    cordes dorees voura garnir sa nef, il convient que pour chascune corde se treuve en
+                    bactaille ou soient de chascune part set cent hommes, de quel que gent soit la bactaille,
+                    et que de l'une partie soit baniere ou penon. Et convient que en celle bactalle face
+                    son honnour comme bon chevalier. Et por chascune telle batalle en quoy il aura estey,
+                    il metra en sa [nef] une corde doree.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c136">
+                    <head>
+                        <title>136.</title>
+                        <abbr>136</abbr>
+                    </head>
+                    <p xml:id="d001l434" n="1">Comme se garnira la nef de cordes vermeilles.<lb/>[Q]ui la dite nef voura garnir de
+                    cordez vermeilles, il convient qu'il se treuve et soit en bactaille de sis cent hommes
+                    de chascune part, en faisant comme bon chevalier et son honnour. Et por chascune telle
+                    bataille en quoy aura estey, metra en sa nef une corde vermeille.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c137">
+                    <head>
+                        <title>137.</title>
+                        <abbr>137</abbr>
+                    </head>
+                    <p xml:id="d001l435" n="1">Comme [se] garnira la nef de cordes d'azur. <lb/>[Q]ui en baictaille de cinc cent
+                    se trouvera, ou seront de chascune part cinc cent, faisant come bon chevalier, por
+                    chascune telle bataille en quoi aura esté, metra en sa nef une corde d'azur.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c138">
+                    <head>
+                        <title>138.</title>
+                        <abbr>138</abbr>
+                    </head>
+                    <p xml:id="d001l436" n="1">[138. Comme se garnira la neif de cordes blanches.<lb/>Qui en une bataille de quatre
+                    cent hommes de chascune part se trouvera, faisant comme bon chevalier comme devant
+                    est dit, pour chascun telle bataille en quoy aura esté, metra en sa neif une corde
+                    blanche].</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c139">
+                    <head>
+                        <title>139.</title>
+                        <abbr>139</abbr>
+                    </head>
+                    <p xml:id="d001l437" n="1">Comme se garnira la nef de cordes verdes.<lb/>[Q]ui en bataille de trois cent hommes
+                    de chascune part se trouvera, faisant son honnour come est dit, por chascune telle
+                    bataille en quoy aura esté, metra en la dite nef une corde verde.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c140">
+                    <head>
+                        <title>140.</title>
+                        <abbr>140</abbr>
+                    </head>
+                    <p xml:id="d001l438" n="1">Comme [se] garnira la nef de cordes grises. <lb/>[Q]ui en bataille de deus cent hommes
+                    [de chascune part] se trouvera, en son honnour faisant, por chascune telle batalle
+                    en quoy aura estey, metra une corde grise. (f. 20r)</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c141">
+                    <head>
+                        <title>141.</title>
+                        <abbr>141</abbr>
+                    </head>
+                    <p xml:id="d001l439" n="1">Comme se garnira la nef de cordes de fer.<lb/>[Q]ui en bataille de cent hommes de
+                    chascune part se trouvera, por chascune telle bataille en quoy aura esté, metra en
+                    la dite nef une corde de fer. Et convient que en chascune des besoignes dessus dite
+                    soit penon ou baniere au moins d'une des parties.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c142">
+                    <head>
+                        <title>142.</title>
+                        <abbr>142</abbr>
+                    </head>
+                    <p xml:id="d001l440" n="1">Comme se garnira la nef de treif.</p>
+                    <lb/>
+                    <p xml:id="d001l441" n="2">&lt;a&gt; [Q]ui voura metre en sa nef le tref, c'est a dire l'entente, il convient
+                    qu'il se treuve en batalle de chascune part de huit cent hommes et de l'une des parties
+                    soit baniere ou penon, et qu'il face chose notables d'armes, par quoy soit reputé
+                    un des meillours por la journee.</p>
+                    <p xml:id="d001l442" n="3">&lt;b&gt; Et se contre Crestiens estoit, metra le tref doré,</p>
+                    <p xml:id="d001l443" n="4">&lt;c&gt; se contre Sarrazins, il metra vermel.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c143">
+                    <head>
+                        <title>143.</title>
+                        <abbr>143</abbr>
+                    </head>
+                    <p xml:id="d001l444" n="1">Comme se garnira la nef de voile.</p>
+                    <lb/>
+                    <p xml:id="d001l445" n="2">&lt;a&gt; [Q]ui sa nef voura garnir de voile, il convient qu'il se treuve et soit
+                    en une batalle de mil hommes de chascune part, et soit baniere ou penon de chascune
+                    partie, se ne fust contre Sarrazins, et qu'il face en celle batalle fait d'armes notable,
+                    por quoi soit tenu un des bons chevaliers de la journee.</p>
+                    <p xml:id="d001l446" n="3">&lt;b&gt; Et se la batalle est de Crestiens, il metra la voile blanche;</p>
+                    <p xml:id="d001l447" n="4">&lt;c&gt; se contre Sarrazins, la metra vermelle.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c144">
+                    <head>
+                        <title>144.</title>
+                        <abbr>144</abbr>
+                    </head>
+                    <p xml:id="d001l448" n="1">Comme se garnira la nef de banieres.</p>
+                    <lb/>
+                    <p xml:id="d001l449" n="2">&lt;a&gt; [Q]ui aura garni la nef de toutes choses, par especial de tymons, voile
+                    et tref, et feist autre fais, telle chose et fait d'arme come por quoy il a garni
+                    sa nef de tref, voille et tymons, por chascun tel fait que aprés garnie la nef des
+                    choses dessus dite fera, metra une baniere en sa nef.</p>
+                    <p xml:id="d001l450" n="3">&lt;b&gt; Se contre Crestiens estoit, il la metra blanche;</p>
+                    <p xml:id="d001l451" n="4">&lt;c&gt; se contre Sarrazins est, la metra vermeille sur le cors de la nef.</p>
+                    <p xml:id="d001l452" n="5">&lt;d&gt; Se celui qui la baniere ou penon de l'ordre [portast], ou autre compaignon
+                    de l'ordre qui portast baniere ou penon d'autruy en son office de capitaine ou mareschal,
+                    se portoit bien comme bon chevalier, et feist son devoir en gardant la baniere, il
+                    metra une des choses en la dite nef por la garnir selont ce que requiert la besoigne
+                    en quoy aura porté la baniere ou penon, a l'esgart et voulenté du prince, et conseil
+                    des compaignons.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c145">
+                    <head>
+                        <title>145.</title>
+                        <abbr>145</abbr>
+                    </head>
+                    <p xml:id="d001l453" n="1">Comme se garnira la nef de baniere sur le chastel du mast.</p>
+                    <lb/>
+                    <p xml:id="d001l454" n="2">&lt;a&gt; [S]e aucun se combatoit de gage de batalle, corps a corps, jugié par le
+                    prince ou autre seigneur, et vanquist son aversaire,</p>
+                    <p xml:id="d001l455" n="3">&lt;b&gt; s'il est Crestien et ne (f. 20v) l'ait apelé, metra sur le chastel de l'arbre,
+                    c'est asavoir du mast de la nef, une baniere blanche;</p>
+                    <p xml:id="d001l456" n="4">&lt;c&gt; ce Sarrazins est, la metra vermeille. &lt;&gt; Et poura chascun apeller
+                    touz Sarrazins de combatre, mes nul Crestien, non por quoy en le vanquir meist baniere
+                    en sa nef.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c146">
+                    <head>
+                        <title>146.</title>
+                        <abbr>146</abbr>
+                    </head>
+                    <p xml:id="d001l457" n="1">De la fondacion de la chapelle de l'ordre.</p>
+                    <lb/>
+                    <p xml:id="d001l458" n="2">&lt;a&gt;[E]n l'onnour et en la reverence de la Benoite Trinité, le Pere, le Filz
+                    et le Saint Esperit, le prince fondera une chapelle, ou plusours, grant et belle,</p>
+                    <p xml:id="d001l459" n="3">&lt;b&gt; en quel lieu quy voura,</p>
+                    <p xml:id="d001l460" n="4">&lt;c&gt; et fera chief de chappelle celle qui voura.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c147">
+                    <head>
+                        <title>147.</title>
+                        <abbr>147</abbr>
+                    </head>
+                    <p xml:id="d001l461" n="1">Quant autiers en ceste chapelle.</p>
+                    <lb/>
+                    <p xml:id="d001l462" n="2">&lt;a&gt;[E]n ceste chapelle seront sis autieux principax.</p>
+                    <p xml:id="d001l463" n="3">&lt;b&gt; Le premier et mestre autel sera dedié et consacré ou nom de la Sainte Trinité,
+                    du Pere, du Filz et du Saint Esperit.</p>
+                    <p xml:id="d001l464" n="4">&lt;c&gt; Le segont autel sera plus bas a destre, [et] sera dedié et consacré ou nom
+                    du benoist Filz de Dieu, Nostre Seigneur Jesu Crist.</p>
+                    <p xml:id="d001l465" n="5">&lt;d&gt; Le tiers autel, a senestre, sera dedié et consacré ou nom du Saint Esperit.</p>
+                    <p xml:id="d001l466" n="6">&lt;e&gt; Le quart autel sera dedié et consacré ou nom de la Benoite Virge Marie.</p>
+                    <p xml:id="d001l467" n="7">&lt;f&gt; Et d'autres autielz y aura a la voulenté et ordenance du prince, et un autre
+                    de Saint Bartholomer, et l'autre de Saint Loys de France.</p>
+                    <p xml:id="d001l468" n="8">&lt;g&gt; Et d'autres autiers y aura tant comme il plaira au prince.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c148">
+                    <head>
+                        <title>148.</title>
+                        <abbr>148</abbr>
+                    </head>
+                    <p xml:id="d001l469" n="1">Quel gent seront en ceste chapelle.<lb/>[E]n ceste chapelle seront religieux telz
+                    come il plaira au prince.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c149">
+                    <head>
+                        <title>149.</title>
+                        <abbr>149</abbr>
+                    </head>
+                    <p xml:id="d001l470" n="1">Quel office se dira en ceste chapelle.</p>
+                    <lb/>
+                    <p xml:id="d001l471" n="2">&lt;a&gt; [L]es religieux dessus dit diront en ceste chapelle le divin office, c'est
+                    asavoir les heures canoniaux, bien devotement et deligemment.</p>
+                    <p xml:id="d001l472" n="3">&lt;b&gt; Et chanteront tous les jours trois messes a note la premiere de la Trinité,
+                    la seconde de la Virge Marie ou des mors, la tierce du jour, et sera la grant messe.</p>
+                    <p xml:id="d001l473" n="4">&lt;c&gt; Et tenront les dessus diz religieux bien leur ordre et religion.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c150">
+                    <head>
+                        <title>150.</title>
+                        <abbr>150</abbr>
+                    </head>
+                    <p xml:id="d001l474" n="1">Comme en ceste chapelle se fera le service de tous les compaignons trespassés.<lb/>[E]n
+                    ceste chapelle se fera aprés la mort du prince ses exequez et service bien et sollempnement,
+                    et de chascun des compaignons, ainssi come appartendra a chascun selont son estat.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c151">
+                    <head>
+                        <title>151.</title>
+                        <abbr>151</abbr>
+                    </head>
+                    <p xml:id="d001l475" n="1">Comme en la chapelle seront pendu les escus et banieres des trespassez.<lb/>(f. 21r)
+                    [E]n ceste chapelle aprés la mort du prince, tant du dit prince comme de chascun des
+                    compaignons, aprés la mort de lour se pendront leurs escus bien et honnorablement,
+                    de chascun selont sa chevalerie, comme devant est dit.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c152">
+                    <head>
+                        <title>152.</title>
+                        <abbr>152</abbr>
+                    </head>
+                    <p xml:id="d001l476" n="1">Comme en ceste chapelle seront gardés touz livrez touchant l'ordre.<lb/>[E]n ceste
+                    chapelle sera gardé l'original de ceste ordre, c'est assavoir cest [livre et le instrument
+                    qui contient tout l'ordre, et aussi les originaux du] Livre des preuz et du Romans
+                    [de la neif]. <lb/></p>
+                    <lb/>
+                    <p xml:id="d001l477" n="2">Les nons des compaignons de l'ordre sont ceux qui s'ensuient si dessouz:<lb/>[P]remierement,
+                    Monsire Charles de Duraz, roy de Jerusalem et de Sicile, prince et commenceur de l'ordre<lb/>Monsire
+                    Loys de Anguien, conte de Conversen<lb/>Monsire Charles [Rous] de Monhaut de Calabre<lb/>Monsire
+                    Jannot Prothojudice de Salerne<lb/>Monsire Gieffroy de Marsan, [conte de Alif]<lb/>[Messire
+                    Thomas de Marsan]<lb/>Monsire Palamides Bochut de Naples<lb/>Monsire Franchoys Guidace
+                    de Naples<lb/>Monsire Bartholome Tomacelle de Naples.   <lb/></p>
+                    <lb/>
+                    <p xml:id="d001l478" n="3">Les quiex rois, contes, et chevaliers pristrent l'ordre et jurerent ainssi comme dient
+                    les chapistres de l'ordre, en la [cha]pelle grant du Chastel Neuf, le jour premier
+                    du moys de decembre, l'an de grace mil .ccc. lxxxi, de la Ve indicion, en la presence
+                    de mout de gentilz hommes, et de grant peuple. <lb/> <lb/>Explicit liber. Deo gracias.</p>
+                    <lb/>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

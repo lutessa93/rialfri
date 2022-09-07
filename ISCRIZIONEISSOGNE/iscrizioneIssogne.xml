@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="ISCRIZIONEISSOGNE-iscrizioneIssogne">
+                    <title type="short">Iscrizione del castello di Issogne in Valle d’Aosta</title>
+                    <title type="alt">Iscrizione di Issogne</title>
+                    <abbr>Iscrizione di Issogne</abbr>
+                    <note xml:id="note1">1489, Valle d'Aosta</note>
+                    <bibl>Omar Borettaz, <emph style="font-style:italic">Des murs qui parlent: quelques notes sur les graffiti dans les églises et les châteaux valdôtains</emph>, «Nouvelles du Centre d'études francoprovençales René Willien», 58 (2008), pp. 6-23: 13-14.</bibl>
+                </title>
+                <author xml:id="ISCRIZIONEISSOGNE" n="120.000">
+                    <name></name>
+                    <abbr></abbr>
+                </author>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitale</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale</resp>
+                    <name>Luigi Tessarolo</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Reference basis text</resp>
+                    <name>Omar Borettaz, <emph style="font-style:italic">Des murs qui parlent: quelques notes sur les graffiti dans les églises et les châteaux valdôtains</emph>, «Nouvelles du Centre d'études francoprovençales René Willien», 58 (2008), pp. 6-23: 13-14.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.rialfri.eu">RIALFrI</ref>
+                </publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <notesStmt>
+                <note type="apparato">&lt;br/&gt;&lt;br/&gt;pour] pouz&lt;br/&gt;Si noti che l’edizione Borettaz non segnala la correzione rispetto al testo dell’iscrizione.&lt;br/&gt;
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>Omar Borettaz, <emph style="font-style:italic">Des murs qui parlent: quelques notes sur les graffiti dans les églises et les châteaux valdôtains</emph>, «Nouvelles du Centre d'études francoprovençales René Willien», 58 (2008), pp. 6-23: 13-14.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t5"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work">
+                <p xml:id="d001l1" n=""><lb/> <lb/>1489. Jan Devalupe a faict la cave de ce chateaus pour 20 florin.</p>
+                <lb/>
+            </div1>
+        </body>
+    </text>
+</TEI>

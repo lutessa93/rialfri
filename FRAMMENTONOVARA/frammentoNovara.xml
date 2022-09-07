@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="FRAMMENTONOVARA-frammentoNovara">
+                    <title type="short">Quatre âges de l'homme, frammento di Novara</title>
+                    <abbr>Quatre âges de l'homme, frammento di Novara</abbr>
+                    <note xml:id="note1">ante 1254, Mediterraneo orientale</note>
+                    <bibl>Barbara Ferrari, <emph style="font-style:italic">Un nuovo frammento inedito del trattato «Les quatre âges de l’homme» di Filippo da Novara</emph>, «Studi mediolatini e volgari», 38, 1992, pp. 9-30. </bibl>
+                </title>
+                <author xml:id="FRAMMENTONOVARA" n="081.000">
+                    <name>Filippo da Novara</name>
+                    <abbr>Filippo da Novara</abbr>
+                </author>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata e marcatura digitale</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Reference basis text</resp>
+                    <name>Barbara Ferrari, <emph style="font-style:italic">Un nuovo frammento inedito del trattato «Les quatre âges de l’homme» di Filippo da Novara</emph>, «Studi mediolatini e volgari», 38, 1992, pp. 9-30. </name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.rialfri.eu">RIALFrI</ref>
+                </publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <notesStmt>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>Barbara Ferrari, <emph style="font-style:italic">Un nuovo frammento inedito del trattato «Les quatre âges de l’homme» di Filippo da Novara</emph>, «Studi mediolatini e volgari», 38, 1992, pp. 9-30. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t4"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work">
+                <p xml:id="d001l1" n="">[1] et a profic de lui et des siens sanz perece e sanz targier, qar grant domage et
+                grant fonte i puet avenir qui passe son jovent sanz espleit.</p>
+                <p xml:id="d001l2" n="">[2] Les jones homes et les chevaliers et les autres genz d’armes deivent erre ras armes,
+                et se deivent travaillier d’enor pour estre renomez de valour et pour aveir les biens
+                tenporiels et les richeces et les heritages dont il puissent a henour vivre et lour
+                enffanz, se il les ont, et bien faire a lour amis et a ceaus qui les servent, et reposer
+                en lor viellece, et qe lour heritage et lour conqest demuert a lour enffanz qui remandront
+                petiz, si devient, aprés la mort des peres.</p>
+                <p xml:id="d001l3" n="">[3] Les vaillanz jones qui beent a conqerre deivent volentiers saveir et aveir en remenbrance
+                un respons qui Alexandre fist a son pere.</p>
+                <p xml:id="d001l4" n="">[4] Il avint qe le rei Phelippe, qui fu pere d’Alexandre fist a son pere.</p>
+                <p xml:id="d001l5" n="">[5] Il avint qe le rei Phelippe, qui fu pere d’Alexandre, esteit mout cruels et orgoillous
+                et eschars, et tojors vost aveir le servise de ses homes par fierté et par seignorie
+                et sanz bienfait et sanz larguece.</p>
+                <p xml:id="d001l6" n="">[6] Il aveit a veisin un fo[r]t rei qui aveit nom Nicolas; cil aveit si soumis le rei
+                Phelipe qe chacun an li rendeit un grant trehu.</p>
+                <p xml:id="d001l7" n="">[7] Sur ce avint qe Alexandre fu d’aage et chevalier prou et hardi et large sur touz
+                homes.</p>
+                <p xml:id="d001l8" n="">[8] Adonc fu qe les messages dou rei Nicolas vindrent qerre le trehu.</p>
+                <p xml:id="d001l9" n="">[9] Alixandre en ot grant desdaing et dist qe il meimes le portereit et paeyereit si
+                com il li affereit.</p>
+                <p xml:id="d001l10" n="">[10] Maintenant asembla touz les bachaliers et les bons chevaliers qu’il pot trover,
+                si ala sur le rei Nicolas et se combati a lui et le venqui.</p>
+                <p xml:id="d001l11" n="">[11] Et de qui ala en avant conqerrant, et tout quanque il poeit guaheingner et conqerre,
+                enterinement doneit si largement qe rien ne li demoreit.</p>
+                <p xml:id="d001l12" n="">[12] Son pere l’oy dire, si li manda unes letres dont le tenour fu tiel: “Biau fiz
+                il m’est avis /c. 1br/ qe tu ne veauz mie qe tes gens te tiegnent pour rei et mes pour
+                provost, qar rei et seignor deit estre servi par … par fierté et provost deit aveir
+                pour doner, et deit p… pour ce qe il est bailli, et s’il avient qe son seignor le pr…
+                amis l’aident a delivrer, et se l’on raeint qu’il li ayden…</p>
+                <p xml:id="d001l13" n="">[13] Alixandre respondi: “Sire, je aim meauz aveir mani… de tant con monte a largeice,
+                et par ce conqerre, qe av… de rei ou de seignour cruel et eschars, et par ce estre
+                … mes enemis, rendant trehuage come sert.</p>
+                <p xml:id="d001l14" n="">[14] Et sachiez s… tout conqerre, i deu plaist, et tout doner si largement … m’en demorra
+                qe l’enor et la seignorie tant solem[en]t … vueil qu’il ait escharssece qe une: ce
+                est de retenir a … l’enour et l’amour de mes genz et de mes serveours et … la seignorie
+                do monde.</p>
+                <p xml:id="d001l15" n="">[15] Et tout qant qe je porrai conqer… le dorrai a ceaus par qui je conqerrai”.</p>
+                <p xml:id="d001l16" n="">[16] Aussi deivent … larges qui veulent aveir les cuers de lour serveours … brace un
+                dit qe un reis de Jerusalem dist a un sien rich… refusa un don qe li reis li doneit
+                disant: “Sire vos m… donez as autres”.</p>
+                <p xml:id="d001l17" n="">[17] Li reis respondi: “Prenez mon don, qa… qe de nouveau don novelle amour ou novelle
+                rem… Et ensi deit il estre.</p>
+                <p xml:id="d001l18" n="">[18] Vos avez oi la maniere de conqest … et toutes le autres genz, de quielqe maniere
+                qe il … Vent travaillier en lour jovent de conqerre les bie… si qu’il en puissent joir
+                tant con il vivront.</p>
+                <p xml:id="d001l19" n="">[19] Par les ra… sus dites. Trop est grant mauvaisté d’estre perec… joven qe en autre
+                tens; pereceus haut home ou ric[he] en … /c. 2ar/ ufrir les fos et contenir sei sagement
+                o les sages, et pour rien ne hastier fol de parole ne de fait, qar tost l’en porreit
+                mescheeir en dit et en ovre, et soven est avenu.</p>
+                <p xml:id="d001l20" n="">[20] Granz sens est et bon de metre bon conrei en l’ordenement de son ostiel et de
+                sa terre, qui l’a.</p>
+                <p xml:id="d001l21" n="">[21] Et ceaus qui ont tant a faire de seignor ou d’autre besoigne qu’il ne poeent ayseement
+                entendre a lour fait, il deivent establir en leu d’eaus les meillors sergenz qu’il
+                porront aveir.</p>
+                <p xml:id="d001l22" n="">[22] Et toute voie i deivent entendre aucune feiz, qar l’on dit qe “l’oil do seignor
+                vaut fumier a la terre”, et bien est veir, qar par la [v]eue do seignor poet l’on comander
+                a faire fumier a la terre …les frut qe l’on ne fereit se il ne la veist.</p>
+                <p xml:id="d001l23" n="">[23] Sag… deit bien saveir norrir et enseigner ses enf… in sa garde ou en sa me… nir
+                ses jones amis, et chastier ……….er les granz perilz de jovent ……….le bien l’enseignent,
+                et cil qui les creient … l’on est alé sovent et longuement … bien saveir.</p>
+                <p xml:id="d001l24" n="">[24] Ceaus qui on testé enffan… au meyan aage deivent bien saveir se …..bien … enseignez
+                ou non et apris en enffance, qar s’il le f… et estre qe il n’aient bien apris et qe
+                il ne lour bien … le furent mauveisement il lour en deit estre mescheu … fait et assez
+                tost en l’un et en l’autre.</p>
+                <p xml:id="d001l25" n="">[25] Et en jovent si Dex lour d[on]a grace d’eaus saveir garder et chevir encontre
+                les perilz de jovent bien lour en est avenu; et s’il furent tormenté et maumené /c.
+                2av/ par les perilz et les chauz de jovent, bien lour en deit sovenir.</p>
+                <p xml:id="d001l26" n="">[26] Et pour toutes ces raisons se deivent ententivement travailler de bien norrir
+                les enffans et chastier et reprendre et garnir les jones, et en toutes choses espleiter
+                sagement, si qe lour sens seit aparant.</p>
+                <p xml:id="d001l27" n="">[27] Le tres grant sens verai et parfait est la bone souche qui jamés ne seche ne faut
+                et a mout de bones branches.</p>
+                <p xml:id="d001l28" n="">[28] L’arbre de sens est et sera tojors vert et flori et portant fruit bon et meillour
+                et parfait.</p>
+                <p xml:id="d001l29" n="">[29] Mout y a de gent qui ne oent cel arbre veir ne conoistre, ne ja ne tastront do
+                fruit; et tiels ya qui vienent a l’arbre et le veient et sont entour la souche, et
+                vivent et passant assez bien lour pour ce qu’il sont en l’onbre de l’arbre et sentent
+                la bone [o]dour do frut.</p>
+                <p xml:id="d001l30" n="">[30] Autres y a plus ….. qui se prenent a branches et ont do fruit, au …on autres de
+                mellour, et les bie[n] rampanz mengent do …. ceuas qui menjuent do fruit vivent a henor,
+                les uns bien, les autres meauz, les autres tres bien.</p>
+                <p xml:id="d001l31" n="">[31] Cel arbre de sens dont la souche ne seche ne faut, et qui tojors est vert et flori
+                et portant fruit, est Nostre Seignor.</p>
+                <p xml:id="d001l32" n="">[32] Les bones branchs sont les sainz et les saintes et touz les doctors de Sainte
+                Eglise, dont elle est enluminee par les Saintes Escritures qui enseignent la voie a
+                Dampnedeu, dont les armes sont sauvees et rendues au criator qui tout crea et fist,
+                et de cui elles deivent estre par raison.</p>
+                <p xml:id="d001l33" n="">[33] Cil qui ne poent l’arbre aveir ne coneistre, ne ja ne tastront do fruit, sont
+                ceaus qui ne sont de la lei Nostre Seignor Jhesu Crist et ne la conessent ne creient,
+                et les fauz crestiens et deseperez do tout.</p>
+                <p xml:id="d001l34" n="">[34] Cil qui sont en l’onbre et vivent et passent asez bien sont les simples cri… /c.
+                3ar/ les autres paroles il li respondi et mada:</p>
+                <lb/>
+                <l xml:id="d001l35" n="1">“Vos qui estes soutil de raison et d’usage,</l>
+                <lb/>
+                <l xml:id="d001l36" n="2">Vos savreiz bien conduire, si Deu plaist, com…</l>
+                <lb/>
+                <l xml:id="d001l37" n="3">Meauz et plus soutilment qe je ne vos devis,</l>
+                <lb/>
+                <l xml:id="d001l38" n="4">Toute voie vos mant ce m’en est avis.</l>
+                <lb/>
+                <l xml:id="d001l39" n="5">Le souverain des sens si est de Deu servir</l>
+                <lb/>
+                <l xml:id="d001l40" n="6">E amer et douter; l’on en puet desservir</l>
+                <lb/>
+                <l xml:id="d001l41" n="7">La vie pardurable, et si est grant henor</l>
+                <lb/>
+                <l xml:id="d001l42" n="8">En cet siecle meisme, au grant et au menor.</l>
+                <lb/>
+                <l xml:id="d001l43" n="9">Et des sens terriens m’acort je molt a un:</l>
+                <lb/>
+                <l xml:id="d001l44" n="10">Que l’on guart bien la paiz et les cuers del co…</l>
+                <lb/>
+                <l xml:id="d001l45" n="11">Qar qui se fait hair a la greignor partie,</l>
+                <lb/>
+                <l xml:id="d001l46" n="12">Raison et coneissance est de lui departie.</l>
+                <lb/>
+                <l xml:id="d001l47" n="13">Il y a mout qui sont trop soutil de malice,</l>
+                <lb/>
+                <l xml:id="d001l48" n="14">Entre aus et paradis a grant barre et grant lice.</l>
+                <lb/>
+                <l xml:id="d001l49" n="15">Le plus soutil de mal celui est le plus fo,</l>
+                <lb/>
+                <l xml:id="d001l50" n="16">Qar a son escient se met la hart en co;</l>
+                <lb/>
+                <l xml:id="d001l51" n="17">Il meismes se juge, bien deit estre entendu,</l>
+                <lb/>
+                <l xml:id="d001l52" n="18">Mes li haut justiser a souvent atendu</l>
+                <lb/>
+                <l xml:id="d001l53" n="19">Tant qe l’on se repent et vient a sa merci;</l>
+                <lb/>
+                <l xml:id="d001l54" n="20">Cil yert bons eurez cui avendra ensi.</l>
+                <lb/>
+                <l xml:id="d001l55" n="21">Il a plus de mil voies a aler en enffer:</l>
+                <lb/>
+                <l xml:id="d001l56" n="22">Granz et larges overtes sont les portes d’enffer,</l>
+                <lb/>
+                <l xml:id="d001l57" n="23">Si les nices i vont ce n’est mie merveille,</l>
+                <lb/>
+                <l xml:id="d001l58" n="24">Mes trop est grant domage qant sage ne s’esv…</l>
+                <lb/>
+                <l xml:id="d001l59" n="25">Plus especiaument qant il a lonc espace.</l>
+                <lb/>
+                <l xml:id="d001l60" n="26">/c. 3av/ …esfait envers Deu qui mal use de grace,</l>
+                <lb/>
+                <l xml:id="d001l61" n="27">… mie sage ainz est fo de nature,</l>
+                <lb/>
+                <l xml:id="d001l62" n="28">…ecle ou en l’autre fornira Deu dreiture”.</l>
+                <lb/>
+                <p xml:id="d001l63" n="">[35] …ez oy parler de sens et de richece et de treis cho …soufrissent a saveir; et
+                toutevoie qui plus set …uz vaut, qar sens a mestier partout, et richece …enor de sei
+                et leiaument qant elle plus est grant …de bien faire pour Deu et pour le siecle.</p>
+                <p xml:id="d001l64" n="">[36] Aprés …discrecion qui est autant a dire come coneissan… veir trier le bien do
+                mal.</p>
+                <p xml:id="d001l65" n="">[37] De ce deit on laborer …n aage, et l’on dit en proverbe: “Qui veaut veir …prés
+                sei si le voie aprés les autres”.</p>
+                <p xml:id="d001l66" n="">[38] Et ensi est il …l’on veit avenir de ceaus qui sont trespassé de … deit l’on atendre
+                qu’il avendra de lui des faiz …prés ce qu’il sera trespassé.</p>
+                <p xml:id="d001l67" n="">[39] Et plus y a, car en sa …e puet l’on veir aprés sei une grant partie de … c’est
+                a saveir de tout ce qe l’n a fait en tens passé … qui a passé enffance et jovent, aprés
+                deit saveir co… …rier ses bones ovres des mauvaises, et deit les …s effacer a son poer
+                et amender ses tor faiz; et tant … vigour et en poeir et en dreite memoire, deit …ment
+                laborer et atefier et creistre et amender ses …es, qar l’on dit qe “nul mal n’iert
+                ja sanz paine … sanz guerredon”.</p>
+                <p xml:id="d001l68" n="">[40] Et enssi est en cest siecle ou en… qe demuert; et bien puet l’n dire qe outre
+                to… …tise Nostre Seignor, qui enterinement est dreiturer /c. 3br/ a punir les maus
+                et a guerredoner les bons, est l’on en cet siecle meisme avileniz par males ovres et
+                henorez et essaucez par bones.</p>
+                <p xml:id="d001l69" n="">[41] Ceaus qui ont tant vesqu qu’il sont parvenu a coneissance de saveir trier le bien
+                do mal et de faire labour qui puet porter bon fruit deivent laborer bien et sagement
+                et garder sei del contraire, s’il sont sages.</p>
+                <p xml:id="d001l70" n="">[42] Et ceaus qui ne sevent les Escritures, ou qui n’ont grace de soutil coneissance,
+                se poent doner garde as ovres terrienes qui sont chascun jor devant lour eauz.</p>
+                <p xml:id="d001l71" n="">[43] Chascun veit et set qe le blé qe l’on seme et les arbres qe l’on plante, tant
+                com il sont petiz, il ont mestier de garde et de norreiture, d’age et de labour, et
+                qant il sont grant et beau et vert, pour ce ne portent il fruit jusq’a tant qu’il soient
+                flori, et aprés grenez, et puis meur.</p>
+                <p xml:id="d001l72" n="">[44] Et quant il sont p[res]qe meur, deit on coillir le fruit sagement et porveuement
+                a dreite saison, qar qant l’on atent trop les apis do blé ploient vers terre et le
+                grain seche et chiet, et des arbres seche la foille et chiet le fruit.</p>
+                <p xml:id="d001l73" n="">[45] Ne ja n’i aura si grant blé ne si haut arbre, qant il sont parcreu a lour dreit,
+                qe, aprés ce, les cimes et les branches ne coviegne a ploier et revenir vers terre
+                ou lour racine est.</p>
+                <p xml:id="d001l74" n="">[46] Aussi est il des homes et des femes: on tens de m[e]yain aage est le fruit, ce
+                est lour coneissance et le poeir de nature: et adonc deivent frutefier et trier le
+                bien do mal, et ovrer bien et leiaument tant con le bons tens dure.</p>
+                <p xml:id="d001l75" n="">[47] Et deivent comencer des le comencement qe l’on entre en celui tens do m[e]yain
+                aage, et sivre et parseverer de bon en meillour.</p>
+                <p xml:id="d001l76" n="">[48] Et on mileu de celui tens deivent estre parfait, et aprés ne se deivent retraire
+                de faire /c. 3bv/ le meauz qe il porront.</p>
+                <p xml:id="d001l77" n="">[49] Et tojors deivent aveir en remenbrance qe en veillece le cors acourbiront et revendront
+                vers terre, qar de terre sont et terre devendront.</p>
+                <p xml:id="d001l78" n="">[50] Les foilles cherront l’une aprés l’autre: ce est qe memoire comencera a faillir
+                de jor en jour, plus et plus; et le fruit sera perdu: ce est le poeir de bien faire;
+                l’arbre cherra en la fin et porrira: ce est le cors qui morra.</p>
+                <p xml:id="d001l79" n="">[51] Pour toutes les raisons devant dites, se deit l’on travailler soutilment, en qanqe
+                l’on puet, on bon aage devant dit, de bien esploitier en dit et en fait, si qe le bon
+                fruit de celui seit et remaigne en bone memoire, a l’enor et au profit de l’arme de
+                lui et de ceaus qui le crurent et surent es bones ovres.</p>
+                <p xml:id="d001l80" n="">[52] Et si com il est dit de sus do blé et des arbres, qe tant com il sont tendre et
+                vert ne portent fruit, aussi est il d’enffance et de jovent.</p>
+                <p xml:id="d001l81" n="">[53] On meyain aage est le fruit parfaitement meur, et adonc le deit on coillir et
+                garder.</p>
+                <p xml:id="d001l82" n="">[54] Et aussi com il porrist et chiet qant il demore outre saison es arbres, ensi est
+                il de ceaus qui dient qu’il s’amenderont en viellece et adonc se lerront de pecher,
+                ce dient, mes la male volenté qe il ont par l’enortement de l’Enemi les tient en ce;
+                et se il vivent tant qu’il ne puissent pecher, si s’en sueffrent mal lour gré.</p>
+                <p xml:id="d001l83" n="">[55] Ceaus ne lessent mie le peché, mais le peché lesse.</p>
+                <p xml:id="d001l84" n="">[56] Assez y a de fos qui ne velent rendre a Deu ne a bone nature ne as genz ce qu’il
+                deivent, si come ceaus qui tojors font mal sanz repentance et sanz peneance, et qant
+                il sentent la mort si demandent l’abit d’aucune religion, et font giter le mantel d’aucun
+                frere sur eaus, et dient qu’il sont /c. 2br/ de lour cors et de lour armes, ne ja tant
+                n’aura li covei … coveite tojours l’autrui, qual il ne puet estre saou… chose est et
+                henerable d’estre hardiz et quant l’on vie… qe il n’i a qe do ferir; chascun qui a
+                cuer le deit estre p… ou morir a henor et par couardise qui en tiel leu … puet l’on
+                morir et estre honiz en fuiant, et le ardi pu… et estre henorez, mes on hardiment a
+                grant mesti… hardement do sage est molt profitable, et tojors d… lie n’est pas vassellage.</p>
+                <p xml:id="d001l85" n="">[57] Le sage set coneistre et tr… le hardement puet aveir mestier et valeir, et s…
+                chevir sei et sa conpaignie, qe par hardement ne … folie.</p>
+                <p xml:id="d001l86" n="">[58] Et qant l’on veaut aler en fait d’armes, l’o… et regarder s’il y a grant henor
+                ou grant profic a ce … faire, qar si ce est pour rescourre ville ou cha… tra grant
+                chose, et si l’on a gent par qei l’on … nir a chief.</p>
+                <p xml:id="d001l87" n="">[59] Cestui sens faut sovent en Surie … chees qe l’on i fait, qui maintes feiz sont
+                tiels …ust bien achever le fait pour qei l’on i vait, ni … henor ne grant profic.</p>
+                <p xml:id="d001l88" n="">[60] Et se l’on est encontre de tiel p… sovent on pais devers les Turs, de legier en
+                pu… pris ou mort, et qui en eschape si ne faut on m… tre meschief, qar l’on en remue
+                et haste de ven… fresloniere des Turs d’Egypte et des autres leus … me.</p>
+                <p xml:id="d001l89" n="">[61] Celui qui est paissible a sei meisme et a ses … amis, et le qerelous est haiz
+                et blasmez, et pou[r]… receit on grant honte et grant mal, t tojors di… …ut pert.</p>
+                <p xml:id="d001l90" n="">[62] Et leyau deit l’on estre ver Deu et ver la …yau conquiert henor en cet siecle
+                et en l’autre …rable, qar par les leyaus ovres se sauve l’on …u dessert le contraire,
+                et puis qe l’on pert fei … mostre au deit.</p>
+                <p xml:id="d001l91" n="">[63] Et Nostre Sire Dex, qui tout set et …rent la vejance en cet siecle ou en l’autre.</p>
+                <p xml:id="d001l92" n="">[64] Cha… …t asoutillier voiant et oyant, enqerant et apre… …diant er regardant en
+                son cuer meisme, et deman… …eill a ceaus qui sevent pour saveir espleiter … proficables
+                et sei garder des contraires, et aveir …r devant ses eauz, et lu prier humblement qu’il
+                …race de garder s’enour et eschiver honte, et …fera il ne sera ja gros, s’il a cuer.</p>
+                <p xml:id="d001l93" n="">[65] Mes les pereceus …aut d’enour ne de honte sont les gros.</p>
+                <p xml:id="d001l94" n="">[66] Mout …pener d’estre amesuré, qar tojours dit l’on: “Me… …les riches en sont molt
+                honoré qant il sont a …ar s’il suefrent amesureement les non puissanz …n et a grant
+                humilité lour est tenu, et ce est …qe Dex et les genz aiment mout.</p>
+                <p xml:id="d001l95" n="">[67] Et ceaus qui sont …contre les greignors d’eaus, bien lour en puet …ous manieres:
+                l’une est qe les greignors se pas …fait plus de legier, et l’autre s’il y a chose a
+                qei il …ance plus amesureement porront pourchacer …u d’eaus vengier.</p>
+                <p xml:id="d001l96" n="">[68] Les povres deivent estre touz … qar par lour desmesure les poent honir et destru…
+                /c. 4av/ …ndee.</p>
+                <p xml:id="d001l97" n="">[69] C’est a dire: “Alez vos en, qe l’ovre …ent est tremise et mandee devant Deu on
+                ciel.</p>
+                <p xml:id="d001l98" n="">[70] On …tres choses plus perillouses, qar ceaus qui ne rendent …ivent a la vie ne
+                a la fin, et qui en nulle maniere ne …t de lour mesfaiz, Nostre Sire s’en paie si cruelment
+                …e et comande qe les armes soient en enfer.</p>
+                <p xml:id="d001l99" n="">[71] Et cil qui …tent a nature a dreit et a point on tens devant dit …z au siecle en
+                lour vie et aprés lour mort.</p>
+                <p xml:id="d001l100" n="">[72] Toutes … choses et les resnables, ou le greignor partie, se font … par dreit
+                on meyain aage, qar adonc est ou deit e… …sement d’ome et de feme on plus haut estat
+                et on plus … meillour qe il puist estre.</p>
+                <p xml:id="d001l101" n="">[73] Lors se deivent rendre …ns ceaus a cui Dex en done grace et volenté, qar il po…t
+                estre obedient a lour soverains, et bien tenir lour …r dreite raison de coneissance,
+                et de toutes bones en…t l’on saveir venir a bon chief, et de toutes males o…der et
+                defendre, et se deit l’on retraire de folies se l’on …echez.</p>
+                <p xml:id="d001l102" n="">[74] Touz ceaus qui ont grace de coneissance de …eir qe l’on ne deit passer le lonc
+                d’un jour et d’une …erinement huisous, qar il y a qatre choses qe l’on deit …cun jour
+                faillir, si par dreit essoine ne demo…ors autres en y a aucunes do jour, autres sourdent
+                …qe l’on deit delivrer vigorousement, qant leus et …le jour et la nuit ensemble sont
+                parti parmi, ce… des la meenuit fin q’a demi jour et des demi jo…e a la meenuit.</p>
+                <p xml:id="d001l103" n="">[75] Et en chascune partie est devisé qe /c. 4br/ bres d’enfer le pesme, et furent
+                et [s]ont et seront tojors mais cent mile tanz laides creatures qe ne sont les plus
+                laides paintures de lour ordes figures.</p>
+                <p xml:id="d001l104" n="">[76] Touz les sages se deivent garder d’orgoil en dit et en fait, et mout de beaus
+                diz en sont retrait es livres des estoires et des actours, qe les sages disoient as
+                granz parlement, es faiz des armes et as granz conseaus, et pour ce qe il serei[t]
+                …ui et longue chose de dire en trop, li contes vos en retraira un qe Anjemenon, le
+                chevraine de Grezois, dist au sige de Troie.</p>
+                <lb/>
+                <l xml:id="d001l105" n="1">Seignors, fait il, mostrer vos voil</l>
+                <lb/>
+                <l xml:id="d001l106" n="2">Qui molt deit l’on hair orgoil.</l>
+                <lb/>
+                <l xml:id="d001l107" n="3">Qui par orgoil veaut ovre faire,</l>
+                <lb/>
+                <l xml:id="d001l108" n="4">Il ne deit pas a bon chief traire.</l>
+                <lb/>
+                <l xml:id="d001l109" n="5">Contre un ami ou contre dous</l>
+                <lb/>
+                <l xml:id="d001l110" n="6">Qui puet aveir uns orgoillous</l>
+                <lb/>
+                <l xml:id="d001l111" n="7">Ce est des vices li plus maus.</l>
+                <lb/>
+                <l xml:id="d001l112" n="8">Qui en orgoil se fie et creit,</l>
+                <lb/>
+                <l xml:id="d001l113" n="9">Si il en mescheit c’est a bon dreit.</l>
+                <lb/>
+                <l xml:id="d001l114" n="0">Raison et sen, cestui pareil,</l>
+                <lb/>
+                <l xml:id="d001l115" n="11">Deit governer nostre conseil,</l>
+                <lb/>
+                <l xml:id="d001l116" n="12">qar Dex n’ot onqes d’orgoil e…</l>
+                <lb/>
+                <l xml:id="d001l117" n="13">Chascun deit douter desm…</l>
+                <lb/>
+                <p xml:id="d001l118" n="">[77] Riche coveitous deit bien estre haiz de Deu et de la gent, qar ja tant n’aura
+                qe il seit saoul, mes tojours coveite plus aveir.</p>
+                <p xml:id="d001l119" n="">[78] Et celui n’est mie riche puis qu’il ne se tient a paié, et puis qe il ne se tient
+                a paié, mes adés coveite, autant li vaudreient pierres come sa richeice.</p>
+                <p xml:id="d001l120" n="">[79] Et qant viel riche est coveitous d’autre aveir, il devreit estre ausi bien ars
+                com s’il fust herege, qar viel deit estre large do sien et non coveitier l’autrui.</p>
+                <p xml:id="d001l121" n="">[80] Large deit il estre a Deu et a la gent, c’est a doner as povres pour Deu et secorre
+                do sien les besoignous. <lb/></p>
+                <lb/>
+                <lb/>
+                <lb/>
+            </div1>
+        </body>
+    </text>
+</TEI>

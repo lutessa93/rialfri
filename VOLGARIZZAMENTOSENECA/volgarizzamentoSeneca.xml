@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="VOLGARIZZAMENTOSENECA-volgarizzamentoSeneca">
+                    <title type="short">Volgarizzamento delle Lettere di Seneca</title>
+                    <abbr>Volgarizzamento di Seneca</abbr>
+                    <note xml:id="note1">fra il 1308 e il 1310</note>
+                    <bibl>Mario Eusebi, <emph style="font-style:italic">La più antica traduzione francese delle “Lettere morali” di Seneca e i suoi derivati</emph>, in «Romania», XCI (1970), pp. 1-47; ora anche in Id., <emph style="font-style:italic">Saggi di filologia romanza</emph>, a cura di Eugenio Burgio, Firenze, SISMEL Edizioni del Galluzzo, 2005, pp. 115-157.</bibl>
+                </title>
+                <author xml:id="VOLGARIZZAMENTOSENECA" n="202.000">
+                    <name></name>
+                    <abbr></abbr>
+                </author>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata e marcatura digitale</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Reference basis text</resp>
+                    <name>Mario Eusebi, <emph style="font-style:italic">La più antica traduzione francese delle “Lettere morali” di Seneca e i suoi derivati</emph>, in «Romania», XCI (1970), pp. 1-47; ora anche in Id., <emph style="font-style:italic">Saggi di filologia romanza</emph>, a cura di Eugenio Burgio, Firenze, SISMEL Edizioni del Galluzzo, 2005, pp. 115-157.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.rialfri.eu">RIALFrI</ref>
+                </publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <notesStmt>
+                <note type="edizione">
+                    Edizione delle lettere 38, 58, 62 e 114 secondo la lezione del manoscritto Parigi, Bibliothèque Nationale de France, fr. 12235.
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>Mario Eusebi, <emph style="font-style:italic">La più antica traduzione francese delle “Lettere morali” di Seneca e i suoi derivati</emph>, in «Romania», XCI (1970), pp. 1-47; ora anche in Id., <emph style="font-style:italic">Saggi di filologia romanza</emph>, a cura di Eugenio Burgio, Firenze, SISMEL Edizioni del Galluzzo, 2005, pp. 115-157.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t5"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work">
+                <div2 xml:id="d001c001">
+                    <head>
+                        <title>Prologo</title>
+                        <abbr>Prologo</abbr>
+                    </head>
+                    <lb/>
+                    <p xml:id="d001l1" n="1a" rend="1a">{{f. 1b}}</p>
+                    <p xml:id="d001l2" n="1" rend="1">Et por ce que cil qui les translata ne fu pas de la langue françoise, ne de si haut
+                    enging ne de si parfonde science come a la matiere afiert, il s'escuse a tous ceulz
+                    qui l'uevre verront, que il ne le blasment, se il a failli en aucune part de la proprieté
+                    de la langue ou aus sentences de l'auctor,</p>
+                    <p xml:id="d001l3" n="2" rend="2">et leur prie humblement que, par leur bonté et par leur franchise, l'en vueillent corrigier
+                    et amender en l'un et en l'autre, car il confesse bien que ce fu trop grant presumption
+                    d'emprendre si haute chose a traslater.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c002">
+                    <head>
+                        <title>I - 38</title>
+                        <abbr>II - 38</abbr>
+                    </head>
+                    <lb/>
+                    <p xml:id="d001l4" n="1a" rend="1a">{{f. 26c}} Du profit du  sermon brief, privé e non affetié.<lb/> <lb/>{{Merito exigis
+                    ut hoc inter nos et c. XXXVIII}}<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l5" n="1" rend="1">Tu requiers a bon droit que nos nos  envoions sovent epistres l'un  a l'autre.</p>
+                    <p xml:id="d001l6" n="2" rend="2">Celui sermon profite moult qui petit et petit entre el corage.</p>
+                    <p xml:id="d001l7" n="3" rend="3">En la  disputoison que l'en fet grant e porpensee devant  le pueple a plus de noise
+                    que de familiarité.</p>
+                    <p xml:id="d001l8" n="4" rend="4">La philosophie est bon consoil; nul home  ne done consoil a autre en criant.</p>
+                    <p xml:id="d001l9" n="5" rend="5">L'en doit aucune fois user avec son ami tex  parlemens et tex consax es quels celui
+                    qui  doute doit estre boutez; et ou l'en doit efforcier non tant seulement qu'il voille
+                    aprendre, ains qu'il aprengne, l'en doit a  lui user paroles basses et humbles, car
+                    l'en  les reçoit et retient plus ligierement.</p>
+                    <p xml:id="d001l10" n="6" rend="6">Car  il ne li estuet fere trop paroles, mes pou  et effectueuses et profitables.</p>
+                    <p xml:id="d001l11" n="7" rend="7">L'en les doit espandre en guise de semence, la quele , ja soit chose que elle soit
+                    petite, quant elle  chiet en bon et en convenable lieu, elle  espant sa force, et de
+                    tres petite croist et  monteplie et fet grandisme fruit.</p>
+                    <p xml:id="d001l12" n="8" rend="8">Aussi  fet la bone parole, car elle ne se demostre trop; mes se tu regardes bien, elle
+                     croist en oevre.</p>
+                    <p xml:id="d001l13" n="9" rend="9">L'en dit pou de paroles , mes se li corages les reçoit en bonne maniere, eles enforcent
+                    et croissent.</p>
+                    <p xml:id="d001l14" n="10" rend="10">Tout  itel condicion est des commandemens  come des semences: elles sont petites  et
+                    font assés.</p>
+                    <p xml:id="d001l15" n="11" rend="11">Toutesvoies, si com je ai dit , que bon corage et convenable les reçoive et tire a
+                    soi, car il engenderra assés  de soi meismes et en rendra plus que il ne reçut.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003">
+                    <head>
+                        <title>II - 58</title>
+                        <abbr>II - 58</abbr>
+                    </head>
+                    <lb/>
+                    <p xml:id="d001l16" n="1a" rend="1a">{{f. 40b}} Ci commence la .VIIIe. livre. De diversse division e difference de choses;
+                    ou il mostre par  exemple de Platon que abstinence conduit  l'ome a viellesce, le bien
+                    de la quele vielles  ce n'est a desirer ne a refuser. .LVIII.<lb/> <lb/>{{Quanta verborum
+                    paupertas et c. }}<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l17" n="1" rend="1">Je ne m'aperciu onques de si pres  com je ai huit fet com grant povreté,  ains que
+                    grant souffreté nos aions  de mos. Mil choses me cheurent es  mains parlant de Platon
+                    qui avoient mestier de num et n'en avoient point; aucunes autres l'avoient  eu et par
+                    nostre dangier l'avoient perdu.</p>
+                    <p xml:id="d001l18" n="2" rend="2">Et qui puet souffrir dangier en soufraite?</p>
+                    <p xml:id="d001l19" n="3" rend="3">Une beste se trueve que l'en appelle asilus et li Grieu la claiment oestrum:</p>
+                    <p xml:id="d001l20" n="4" rend="4">c'est une maniere de mouche qui s'apele taon, qui moult est aspre et ennuieuse  aus
+                    bués et as autres bestes, car elle les  point et fet foïr par ces chans plus que le
+                    pas.</p>
+                    <lb/>
+                    <p xml:id="d001l21" n="5" rend="5">L'en ne trueve comment l'en puisse dire usya en latin,  et si est ce une chose necessaire
+                    qui contient en soi la nature qui est fondement de  totes les choses qui sont en .VI.
+                    manieres,  si comme Platon les part et distincte.</p>
+                    <p xml:id="d001l22" n="6" rend="6">La premiere qui est vraiment ne se puet comprendre par  veüe, ne par touchement, ne
+                    par nul sens; mes  l'en la puet tant seulement pensser, car elle a  estre general,
+                    si comme home en general  ne se puet veoir; mes l'en puet les partialz  veoir, si comme
+                    Pierre ou Martin.</p>
+                    <p xml:id="d001l23" n="7" rend="7">L'animal  ne se voit, mes l'en le pensse.</p>
+                    <p xml:id="d001l24" n="8" rend="8">Mes l'en voit  bien l'espece, si comme un chien ou un cheval.</p>
+                    <p xml:id="d001l25" n="9" rend="9">La seconde maniere des choses qui sont  met Platon cele qui seurmonte et passe totes
+                    les autres; c'est estre par excellence si  comme l'en dit poete communalement, car
+                    touz ceuls qui versifient s'appelent poete:</p>
+                    <p xml:id="d001l26" n="10" rend="10">mes li  Grieu appelent Omer poete par excellence  por ce qu'il passa et seurmonta tous
+                    les autres poetes; si que, quand l'en oi dire de poete, il s'entend d'Omer.</p>
+                    <p xml:id="d001l27" n="11" rend="11">La tierce maniere des choses est qui sont proprement, les quelz [c] sont sans numbre,
+                    mes elles sont hors  mises et esloigniees de nostre veüe.</p>
+                    <p xml:id="d001l28" n="12" rend="12">Se tu me  demandes quels choses ce sont: c'est une  maniere de choses qui est propre
+                    de Platon,  car il fu celui qui premierement et especialment les controva et les appele
+                    ydees, desqueles et a l'exemple des queles se font totes  les chose qui sont.</p>
+                    <p xml:id="d001l29" n="13" rend="13">Cestes sont non mortels, non corrumpables, non muables.</p>
+                    <p xml:id="d001l30" n="14" rend="14">Or enten quel chose soit ydea, c'est a savoir quel  chose il est avis a Platon que
+                    ce soit.</p>
+                    <p xml:id="d001l31" n="15" rend="15">Il dist  que ydea est son exemplaire perpetuel des choses qui se font par nature.</p>
+                    <p xml:id="d001l32" n="16" rend="16">Je t'espondrai  ceste diffinition plus clerement a ce que tu l'entendes miex.</p>
+                    <p xml:id="d001l33" n="17" rend="17">Posons que je voille fere t'image.</p>
+                    <p xml:id="d001l34" n="18" rend="18">Je t'ai por exemplaire de ma painture et ma penssee prent de toi aucun habit, le quel
+                    elle met en oevre; et aussi ton visage qui me mostre et ensengne conment je te doie
+                    contrefere est ydea.</p>
+                    <p xml:id="d001l35" n="19" rend="19">Et telz  exemplaire sans numbre a la nature des choses, d'omes, de poissons, d'arbres,
+                    a la semblance des quels elle forge tout quanque elle fet.</p>
+                    <p xml:id="d001l36" n="20" rend="20">La quarte maniere s'apele  ydos.</p>
+                    <p xml:id="d001l37" n="21" rend="21">Quele chose soit ydos je le te dirai  et ne me met pas sus ceste difficulté, mes  la
+                    met sus a Platon: mes nulle soutiveté ne puet estre sans difficulté.</p>
+                    <p xml:id="d001l38" n="22" rend="22">Je t'é mis  orains exemple de paintre qui regardoit le visage de Virgile quant il le
+                    voloit  contrefere; et ensint le visage de Virgile estoit ydea et exemplaire de la
+                    figure qui  se fesoit; et ce que le paintre tret et prend de  ce visage et met en s'uevre
+                    s'appele ydos.</p>
+                    <p xml:id="d001l39" n="23" rend="23">Se tu me demandes quel difference il  a de l'un a l'autre, je le te dirai: l'un est
+                     exemplaire, l'autre est forme traite de l'exemplaire et mise en oevre.</p>
+                    <p xml:id="d001l40" n="24" rend="24">Le mestre fet  l'un regardant l'autre.</p>
+                    <p xml:id="d001l41" n="25" rend="25">L'image a aucune façon: cele se claime ydos.</p>
+                    <p xml:id="d001l42" n="26" rend="26">L'exemplaire neis a aucune façon a la quele regardoit le mestre quant il forjoit s'ymage:
+                    et  cele s'apele ydea.</p>
+                    <p xml:id="d001l43" n="27" rend="27">Et se tu veuls que je die  plus apertement encore: ydos est l'uevre, [d] ydea est dehors
+                    l'uevre, et non tant seulement dehors, mes avant que l'euvre se feist fu  ydea.</p>
+                    <p xml:id="d001l44" n="28" rend="28">La cinquiesme maniere est des choses qui sont communalement, et ces choses commencent
+                    apartenir a nos; ci se contienent  totes les choses, homes et bestes et totes  autres
+                    choses.</p>
+                    <p xml:id="d001l45" n="29" rend="29">La sisisme maniere est des choses qui sont par semblant si comme soir  et matin, si
+                    comme le tens.</p>
+                    <lb/>
+                    <p xml:id="d001l46" n="30" rend="30">Toutes les  choses que nos veons et touchons, Platon ne  les met pas ou numbre d'iceles
+                    qui cuidet  que soient proprement; car elles glacent et  continuement croissent et
+                    apeticent.</p>
+                    <p xml:id="d001l47" n="31" rend="31">Nus de  nos n'est celui viel que il fu joene; nul de  nos n'est hui ce qui fu hier.</p>
+                    <p xml:id="d001l48" n="32" rend="32">Nos cors sont  ravis en guise de flueves courans.</p>
+                    <p xml:id="d001l49" n="33" rend="33">Tot  quanque tu vois queurt avec le tens; nule chose de ce que nos veons ne demeure;
+                     je meisme parlant du movement et du muement de ces choses sui mués.</p>
+                    <p xml:id="d001l50" n="34" rend="34">C'est ce  que dist Eraclitus: que nos entrons .II. fois el flueve et n'i entrons point;
+                    car le num  du flueve demeure tousjors et l'iaue s'en  passe outre.</p>
+                    <p xml:id="d001l51" n="35" rend="35">Ceste chose est plus apparant  ou flueve que en l'ome; mes nos nos en alons noient
+                    mains corant que l'iaue du  flueve; et por ce me merveille je de ceste forsenerie que
+                    nos amons tant et tenons si  chiere chose qui tant est finable come  nostre cors et
+                    avons paour de morir.</p>
+                    <p xml:id="d001l52" n="36" rend="36">Comme soit chose que chascune heure et chascun point  soit mort du premier habit et
+                    du tens passez, por quoi veuls tu douter que la chose ne  se face une fois qui se fet
+                    chascun jor?</p>
+                    <p xml:id="d001l53" n="37" rend="37">Je  ai dit de l'ome, qui est d'une matiere glaçant et defaillant et sougiete a totes
+                    achoisons: le monde neis qui est chose  durable et perpetuele se change ne ne demeure
+                    en un estat.</p>
+                    <p xml:id="d001l54" n="38" rend="38">Car, ja soit chose qu'il  ait en soi totes les choses qu'il avoit,  il les a en autre
+                    maniere qu'il ne les avoit: il mue son ordre.</p>
+                    <lb/>
+                    <p xml:id="d001l55" n="39" rend="39">Se tu me demandes: quel profit me fera ceste soutiveté? Certes nul; mes tout aussi
+                    [f. 40b] come le paintre, quant il a longuement ovré  et travaillié sa veu, il encline
+                    ses yex et  torne autre part et, si comme l'en seut dire,  les repaist, aussi devons
+                    nos aucune fois remetre nos corages et doner lui aucun  delait et recreer le par aucun
+                    delit, mes que  ce delit soit aucune oevre; des choses  meismes que je ai desus dites
+                    porras tu  aucune chose prendre qui te porra estre profitable.</p>
+                    <p xml:id="d001l56" n="40" rend="40">Aussi ai je a costume de fere de tote nation et de tote sete, neis soit loig ne diverse
+                    de philosophye: je m'esforce de trere  en chascune chose et la fere profitable.</p>
+                    <p xml:id="d001l57" n="41" rend="41">Que  valent ces choses que avons desus traites qui tant sont esloigniees d'amendement
+                     de meurs?</p>
+                    <p xml:id="d001l58" n="42" rend="42">Comment me pueent amender  ne rendre meillor les ydees de Platon?</p>
+                    <p xml:id="d001l59" n="43" rend="43">Que  en aprendrai je qui me restreigne mes  convoitises?</p>
+                    <p xml:id="d001l60" n="44" rend="44">A tout le mains je en aprendrai tant que Platon me contredit que totes ces choses,
+                    les queles servent as sens,  qui nos atisent et alument, ne sont pas  ou numbre d'iceles
+                    les queles sont vraiment.</p>
+                    <p xml:id="d001l61" n="45" rend="45">Donques ces choses sont faintices  et ymaginaires et recouvrent aucune façon par tens
+                    et par saison, mes nulle s'elle n'est ferme ne estable; et ne porquant  nos les desirons
+                    et couvoitons aussi comme  se elle nos deussent tousjors durer; et  nos fesons delai
+                    de chose foible et glaçant.</p>
+                    <p xml:id="d001l62" n="46" rend="46">Adreçons nostre corage as choses qui sont  perpetueles et en merveillant passons [sic]
+                    les  formes de totes les choses misses lasus en haut, et dieu converssant emi elles
+                    et porvoiant comment il deffende de  mort, les queles il ne pot fere immorteles  par
+                    defaute de leur matire, et comment il  vainquele vice du cors par raison.</p>
+                    <p xml:id="d001l63" n="47" rend="47">Sans  faille totes les choses durent non pas por  ce qu'elles soient perpetueles, mes
+                    elles sont  maintenues et gouvernees par la cure de dieu : les choses non morteles
+                    n'ont mestier de  defendeeur.</p>
+                    <p xml:id="d001l64" n="48" rend="48">Ces autres garde et conserve le  mestre qui les fist, venchant par la for[b]ce fragilité
+                    de la matiere.</p>
+                    <p xml:id="d001l65" n="49" rend="49">Despitons totes les choses qui ne sont pas de si grant pris  qu'il ne soit doute se
+                    elles soient du tout  ou non.</p>
+                    <p xml:id="d001l66" n="50" rend="50">Penssons une chose: que se le monde qui est aussi mortel comme nos somes se mantient
+                    et est hors de peril par porvoiance, que nos aussi par porvoiance poons  en aucune
+                    maniere esloignier la vie de  nostre cors, se nos poons gouverner et restraindre les
+                    delis, des quelz une grant partie est  ja passee.</p>
+                    <p xml:id="d001l67" n="51" rend="51">Platon meisme se conduit a  viellesce par son sens et par s'abstinence.</p>
+                    <p xml:id="d001l68" n="52" rend="52">Sans  faille il estoit fors et viguereus par nature,  et ot a num Platon por ce qu'il
+                    avoit le  pis gros et le cors, car platos en gregiois  c'est a dire lé en françois.</p>
+                    <p xml:id="d001l69" n="53" rend="53">Mes les perils et  les travals qu'il avoit souffert en najant  l'avoient moult afoibli;
+                    et neporquant abstinence et la maniere de restraindre les  couvoitises et les delis
+                    du cors et la beneurté qu'il ot de soi le menerent a viellesce,  ja soit chose que
+                    maintes achoisons le contraliassent.</p>
+                    <p xml:id="d001l70" n="54" rend="54">Car je croi bien que tu saches  que ceste chose avient a Platon par sa diligence, c'est
+                    a savoir qu'il morut le jor de  sa nativité quant il ot acompli .IIIIXX. ans et  un
+                    sans riens faillir.</p>
+                    <p xml:id="d001l71" n="55" rend="55">Et por ce, aucuns astrologiens, qui lors par aventure estoient  a Athenes, li firent
+                    sacrifice a sa mort, cuidans qu'il fust de plus haute nature que  d'umanité, por ce
+                    qu'il avoit acompli le  numbre tres parfet, le quel se fet multipliant .IX. fois .IX.</p>
+                    <p xml:id="d001l72" n="56" rend="56">Je ne doute de noient qu'il eust volentiers refusé auquns jors  de cele some o tout
+                    le sacrifice.</p>
+                    <p xml:id="d001l73" n="57" rend="57">La fragilité puet extendre la viellesce, la quele, si  comme je cuit, n'est a refuser
+                    ne a desirer.</p>
+                    <p xml:id="d001l74" n="58" rend="58">Il  est delitable chose estre longuement o soi  meisme, quant l'ome a tant fet qu'il
+                    est  digne d'estre usé de soi meisme.</p>
+                    <p xml:id="d001l75" n="59" rend="59">Et por ce  dorrons sentence de ceste chose: l'en doit haïr et despiter l'extremité
+                    de viellesce et atendre la fin ou fere la par force.</p>
+                    <p xml:id="d001l76" n="60" rend="60">Celui resemble pouereus qui pereceusement et en [c] languissant atend la mort; si comme
+                    celui outre  mesure aime le vin qui essue le barill et hume  et sorbit neis la lie.</p>
+                    <p xml:id="d001l77" n="60" rend="60">Toutevoies nos demanderons se la derreniere part de la vie est itele, ou  se c'est
+                    une chose pure et clere, neis que la penssee  soit sans bleceure et les sens aident
+                    le corage  et le cors n'est du tout faillis et avant mort;  car grant difference est
+                    se l'ome extent la vie  ou la mort.</p>
+                    <p xml:id="d001l78" n="61" rend="61">Mes si le cors est non profitable a  fere son servise, lors sans doute doit l'en delivrer
+                    le corage travaillant et penant.</p>
+                    <p xml:id="d001l79" n="62" rend="62">Par aventure l'en se doit un poi haster de ce fere, car l'en  n'i porra avenir quant
+                    l'en le devra fere; et comme  soit chose que plus grant perill est mal vivre que  tost
+                    morir, force est qui pour un pou de tens  abandoner ne se giete hors de grant peril.</p>
+                    <p xml:id="d001l80" n="63" rend="63">Poi  sont qui par longue viellesce vignent a mort  sans outrage; plusieurs, la vie
+                    des quels  gist a terre et languist sans riens ouvrer et  sans nul profit fere.</p>
+                    <p xml:id="d001l81" n="64" rend="64">Et le quel te semble plus  cruel chose: avoir perdu aucune petite  heure de sa vie,
+                    ou le pooir et la baillie de fenir la? n'escoute pas ce que je di a envis,  aussi comme
+                    ceste sentence apartiegne ja a toi;  mes enten ce que je di: je n'abandonnerai pas
+                     viellesce se elle me garde et conserve tout a  moi meisme, et tout ce entens je de
+                    la meilleur partie, c'est a savoir du corage; mes se elle me commencera a troubler
+                    et estourdir la  penssee et blecier la en aucune part et ne me  lessera fors que l'ame
+                    tant seulement sans vie,  je saudrai hors de l'ostel viez et porris et decheu.</p>
+                    <p xml:id="d001l82" n="65" rend="65">Je ne me delivrerai pas de maladie par mort,  mes que la maladie soit curable et que
+                    elle ne  face domage au corage, je ne metrai pas main  en moi meisme por la doleur:
+                    car morir  en tel maniere est estre vaincus.</p>
+                    <p xml:id="d001l83" n="66" rend="66">Et neporquant,  se je saurai qu'il me coviegne perpetuellement la  doleur souffrir,
+                    je m'en istrai, non pas por lui, mes por ce qu'il m'enpeschera a totes choses  por
+                    les queles l'en vit.</p>
+                    <p xml:id="d001l84" n="67" rend="67">Celui est pareceus et de povre cuer qui muer por la doleur de soufrir.</p>
+                    <lb/>
+                    <p xml:id="d001l85" n="68" rend="68">Mes je parole trop; et la matiere est  trop longue grant planiere, de la quelle, l'en
+                    [d] porroit un jor tout entier sermonner.</p>
+                    <p xml:id="d001l86" n="69" rend="69">Et  comment porra metre fin en sa vie qui ne puet metre fin en son epistre?</p>
+                    <p xml:id="d001l87" n="70" rend="70">Donques diex  te garde de toi: la quel chose tu liras plus  volentiers que les empeechemens
+                    de la mort.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c004">
+                    <head>
+                        <title>III - 62</title>
+                        <abbr>III - 62</abbr>
+                    </head>
+                    <lb/>
+                    <p xml:id="d001l88" n="1a" rend="1a">{{f. 43 c}} Que l'ome puet venir a richesce par tres corte  voie, c'est a richesce
+                    despire .LXII.  <lb/> <lb/>{{Mentiuntur qui sibi obstare assunt [sic] et c. }}<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l89" n="1" rend="1">Ceuls mentent qui a la gent veulent  fere entendant que la multitude des besoignes
+                    les empeeche et destorbe  de l'estude de sapience: il s'en faignent d'estre  occupés,
+                    et ceuls meismes montplient et  accroissent leur occupations, et empeechent  euls meismes.</p>
+                    <p xml:id="d001l90" n="2" rend="2">Je sui hors d'occupations et,  ou que je soie, je sui mien et entens a moy; car je
+                    ne me doing pas aus besoignes,  mes je m'i preste, ne ne vois porchascant  achoisons
+                    de perdre le tens: en quelque lieu  que je soie je dispose et traite mes penssees,
+                    et devise et porchasce en mon corage aucunes choses profitables.</p>
+                    <p xml:id="d001l91" n="3" rend="3">Quant je me sui donez a mes  amis, por tant je ne m'esloig pas de mes penssees ne ne
+                    les oblie pas, ne ne fes pas  longue demeure avec ceuls auls quels le  tens m'ajouste,
+                    ou achoison d'autrui plait;  mes je suis tousjors avec aucun des meilleurs, et a ceus
+                    adrece je et envoie mon corage, et en quelque tens et en quelque lieu il aient esté.</p>
+                    <p xml:id="d001l92" n="4" rend="4">Je porte avec moi en ma memoire un tres preudome qui s'appelle Demetrius et, lessiés
+                    les autres bien vestus et aornez, me [d] deresne avec lui ainsi nu et ensint povre
+                    comme il est, et a lui me regart et a lui me merveill.</p>
+                    <p xml:id="d001l93" n="5" rend="5">Et c'est a bon droit, car j'ai veu et coneu qu'il ne  li faut riens.</p>
+                    <p xml:id="d001l94" n="6" rend="6">Aucun home puet bien toutes  choses despiter, mes il ne puet pas totes choses avoir.</p>
+                    <p xml:id="d001l95" n="7" rend="7">Tres corte voie as riches est par despitement des richesces.</p>
+                    <p xml:id="d001l96" n="8" rend="8">Celui preudome Demetrius vit en tel maniere, non pas si com il eust  tout despité,
+                    mes si com il ait as autres tout  otroié et clamé quite.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c005">
+                    <head>
+                        <title>IV - 114</title>
+                        <abbr>IV - 114</abbr>
+                    </head>
+                    <lb/>
+                    <p xml:id="d001l97" n="1a" rend="1a">{{f. 117 a}} De mainte diverseté de vicieus parlement, et que li parlemens se forme
+                     selonc la qualité du corage de celui qui parle; ou il parle brievement encontre luxure.
+                    <lb/> <lb/>{{Quare quibusdam temporibus et c. .CXIIII.}}<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l98" n="1" rend="1">Tu me demandes pourquoi en aucuns tens fu trouvé corroute  maniere de parler et comment
+                    li  engins des homes soient enclinez a aucuns vices, si que aucune fois l'en parle
+                    hautement et clerement, aucune fois laschement et en guise de chançon; pourquoi  aucune
+                    fois plurent a la gent les sentences hardies et merveilleuses, aucunefois les entreroutes
+                    et souspeçonneuses  es queles plus convenoit entendre que ce  que l'en y avoit oï;
+                    porquoi en aucun  aage l'en usoit franchement la force de  translation.</p>
+                    <p xml:id="d001l99" n="2" rend="2">L'achoison est ce que vos oés sovent de la gent dire qui est trouvé en proverbes as
+                    Griex: c'est a ssavoir,  tele maniere de parler orent li home quele vie il menerent.</p>
+                    <p xml:id="d001l100" n="3" rend="3">Et si comme l'euvre  de chascun est semblable au parlement, aussi est la maniere de
+                    parler: aucune fois elle suit les meurs communs, et [b] ensint la discipline du pueple
+                    est perdue  et s'est donnee a delit.</p>
+                    <p xml:id="d001l101" n="4" rend="4">La lasciveté de parler est argumens de luxure commune, se elle se  trueve non tant
+                    seulement en un ou en .II., mes  se elle est aprouvee et receue de tous.</p>
+                    <p xml:id="d001l102" n="5" rend="5">L'enging ne puet avoir autre coleur que li  corages.</p>
+                    <p xml:id="d001l103" n="6" rend="6">Se li crages est sains et ordenez,  sages et amesurés, l'engin neis sera sobre et
+                    net; se li corages est corrout, l'enging neis sera entamés.</p>
+                    <p xml:id="d001l104" n="7" rend="7">Ne vois tu que  se li corages languist, les membres s'en sentent et les piés se muevent
+                    pereceusement?</p>
+                    <p xml:id="d001l105" n="8" rend="8">S'il est mouls et feminins, que la lasceté pert neis en l'aleure?</p>
+                    <p xml:id="d001l106" n="9" rend="9">Se il est fors  et fiers, l'aleure en devient plus aspre  et plus isnele?</p>
+                    <p xml:id="d001l107" n="10" rend="10">Se il est forsené et courrouciez, qui a forsenerie resemble, que li mouvement du cors
+                    en est troublé et qu'il  ne vait pas, ains est empains et deboutez?</p>
+                    <p xml:id="d001l108" n="11" rend="11">Ceste chose avient trop plus a l'enging  qui tous est mellez au corage: de celui 
+                    est il enformez, a celui obeist il, de celui  prent il regle.</p>
+                    <lb/>
+                    <p xml:id="d001l109" n="12" rend="12">Il n'é mestier de raconter commment Mecenas vesqui, car c'est chose conneue: quele
+                    maniere il avoit en alant;  comment il fu deliez; comment il desiroit de  soi moustrer;
+                    comment il s'esforça de couvrir  ses vices.</p>
+                    <p xml:id="d001l110" n="13" rend="13">Neis ses parlemens fu mouls et  lasches aussi comme il meismes.</p>
+                    <p xml:id="d001l111" n="14" rend="14">Ses paroles ne furent si aornees comme ses paremens, comme sa mesnie, comme son ostel,
+                     comme sa fame?</p>
+                    <p xml:id="d001l112" n="15" rend="15">Il fu hons de grant enging,  s'il l'eust mené par plus droite voie, s'il ne  se fust
+                    esforciez de parler si obscurement que l'en  ne le pooit entendre, s'il ne fust dissolus
+                    et lasches en son parler.</p>
+                    <p xml:id="d001l113" n="16" rend="16">Donques tu pourras veoir eloquence d'ome yvre envelopee et forvoiant et outrageuse
+                    et appartenant  a home lasche et mol et qui toujours a  la desceins: car comme il
+                    fust remés a Rome  en lieu de Cesar, quant la gent venoient  a lui pour aucune besogne,
+                    il le trouvoient desçaint; et quant il aloit parmi  la vile, il couvroit sa teste
+                    de son mantel, les oreilles dehors tant seulement; ne  onques por bruit ne por noise
+                    qui a Rome  fust, ne por guerre, ne pour autre chose  il ne se remua de ses delices;
+                    mil fois chasça sa fame et la reprist arriere.</p>
+                    <p xml:id="d001l114" n="17" rend="17">Un pris li  fu donnez: que il estoit piteus et que il ne se  delita en sanc espandre,
+                    ne ne moustra  son pooir en nulle autre chose fors que en  outrageus delit de son
+                    cors, et ce pris corrumpi il par sa diversse maniere de parler,  car par ses dis il
+                    moustre que il fu molz, non pas piteus, et qu'il estoit aussi comme forsenez par trop
+                    grant beneurté, la quele  chose aucune fois avient a l'ome par sa  defaute, aucune
+                    fois par coupe du tens.</p>
+                    <p xml:id="d001l115" n="18" rend="18">Quant la beneurté espant largement la luxure  et l'en se commence a polir et a acesmer
+                    plus diligiamment que l'en n'avoit acoustumé, lors  commence l'en a croistre son hernois
+                    et ses ostils, et a maçonner outrageusement et a polir  ses maisons de marbre outremarin
+                    et  paintures de diversse manieres; aprés s'esforce l'en de doner a mengier largement
+                     pour estre de la gent loez, et de controuver novele maniere en servir, et de metre
+                    a table  premierement les mes que l'en seult au derrenier mengier, et donner a l'issue
+                    ce que l'en soloit donner a l'entree.</p>
+                    <p xml:id="d001l116" n="20" rend="20">Car li corages est aüsez au dangier des choses acoustumees  et les tient neis a vils
+                    et a ordes, lors vet  il neis querant novele maniere de parler et aucune fois renouvele
+                    les mos anciens et desaüsés; aucune fois contrueve de  soi choses nueves et non conneues,
+                    et tient  l'en a bele et a polie chose qui novelement est translatee.</p>
+                    <p xml:id="d001l117" n="21" rend="21">Aucuns sont qui abregent  leurs sentences et cuident que ce soit gracieuse  chose
+                    le oeor proferir sens pendant et obscurir et metre en souspeçon; aucuns sont  qui
+                    les detienent et estendent; aucuns sont  qui ne s'aprochent jusqu'au vice, car ce
+                    estuet fere a ceuls qui ancune grant chose essaient de dire, mes il aiment le vice
+                    meisme.</p>
+                    <p xml:id="d001l118" n="22" rend="22">Et pour ce, a cuiconques tu verras plaisir parl[d]ement corrout, saches sans doute
+                    que illuec  sont aussi les meurs corrompus.</p>
+                    <p xml:id="d001l119" n="23" rend="23">Si comme l'outrage du mengier et des vestemens segnefie corruption de discipline,
+                    tout aussi  la vicieuse maniere de parler, qui souvent la hante, demonstre que li
+                    corages dont  les paroles issent est deceus.</p>
+                    <p xml:id="d001l120" n="24" rend="24">Ne tu ne te  dois pas merveillier que enssint li povres et  li malvestu aiment les
+                    vices et les  corruptions comme li riche et li noblement  vestu, car entre euls n'a
+                    difference nulle  fors quel es vestemens tant seulement.</p>
+                    <p xml:id="d001l121" n="25" rend="25">De ce te  dois plus merveillier que non tant seulement  que non tant seulement les
+                    homes vicieus sont  loés, mes les vices meismes, car toujours  fu ensint: l'enging
+                    de l'ome n'est loez se il  n'a forfet d'aucune chose.</p>
+                    <p xml:id="d001l122" n="26" rend="26">Nomme moi quelque grant home que tu veuls, de quelque tens  il ai testé; je te dirai
+                    de lui choses que la gent onques ne sot; je t'en dirai  d'autre que la gent bien sot,
+                    mes elle se faint  de non savoir le; je t'en mousterrai maint  a cui li vice ne firent
+                    point domage;  je t'en dirai maint a cui il firent grant profit.</p>
+                    <p xml:id="d001l123" n="27" rend="27">Je t'en dirai aucun de grant et de merveilleuse renomee que, qui le vousist corrigier,
+                    l'en li osterroit hors de toute remenbrance; car li vice sont si entremellés et pris
+                    as vertus que il les tirent a eus.</p>
+                    <p xml:id="d001l124" n="28" rend="28">Et ajouste a  ce que le parler n'a point de regle: la coustume du puple, qui jamais
+                    n'est estable, tousjours le change et tourne.</p>
+                    <p xml:id="d001l125" n="29" rend="29">Pluseurs sont qui vont querant les mos  du tens ancien et parlent des .XII. tables,
+                     es queles les lois romaines furent premierement escrites, et dient que il leur semble
+                    que Graccus et Cassius et Curio parlerent  trop aornement, et veulent retourner as
+                     mos d'Appius et de Coruncanus, qui les  lois premierement translaterent de gregiois
+                    en latin.</p>
+                    <p xml:id="d001l126" n="30" rend="30">Aucuns font le contraire, car  il ne veulent nul mot oïr fors quel es usez  et les
+                    acoustumés, si qu'il gastent et honnissent la maniere de parler.</p>
+                    <p xml:id="d001l127" n="31" rend="31">L'un et l'autre [118 a] est corrompus en diversse maniere, aussi  comme s'il ne vousissent
+                    les mos biaus et  bien sonans les quels li poete userent, et vosissent eschiver les
+                    choses necessaires  et acoustumees.</p>
+                    <p xml:id="d001l128" n="32" rend="32">Je di que aussi peche l'un  comme l'autre: li uns se polist outre mesure, li autres
+                    se despite et tient mains  cure de soi qu'il ne deüst; cil se fet neis les  jambes
+                    rere, cil autre ne se fet neis le  poil et l'ordure desous les esseles oster.</p>
+                    <lb/>
+                    <p xml:id="d001l129" n="33" rend="33">Toz  ces outrages, neis de parler comme des autres choses, vienent du corage, et pour
+                    ce le  doit l'en curer: de lui issent les sentences et  les mos; cil nos donne habit,
+                    ciere et aleure.</p>
+                    <p xml:id="d001l130" n="34" rend="34">Se il est sains et hetiez, li parler neis  sera rustes et fort et corageus; s'il est
+                    dehetiez, toutes les autres choses s'en sentent.</p>
+                    <p xml:id="d001l131" n="35" rend="35">Li corages est nostre rois et nostre gouvernerres; tant com il dure en santé, les
+                    autres  choses perseverent en leur offices et s'acordent et obeissent; tantost que
+                    cil cloche un  pou, et il neis commencent a douter.</p>
+                    <p xml:id="d001l132" n="36" rend="36">Et quant  il est vaincus des delis, ses ars et ses oevres neis porrissent, et quanque
+                    il font, font  laschement et en languissant.</p>
+                    <lb/>
+                    <p xml:id="d001l133" n="37" rend="37">Et pour ce  que je ai usé ceste semblance, je la parsivrai.</p>
+                    <p xml:id="d001l134" n="38" rend="38">Nos corages aucune fois est rois,  aucune fois est tirans, ce est mauvés  sire.</p>
+                    <p xml:id="d001l135" n="39" rend="39">Lors est il rois quant il regarde as  honnestes choses et quant il pourchasse et 
+                    procure la sauveté du cors qui a lui est  commise et commandés, et ne li commande
+                    a  fere nulle chose orde ne honteuse; mes  quant il est orguelleus, couvoiteus et
+                    deliez, lors reçoit il mauvés num et cruel et devient tirant.</p>
+                    <p xml:id="d001l136" n="40" rend="40">Lors l'envahissent les mauvés desierriers, et au commencement s'esjoissent es vices
+                    si comme li pueple  seult fere de la fole largesse du seignor;  car ne tant soit des
+                    dons plains, si est  il tousjours plains et prest a prendre en  plus, et atise son
+                    seignour a folement donner.</p>
+                    <p xml:id="d001l137" n="41" rend="41">Et quant l'enfermeté plus et plus a  les forces affeblies et les delis sont en[b]trés
+                    jusques es ners et es moeles, et il ne  les puet plus user, car trop desireusement
+                     s'en est saoulés, si les reguarde il volentiers et se delite en reguarder les autres
+                     qui les usent et il en est tesmoins et atiserres.</p>
+                    <p xml:id="d001l138" n="42" rend="42">Et a joie et doleur ensement de ce que il  ne puet tout parfoi user et hanter sa luxure
+                    si comme il soloit, et a grant angoisse  que une grant partie de sa benëurté est finie
+                     par la defaute de ses membres qui sont afoiblis.</p>
+                    <p xml:id="d001l139" n="43" rend="43">Et n'est ce grant forsenerie que nus de nos ne pensse qu'il est mortel et qu'il est
+                    foibles et que il est un?</p>
+                    <p xml:id="d001l140" n="44" rend="44">Reguarde ces cuisines ou il a tant de jeus qui bruient  entour ces feus et entour
+                    ces chaudieres:</p>
+                    <p xml:id="d001l141" n="45" rend="45">cuides tu que au seignor soit avis que  ce soit un ventre a cui l'en apreste viande
+                     a si grant noise et a si grant tempeste?</p>
+                    <p xml:id="d001l142" n="46" rend="46">Reguarde nos celiers et nos greniers:</p>
+                    <p xml:id="d001l143" n="47" rend="47">cuidez tu que  il se cuide avoir un ventre qui tant de vin  tient enclos et enserré?</p>
+                    <p xml:id="d001l144" n="48" rend="48">Reguarde en quans lieus la terre se ere et fent:</p>
+                    <p xml:id="d001l145" n="49" rend="49">cuides tu que  il se cuide avoir un ventre a cui il fet semer  en Cecile et en Aufrique?</p>
+                    <p xml:id="d001l146" n="50" rend="50">Nous serons sains  se nos desirons pou de choses, se chascun  contera et esmera et
+                    amassera et amesurera  son cors, et saura que il ne puet moult mengier ne longuement.</p>
+                    <p xml:id="d001l147" n="51" rend="51">Mes nule chose ne profitera tant a atemprance et a mesure  de toutes les choses comme
+                    sovent pensser  que nostre vie est courte et non certaine:  que que tu faces, reguarde
+                    a ta mort.</p>
+                    <lb/>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

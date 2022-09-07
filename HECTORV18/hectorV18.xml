@@ -1,0 +1,2184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="HECTORV18-hectorV18">
+                    <title type="short">Le roman d'Hector et Hercule, ms. Venezia, Marciana, fr. 18</title>
+                    <title type="alt">Hector et Hercule, Venezia, Marciana, fr. 18 (Roman de)</title>
+                    <abbr>Le roman d'Hector et Hercule, BNF, fr. 821</abbr>
+                    <note xml:id="note1">primo trentennio XIV sec.</note>
+                    <bibl><emph style="font-style:italic">Le roman d'Hector et Hercule</emph>, Edizione del manoscritto Venezia, Biblioteca Nazionale Marciana, fr. 18</bibl>
+                </title>
+                <author xml:id="HECTORV18" n="113.000">
+                    <name></name>
+                    <abbr></abbr>
+                </author>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata</resp>
+                    <name>Carlo Beretta</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale</resp>
+                    <name>Francesca Gambino, Marta Materni e Luigi Tessarolo</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Reference basis text</resp>
+                    <name><emph style="font-style:italic">Le roman d'Hector et Hercule</emph>, Edizione del manoscritto Venezia, Biblioteca Nazionale Marciana, fr. 18</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.rialfri.eu">RIALFrI</ref>
+                </publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <notesStmt>
+            </notesStmt>
+            <sourceDesc>
+                <bibl><emph style="font-style:italic">Le roman d'Hector et Hercule</emph>, Edizione del manoscritto Venezia, Biblioteca Nazionale Marciana, fr. 18</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t3"/>
+                <keywords>
+                    <term type="form">poetry</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work">
+                <p xml:id="d001l1" type="title" n="">I</p>
+                <lb/>
+                <l xml:id="d001l2" n="1">Nous trovons pour scri|ture<note>Nous] iniziale blu con filigrane rosse alta otto righe;
+                i vv. 1‑4 sono trascritti su due righe</note>    [143ra]</l>
+                <l xml:id="d001l3" n="2">Che Herculés outre | nature</l>
+                <l xml:id="d001l4" n="3">Fu fier, ardis sour tuit | e grans,</l>
+                <l xml:id="d001l5" n="4">Saçe, ligier e sourpui|sans.</l>
+                <l xml:id="d001l6" n="5">Ne combati jamés a nus</l>
+                <l xml:id="d001l7" n="6">Che briefmant ne fust vencus.</l>
+                <l xml:id="d001l8" n="7">De lui tesmoient<note>7. tesmoient] HectB tesmonient</note> petis e grant</l>
+                <l xml:id="d001l9" n="8">Ch’il sotmetoit cescune giant</l>
+                <l xml:id="d001l10" n="9">E oncioit<note>9. oncioit] HectB occioit</note> ors e lions,</l>
+                <l xml:id="d001l11" n="10">Sarpans, centaures e dragons.</l>
+                <l xml:id="d001l12" n="11">Ne fu a suen tens en tout le mond</l>
+                <l xml:id="d001l13" n="12">Tant fort de lui, noir ne blond,</l>
+                <l xml:id="d001l14" n="13">Fors seulmant Hector le prous,</l>
+                <l xml:id="d001l15" n="14">Che d’onour ciere fu famous:</l>
+                <l xml:id="d001l16" n="15">Le fil Prians, le noble roi,</l>
+                <l xml:id="d001l17" n="16">Le miaudre hom de nule loi.</l>
+                <l xml:id="d001l18" n="17">Celui fu fil de grand proeçe,</l>
+                <l xml:id="d001l19" n="18">De courtoisie<note>18. courtoisie] HectB cortoisie</note> e de larçeçe,</l>
+                <l xml:id="d001l20" n="19">De sen, d’ardimant e de mesure,</l>
+                <l xml:id="d001l21" n="20">E voir parant fu de droiture.</l>
+                <l xml:id="d001l22" n="21">En parlier fu sour tous pleisans,</l>
+                <l xml:id="d001l23" n="22">Vers nul ne fu jamés vilans,</l>
+                <l xml:id="d001l24" n="23">Voir ch’em bataille fu aspre e dur</l>
+                <l xml:id="d001l25" n="24">Plus che n’est peron en mur.</l>
+                <l xml:id="d001l26" n="25">Omble fu sour tous e plan,</l>
+                <l xml:id="d001l27" n="26">Cum dit l’autour e<note>26. l’autour] HectB l’autor --- e] HectB en</note> cist roman.</l>
+                <l xml:id="d001l28" n="27">N’en<note>27. N’en] HectB Non</note> sai plus dir ne non savroie</l>
+                <l xml:id="d001l29" n="28">Tant bien<note>28. bien] HectB biens</note> de luy, che plus nen soie.</l>
+                <l xml:id="d001l30" n="29">Pour ce m’en soufrirai atant</l>
+                <l xml:id="d001l31" n="30">E vous dirai d’un autre çant;</l>
+                <l xml:id="d001l32" n="31">Si vous dirai, se oïr voudriés,<note>31. voudriés] HectB voudres</note></l>
+                <l xml:id="d001l33" n="32">Com le jaiant<note>32. jaiant] Iaiant --- dan] HectB dans</note> dan Herculés</l>
+                <l xml:id="d001l34" n="33">Le fier, le fort, le sourpuisant,</l>
+                <l xml:id="d001l35" n="34">A grand esfors<note>34. esfors] HectB effors</note> de garnimant</l>
+                <l xml:id="d001l36" n="35">A forçe oit asiçé Filiminis</l>
+                <l xml:id="d001l37" n="36">Dedans le mur de suen païs.</l>
+                <l xml:id="d001l38" n="37">E est si grand le suen esfors<note>37. esfors] HectB effors</note></l>
+                <l xml:id="d001l39" n="38">Che nul ardis ensist deors.</l>
+                <l xml:id="d001l40" n="39">Herculés aloit tout destruant</l>
+                <l xml:id="d001l41" n="40">Çastiaus, maisons e çasimant.<note>40. Çastiaus] HectB Castiaus</note></l>
+                <l xml:id="d001l42" n="41">Deors la ville ne remist</l>
+                <l xml:id="d001l43" n="42">Prous ne vil che ne fuïst.</l>
+                <l xml:id="d001l44" n="43">N’est pas mervoille s’il fu cremus,</l>
+                <l xml:id="d001l45" n="44">Tant fort estoit, grand e membrus.</l>
+                <l xml:id="d001l46" n="45">Il sotmetoit cascune giant,</l>
+                <l xml:id="d001l47" n="46">Grans e petis, tous ensemant:</l>
+                <l xml:id="d001l48" n="47">Ce n’est mervoille, ce dit l’autour,</l>
+                <l xml:id="d001l49" n="48">Se a tretous fesoit peour.</l>
+                <l xml:id="d001l50" n="49">La veritié ci ne s’esforçe:</l>
+                <l xml:id="d001l51" n="50">De cent homes avoit la forçe.</l>
+                <l xml:id="d001l52" n="51">Entour Tremachi, la fort citié,</l>
+                <l xml:id="d001l53" n="52">Ou le roy Filiminis fu né,</l>
+                <l xml:id="d001l54" n="53">Estoit Herculés le nobile.    [143rb]</l>
+                <l xml:id="d001l55" n="54">De chevaliers avoit vint mile:</l>
+                <l xml:id="d001l56" n="55">Grand mase fu la giant menue,</l>
+                <l xml:id="d001l57" n="56">Tout en fu covert çamin e rue.</l>
+                <l xml:id="d001l58" n="57">Ardant aloient tout le païs,</l>
+                <l xml:id="d001l59" n="58">De maint maixons ferent cenis;</l>
+                <l xml:id="d001l60" n="59">N’en remist nule entiere</l>
+                <l xml:id="d001l61" n="60">(Sauf che ne fust de cuite pere),</l>
+                <l xml:id="d001l62" n="61">Che nen fust a feu cremue.</l>
+                <l xml:id="d001l63" n="62">Ensi fesoit la giant temue.</l>
+                <l xml:id="d001l64" n="63">Li païssans fuiant s’en vont,</l>
+                <l xml:id="d001l65" n="64">Chi pour val e chi pour mont.</l>
+                <l xml:id="d001l66" n="65">Tost fust le roi Filiminis</l>
+                <l xml:id="d001l67" n="66">Dedans sa<note>66. sa] HectB la</note> ville ou mort ou pris.</l>
+                <l xml:id="d001l68" n="67">Ne se pooit de long defendre</l>
+                <l xml:id="d001l69" n="68">Ne sostenir le dur contendre;</l>
+                <l xml:id="d001l70" n="69">Perdus eüst tout suen honors,</l>
+                <l xml:id="d001l71" n="70">Se le plus valorous secors</l>
+                <l xml:id="d001l72" n="71">Che mortiel lengue peüst dire</l>
+                <l xml:id="d001l73" n="72">Ne fust venus a suen empire.</l>
+                <l xml:id="d001l74" n="73">Fame chi cort tost e isnelle</l>
+                <l xml:id="d001l75" n="74">Plus che ne vole arondinelle,</l>
+                <l xml:id="d001l76" n="75">Spandi par toute Troie</l>
+                <l xml:id="d001l77" n="76">(Nen sai comant, dir nel savroie)</l>
+                <l xml:id="d001l78" n="77">Cum Herculés, le fort jaiant,</l>
+                <l xml:id="d001l79" n="78">Cum ses amis e ses parant</l>
+                <l xml:id="d001l80" n="79">Avoit le roi Filiminis</l>
+                <l xml:id="d001l81" n="80">En Tremachi enclus e asis.</l>
+                <l xml:id="d001l82" n="81">En Troie fu seü cist fet,</l>
+                <l xml:id="d001l83" n="82">Cum le jaiant tretout desfet</l>
+                <l xml:id="d001l84" n="83">E cum duremant la giant flaielle,</l>
+                <l xml:id="d001l85" n="84">Confond, ocist chi lui revelle.</l>
+                <l xml:id="d001l86" n="85">Le roi Prians, quand oit seü</l>
+                <l xml:id="d001l87" n="86">Che Herculés au cors membru</l>
+                <l xml:id="d001l88" n="87">Roi Filiminis avoit asigié,</l>
+                <l xml:id="d001l89" n="88">Mout duremant en fu iré.</l>
+                <l xml:id="d001l90" n="89">Pour grand iror fremist e tremble,</l>
+                <l xml:id="d001l91" n="90">Quand de suen pere se remembre,</l>
+                <l xml:id="d001l92" n="91">Che le jaiant<note>91. jaiant] Iaiant</note> oucis sot Troie,</l>
+                <l xml:id="d001l93" n="92">Pués en porta la rice<note>92. rice] HectB riçe</note> proie;</l>
+                <l xml:id="d001l94" n="93">E pour Exiona tiel duel demaine,</l>
+                <l xml:id="d001l95" n="94">Nel fist gregnour nul cors humaine.</l>
+                <l xml:id="d001l96" n="95">– Hey las!, fet il, con sui dolant</l>
+                <l xml:id="d001l97" n="96">De ma serour, che mout vilmant</l>
+                <l xml:id="d001l98" n="97">Tient Telamon de Salamine</l>
+                <l xml:id="d001l99" n="98">Par forçe prise en sa saixine! –</l>
+                <l xml:id="d001l100" n="99">Lour ne se puet le roi tenir</l>
+                <l xml:id="d001l101" n="100">Ch’il nen giemist con dur souspir.</l>
+                <l xml:id="d001l102" n="101">Tant avoit de duel le cuer enflés,</l>
+                <l xml:id="d001l103" n="102">Parlier ne puet, tant est irés.</l>
+                <l xml:id="d001l104" n="103">Quand puet parlier, con plor escrie:</l>
+                <l xml:id="d001l105" n="104">– Meis n’avrai joie, tant sui honie,</l>
+                <l xml:id="d001l106" n="105">Quand je ne puis prendre venjançe</l>
+                <l xml:id="d001l107" n="106">De cil che fist la desevrançe</l>
+                <l xml:id="d001l108" n="107">Da moi a mien per Laumedon,</l>
+                <l xml:id="d001l109" n="108">Che mort me fu en tradixon!</l>
+                <l xml:id="d001l110" n="109">N’en serai liés jour de ma vie    [143va]</l>
+                <l xml:id="d001l111" n="110">Tant com sera celu en vie. –</l>
+                <l xml:id="d001l112" n="111">Quand Hector vit plorer suen pere,</l>
+                <l xml:id="d001l113" n="112">Par pué de duel ch’il ne despere.</l>
+                <l xml:id="d001l114" n="113">Le suen cier vis, che fu riant,</l>
+                <l xml:id="d001l115" n="114">Enpaili de mautalant;</l>
+                <l xml:id="d001l116" n="115">Le suen esgard devient felon</l>
+                <l xml:id="d001l117" n="116">Trou plus asés d’iriés lion.</l>
+                <l xml:id="d001l118" n="117">Ses oils sembloient ardans faxelle,</l>
+                <l xml:id="d001l119" n="118">Tant fieremant andeus stançelle.</l>
+                <l xml:id="d001l120" n="119">Tant fu orible suen esgard,</l>
+                <l xml:id="d001l121" n="120">Devant suen vis cescun se part;</l>
+                <l xml:id="d001l122" n="121">Ne fu ardis de lui veoir</l>
+                <l xml:id="d001l123" n="122">Cil che plus ha gregnour pooir.</l>
+                <l xml:id="d001l124" n="123">Le joune Hector, sour tous vailans,</l>
+                <l xml:id="d001l125" n="124">Che n’avoit ancour pasié .xx. ans,</l>
+                <l xml:id="d001l126" n="125">Pensa çouse la plus autaine</l>
+                <l xml:id="d001l127" n="126">Che meis feïst nul cors humaine.</l>
+                <l xml:id="d001l128" n="127">Dist ch’il ira a Tremachis</l>
+                <l xml:id="d001l129" n="128">Pour aïder Filiminis</l>
+                <l xml:id="d001l130" n="129">Chi est asiçé en sa maison</l>
+                <l xml:id="d001l131" n="130">E pour fier venjance de Laumedon.</l>
+                <l xml:id="d001l132" n="131">Ne meis n’avra<note>131. n’avra] HectB n’aurai</note> ne bien ne joie,</l>
+                <l xml:id="d001l133" n="132">– Se Herculés vers moi ne ploie.</l>
+                <l xml:id="d001l134" n="133">Quand le verai pourmi le front,</l>
+                <l xml:id="d001l135" n="134">O lu ou moi briefmant moriront.</l>
+                <l xml:id="d001l136" n="135">Ne garderai a point ne a sort</l>
+                <l xml:id="d001l137" n="136">De envaïr cil home fort,</l>
+                <l xml:id="d001l138" n="137">Che n’a peor de nule de fere<note>137. de nule de fere] HectB de nule fere</note></l>
+                <l xml:id="d001l139" n="138">Tant est puisant, prous e licere.<note>138. licere] HectB liçere</note></l>
+                <l xml:id="d001l140" n="139">Iluec le miaudre se conoistra,</l>
+                <l xml:id="d001l141" n="140">Le plus ceitis honis sera.</l>
+                <l xml:id="d001l142" n="141">Meis aim morir a grand honour,<note>141‑42. i due vv. sono affiancati da due segni
+                di paragrafo, uno rosso e uno blu</note></l>
+                <l xml:id="d001l143" n="142">Che de vergogne avoir peour.</l>
+                <l xml:id="d001l144" n="143">Se mort serai moi defendant,</l>
+                <l xml:id="d001l145" n="144">Ne pris la mort un ceitis gant.</l>
+                <l xml:id="d001l146" n="145">Ou mors ou vis che je me soie,</l>
+                <l xml:id="d001l147" n="146">Au fier jaiant<note>146. jaiant] Iaiant</note> ferai enoie,</l>
+                <l xml:id="d001l148" n="147">En tiel peour e en tiel esmai</l>
+                <l xml:id="d001l149" n="148">Dond il avra souspir e guai.</l>
+                <l xml:id="d001l150" n="149">E se de mien aiuel ne prend venjançe,</l>
+                <l xml:id="d001l151" n="150">Ne pris noiant tout ma puisançe;</l>
+                <l xml:id="d001l152" n="151">Ne jamés a Troie ne reverai,</l>
+                <l xml:id="d001l153" n="152">Se la venjance nen ferai.</l>
+                <l xml:id="d001l154" n="153">En mont ou en bois ou en gaudine</l>
+                <l xml:id="d001l155" n="154">Ferai<note>154. Ferai] HectB Terai</note> ma vie poubre tapine. –</l>
+                <l xml:id="d001l156" n="155">Le joune Hector tot celui jour</l>
+                <l xml:id="d001l157" n="156">Ne fist semblant fors che de plour.</l>
+                <l xml:id="d001l158" n="157">Tant fu iriés le prous ardis</l>
+                <l xml:id="d001l159" n="158">Ch’il ne conuit iluec amis.</l>
+                <l xml:id="d001l160" n="159">Nus nel puet reconfortier,</l>
+                <l xml:id="d001l161" n="160">Dames, dançeles ne baçalier;</l>
+                <l xml:id="d001l162" n="161">Ne miemant Hecuba sa mere</l>
+                <l xml:id="d001l163" n="162">Plus nel muit con fust de pere.</l>
+                <l xml:id="d001l164" n="163">Tant avoit le cuer encluit</l>
+                <l xml:id="d001l165" n="164">Che pour proieres ne se muit.</l>
+                <l xml:id="d001l166" n="165">Atant le jour s’en veit, la nuit leva;   [143vb]</l>
+                <l xml:id="d001l167" n="166">Tuit vont dormir, chi ça chi la.</l>
+                <l xml:id="d001l168" n="167">En çambre ala le prous ardis,</l>
+                <l xml:id="d001l169" n="168">Quand tretous furent partis.</l>
+                <l xml:id="d001l170" n="169">Tant rice<note>169. rice] HectB riçe</note> zambre nul oilz mortal</l>
+                <l xml:id="d001l171" n="170">Ne vit jamés amont ne aval.</l>
+                <l xml:id="d001l172" n="171">La plus vil çose che fu dedans</l>
+                <l xml:id="d001l173" n="172">Fu or finés ou pur arçans.</l>
+                <l xml:id="d001l174" n="173">Ovree estoit a rice esmal:</l>
+                <l xml:id="d001l175" n="174">Ne li fu pas dedans metal,</l>
+                <l xml:id="d001l176" n="175">Mes nobles peres de vertus</l>
+                <l xml:id="d001l177" n="176">Furent asés aou ciel desus.</l>
+                <l xml:id="d001l178" n="177">Çafir,<note>177. Çafir (?)] HectB Zafir</note> robins, topas, esmiraut</l>
+                <l xml:id="d001l179" n="178">Fure plusors aou ciel plus aut.</l>
+                <l xml:id="d001l180" n="179">Ne fu jamés une tant belle</l>
+                <l xml:id="d001l181" n="180">Ne tant rice<note>180. rice] HectB riçe</note> com est celle.</l>
+                <l xml:id="d001l182" n="181">En cele zambre n’a mestier</l>
+                <l xml:id="d001l183" n="182">Tortis, zandoilles ne doplier,</l>
+                <l xml:id="d001l184" n="183">Car dedans est une pere</l>
+                <l xml:id="d001l185" n="184">Che de nuit reluit plus cere</l>
+                <l xml:id="d001l186" n="185">Che ne fessoit ardans tortis,</l>
+                <l xml:id="d001l187" n="186">Quand de feu estoit espris.</l>
+                <l xml:id="d001l188" n="187">Le prous enfant sour tous eslit</l>
+                <l xml:id="d001l189" n="188">N’ala pas dormir en lit,</l>
+                <l xml:id="d001l190" n="189">Ains pareila ses garnimans</l>
+                <l xml:id="d001l191" n="190">Che mout fu fort, dur e tenans.</l>
+                <l xml:id="d001l192" n="191">Primier çauça soi les jamberes</l>
+                <l xml:id="d001l193" n="192">Che plus d’argient estoient cleres.</l>
+                <l xml:id="d001l194" n="193">L’aubers vesti e suen clavan,</l>
+                <l xml:id="d001l195" n="194">Che rien ne prise açe ne bran.</l>
+                <l xml:id="d001l196" n="195">Tant avoit la maille dure,</l>
+                <l xml:id="d001l197" n="196">Rien ne prisse<note>196. prisse] HectB prise</note> d’acier punture.</l>
+                <l xml:id="d001l198" n="197">Sour tout mist la sovrensagne</l>
+                <l xml:id="d001l199" n="198">Che flamboier fessoit e mont e plagne;</l>
+                <l xml:id="d001l200" n="199">Le cans açur a lion d’or</l>
+                <l xml:id="d001l201" n="200">Mout fu rice e biaus labor:</l>
+                <l xml:id="d001l202" n="201">A pirles estoit ovree,<note>201. ovree] HectB ouvree</note></l>
+                <l xml:id="d001l203" n="202">Le labor vaut une contree.</l>
+                <l xml:id="d001l204" n="203">Pués se mist dous esperons:</l>
+                <l xml:id="d001l205" n="204">D’or fu le fust e le brochons.</l>
+                <l xml:id="d001l206" n="205">Sa<note>205. Sa] HectB La</note> buene espee nen oblia,</l>
+                <l xml:id="d001l207" n="206">Le prous enfant mout la garda.</l>
+                <l xml:id="d001l208" n="207">– Duranda, dist il, ch’ensi ais non,</l>
+                <l xml:id="d001l209" n="208">Ferais venjançe de Laumedon?</l>
+                <l xml:id="d001l210" n="209">Je spoir en Dieu che si ferais,</l>
+                <l xml:id="d001l211" n="210">S’il ne me faut mien destre brais. –</l>
+                <l xml:id="d001l212" n="211">Lour la cins aou lés senistre</l>
+                <l xml:id="d001l213" n="212">Com un semblant e prous e viste;</l>
+                <l xml:id="d001l214" n="213">Suen heome prist le prous ardis</l>
+                <l xml:id="d001l215" n="214">Che buen estoit e de grand pris.</l>
+                <l xml:id="d001l216" n="215">Les rices pieres che fu d’entour</l>
+                <l xml:id="d001l217" n="216">Bien valoient un grand tesour;</l>
+                <l xml:id="d001l218" n="217">E pour desour i estoit asis</l>
+                <l xml:id="d001l219" n="218">Un lioncel<note>218. lioncel] Lioncel</note> tout d’or masis,</l>
+                <l xml:id="d001l220" n="219">Che tenoit en destre brançe</l>
+                <l xml:id="d001l221" n="220">Un petit brand che mout bien trançe.</l>
+                <l xml:id="d001l222" n="221">Ce senefie aute proeçe     [144ra]</l>
+                <l xml:id="d001l223" n="222">E ardimant e jentileçe,</l>
+                <l xml:id="d001l224" n="223">Che auberça e nuit e jour</l>
+                <l xml:id="d001l225" n="224">Avec Hector le pugneour,</l>
+                <l xml:id="d001l226" n="225">Le miaudre hom de nule loy</l>
+                <l xml:id="d001l227" n="226">Ne che meis fust, si com je croy.</l>
+                <l xml:id="d001l228" n="227">Le heome se mist le prous en teste,</l>
+                <l xml:id="d001l229" n="228">Ne dote arc, fer ne balestre.</l>
+                <l xml:id="d001l230" n="229">Tant estoit fort e tenant,</l>
+                <l xml:id="d001l231" n="230">Rien ne prise coup de brant.</l>
+                <l xml:id="d001l232" n="231">A quatre las l’oit ataçié</l>
+                <l xml:id="d001l233" n="232">D’or e de soie bien ovrié.</l>
+                <l xml:id="d001l234" n="233">Suen escu prist, jus deleva,<note>255. Tie] HectB Tiel</note></l>
+                <l xml:id="d001l235" n="234">La grosse lance ou soi porta.</l>
+                <l xml:id="d001l236" n="235">Vient a la stale sens escuer;</l>
+                <l xml:id="d001l237" n="236">Le buen cival prist choroer,</l>
+                <l xml:id="d001l238" n="237">Le frain le mist e pués la selle:</l>
+                <l xml:id="d001l239" n="238">Ne fu jamés une tant belle.</l>
+                <l xml:id="d001l240" n="239">D’avoir estoit l’arçon, plus blans</l>
+                <l xml:id="d001l241" n="240">Che  n’est farine de formans.</l>
+                <l xml:id="d001l242" n="241">En cil arçon ch’estoit dariere</l>
+                <l xml:id="d001l243" n="242">Estoit entailié un dragon fiere,</l>
+                <l xml:id="d001l244" n="243">Che getoit feu da toutes part:</l>
+                <l xml:id="d001l245" n="244">Mout est orible suen esgart.</l>
+                <l xml:id="d001l246" n="245">En cil davant estoit asis</l>
+                <l xml:id="d001l247" n="246">Un lioncel fier e ardis,</l>
+                <l xml:id="d001l248" n="247">Che con sa boçe devoroit</l>
+                <l xml:id="d001l249" n="248">Une joune daine che sot tenoit.</l>
+                <l xml:id="d001l250" n="249">Dou cival les covertures</l>
+                <l xml:id="d001l251" n="250">Furent de plastres fort e dures.</l>
+                <l xml:id="d001l252" n="251">E pour ensagne un lion d’or:</l>
+                <l xml:id="d001l253" n="252">Le camp d’açur fu le color</l>
+                <l xml:id="d001l254" n="253">Che est l’ensagne de sa maison,</l>
+                <l xml:id="d001l255" n="254">Che porta Ylius e Laumedon.</l>
+                <l xml:id="d001l256" n="255">Tie<note>272. eou] HectB cou</note> arme avoit en sa baniere.</l>
+                <l xml:id="d001l257" n="256">Leom ne doit portier treciere</l>
+                <l xml:id="d001l258" n="257">Ne nul che ait peour</l>
+                <l xml:id="d001l259" n="258">De orgueil de sa uxour.</l>
+                <l xml:id="d001l260" n="259">Quand paroilié oit le cival,</l>
+                <l xml:id="d001l261" n="260">Le prous ardis ao cuer loial</l>
+                <l xml:id="d001l262" n="261">Desour saili sens nul peour,</l>
+                <l xml:id="d001l263" n="262">Sens metre piés en streveour.</l>
+                <l xml:id="d001l264" n="263">Quand fu montiés, l’ardis enfant</l>
+                <l xml:id="d001l265" n="264">Des esperons fiert l’auferant.</l>
+                <l xml:id="d001l266" n="265">Plus tost s’en vait le buen cival</l>
+                <l xml:id="d001l267" n="266">Che d’aut faucon ne vient aval.</l>
+                <l xml:id="d001l268" n="267">Vet s’en le prous sens congié quere</l>
+                <l xml:id="d001l269" n="268">Nel savoit pas le roi suen pere.</l>
+                <l xml:id="d001l270" n="269">Quand le savra Prian le roi,</l>
+                <l xml:id="d001l271" n="270">Che plus l’amoit asés che soi,</l>
+                <l xml:id="d001l272" n="271">Ne sai comant li remandra</l>
+                <l xml:id="d001l273" n="272">L’arme eou<note>301. Pou mi] HectB Por mi</note> cors, tiel duel avra.</l>
+                <l xml:id="d001l274" n="273">Hey!, com Hecuba la roïne</l>
+                <l xml:id="d001l275" n="274">Fera grand duel sens avoir fine!</l>
+                <l xml:id="d001l276" n="275">Pour luy lairont la gient de Troie</l>
+                <l xml:id="d001l277" n="276">Tous leur solais e leur joie.</l>
+                <l xml:id="d001l278" n="277">Se cil ne tourne che ont perdus,    [144rb]</l>
+                <l xml:id="d001l279" n="278">Le plus ardis se croit confus.</l>
+                <l xml:id="d001l280" n="279">Plus l’amoient petis e grans</l>
+                <l xml:id="d001l281" n="280">Che ne fet mere suen enfans.</l>
+                <l xml:id="d001l282" n="281">Or retornons a nous matire.</l>
+                <l xml:id="d001l283" n="282">Vet s’en Hector plain de grand ire;</l>
+                <l xml:id="d001l284" n="283">Vers Tremachi suen cemin prist</l>
+                <l xml:id="d001l285" n="284">Sens nul peour, ardis e vist.</l>
+                <l xml:id="d001l286" n="285">Pour çaut, pour froit l’ardis ne reste,</l>
+                <l xml:id="d001l287" n="286">Tant ch’il riva leç la foreste,</l>
+                <l xml:id="d001l288" n="287">Pres la citié ou fu reclus</l>
+                <l xml:id="d001l289" n="288">Filiminis e tous siens drus.</l>
+                <l xml:id="d001l290" n="289">Mes il n’ala si tost ne mie,</l>
+                <l xml:id="d001l291" n="290">Com la ystoire senefie.</l>
+                <l xml:id="d001l292" n="291">L’autour, chil set e le tesmogne</l>
+                <l xml:id="d001l293" n="292">Voiremant, sens fer mençogne,</l>
+                <l xml:id="d001l294" n="293">Ch’il demora troi mois e dis</l>
+                <l xml:id="d001l295" n="294">Ains ch’il veïst Filiminis</l>
+                <l xml:id="d001l296" n="295">En cui secors estoit venus.</l>
+                <l xml:id="d001l297" n="296">Solet, armé sour suen crenus,</l>
+                <l xml:id="d001l298" n="297">Pres Tremachi, la fort citiés,</l>
+                <l xml:id="d001l299" n="298">Ou fu le ost grand asemblés,</l>
+                <l xml:id="d001l300" n="299">Riva l’enfant un jour matine.</l>
+                <l xml:id="d001l301" n="300">Nuble fesoit, non pas serine;</l>
+                <l xml:id="d001l302" n="301">Pou mi<note>313. rice] HectB riçe</note> l’ost pasa l’enfans</l>
+                <l xml:id="d001l303" n="302">Che tant estoit pleniers e grans.</l>
+                <l xml:id="d001l304" n="303">Ne li fu dit ne fait moleste,</l>
+                <l xml:id="d001l305" n="304">Outre pasa com l’eome en teste.</l>
+                <l xml:id="d001l306" n="305">Une rien mout li vaili:</l>
+                <l xml:id="d001l307" n="306">Ch’armés estoit e bien garni,</l>
+                <l xml:id="d001l308" n="307">E pour voir cuidoient</l>
+                <l xml:id="d001l309" n="308">Che l’enfant fust de sa gient.</l>
+                <l xml:id="d001l310" n="309">L’ardis Hector l’ost trapasa;</l>
+                <l xml:id="d001l311" n="310">Vient a la porte, dedans entra,</l>
+                <l xml:id="d001l312" n="311">Pour ce ch’il dist aou portier</l>
+                <l xml:id="d001l313" n="312">Ch’il voloit aou roi parlier.</l>
+                <l xml:id="d001l314" n="313">Quand fu dedans la rice<note>314. trapasé] HectB trapasa</note> ville</l>
+                <l xml:id="d001l315" n="314">E trapasé<note>321‑46. i vv. sono preceduti da segni di paragrafo alternatamente rossi
+                e blu</note> oit le perille,</l>
+                <l xml:id="d001l316" n="315">Bien poés savoir s’il fu ardis,</l>
+                <l xml:id="d001l317" n="316">Quand pour l’ost de siens nemis</l>
+                <l xml:id="d001l318" n="317">Se mist alier ensi armés:</l>
+                <l xml:id="d001l319" n="318">Petit prisa dan Herculés.</l>
+                <l xml:id="d001l320" n="319">Ne fu Fortune ver lui contraire</l>
+                <l xml:id="d001l321" n="320">A celui point, mes droite maire.</l>
+                <l xml:id="d001l322" n="321">Hey!, con sovant fet Aventure<note>322. Çançier a l’en] HectB Cançier a l’om</note></l>
+                <l xml:id="d001l323" n="322">Çançier a l’en<note>333. sa] HectB la</note> sa vesteüre!</l>
+                <l xml:id="d001l324" n="323">L’un fet de bas poier amont</l>
+                <l xml:id="d001l325" n="324">E l’autre d’aut ceoir a font</l>
+                <l xml:id="d001l326" n="325">L’un fet joïr, l’autre plorier;</l>
+                <l xml:id="d001l327" n="326">L’un fiert davant, l’autre darier.</l>
+                <l xml:id="d001l328" n="327">Ne fu jamés hom tant puisant,</l>
+                <l xml:id="d001l329" n="328">Roi, prince, dus ne amirant,</l>
+                <l xml:id="d001l330" n="329">Chi peüst complie joie</l>
+                <l xml:id="d001l331" n="330">Un jour avoir, ch’il n’eüst noie</l>
+                <l xml:id="d001l332" n="331">Plus tost fet zançier mantel</l>
+                <l xml:id="d001l333" n="332">Che sparvier ne suit osel.</l>
+                <l xml:id="d001l334" n="333">Tiel est le cors de sa<note>341. puilant] HectB puisant</note> nature    [144va]</l>
+                <l xml:id="d001l335" n="334">Ch’elle nen a de nul paüre.</l>
+                <l xml:id="d001l336" n="335">Pour ce se gard cescun tiran</l>
+                <l xml:id="d001l337" n="336">De ne fer engombreman</l>
+                <l xml:id="d001l338" n="337">A nul hom mendre de soi</l>
+                <l xml:id="d001l339" n="338">Contre reison, ne fer enoi.</l>
+                <l xml:id="d001l340" n="339">Sovantes fois je ai veü</l>
+                <l xml:id="d001l341" n="340">Le plain d’avoir remanoir nu</l>
+                <l xml:id="d001l342" n="341">E le puilant<note>344. escivier] HectB escuver</note> perdre puisance:</l>
+                <l xml:id="d001l343" n="342">Donc est le mond tout em balance.</l>
+                <l xml:id="d001l344" n="343">Pour ce doit l’en tout tens bien faire</l>
+                <l xml:id="d001l345" n="344">E escivier<note>355. rer] HectB ver</note> maus e contraire.</l>
+                <l xml:id="d001l346" n="345">Chi ce fera ne puet spaurir</l>
+                <l xml:id="d001l347" n="346">Che de tout puisse perir.</l>
+                <l xml:id="d001l348" n="347">De Fortune plus ne dirai,</l>
+                <l xml:id="d001l349" n="348">Dou prous ardis vous conterai.</l>
+                <l xml:id="d001l350" n="349">Hector s’en vet pourmi les rues.</l>
+                <l xml:id="d001l351" n="350">Dames, dancelles, jounes, zanues,</l>
+                <l xml:id="d001l352" n="351">Enfans, veilars e baçalier</l>
+                <l xml:id="d001l353" n="352">Ne se poent bien saloier</l>
+                <l xml:id="d001l354" n="353">De regardier le damoisel</l>
+                <l xml:id="d001l355" n="354">Chi vet armié: mout samble bel.</l>
+                <l xml:id="d001l356" n="355">Tuit s’arostent, rer<note>359. jaiant] Iaiant</note> lui s’en vont,</l>
+                <l xml:id="d001l357" n="356">Petis e grans, noir e blont.</l>
+                <l xml:id="d001l358" n="357">Si disoient la plus partie:</l>
+                <l xml:id="d001l359" n="358">– Cestui ci vient en nous aïe;</l>
+                <l xml:id="d001l360" n="359">Pour combatre aou prous jaiant<note>362. s’areste] HectB fa reste</note></l>
+                <l xml:id="d001l361" n="360">Est il venus ci voiremant. –</l>
+                <l xml:id="d001l362" n="361">Bien les entand le prous honeste,</l>
+                <l xml:id="d001l363" n="362">Mes pour ce pas non s’areste,<note>374. ert] HectB est</note></l>
+                <l xml:id="d001l364" n="363">Ains s’en vet tout plain de joie,</l>
+                <l xml:id="d001l365" n="364">Ver le palés acuelt sa voie.</l>
+                <l xml:id="d001l366" n="365">Atant hec vous sour la grand place</l>
+                <l xml:id="d001l367" n="366">Rivier l’enfant; suen heome delace,</l>
+                <l xml:id="d001l368" n="367">Rier ses spales le rua.</l>
+                <l xml:id="d001l369" n="368">Suen zapiron en cief ferma,</l>
+                <l xml:id="d001l370" n="369">Pués desist de l’auferant</l>
+                <l xml:id="d001l371" n="370">Che mout estoit fier e corant.</l>
+                <l xml:id="d001l372" n="371">Un damisel courtois e bier</l>
+                <l xml:id="d001l373" n="372">Pour le frain prist le destrier</l>
+                <l xml:id="d001l374" n="373">E dist a Hector: – Sir, ne doutiés.</l>
+                <l xml:id="d001l375" n="374">Pour moi bien ert<note>375. seuus] HectB tenus</note> servi e gardiés</l>
+                <l xml:id="d001l376" n="375">Vetre cival, e bien seuus.<note>376. v’ert] HectB v’est</note></l>
+                <l xml:id="d001l377" n="376">Quand le voudriés, il v’ert<note>401‑02. i due vv. sono preceduti da segno di paragrafo
+                blu e rosso</note> rendus. –</l>
+                <l xml:id="d001l378" n="377">Hector li dist: – Cent mil mercis!</l>
+                <l xml:id="d001l379" n="378">Ne refu pas le tuen servis. –</l>
+                <l xml:id="d001l380" n="379">Alour monta pour li degriés</l>
+                <l xml:id="d001l381" n="380">Sour la grand sale dou palés.</l>
+                <l xml:id="d001l382" n="381">Iluec trova Filiminis</l>
+                <l xml:id="d001l383" n="382">A grand planté de siens amis.</l>
+                <l xml:id="d001l384" n="383">Quand ceus veirent le joune armé,</l>
+                <l xml:id="d001l385" n="384">Mout se merveilerent, si l’ont gardé.</l>
+                <l xml:id="d001l386" n="385">Ne savoient ch’il voudra dire,</l>
+                <l xml:id="d001l387" n="386">Pour ce cescun l’enfant remire.</l>
+                <l xml:id="d001l388" n="387">Hector le prous le roi conuit</l>
+                <l xml:id="d001l389" n="388">A sa corone che mout reluit.</l>
+                <l xml:id="d001l390" n="389">Avant se mist, le roi salue    [144vb]</l>
+                <l xml:id="d001l391" n="390">Mout liemant, non irascue;</l>
+                <l xml:id="d001l392" n="391">E pués li dist: – Le Dieu desus</l>
+                <l xml:id="d001l393" n="392">Vous dont vitoire con salus</l>
+                <l xml:id="d001l394" n="393">E confonde vous nemis</l>
+                <l xml:id="d001l395" n="394">Che vous ha çaiens asis.</l>
+                <l xml:id="d001l396" n="395">De longie part sui mis en voie</l>
+                <l xml:id="d001l397" n="396">Pour vous e moi garir de noie.</l>
+                <l xml:id="d001l398" n="397">En vous aidier metrai puisance.</l>
+                <l xml:id="d001l399" n="398">Contre celui che tout sentance</l>
+                <l xml:id="d001l400" n="399">Nil defendra ne art ne sort:</l>
+                <l xml:id="d001l401" n="400">Oucis sera pour ch’il a tort.</l>
+                <l xml:id="d001l402" n="401">Chi vet aou plé e n’a raison,</l>
+                <l xml:id="d001l403" n="402">Rasnablemant perd la tençon.<note>403. jaiant] Iaiant</note></l>
+                <l xml:id="d001l404" n="403">Tout ce di pour le fier jaiant<note>404. çasimant] HectB casimant</note></l>
+                <l xml:id="d001l405" n="404">Chi veut a tort vous çasimant.<note>416. anchui] HectB anchiu</note></l>
+                <l xml:id="d001l406" n="405">Ne vous en sai plus dir:</l>
+                <l xml:id="d001l407" n="406">Ci sui venus pour vous servir. –</l>
+                <l xml:id="d001l408" n="407">Quand le roi oit parlier l’enfant</l>
+                <l xml:id="d001l409" n="408">E che nemi estoit dou fier jaiant,</l>
+                <l xml:id="d001l410" n="409">Pués le vit grand e quarés</l>
+                <l xml:id="d001l411" n="410">E de membres bien tailiés,</l>
+                <l xml:id="d001l412" n="411">Adonc pensa en suen coraçe</l>
+                <l xml:id="d001l413" n="412">Che l’enfant estoit e prous e saze</l>
+                <l xml:id="d001l414" n="413">E sour tous fier e ardis,</l>
+                <l xml:id="d001l415" n="414">Dont pour lui se croit garis.</l>
+                <l xml:id="d001l416" n="415">– Enfant, dist il, bien soies tu</l>
+                <l xml:id="d001l417" n="416">En ma citié anchui<note>418. avrais] HectB aviais</note> venu.</l>
+                <l xml:id="d001l418" n="417">Se defenir tu pués ma gerre,</l>
+                <l xml:id="d001l419" n="418">Grand tesor avrais<note>432. de nous ert defension] de ert defension nous; il copista
+                ha aggiunto nous in fin di verso in un secondo momento, ma senza segno di richiamo
+                (cfr. vv. 1460, 1515); HectB corregge in de nous ert d.</note> e terre.</l>
+                <l xml:id="d001l420" n="419">Plus t’amerai che pere fil,</l>
+                <l xml:id="d001l421" n="420">Se moi garises dou peril. –</l>
+                <l xml:id="d001l422" n="421">Quand a ce dit, avant se mist</l>
+                <l xml:id="d001l423" n="422">Pour embracier le prous e vist,</l>
+                <l xml:id="d001l424" n="423">Mes le courtois en gienoilon</l>
+                <l xml:id="d001l425" n="424">Se mist devant sour le doion.</l>
+                <l xml:id="d001l426" n="425">Le roi le prist pour detre man:</l>
+                <l xml:id="d001l427" n="426">– Levés, fet il, jentis enfan. –</l>
+                <l xml:id="d001l428" n="427">Hector armé tout saili sus</l>
+                <l xml:id="d001l429" n="428">Ensi legier con s’il fust nus.</l>
+                <l xml:id="d001l430" n="429">Lour escria Filiminis:</l>
+                <l xml:id="d001l431" n="430">– Venés avant, grans e petis,</l>
+                <l xml:id="d001l432" n="431">E desarmés cist valeton</l>
+                <l xml:id="d001l433" n="432">Chi de nous ert defension.<note>435. desarmé] dubbio: desamié?</note>–</l>
+                <l xml:id="d001l434" n="433">Aou desarmier corut barons,</l>
+                <l xml:id="d001l435" n="434">Chevaliers e valetons.</l>
+                <l xml:id="d001l436" n="435">Courtoisemant l’ont desarmé,<note>448. jaiant] Iaiant</note></l>
+                <l xml:id="d001l437" n="436">Bien fu servi e honorié.</l>
+                <l xml:id="d001l438" n="437">Quand desarmé fu cil de Troie,</l>
+                <l xml:id="d001l439" n="438">En un jambaus remist de soie.</l>
+                <l xml:id="d001l440" n="439">Hector fu sour tous gregnour,</l>
+                <l xml:id="d001l441" n="440">Bien rasamble a pugneour.</l>
+                <l xml:id="d001l442" n="441">Le roi courtois astivemant</l>
+                <l xml:id="d001l443" n="442">Le fist vestir mout noblemant.</l>
+                <l xml:id="d001l444" n="443">De drais de soie a or tesus</l>
+                <l xml:id="d001l445" n="444">Furent ses drais, e de velus.</l>
+                <l xml:id="d001l446" n="445">Le roi pour lui fesoit grand feste,   [145ra]</l>
+                <l xml:id="d001l447" n="446">Car pour lui cuide fuir moleste.</l>
+                <l xml:id="d001l448" n="447">Or leisons de Hector auquant,</l>
+                <l xml:id="d001l449" n="448">Dou roi ausi e dou jaiant,<note>474. esfroi] HectB effroi</note></l>
+                <l xml:id="d001l450" n="449">Car bien savrons sens falance</l>
+                <l xml:id="d001l451" n="450">Retournier a nous sentance.</l>
+                <l xml:id="d001l452" n="451">Si vous dirai dou roi Prians,</l>
+                <l xml:id="d001l453" n="452">Comant il remist morn e pensans</l>
+                <l xml:id="d001l454" n="453">Pour la partie de suen cier fil</l>
+                <l xml:id="d001l455" n="454">Che aliés estoit com en exil.</l>
+                <l xml:id="d001l456" n="455">Si vous dirai de la roïne</l>
+                <l xml:id="d001l457" n="456">Che de duel faire ne refine.</l>
+                <l xml:id="d001l458" n="457">N’est pas mervoille s’il font dolor,</l>
+                <l xml:id="d001l459" n="458">Quand perdus ont le meilor.</l>
+                <l xml:id="d001l460" n="459">Pour lui plurent petis e grans</l>
+                <l xml:id="d001l461" n="460">Deors la ville e dedans.</l>
+                <l xml:id="d001l462" n="461">En celle nuit, nous dit l’autor,</l>
+                <l xml:id="d001l463" n="462">Q’il se n’ala dou bruel la flor,</l>
+                <l xml:id="d001l464" n="463">Dormoit Prians en sa cortine,</l>
+                <l xml:id="d001l465" n="464">En autre zambre la roïne.</l>
+                <l xml:id="d001l466" n="465">Avis fu aou roi en suen dormir</l>
+                <l xml:id="d001l467" n="466">Q’il perdoit tout suen pleixir,</l>
+                <l xml:id="d001l468" n="467">E tretout le suen deduit</l>
+                <l xml:id="d001l469" n="468">Avoit perdus en celle nuit.</l>
+                <l xml:id="d001l470" n="469">De la peour le roi se leva,</l>
+                <l xml:id="d001l471" n="470">Sour ce ch’il vit formant pensa.</l>
+                <l xml:id="d001l472" n="471">Dormir ne puet, ains leva sus;</l>
+                <l xml:id="d001l473" n="472">E quand il fu çauçé e vestus,</l>
+                <l xml:id="d001l474" n="473">La prime çouse che fist le roi,</l>
+                <l xml:id="d001l475" n="474">Che pour le sogne fu en esfroi,<note>481. le] HectB lo</note></l>
+                <l xml:id="d001l476" n="475">Fu ch’il ala austivemant</l>
+                <l xml:id="d001l477" n="476">Ou fu ses diés d’or e d’argiant.</l>
+                <l xml:id="d001l478" n="477">Aou temple Jovis est venus,</l>
+                <l xml:id="d001l479" n="478">Devant un diés s’est destendus;</l>
+                <l xml:id="d001l480" n="479">Plorant le prie mout tendremant</l>
+                <l xml:id="d001l481" n="480">Che il le gard d’engombremant,</l>
+                <l xml:id="d001l482" n="481">E sour touit le<note>489. jaiant] Iaiant</note> suen tesor,</l>
+                <l xml:id="d001l483" n="482">Ce est suen fil, le prous Hector.</l>
+                <l xml:id="d001l484" n="483">Quand il oit asés proiés</l>
+                <l xml:id="d001l485" n="484">Ses diés trous e aoriés,</l>
+                <l xml:id="d001l486" n="485">Plus tost ch’il puet retourna ariere</l>
+                <l xml:id="d001l487" n="486">Morn e pensis, com paile ciere,</l>
+                <l xml:id="d001l488" n="487">Car le cuer lui manifeste</l>
+                <l xml:id="d001l489" n="488">Che Hector est alé en queste</l>
+                <l xml:id="d001l490" n="489">Pour le jaiant<note>490. a Laumedon] Alaumedon</note> dou tout confondre,</l>
+                <l xml:id="d001l491" n="490">Che a Laumedon<note>495. e l’uis] HectB el vis</note> le cief fist tondre.</l>
+                <l xml:id="d001l492" n="491">Arier revint plus che le pais,</l>
+                <l xml:id="d001l493" n="492">En aut monta sour suen palais;</l>
+                <l xml:id="d001l494" n="493">Dedans la cambre, ou dormir suelt</l>
+                <l xml:id="d001l495" n="494">Hector suen fil, sa voie acuelt.</l>
+                <l xml:id="d001l496" n="495">La cambre trova e l’uis<note>501. braire] HectB braier</note> overt;</l>
+                <l xml:id="d001l497" n="496">Dedans entra e conuit pour cert</l>
+                <l xml:id="d001l498" n="497">Che suen fil, quand nel trova,</l>
+                <l xml:id="d001l499" n="498">Ch’estoit partis: grand duel en a.</l>
+                <l xml:id="d001l500" n="499">Alour s’en vet com hom despers,</l>
+                <l xml:id="d001l501" n="500">Our ça, our la, cherant aubers.</l>
+                <l xml:id="d001l502" n="501">Quand ne<note>524. jaiant] Iaiant</note> trova, mout prist a braire:   [145rb]</l>
+                <l xml:id="d001l503" n="502">– Hey las!, fet il, con dolant paire</l>
+                <l xml:id="d001l504" n="503">Sui e serai e jour e nuit,</l>
+                <l xml:id="d001l505" n="504">Tant com ne verai mien cier fruit</l>
+                <l xml:id="d001l506" n="505">Qe voiremant s’en est alés</l>
+                <l xml:id="d001l507" n="506">Pour combatre dan Herculés,</l>
+                <l xml:id="d001l508" n="507">Le fier, le fort, le sourpuisant,</l>
+                <l xml:id="d001l509" n="508">Che rien ne prise home vivant!</l>
+                <l xml:id="d001l510" n="509">Tant est fort sa grand puisance</l>
+                <l xml:id="d001l511" n="510">Ch’il confond vieus e jovance.</l>
+                <l xml:id="d001l512" n="511">Fil, vous n’avés ancour .xx. ans</l>
+                <l xml:id="d001l513" n="512">E vous alés, je sui certans,</l>
+                <l xml:id="d001l514" n="513">Pour Herculés le prous oucire,</l>
+                <l xml:id="d001l515" n="514">Che de mien pere fist martire.</l>
+                <l xml:id="d001l516" n="515">Li diés soient vous guïeour:</l>
+                <l xml:id="d001l517" n="516">Chiel part alés, gard vous de plour.</l>
+                <l xml:id="d001l518" n="517">Fil, vous alés tretout solet</l>
+                <l xml:id="d001l519" n="518">Pour combatre le prous eslet,</l>
+                <l xml:id="d001l520" n="519">Chi tiel vertus e tiel bailie</l>
+                <l xml:id="d001l521" n="520">Oit sour tous e segnorie.</l>
+                <l xml:id="d001l522" n="521">Ne nasqui meis hom de mere,</l>
+                <l xml:id="d001l523" n="522">Chi veïst troble sa cere,</l>
+                <l xml:id="d001l524" n="523">Che fust ardis de regardier</l>
+                <l xml:id="d001l525" n="524">Le fort jaiant<note>528. lion] Lion</note> che tant est fier.</l>
+                <l xml:id="d001l526" n="525">E vous conois d’un tiel afaire,</l>
+                <l xml:id="d001l527" n="526">Ne doutiés mort ne nul contraire.</l>
+                <l xml:id="d001l528" n="527">A lui irés, s’il fusent trois,</l>
+                <l xml:id="d001l529" n="528">Com le lion<note>530‑31. tra i due vv. ne mancano due, corrispondenti a HectP</note>
+                fet demanois</l>
+                <l xml:id="d001l530" n="529">Ireemant aou veneour,</l>
+                <l xml:id="d001l531" n="530">Tant est en vous aut valour.</l>
+                <l xml:id="d001l532" n="531">En vous auberçe ombleté,<note>531‑32 Ne savez pas qe soit paüre. / Tant an vos est
+                gentils nature</note></l>
+                <l xml:id="d001l533" n="532">Courtoisie e caritié,</l>
+                <l xml:id="d001l534" n="533">Proece, valour e ardimant,</l>
+                <l xml:id="d001l535" n="534">Sens e mesure mesleemant.</l>
+                <l xml:id="d001l536" n="535">Fontaine estes de vertus,</l>
+                <l xml:id="d001l537" n="536">De ceus de Troie stendard e lus. –</l>
+                <l xml:id="d001l538" n="537">Lour chil veïst crier e braire,</l>
+                <l xml:id="d001l539" n="538">Batre ses paumes, ses civieus traire,</l>
+                <l xml:id="d001l540" n="539">Bien avroit le cuer plus dur</l>
+                <l xml:id="d001l541" n="540">Che n’est metal ou fer ou mur,</l>
+                <l xml:id="d001l542" n="541">Se tendrour ne li venist</l>
+                <l xml:id="d001l543" n="542">De pietié de ce ch’il dist.</l>
+                <l xml:id="d001l544" n="543">Quand la roïne senti le plour,</l>
+                <l xml:id="d001l545" n="544">Le cris, la noise de suen seignour,</l>
+                <l xml:id="d001l546" n="545">E oit seü pour veritié</l>
+                <l xml:id="d001l547" n="546">Comant Hector s’en est alé,</l>
+                <l xml:id="d001l548" n="547">Ensi remist com forsenee.</l>
+                <l xml:id="d001l549" n="548">Tant fu dolante<note>548. dolante] HectB dolant</note> e tant iree</l>
+                <l xml:id="d001l550" n="549">Ch’elle perdi sen e mesure,</l>
+                <l xml:id="d001l551" n="550">Raixon, puisance e droiture.</l>
+                <l xml:id="d001l552" n="551">Autemant comance a dir:</l>
+                <l xml:id="d001l553" n="552">– Morir m’estuet me de despaixir!<note>552. me de despaixir] HectB legge de despaixir,
+                omettendo senza indicazioni me</note></l>
+                <l xml:id="d001l554" n="553">De vivre plus ne<note>553. ne] HectB me</note> donroie</l>
+                <l xml:id="d001l555" n="554">Le vailemant d’une coroie,<note>553‑54. HectB invertiti</note></l>
+                <l xml:id="d001l556" n="555">Quand je ai perdu ma ciere lus,</l>
+                <l xml:id="d001l557" n="556">Ma puisance e ma vertus!</l>
+                <l xml:id="d001l558" n="557">A chi ses oils ne fist paüre,    [145va]</l>
+                <l xml:id="d001l559" n="558">Croi che fil fustes de nature.</l>
+                <l xml:id="d001l560" n="559">Fil, vous alés ne sai chiel part:</l>
+                <l xml:id="d001l561" n="560">Fendu m’avés le cuer en quart,</l>
+                <l xml:id="d001l562" n="561">D’une tiel plaie m’avés ferue,</l>
+                <l xml:id="d001l563" n="562">Ne vaudra mires une latue</l>
+                <l xml:id="d001l564" n="563">Fors vous, se retourniés.</l>
+                <l xml:id="d001l565" n="564">En autre guise le mond je lés. –</l>
+                <l xml:id="d001l566" n="565">Alour ceï en pasmexon</l>
+                <l xml:id="d001l567" n="566">Sour la sale dou doion.</l>
+                <l xml:id="d001l568" n="567">Ausi com morte la remaint,</l>
+                <l xml:id="d001l569" n="568">Tant avoit crié e plaint.</l>
+                <l xml:id="d001l570" n="569">Ses damoisés l’ont aportiee</l>
+                <l xml:id="d001l571" n="570">En une cambre pinturee,</l>
+                <l xml:id="d001l572" n="571">Si la mistrent sour un biaus lit</l>
+                <l xml:id="d001l573" n="572">Che tout fu d’un rice samit.</l>
+                <l xml:id="d001l574" n="573">A pirles fu le covertour</l>
+                <l xml:id="d001l575" n="574">Tretout ovré d’entour entour;</l>
+                <l xml:id="d001l576" n="575">Robins, toupaces pour desus</l>
+                <l xml:id="d001l577" n="576">E autres peres de vertus</l>
+                <l xml:id="d001l578" n="577">Li furent plus de troicent,</l>
+                <l xml:id="d001l579" n="578">Se la scriture ci ne ment.</l>
+                <l xml:id="d001l580" n="579">Leisons huimés dou roi Prians</l>
+                <l xml:id="d001l581" n="580">E de sa dame aou cuer vailans,</l>
+                <l xml:id="d001l582" n="581">Car chi deüst contier e dir</l>
+                <l xml:id="d001l583" n="582">De leur duel la grand martir,</l>
+                <l xml:id="d001l584" n="583">Le plor le cris e la dolour</l>
+                <l xml:id="d001l585" n="584">Ch’il fesoient e nuit e jour,</l>
+                <l xml:id="d001l586" n="585">De ses freres, de siens amis</l>
+                <l xml:id="d001l587" n="586">Che cuidoient estre peris,</l>
+                <l xml:id="d001l588" n="587">Trou seroit lonc parlemant.</l>
+                <l xml:id="d001l589" n="588">Leisons estier, alons avant.</l>
+                <l xml:id="d001l590" n="589">Droit est uimés che je retour</l>
+                <l xml:id="d001l591" n="590">A recontier dou grand estour</l>
+                <l xml:id="d001l592" n="591">Che fist Hector vers Herculés</l>
+                <l xml:id="d001l593" n="592">Sour leur civaus e puis a piés.</l>
+                <l xml:id="d001l594" n="593">Ne dirai plus dou grand lament</l>
+                <l xml:id="d001l595" n="594">Che ceus de Troie pour lui fessoient.</l>
+                <l xml:id="d001l596" n="595">L’autour tesmogne, nen vuel pas taire,</l>
+                <l xml:id="d001l597" n="596">Ch’il ne fu mais en nul afaire</l>
+                <l xml:id="d001l598" n="597">Dous çampions ne prous ne fiers,</l>
+                <l xml:id="d001l599" n="598">Ardis, puisans ne<note>598. ne] HectB ni</note> tant liçers,</l>
+                <l xml:id="d001l600" n="599">Ensamble nus com oïr oés,</l>
+                <l xml:id="d001l601" n="600">Com fu Hector e Herculés.</l>
+                <l xml:id="d001l602" n="601">Un jour estoit Filiminis</l>
+                <l xml:id="d001l603" n="602">En une cambre de grand pris.</l>
+                <l xml:id="d001l604" n="603">Ou luy avoit en compeignie</l>
+                <l xml:id="d001l605" n="604">Le miaudre hom che fust en vie:</l>
+                <l xml:id="d001l606" n="605">Ce fu Hector, le prou de Troie,</l>
+                <l xml:id="d001l607" n="606">Che de proeçe tous sourpoie.</l>
+                <l xml:id="d001l608" n="607">L’ardis enfant dist: – Sire roi,</l>
+                <l xml:id="d001l609" n="608">A vous mien cors bail e otroi.</l>
+                <l xml:id="d001l610" n="609">Pour ce vous pri pour courtoisie</l>
+                <l xml:id="d001l611" n="610">Che nel tenés a vilenie.</l>
+                <l xml:id="d001l612" n="611">Je vous demand e fais enqueste,</l>
+                <l xml:id="d001l613" n="612">Le voir me dites sens areste:</l>
+                <l xml:id="d001l614" n="613">Oit le jaiant<note>613. jaiant] Iaiant</note> si grand puisance    [145vb]</l>
+                <l xml:id="d001l615" n="614">Cum de lui dit tuit e sentance? –</l>
+                <l xml:id="d001l616" n="615">Filiminis dist: – Pour ma foy,</l>
+                <l xml:id="d001l617" n="616">Tant est puisant, dir nel savroy.</l>
+                <l xml:id="d001l618" n="617">Meis ne trova chil contradie,</l>
+                <l xml:id="d001l619" n="618">Tant oit puisance e grand bailie.</l>
+                <l xml:id="d001l620" n="619">Tant est orible e sourpuisant</l>
+                <l xml:id="d001l621" n="620">Che tous oucist che lui atant.</l>
+                <l xml:id="d001l622" n="621">Se Golias eou<note>621. eou] HectB cou</note> fort Sanson</l>
+                <l xml:id="d001l623" n="622">Fussent ou lui a la tençon,</l>
+                <l xml:id="d001l624" n="623">Tant le croi isnaus e fort</l>
+                <l xml:id="d001l625" n="624">Ch’il andeus metroit a mort. –</l>
+                <l xml:id="d001l626" n="625">L’enfant s’en rit, pués dit aou roi:</l>
+                <l xml:id="d001l627" n="626">– Mout le loés, ne sai pour quoi.</l>
+                <l xml:id="d001l628" n="627">Por ce vueil adonc saçier</l>
+                <l xml:id="d001l629" n="628">S’il est tant fort e tant liçier</l>
+                <l xml:id="d001l630" n="629">Comant vous dites e tous dient.</l>
+                <l xml:id="d001l631" n="630">E ce sera soudainement:</l>
+                <l xml:id="d001l632" n="631">Ou vuet a pié ou a cival,</l>
+                <l xml:id="d001l633" n="632">Me combatrai ou lui engal.</l>
+                <l xml:id="d001l634" n="633">Entendu ai pour vertié</l>
+                <l xml:id="d001l635" n="634">Ch’il vous a plusour<note>634. plusour] HectB plusors</note> citié</l>
+                <l xml:id="d001l636" n="635">Par<note>635. Par] HectB Pars</note> forçe prises e ravies,</l>
+                <l xml:id="d001l637" n="636">Ond il en ha les segnories.</l>
+                <l xml:id="d001l638" n="637">Leisiés moi alier pour defendre:</l>
+                <l xml:id="d001l639" n="638">Ce ch’il v’a tuelt vous ferai rendre.</l>
+                <l xml:id="d001l640" n="639">E se je muer, n’avés perdus</l>
+                <l xml:id="d001l641" n="640">Fors moi; solet serai confus. –</l>
+                <l xml:id="d001l642" n="641">Lour repondi Filiminis:</l>
+                <l xml:id="d001l643" n="642">– Garde, enfans, ce che tu dis,</l>
+                <l xml:id="d001l644" n="643">Car sans ta mort ne poroit estre</l>
+                <l xml:id="d001l645" n="644">Pris le jeiant,<note>644. jeiant] Ieiant</note> tant est rubeste.</l>
+                <l xml:id="d001l646" n="645">Tant est la forçe<note>646. forçe] HectB force</note> de ses brais,</l>
+                <l xml:id="d001l647" n="646">Tenir nel puet ne frain ne lais.</l>
+                <l xml:id="d001l648" n="647">Il feit sens armes des lions</l>
+                <l xml:id="d001l649" n="648">Com feit le lous de vil moutons. –</l>
+                <l xml:id="d001l650" n="649">Hector le prous adonc parla:</l>
+                <l xml:id="d001l651" n="650">– Sire, dist il, se ceus dela</l>
+                <l xml:id="d001l652" n="651">Vous ont reclus, ne moi merveil,</l>
+                <l xml:id="d001l653" n="652">Quand ne cuidié che suen pareil</l>
+                <l xml:id="d001l654" n="653">De Herculés peüst nus estre.</l>
+                <l xml:id="d001l655" n="654">Se Diés me saut mien brais destre,</l>
+                <l xml:id="d001l656" n="655">Ains demain soir ou lu ou moy</l>
+                <l xml:id="d001l657" n="656">Croi che avra maus e enoy.</l>
+                <l xml:id="d001l658" n="657">Sire, vous pri, se rien m’amés,</l>
+                <l xml:id="d001l659" n="658">Che vous mandiés dir Herculés</l>
+                <l xml:id="d001l660" n="659">Che je me vueil combatre a luy;</l>
+                <l xml:id="d001l661" n="660">Dolant je sui ch’il ne sont duy.</l>
+                <l xml:id="d001l662" n="661">Veoir poront tretous clermant</l>
+                <l xml:id="d001l663" n="662">Le chiel sera le plus puisant. –</l>
+                <l xml:id="d001l664" n="663">Filiminis garde l’enfant,</l>
+                <l xml:id="d001l665" n="664">Comant estoit de membre grant,</l>
+                <l xml:id="d001l666" n="665">Com<note>665. Com] HectB L’om</note> aou parlier resamble ardis,</l>
+                <l xml:id="d001l667" n="666">Prous e vailans plus d’ome vis.</l>
+                <l xml:id="d001l668" n="667">Lour li dist le roy tout en riant:</l>
+                <l xml:id="d001l669" n="668">– Dites a moy, jentis enfant,</l>
+                <l xml:id="d001l670" n="669">Com ais nom e dond tu eis nés,    [146ra]</l>
+                <l xml:id="d001l671" n="670">Chi fu tuen pere e dond tu es.</l>
+                <l xml:id="d001l672" n="671">Je ai doutance che tuen estre</l>
+                <l xml:id="d001l673" n="672">Dou paradis ne sois terestre.</l>
+                <l xml:id="d001l674" n="673">Di moy dond eis, nel moy celer.</l>
+                <l xml:id="d001l675" n="674">Trou eis joune vers le maoufer.</l>
+                <l xml:id="d001l676" n="675">Sés tu chi est celu<note>675. celu] HectB celui</note> deors?</l>
+                <l xml:id="d001l677" n="676">Ja sa main a doné la mors</l>
+                <l xml:id="d001l678" n="677">A plus de cent mil chevalier;</l>
+                <l xml:id="d001l679" n="678">Plus cort a pié che nul livrier.</l>
+                <l xml:id="d001l680" n="679">Ne fu mes nul de tant ardir</l>
+                <l xml:id="d001l681" n="680">Chi contre luy ousast venir.</l>
+                <l xml:id="d001l682" n="681">Dond je te pri, franc chevalier,</l>
+                <l xml:id="d001l683" n="682">Che de combatre leises estier.</l>
+                <l xml:id="d001l684" n="683">Ne vueil soufrir tuen desenour:</l>
+                <l xml:id="d001l685" n="684">Avant perdroie mien honour. –</l>
+                <l xml:id="d001l686" n="685">Hector le prous aou cuer ardis</l>
+                <l xml:id="d001l687" n="686">Mout mercia Filiminis:</l>
+                <l xml:id="d001l688" n="687">– Sire, merci de tant de bien,</l>
+                <l xml:id="d001l689" n="688">Seu<note>688. Seu] HectB Seul</note> pour dou dir, sens faire rien.</l>
+                <l xml:id="d001l690" n="689">A vous m’ofris e arme e cors.</l>
+                <l xml:id="d001l691" n="690">Ne vous faudrai jusque a la mors,</l>
+                <l xml:id="d001l692" n="691">Aviegne moy che doit venir.</l>
+                <l xml:id="d001l693" n="692">Se certein fuis de morir,</l>
+                <l xml:id="d001l694" n="693">Si combatrai pour honour quere.<note>693‑704. i vv. sono affiancati da segni di paragrafo
+                alternativamente rossi e blu</note></l>
+                <l xml:id="d001l695" n="694">Mort ne se doute a pris conquere:</l>
+                <l xml:id="d001l696" n="695">De mort ne doit doutier proudon,</l>
+                <l xml:id="d001l697" n="696">Doutier se doit de vil renon.</l>
+                <l xml:id="d001l698" n="697">Grand renomee ne puet avoir</l>
+                <l xml:id="d001l699" n="698">Chi de sa çar suit le voloir.</l>
+                <l xml:id="d001l700" n="699">Delit de çar est un momens,</l>
+                <l xml:id="d001l701" n="700">Honour fet hom vivre tot tens.</l>
+                <l xml:id="d001l702" n="701">Al saçe mort est diletouse<note>701. diletouse] HectB diletuose</note></l>
+                <l xml:id="d001l703" n="702">Quand sa vie est plus joiouse.</l>
+                <l xml:id="d001l704" n="703">Conquir se doit en joventus,</l>
+                <l xml:id="d001l705" n="704">Tard fera<note>704. fera] HectB sera</note> quand est canus. –</l>
+                <l xml:id="d001l706" n="705">Filiminis dist a l’enfant:</l>
+                <l xml:id="d001l707" n="706">– Or voy bien e sui certans</l>
+                <l xml:id="d001l708" n="707">Che se tu pases ta jovente,</l>
+                <l xml:id="d001l709" n="708">Che tant est noble, aute e jente,</l>
+                <l xml:id="d001l710" n="709">Proeçe sera honorie pour toy.</l>
+                <l xml:id="d001l711" n="710">Ce che vués faire je te l’outroy. –</l>
+                <l xml:id="d001l712" n="711">Lour dist l’enfant: – Sire emperer,</l>
+                <l xml:id="d001l713" n="712">Pour courtoisie un don vous quier.</l>
+                <l xml:id="d001l714" n="713">Che aou jeiant<note>713. jeiant] Ieiant</note> mandiés mesaçe,</l>
+                <l xml:id="d001l715" n="714">Ch’il soit ardis e prous e saçe</l>
+                <l xml:id="d001l716" n="715">E n’ay peour de suen esgart,</l>
+                <l xml:id="d001l717" n="716">Ains luy die da vetre part</l>
+                <l xml:id="d001l718" n="717">Che vous volés combatre a luy,</l>
+                <l xml:id="d001l719" n="718">Ou soit pour vous ou pour autruy.</l>
+                <l xml:id="d001l720" n="719">Ce soit de aou point dou jour,</l>
+                <l xml:id="d001l721" n="720">Bien soit armé de suen atour.</l>
+                <l xml:id="d001l722" n="721">Chi doit avoir la grace, l’ait;</l>
+                <l xml:id="d001l723" n="722">Le plus choard perdra le plait.</l>
+                <l xml:id="d001l724" n="723">Se il se sdegne de ce oïr,</l>
+                <l xml:id="d001l725" n="724">Da moie part luy fetes dir</l>
+                <l xml:id="d001l726" n="725">Che s’il ne veut combatre armé,    [146rb]</l>
+                <l xml:id="d001l727" n="726">En une çambre soions seré.</l>
+                <l xml:id="d001l728" n="727">Ou veut a glavie<note>727. glavie] HectB glaive</note> o veut a brant,</l>
+                <l xml:id="d001l729" n="728">Ou veut tot nus, ce li demant.</l>
+                <l xml:id="d001l730" n="729">Soit de ce a suen pleixir:</l>
+                <l xml:id="d001l731" n="730">O lu o moy convien morir. –</l>
+                <l xml:id="d001l732" n="731">Li mesaçers isnelemant</l>
+                <l xml:id="d001l733" n="732">Fu envoiés aou fier zeiant.<note>732. zeiant] Zeiant</note></l>
+                <l xml:id="d001l734" n="733">Qua furent a luy, il s’ençenoille</l>
+                <l xml:id="d001l735" n="734">Devant ses piés, non che foille.</l>
+                <l xml:id="d001l736" n="735">– Seignour, fet il, de part mien sire</l>
+                <l xml:id="d001l737" n="736">A vous je viegn parlier e dire</l>
+                <l xml:id="d001l738" n="737">Che un enfans prous e ardis</l>
+                <l xml:id="d001l739" n="738">(Ne sai ch’il soit ne suen païs)</l>
+                <l xml:id="d001l740" n="739">De bataille vous requier.</l>
+                <l xml:id="d001l741" n="740">Rien ne vous prise, tant se fet fer.</l>
+                <l xml:id="d001l742" n="741">A cors a cors, com vous voudriés,</l>
+                <l xml:id="d001l743" n="742">Soit a cival ou soit a piés,</l>
+                <l xml:id="d001l744" n="743">De vous defandre prenés pooir.</l>
+                <l xml:id="d001l745" n="744">Mort atendiés ou luy pour voir. –</l>
+                <l xml:id="d001l746" n="745">Dist le jeiant<note>745. jeiant] Ieiant</note> ver le mesaçe:</l>
+                <l xml:id="d001l747" n="746">– L’enfant me samble d’aut paraçe.</l>
+                <l xml:id="d001l748" n="747">Ce poisse moy s’il veut morir.</l>
+                <l xml:id="d001l749" n="748">A cival armé se doit venir;</l>
+                <l xml:id="d001l750" n="749">Aou poit<note>749. poit] HectB point</note> de l’aube soions andui:</l>
+                <l xml:id="d001l751" n="750">Lour motreray<note>750. motreray] HectB montrerai</note> ce che je sui. –</l>
+                <l xml:id="d001l752" n="751">Li mesaçer arier retourne,</l>
+                <l xml:id="d001l753" n="752">Ne veut iluc plus fer seçourne.<note>752. seçourne] HectB seçorne</note></l>
+                <l xml:id="d001l754" n="753">Quant Filiminis li voit venir:</l>
+                <l xml:id="d001l755" n="754">– Dites moi ce che devés dir. –</l>
+                <l xml:id="d001l756" n="755">Dist le mesaçe: – Voluntier.</l>
+                <l xml:id="d001l757" n="756">Pour moy vous mande l’ome fer</l>
+                <l xml:id="d001l758" n="757">Che demain ains che soleil spande</l>
+                <l xml:id="d001l759" n="758">Soit la bataille. Ensi vous mande:</l>
+                <l xml:id="d001l760" n="759">A celui point soit<note>759. soit] HectB sort</note> l’enfans</l>
+                <l xml:id="d001l761" n="760">Aparoillé enmi le çans.</l>
+                <l xml:id="d001l762" n="761">– Ensi soit, ce dit le roy,</l>
+                <l xml:id="d001l763" n="762">Demain a l’aube le tournoy.</l>
+                <l xml:id="d001l764" n="763">– Pour ma foy, ce dit Hector,</l>
+                <l xml:id="d001l765" n="764">D’autre çouse n’ai valor.<note>764. çouse] HectB couse --- valor] HectB volor</note>
+                –</l>
+                <l xml:id="d001l766" n="765">Toute la nuit, a le voir dir,</l>
+                <l xml:id="d001l767" n="766">Ne puet l’enfant en lit dormir.</l>
+                <l xml:id="d001l768" n="767">De la grant joie ch’il avoit</l>
+                <l xml:id="d001l769" n="768">Le cuer li saute, eou<note>768. eou] HectB cou</note> pis li croit.</l>
+                <l xml:id="d001l770" n="769">Tout suen coraçe en honour posse,<note>769. posse] HectB pose</note></l>
+                <l xml:id="d001l771" n="770">Le suen delit en aute çouse.</l>
+                <l xml:id="d001l772" n="771">Ains le jour cler l’enfant leva,</l>
+                <l xml:id="d001l773" n="772">Ses arme chist e demanda;</l>
+                <l xml:id="d001l774" n="773">Celes portiés tantost li sont.</l>
+                <l xml:id="d001l775" n="774">Cil s’adoba con lie fron.</l>
+                <l xml:id="d001l776" n="775">A lui armer ne fu borçois,</l>
+                <l xml:id="d001l777" n="776">Ses mains maint fil de rois.</l>
+                <l xml:id="d001l778" n="777">Quand fu armé le baçaler,</l>
+                <l xml:id="d001l779" n="778">Il dist oiant tout le bernier:</l>
+                <l xml:id="d001l780" n="779">– Se sui vencus, se sui mors,</l>
+                <l xml:id="d001l781" n="780">Ains che de moy nul human cors,</l>
+                <l xml:id="d001l782" n="781">Che mais soie reprociés     [146va]</l>
+                <l xml:id="d001l783" n="782">Che suen pere soit pour nul otroiés. –</l>
+                <l xml:id="d001l784" n="783">Quand fu armé le joune fer</l>
+                <l xml:id="d001l785" n="784">E montié sour suen destrier,</l>
+                <l xml:id="d001l786" n="785">Tant orible veoir le armé,</l>
+                <l xml:id="d001l787" n="786">Gardier ne l’ouse, tant semble iré.</l>
+                <l xml:id="d001l788" n="787">Quand il est vestu de drais,</l>
+                <l xml:id="d001l789" n="788">Tout semble jeu, ris e solais;</l>
+                <l xml:id="d001l790" n="789">Mes or ch’il est vestu de fer,</l>
+                <l xml:id="d001l791" n="790">Samble furie de Lucifer.</l>
+                <l xml:id="d001l792" n="791">Escu avoit a lion d’or;</l>
+                <l xml:id="d001l793" n="792">A soy mieme clama Hector:</l>
+                <l xml:id="d001l794" n="793">– Fa che tuen brais suit le coraçe.</l>
+                <l xml:id="d001l795" n="794">Savoir morir est grand ventaçe;</l>
+                <l xml:id="d001l796" n="795">Qi set morir est droit che vive,</l>
+                <l xml:id="d001l797" n="796">Depués la mort l’onour revive. –</l>
+                <l xml:id="d001l798" n="797">Hector se mist a suen cemin.</l>
+                <l xml:id="d001l799" n="798">Ne samble pas home fraïn,</l>
+                <l xml:id="d001l800" n="799">Mes plus ardis de fer lion</l>
+                <l xml:id="d001l801" n="800">Samble le niés roy Laumedon.</l>
+                <l xml:id="d001l802" n="801">Ne doute mort une meaille</l>
+                <l xml:id="d001l803" n="802">Ne rien ne prise la bataille.</l>
+                <l xml:id="d001l804" n="803">A petit pas se mist avant;</l>
+                <l xml:id="d001l805" n="804">Ce ch’il samble nus nel demant.</l>
+                <l xml:id="d001l806" n="805">Chevaliers, dames chi l’ont gardiés</l>
+                <l xml:id="d001l807" n="806">Entr’aus distrent ch’il samble un diés.</l>
+                <l xml:id="d001l808" n="807">A cescun samble che le suen cors</l>
+                <l xml:id="d001l809" n="808">Metra en fue tous ceus deors.</l>
+                <l xml:id="d001l810" n="809">L’aute dame nomee Ortie,</l>
+                <l xml:id="d001l811" n="810">Chi mere fu Pantasilie,</l>
+                <l xml:id="d001l812" n="811">Che roïne estoit de Maçoine,</l>
+                <l xml:id="d001l813" n="812">Venue estoit em Pafogoine</l>
+                <l xml:id="d001l814" n="813">Pour secorre Filiminis</l>
+                <l xml:id="d001l815" n="814">Ou dis mil dame de grand pris.</l>
+                <l xml:id="d001l816" n="815">Lune, soleil est sa ensagne.</l>
+                <l xml:id="d001l817" n="816">Armees estoient a une entresagne.</l>
+                <l xml:id="d001l818" n="817">Herculés sourpris avoit</l>
+                <l xml:id="d001l819" n="818">Tous li païs ch’eles tenoit,</l>
+                <l xml:id="d001l820" n="819">E de sa terre i fesoit contens.</l>
+                <l xml:id="d001l821" n="820">Jusque aou paradis terens</l>
+                <l xml:id="d001l822" n="821">Voloit princes e rois conquerre;</l>
+                <l xml:id="d001l823" n="822">Seignour voloit etre sour terre.</l>
+                <l xml:id="d001l824" n="823">La segnorie adonc estoit</l>
+                <l xml:id="d001l825" n="824">Plus pour forçe<note>824. forçe] HectB force</note> che pour droit.</l>
+                <l xml:id="d001l826" n="825">Herculés nasqui pour voir</l>
+                <l xml:id="d001l827" n="826">Pour sotmetre vil pooir.</l>
+                <l xml:id="d001l828" n="827">Ou fust pour mal ou fust pour bien,</l>
+                <l xml:id="d001l829" n="828">Nature i fist un mortiel fren.</l>
+                <l xml:id="d001l830" n="829">Rois, princes, dames e barons</l>
+                <l xml:id="d001l831" n="830">Enver li diés font oreixons</l>
+                <l xml:id="d001l832" n="831">Che l’enfant ne soit sourpris,</l>
+                <l xml:id="d001l833" n="832">Che si grand ovre a entrepris,</l>
+                <l xml:id="d001l834" n="833">Jamés nen<note>833. nen] HectB non</note> fu si aute faite</l>
+                <l xml:id="d001l835" n="834">Ne ne sera pour nul retraite.</l>
+                <l xml:id="d001l836" n="835">Cescun crie aou departir:</l>
+                <l xml:id="d001l837" n="836">– Cist est le mire pour nous garir!</l>
+                <l xml:id="d001l838" n="837">Suen ardimant, suen grand valour   [146vb]</l>
+                <l xml:id="d001l839" n="838">Defendra huy le nous honour,</l>
+                <l xml:id="d001l840" n="839">Abatra ou malfer dehors;</l>
+                <l xml:id="d001l841" n="840">Suen orgueil ni vaudra sors. –</l>
+                <l xml:id="d001l842" n="841">Quand Hector est ou cans entrié,</l>
+                <l xml:id="d001l843" n="842">Che fu d’entour tretout seré</l>
+                <l xml:id="d001l844" n="843">(La nuit firent entor la fosse,</l>
+                <l xml:id="d001l845" n="844">Pour che l’enfant fuïr ne posse),</l>
+                <l xml:id="d001l846" n="845">Quand il se vit reclus d’entor,</l>
+                <l xml:id="d001l847" n="846">Aou cuer li prist un tiel iror,</l>
+                <l xml:id="d001l848" n="847">Ains ch’il tornast spales ne front,</l>
+                <l xml:id="d001l849" n="848">Combatroit a quant ch’il sont.</l>
+                <l xml:id="d001l850" n="849">Sans demorier, petit aprés,</l>
+                <l xml:id="d001l851" n="850">Sour un detrier vint Herculés,</l>
+                <l xml:id="d001l852" n="851">Tant grand, tant fort, tant plain d’iror,</l>
+                <l xml:id="d001l853" n="852">Ne samble home nascu d’uxor.</l>
+                <l xml:id="d001l854" n="853">Chi lui regarde mout est ardis</l>
+                <l xml:id="d001l855" n="854">Se pour ne çançe vis;</l>
+                <l xml:id="d001l856" n="855">Ardis estoit s’il n’a peour,</l>
+                <l xml:id="d001l857" n="856">Quand voit iré tiel pugneour.</l>
+                <l xml:id="d001l858" n="857">L’ognir, le brair de suen cival</l>
+                <l xml:id="d001l859" n="858">Samble furie infernal.</l>
+                <l xml:id="d001l860" n="859">Ne se tenist a lui livrier,</l>
+                <l xml:id="d001l861" n="860">Tant est corant e tant liçer.</l>
+                <l xml:id="d001l862" n="861">Plus est noir cha<note>861. cha] HectB che</note> nul çarbon;</l>
+                <l xml:id="d001l863" n="862">Tra les oreiles ha un grifon</l>
+                <l xml:id="d001l864" n="863">Que tout estoit smiraud colour;</l>
+                <l xml:id="d001l865" n="864">Çafir,<note>864. Çafir] HectB Zafir</note> rubins avoit d’entour.</l>
+                <l xml:id="d001l866" n="865">Dis jontures d’os d’oulifant</l>
+                <l xml:id="d001l867" n="866">Furent les armes do jaiant.<note>866. jaiant] Iaiant</note></l>
+                <l xml:id="d001l868" n="867">Desour suen heome un confanon</l>
+                <l xml:id="d001l869" n="868">Ou sont basalisques e dragon.</l>
+                <l xml:id="d001l870" n="869">Le flamboier de leur ales</l>
+                <l xml:id="d001l871" n="870">Sembloit soleil desour les spales.</l>
+                <l xml:id="d001l872" n="871">Sour suen escu avoit un diés</l>
+                <l xml:id="d001l873" n="872">Che de force est coroniés,</l>
+                <l xml:id="d001l874" n="873">Ch’estoit clamé en arabis</l>
+                <l xml:id="d001l875" n="874">Alchimader, ce m’est avis;</l>
+                <l xml:id="d001l876" n="875">En notre langue ‘le dieu d’enfer’.</l>
+                <l xml:id="d001l877" n="876">Tuit cuidoient che cil n’ait per</l>
+                <l xml:id="d001l878" n="877">De vertus ne de puisançe,</l>
+                <l xml:id="d001l879" n="878">Tant avoient fause creançe.</l>
+                <l xml:id="d001l880" n="879">Embreus de l’autre part</l>
+                <l xml:id="d001l881" n="880">Estoient letres pour esgart,</l>
+                <l xml:id="d001l882" n="881">Qi disoient ‘Nature el fist</l>
+                <l xml:id="d001l883" n="882">Le miaudre hom che nous meis vist’.</l>
+                <l xml:id="d001l884" n="883">Desour le cief un septre avoit,</l>
+                <l xml:id="d001l885" n="884">Ou estoit Jupiter che tenoit</l>
+                <l xml:id="d001l886" n="885">En main une balle d’or reonde,</l>
+                <l xml:id="d001l887" n="886">Pour demotrance che tout le monde</l>
+                <l xml:id="d001l888" n="887">Le doit honorer pour nature,</l>
+                <l xml:id="d001l889" n="888">Pués ch’il forma tiel criature.</l>
+                <l xml:id="d001l890" n="889">En l’arçon ch’estoit darere</l>
+                <l xml:id="d001l891" n="890">Furent dous stelles de grand lumiere.</l>
+                <l xml:id="d001l892" n="891">Entaillié estoit en cil davant</l>
+                <l xml:id="d001l893" n="892">Anteus le fort e le puisant,</l>
+                <l xml:id="d001l894" n="893">Comant Herculés le conquis    [147ra]</l>
+                <l xml:id="d001l895" n="894">Quand le tua desour suen pis.</l>
+                <l xml:id="d001l896" n="895">Les covertures dou cival</l>
+                <l xml:id="d001l897" n="896">Furent de cuer, semble metal:</l>
+                <l xml:id="d001l898" n="897">Desour sont ydres e grans serpans.</l>
+                <l xml:id="d001l899" n="898">Ce est l’ensagne dou jaians.<note>898. jaians] Iaiant</note></l>
+                <l xml:id="d001l900" n="899">Pour tiel flambour se mist avant,</l>
+                <l xml:id="d001l901" n="900">Samble montagne derupant.</l>
+                <l xml:id="d001l902" n="901">Siens oils sembloient çarbon<note>901. çarbon] HectB carbon</note> apris.</l>
+                <l xml:id="d001l903" n="902">Sexante rois il a conquis</l>
+                <l xml:id="d001l904" n="903">E, aou voir dir, pluxour jeians<note>903. jeians] Ieians</note></l>
+                <l xml:id="d001l905" n="904">Che morirent tous de ses mans.</l>
+                <l xml:id="d001l906" n="905">Un eslais<note>905. eslais] HectB estais</note> prist de tiel randon,</l>
+                <l xml:id="d001l907" n="906">Semble ch’il fust foudre o tron.</l>
+                <l xml:id="d001l908" n="907">Ne fu pas hom iluec d’entour</l>
+                <l xml:id="d001l909" n="908">Che ne tremblast de grand peour.</l>
+                <l xml:id="d001l910" n="909">Le prous enfant ne tarde plus.</l>
+                <l xml:id="d001l911" n="910">La grosse lance de sabanus,</l>
+                <l xml:id="d001l912" n="911">Che n’est pas de nous<note>911. nous] HectB nou</note> aubour</l>
+                <l xml:id="d001l913" n="912">(Il naist in l’Indie Superiour),</l>
+                <l xml:id="d001l914" n="913">Ce est un leng plus fort e dur</l>
+                <l xml:id="d001l915" n="914">Che n’est la pere dedans le mur …</l>
+                <l xml:id="d001l916" n="915">Quand Hector vit suen enemis,</l>
+                <l xml:id="d001l917" n="916">Ver lui driça e cief e pis.</l>
+                <l xml:id="d001l918" n="917">Le cival urte des esperons;</l>
+                <l xml:id="d001l919" n="918">Il n’alla mais si tost bouçons</l>
+                <l xml:id="d001l920" n="919">Che fust gietié de fort balistre,</l>
+                <l xml:id="d001l921" n="920">Com il s’en vait isneus e viste.</l>
+                <l xml:id="d001l922" n="921">Le grand jeiant<note>921. jeiant] Ieiant</note> contre lui vient</l>
+                <l xml:id="d001l923" n="922">Tant abravié<note>922. abravié (?)] HectB abraive</note> ch’il samble vent.</l>
+                <l xml:id="d001l924" n="923">A grand mervoille furent andeus</l>
+                <l xml:id="d001l925" n="924">Fors e vailans,<note>924. Fors e vailans] F. euilains euailans; euilains depennato</note>
+                ardis e preus.</l>
+                <l xml:id="d001l926" n="925">Quand se furent de pres venu,</l>
+                <l xml:id="d001l927" n="926">Ne s’entreferirent entr’eus salu.</l>
+                <l xml:id="d001l928" n="927">La terre ne fist ne mais ne mens,</l>
+                <l xml:id="d001l929" n="928">Com s’il crolast le firmamens.</l>
+                <l xml:id="d001l930" n="929">Tant fu le tron de leur jondre,</l>
+                <l xml:id="d001l931" n="930">Sembloit la terre se deüst fondre.</l>
+                <l xml:id="d001l932" n="931">Cescun se sforce<note>931. se sforce] HectB s’efforce</note> quant ch’il puet,</l>
+                <l xml:id="d001l933" n="932">Li cous sona un teramuet.</l>
+                <l xml:id="d001l934" n="933">Froisent les lances; nus ne vit le leu.</l>
+                <l xml:id="d001l935" n="934">Fer e fust ard com paile en feu.</l>
+                <l xml:id="d001l936" n="935">Il se urtent de cors, de pis,</l>
+                <l xml:id="d001l937" n="936">Mes le jaiant<note>936. jaiant] Iaiant</note> cline suen vis</l>
+                <l xml:id="d001l938" n="937">Dou dur coup de l’enfant:</l>
+                <l xml:id="d001l939" n="938">A poine se tient en auferant.</l>
+                <l xml:id="d001l940" n="939">Ire e vergogne aou cuer li prent,</l>
+                <l xml:id="d001l941" n="940">Douta ne soit encantement.</l>
+                <l xml:id="d001l942" n="941">Cescun d’eus en suen lieu torne,</l>
+                <l xml:id="d001l943" n="942">Ne l’un ne l’autre ne seçorne.</l>
+                <l xml:id="d001l944" n="943">Il pristent lances dou dur diabor,</l>
+                <l xml:id="d001l945" n="944">A fer trencans come rasor.</l>
+                <l xml:id="d001l946" n="945">Pués brocent li leur civaus:</l>
+                <l xml:id="d001l947" n="946">Ne vola mais plus tost osiaus</l>
+                <l xml:id="d001l948" n="947">Pour fam sa proie retenir,</l>
+                <l xml:id="d001l949" n="948">Com l’un fesoit pour l’autre oucir.</l>
+                <l xml:id="d001l950" n="949">Le suen venir fu si abreviés,    [147rb]</l>
+                <l xml:id="d001l951" n="950">Si tost ne vait soleil d’estiés.</l>
+                <l xml:id="d001l952" n="951">Il se ferirent pour tiel aïr,</l>
+                <l xml:id="d001l953" n="952">Les lanses<note>952. lanses] HectB lances</note> font en pieces ceir.</l>
+                <l xml:id="d001l954" n="953">Pués se urtent a cors a cors,</l>
+                <l xml:id="d001l955" n="954">Mervoille sont ch’il ne sont mors.</l>
+                <l xml:id="d001l956" n="955">Tant fu la forçe de ses cous,</l>
+                <l xml:id="d001l957" n="956">Che lour civaus ceirent andous.</l>
+                <l xml:id="d001l958" n="957">Le dur hurtier si grand estoit,</l>
+                <l xml:id="d001l959" n="958">Che lor civaus soufrir nel poit:</l>
+                <l xml:id="d001l960" n="959">Mors ceïrent tous en un mont.</l>
+                <l xml:id="d001l961" n="960">Li chevaliers a front a front</l>
+                <l xml:id="d001l962" n="961">Se mistrent tous de randon</l>
+                <l xml:id="d001l963" n="962">Pour comencier l’aspre tençon.</l>
+                <l xml:id="d001l964" n="963">As brans mistrent andeus les mans;</l>
+                <l xml:id="d001l965" n="964">Ne sembloient<note>964. sembloient] HectB sambloient</note> homes humans.</l>
+                <l xml:id="d001l966" n="965">Foudre, tempenste,<note>965. tempenste] HectB tempeste</note> scurir le mont</l>
+                <l xml:id="d001l967" n="966">Samble seren a ce ch’il font.</l>
+                <l xml:id="d001l968" n="967">L’un vient sour l’autre o lu nu brans;</l>
+                <l xml:id="d001l969" n="968">Se l’un est fort, l’autre est puisans.</l>
+                <l xml:id="d001l970" n="969">Les grans cous chi se donent</l>
+                <l xml:id="d001l971" n="970">Ferent tremblier chi lour voient.</l>
+                <l xml:id="d001l972" n="971">Ne fu si franc, chi lour gardast,</l>
+                <l xml:id="d001l973" n="972">Chi de peour tous ne trenblast.</l>
+                <l xml:id="d001l974" n="973">Le primer coup moine l’enfant</l>
+                <l xml:id="d001l975" n="974">Pour tiel vertu e tant pesant,</l>
+                <l xml:id="d001l976" n="975">Desour l’eome d’acier tant fors,</l>
+                <l xml:id="d001l977" n="976">Feu e flambe i usi dehors.</l>
+                <l xml:id="d001l978" n="977">Le jeiant<note>977. jeiant] Ieiant</note> sur lui se lance,</l>
+                <l xml:id="d001l979" n="978">Le joune fiert de tiel puisance</l>
+                <l xml:id="d001l980" n="979">L’escu feré covert a esmal,</l>
+                <l xml:id="d001l981" n="980">La moitié trance contreval.</l>
+                <l xml:id="d001l982" n="981">Hector oit ire sans peour;</l>
+                <l xml:id="d001l983" n="982">Le jeiant fiert de tiel ardour</l>
+                <l xml:id="d001l984" n="983">Che de suen iaume rompi le laç.</l>
+                <l xml:id="d001l985" n="984">Par force el prist entre ses braç:</l>
+                <l xml:id="d001l986" n="985">Ne fu tant fort le prous jeians</l>
+                <l xml:id="d001l987" n="986">Ch’il nel ruast stendus aou çans.</l>
+                <l xml:id="d001l988" n="987">Mes il fu tant legier e fort,</l>
+                <l xml:id="d001l989" n="988">Des piés, des mains fu si acort,</l>
+                <l xml:id="d001l990" n="989">Sa legiereçe cescun vit:</l>
+                <l xml:id="d001l991" n="990">Plus de cinquante pié salit.</l>
+                <l xml:id="d001l992" n="991">Le joune Hector le cort a envair.</l>
+                <l xml:id="d001l993" n="992">Le jeiant fiert de tiel aïr</l>
+                <l xml:id="d001l994" n="993">Des piés, des mains, de cors, de teste:</l>
+                <l xml:id="d001l995" n="994">Sour le jeiant ferir non reste.</l>
+                <l xml:id="d001l996" n="995">Sa grand force, sa grand mesure</l>
+                <l xml:id="d001l997" n="996">Est de Herculés tant fort e dure,</l>
+                <l xml:id="d001l998" n="997">S’il fust irié, gardast suen vis,</l>
+                <l xml:id="d001l999" n="998">Fors le enfans nen fu meis vis.</l>
+                <l xml:id="d001l1000" n="999">Tant fu la force de leur dous,</l>
+                <l xml:id="d001l1001" n="1000">Le retentir de leur grans cous!</l>
+                <l xml:id="d001l1002" n="1001">L’un fiert a droit, l’autre a seneste;</l>
+                <l xml:id="d001l1003" n="1002">Plus sont legier de nule beste.</l>
+                <l xml:id="d001l1004" n="1003">Sa legierece si grande estoit,</l>
+                <l xml:id="d001l1005" n="1004">Ne se puet croir chi ne la voit.</l>
+                <l xml:id="d001l1006" n="1005">Andeus furent de tiel puisançe    [147va]</l>
+                <l xml:id="d001l1007" n="1006">Ch’a plus valoir cescun s’avançe.</l>
+                <l xml:id="d001l1008" n="1007">Tant orible jamés bataille</l>
+                <l xml:id="d001l1009" n="1008">Ne fu veüe sens nule faille.</l>
+                <l xml:id="d001l1010" n="1009">Tant rois e princes, com iluc sont,</l>
+                <l xml:id="d001l1011" n="1010">Cuidoient estre en l’autre mont,</l>
+                <l xml:id="d001l1012" n="1011">Car le plus prous e le plus ardis</l>
+                <l xml:id="d001l1013" n="1012">Ne soit s’il sont ou mors ou vis.</l>
+                <l xml:id="d001l1014" n="1013">Tuit disoient dedans e dehors</l>
+                <l xml:id="d001l1015" n="1014">Che l’enfant n’est pas uman cors.</l>
+                <l xml:id="d001l1016" n="1015">La stelle d’armes pour sa<note>1015. sa] HectB la</note> persone</l>
+                <l xml:id="d001l1017" n="1016">Sour tuit planetes porte corone.</l>
+                <l xml:id="d001l1018" n="1017">Herculés clermant voit</l>
+                <l xml:id="d001l1019" n="1018">Ch’aou brand defandre ne se poit,</l>
+                <l xml:id="d001l1020" n="1019">Car il se combat iluec a tiaus</l>
+                <l xml:id="d001l1021" n="1020">Ch’en tretous les cors mortiaus</l>
+                <l xml:id="d001l1022" n="1021">Ne fu trovié si ardis ne fort.</l>
+                <l xml:id="d001l1023" n="1022">Par trop proeçe sera mort,</l>
+                <l xml:id="d001l1024" n="1023">E ce sera le gregnour mal</l>
+                <l xml:id="d001l1025" n="1024">Che fust jamés d’ome mortal.</l>
+                <l xml:id="d001l1026" n="1025">Sovant avint cheou main puisant</l>
+                <l xml:id="d001l1027" n="1026">Si fiert darere come davant,</l>
+                <l xml:id="d001l1028" n="1027">Car le faucon la aigle fiert</l>
+                <l xml:id="d001l1029" n="1028">Peour de soy, si le requiert.</l>
+                <l xml:id="d001l1030" n="1029">Herculés tout ensi fait.</l>
+                <l xml:id="d001l1031" n="1030">Che vous feroie plus long plait?</l>
+                <l xml:id="d001l1032" n="1031">De non combatre il fist semblant:</l>
+                <l xml:id="d001l1033" n="1032">Arier retorne plus d’un arpant,</l>
+                <l xml:id="d001l1034" n="1033">Dedans suen fueure il mist la spee.</l>
+                <l xml:id="d001l1035" n="1034">Or oirés belle meslee!</l>
+                <l xml:id="d001l1036" n="1035">E ce fist il pour che l’enfant</l>
+                <l xml:id="d001l1037" n="1036">Feïst ausi dou cremus brant.</l>
+                <l xml:id="d001l1038" n="1037">L’enfant remist suen brand ao lés,</l>
+                <l xml:id="d001l1039" n="1038">Quand retornier vit Herculés.</l>
+                <l xml:id="d001l1040" n="1039">Le jeiant garde<note>1039. garde] HectB gard</note> ce ch’il fist,</l>
+                <l xml:id="d001l1041" n="1040">A grand mervoille li abelist.</l>
+                <l xml:id="d001l1042" n="1041">Nel prise pas une latue,</l>
+                <l xml:id="d001l1043" n="1042">Quand il ne vit sa spee nue.</l>
+                <l xml:id="d001l1044" n="1043">Vers lui s’en veit de tiel randon,</l>
+                <l xml:id="d001l1045" n="1044">Con ver la daine veit lion.</l>
+                <l xml:id="d001l1046" n="1045">Le cief baisse, les mains devant,</l>
+                <l xml:id="d001l1047" n="1046">Pour urtier soy aou prous enfant.</l>
+                <l xml:id="d001l1048" n="1047">Quand le ardi le voit venir,</l>
+                <l xml:id="d001l1049" n="1048">Mieus ame mort che lui guencir.</l>
+                <l xml:id="d001l1050" n="1049">Contre lui vait de tiel esfors,<note>1049. esfors] HectB effors</note></l>
+                <l xml:id="d001l1051" n="1050">Des mains le fiert pourmi le cors,</l>
+                <l xml:id="d001l1052" n="1051">De cief, de pis, tretout esemble.<note>1051. esemble] HectB ensemble</note></l>
+                <l xml:id="d001l1053" n="1052">Le grand jeiant fremist e tremble.</l>
+                <l xml:id="d001l1054" n="1053">Ne fu si fort le fier jeiant</l>
+                <l xml:id="d001l1055" n="1054">Che trabuçast l’ardis enfant.</l>
+                <l xml:id="d001l1056" n="1055">Nel fist ceoir envers,</l>
+                <l xml:id="d001l1057" n="1056">Dond il devient e paille e pers.</l>
+                <l xml:id="d001l1058" n="1057">E se l’enfant chi tant est prous</l>
+                <l xml:id="d001l1059" n="1058">Ne fust estié sour tuit courtous,</l>
+                <l xml:id="d001l1060" n="1059">Mort eüst le fier jeiant</l>
+                <l xml:id="d001l1061" n="1060">Ains ch’il fust levé en estant.</l>
+                <l xml:id="d001l1062" n="1061">Mes ne se doit pour mortiel guerre   [147vb]</l>
+                <l xml:id="d001l1063" n="1062">Ferir nus hom che soit a terre.<note>1061‑62. i due vv. preceduti da segno di paragrafo
+                rosso e blu</note></l>
+                <l xml:id="d001l1064" n="1063">L’enfant regarde ce ch’il fera,</l>
+                <l xml:id="d001l1065" n="1064">Se pour combatre se levera,</l>
+                <l xml:id="d001l1066" n="1065">Car le droit prous mais ne ofent,</l>
+                <l xml:id="d001l1067" n="1066">Se suen contraire ne se defent.<note>1065‑66. i due vv. preceduti da segno di paragrafo
+                rosso e blu</note></l>
+                <l xml:id="d001l1068" n="1067">Le jeiant saute en estant,</l>
+                <l xml:id="d001l1069" n="1068">Davant soy se mist le brant.</l>
+                <l xml:id="d001l1070" n="1069">Cent mille fois voudroit morir</l>
+                <l xml:id="d001l1071" n="1070">Che vergognouse parole dir.</l>
+                <l xml:id="d001l1072" n="1071">Ains se laiseroit le cuer tout fendre</l>
+                <l xml:id="d001l1073" n="1072">Che a cors humain se vousist rendre.</l>
+                <l xml:id="d001l1074" n="1073">Ne pensa mais che chevalier</l>
+                <l xml:id="d001l1075" n="1074">Fer li peüst merci clamer.</l>
+                <l xml:id="d001l1076" n="1075">Lour se mist tot a bandon,</l>
+                <l xml:id="d001l1077" n="1076">A saut a saut come lion.</l>
+                <l xml:id="d001l1078" n="1077">Pensé avoit le fier jeiant</l>
+                <l xml:id="d001l1079" n="1078">Ceoir armé desour l’enfant.</l>
+                <l xml:id="d001l1080" n="1079">Nature avoit l’enfant dotié,</l>
+                <l xml:id="d001l1081" n="1080">Sour tuit d’armes enseignié.</l>
+                <l xml:id="d001l1082" n="1081">Bien mostra a ceus dous asaut</l>
+                <l xml:id="d001l1083" n="1082">Le chiel de lour est prous e chi plus vaut.</l>
+                <l xml:id="d001l1084" n="1083">L’enfant auce<note>1083. auce] HectB auçe</note> la spee amont,</l>
+                <l xml:id="d001l1085" n="1084">Le coup mena de cuer perfont</l>
+                <l xml:id="d001l1086" n="1085">De tant de force pourmi la teste.</l>
+                <l xml:id="d001l1087" n="1086">Tant est dur l’eome, le coup ne reste.</l>
+                <l xml:id="d001l1088" n="1087">Bruant trembla le coup devalle:</l>
+                <l xml:id="d001l1089" n="1088">Main e brais con la droite spalle</l>
+                <l xml:id="d001l1090" n="1089">Convient par force ceoir ao pré.</l>
+                <l xml:id="d001l1091" n="1090">Cil trabuça outre suen gré.</l>
+                <l xml:id="d001l1092" n="1091">Veoir se pooit toutes l’entrailles</l>
+                <l xml:id="d001l1093" n="1092">De cil ch’a vint cincent batailles.</l>
+                <l xml:id="d001l1094" n="1093">Hey, las dolant!, le quel juïse!<note>1093. juïse] HectB i vise</note></l>
+                <l xml:id="d001l1095" n="1094">Ou avoit Nature tant mise</l>
+                <l xml:id="d001l1096" n="1095">Force, vertus e ardimant</l>
+                <l xml:id="d001l1097" n="1096">(Sour autres fu le plus corant),</l>
+                <l xml:id="d001l1098" n="1097">Sa grand force, suen grand valour</l>
+                <l xml:id="d001l1099" n="1098">Li a falli en celuy jour,</l>
+                <l xml:id="d001l1100" n="1099">Car celu che tout sourpoie</l>
+                <l xml:id="d001l1101" n="1100">Ceoir le fist desour l’erboie.</l>
+                <l xml:id="d001l1102" n="1101">L’enfant ardis mout le remire,</l>
+                <l xml:id="d001l1103" n="1102">Voit ch’il n’a plus mestier de mire.</l>
+                <l xml:id="d001l1104" n="1103">De luy ferir ne veut atendre,</l>
+                <l xml:id="d001l1105" n="1104">Pour ch’il ne mostre de soi defendre.</l>
+                <l xml:id="d001l1106" n="1105">L’ensagne de Herculés fu un grifon,</l>
+                <l xml:id="d001l1107" n="1106">Demi osiaus e demi lion.</l>
+                <l xml:id="d001l1108" n="1107">Le lion mostre sa grand forteçe</l>
+                <l xml:id="d001l1109" n="1108">E l’ouxiaus sa legiereçe.</l>
+                <l xml:id="d001l1110" n="1109">Rien<note>1109. Rien] HectB Bien</note> ne li vaut legier ne fors,</l>
+                <l xml:id="d001l1111" n="1110">Car il combat a plus prous cors</l>
+                <l xml:id="d001l1112" n="1111">Che fust ne sera tra les vivens.</l>
+                <l xml:id="d001l1113" n="1112">Hey las!, s’il fust viscu lonc tens,</l>
+                <l xml:id="d001l1114" n="1113">Mars de bataille fust esauçiés</l>
+                <l xml:id="d001l1115" n="1114">E de nature humaine aoriés.</l>
+                <l xml:id="d001l1116" n="1115">Car mais ne fu ne croy naistra</l>
+                <l xml:id="d001l1117" n="1116">D’Ector pareil, ne non sera.</l>
+                <l xml:id="d001l1118" n="1117">De la grand plaie Herculés    [148ra]</l>
+                <l xml:id="d001l1119" n="1118">Coroit le sang pour le prés.</l>
+                <l xml:id="d001l1120" n="1119">Vint chevaliers en fusent mors,</l>
+                <l xml:id="d001l1121" n="1120">Se le lour sang ensist si fors.</l>
+                <l xml:id="d001l1122" n="1121">Lour li dist Herculé mout belemant:</l>
+                <l xml:id="d001l1123" n="1122">– Ne fu jamés home vivant</l>
+                <l xml:id="d001l1124" n="1123">Che seul le nom de Herculés</l>
+                <l xml:id="d001l1125" n="1124">Nen spaürist long e de pres.</l>
+                <l xml:id="d001l1126" n="1125">Or a’ trouvé mout grand merveille,</l>
+                <l xml:id="d001l1127" n="1126">Che Nature tost apareille:</l>
+                <l xml:id="d001l1128" n="1127">Ne sera mais hom tant puisant</l>
+                <l xml:id="d001l1129" n="1128">Che il ne troeve combatant.</l>
+                <l xml:id="d001l1130" n="1129">A ce fait elle pour ch’elle poit</l>
+                <l xml:id="d001l1131" n="1130">Fair e desfair ce che voloit.</l>
+                <l xml:id="d001l1132" n="1131">Hector, dist pués bellement,</l>
+                <l xml:id="d001l1133" n="1132">Ne sai comant je soie vent.</l>
+                <l xml:id="d001l1134" n="1133">Garde ne soies fil de Nature,</l>
+                <l xml:id="d001l1135" n="1134">Che m’ais ici mort sens droiture.</l>
+                <l xml:id="d001l1136" n="1135">Je te conjur pour cil amour,</l>
+                <l xml:id="d001l1137" n="1136">Ch’è ocheixon de tuen valour,</l>
+                <l xml:id="d001l1138" n="1137">Che tu me dies s’tu eis un diés</l>
+                <l xml:id="d001l1139" n="1138">Ou de mortiel çar engiendriés.</l>
+                <l xml:id="d001l1140" n="1139">Un de tes cous m’a fet seoir:<note>1139. seoir] HectB ceoir</note></l>
+                <l xml:id="d001l1141" n="1140">Dir nel deüse, mes je di voir.</l>
+                <l xml:id="d001l1142" n="1141">Mes ne pensai pour aucun etre</l>
+                <l xml:id="d001l1143" n="1142">Che foudre me peust en terre metre. –</l>
+                <l xml:id="d001l1144" n="1143">L’enfant respond pour grand noblece</l>
+                <l xml:id="d001l1145" n="1144">(Tiel est sa lengue com sa proece):</l>
+                <l xml:id="d001l1146" n="1145">– Dieu e Nature m’a fet cist don</l>
+                <l xml:id="d001l1147" n="1146">Pour la venjance de Laumedon</l>
+                <l xml:id="d001l1148" n="1147">Che ouceïstes a grand tort.</l>
+                <l xml:id="d001l1149" n="1148">Aou roy Prian seroit confort,</l>
+                <l xml:id="d001l1150" n="1149">Se il veïst ce che je voy:</l>
+                <l xml:id="d001l1151" n="1150">La main eou<note>1150. eou] HectB cou</note> brais giesir aou proy,</l>
+                <l xml:id="d001l1152" n="1151">Che a suen pere trença la teste.</l>
+                <l xml:id="d001l1153" n="1152">Dardanidés n’avroit grand feste.</l>
+                <l xml:id="d001l1154" n="1153">Nen sera mais seü pour moy:</l>
+                <l xml:id="d001l1155" n="1154">Proece ne doit dir hom de soy. –<note>1153‑54. i due vv. preceduti da segni di paragrafo
+                blu e rosso</note></l>
+                <l xml:id="d001l1156" n="1155">Herculés pensa e puis respont;</l>
+                <l xml:id="d001l1157" n="1156">L’enfant garda pourmi le front:</l>
+                <l xml:id="d001l1158" n="1157">– Heis<note>1157. Heis] HectB N’eis</note> tu adonc de la lignee</l>
+                <l xml:id="d001l1159" n="1158">(Tant noble ne fu jamés trovee)</l>
+                <l xml:id="d001l1160" n="1159">De Yllius che edeficha Yllion?</l>
+                <l xml:id="d001l1161" n="1160">Niés en fu roy Laumedon</l>
+                <l xml:id="d001l1162" n="1161">Che je oucis pour mesconoisance.</l>
+                <l xml:id="d001l1163" n="1162">Adonc tu n’ais pris sour moi venjance,</l>
+                <l xml:id="d001l1164" n="1163">Se la moie arme en bien se fine.</l>
+                <l xml:id="d001l1165" n="1164">Roy Telamon de Salamine</l>
+                <l xml:id="d001l1166" n="1165">Entrepris estoi<note>1165. estoi] HectB estoit</note> da Laumedon.</l>
+                <l xml:id="d001l1167" n="1166">Seisis l’avoit come franc hon;</l>
+                <l xml:id="d001l1168" n="1167">Il le<note>1167. Il le] HectB Il</note> tenoit pour la ventaille,</l>
+                <l xml:id="d001l1169" n="1168">La ou estoit gregnour bataille.</l>
+                <l xml:id="d001l1170" n="1169">Se je nen fuise si tost acort,</l>
+                <l xml:id="d001l1171" n="1170">Ne fust jamés scampié sens mort.</l>
+                <l xml:id="d001l1172" n="1171">Quand je gardai en celle part,</l>
+                <l xml:id="d001l1173" n="1172">Pour fain ne fu jamés liopart<note>1172. liopart] Liopart</note></l>
+                <l xml:id="d001l1174" n="1173">Fer de beste tiel esfroy<note>1173. esfroy] HectB effroy</note>     [148rb]</l>
+                <l xml:id="d001l1175" n="1174">Com Telamon fesoit dou roy.</l>
+                <l xml:id="d001l1176" n="1175">Si l’avoit a tiel metus,</l>
+                <l xml:id="d001l1177" n="1176">De soi defandre ne pooit plus.</l>
+                <l xml:id="d001l1178" n="1177">Si ne cuidoit ch’en tout le mont</l>
+                <l xml:id="d001l1179" n="1178">De Telamon fust le segont.</l>
+                <l xml:id="d001l1180" n="1179">Mais ne nasqui de fame e d’on</l>
+                <l xml:id="d001l1181" n="1180">Chi fust plus prous de Laumedon,</l>
+                <l xml:id="d001l1182" n="1181">La fontaine de tiens ancesour,</l>
+                <l xml:id="d001l1183" n="1182">Souçi proece e tout valour.</l>
+                <l xml:id="d001l1184" n="1183">Se je euse seu dond tu fus nés,</l>
+                <l xml:id="d001l1185" n="1184">Da toy me fuse mieus gardés.</l>
+                <l xml:id="d001l1186" n="1185">Telamon de moi fu grand amis:</l>
+                <l xml:id="d001l1187" n="1186">Pour defendre luy le roi oucis.</l>
+                <l xml:id="d001l1188" n="1187">Ne pour Jason ne pour messaçe</l>
+                <l xml:id="d001l1189" n="1188">N’eüse feit un tiel folaçe.</l>
+                <l xml:id="d001l1190" n="1189">Ne pour paroles eüse fait</l>
+                <l xml:id="d001l1191" n="1190">Rien che me fuis a mal retrait.</l>
+                <l xml:id="d001l1192" n="1191">Or moi ascoute, flour de vertus</l>
+                <l xml:id="d001l1193" n="1192">Che mien valour ais abatus</l>
+                <l xml:id="d001l1194" n="1193">E si eis nés de cele ville</l>
+                <l xml:id="d001l1195" n="1194">Ch’en tout le mond n’a sa parille!</l>
+                <l xml:id="d001l1196" n="1195">Quand je fui dedans le mur</l>
+                <l xml:id="d001l1197" n="1196">(Vous droitemant bien aseür),</l>
+                <l xml:id="d001l1198" n="1197">Se mal voloir<note>1197. voloir] HectB valoir</note> m’eüst iré,</l>
+                <l xml:id="d001l1199" n="1198">Tous les eüse detrencié.</l>
+                <l xml:id="d001l1200" n="1199">E si vous di pour veritié</l>
+                <l xml:id="d001l1201" n="1200">Che quand je fui en la citié,</l>
+                <l xml:id="d001l1202" n="1201">Pour moy ne fu ne mort ne pris</l>
+                <l xml:id="d001l1203" n="1202">Nus hom chi demandast mercis.</l>
+                <l xml:id="d001l1204" n="1203">Exiona, la fille au roy,</l>
+                <l xml:id="d001l1205" n="1204">Che Telamon mena o soy,</l>
+                <l xml:id="d001l1206" n="1205">Je la conquis sour mien destrier</l>
+                <l xml:id="d001l1207" n="1206">Encontre troi mil chevalier,</l>
+                <l xml:id="d001l1208" n="1207">La spee nue en lour mans;</l>
+                <l xml:id="d001l1209" n="1208">A lour maugrié la pris aou frans.</l>
+                <l xml:id="d001l1210" n="1209">Prendre la voloient e retenir</l>
+                <l xml:id="d001l1211" n="1210">Pour l’avoir grand dou roy tolir.</l>
+                <l xml:id="d001l1212" n="1211">Tuit m’asailirent<note>1211. m’asailirent] ma sailirent</note> comunelment:</l>
+                <l xml:id="d001l1213" n="1212">De lour tuay plus de cinc cent.</l>
+                <l xml:id="d001l1214" n="1213">Ce n’eüsent<note>1213. n’eüsent] ne usent</note> il feit pour voir,</l>
+                <l xml:id="d001l1215" n="1214">Se seü eusent le mien voloir.<note>1214. voloir] HectB valoir</note></l>
+                <l xml:id="d001l1216" n="1215">Miaus vousisent estre atués</l>
+                <l xml:id="d001l1217" n="1216">Che pour fame etre tués.</l>
+                <l xml:id="d001l1218" n="1217">A Telamon fu outroiee</l>
+                <l xml:id="d001l1219" n="1218">Pour ch’il n’avoit fame sposee.</l>
+                <l xml:id="d001l1220" n="1219">E je seul fis cist mariaçe,</l>
+                <l xml:id="d001l1221" n="1220">A ce che onté ne fust le vous lignaçe.</l>
+                <l xml:id="d001l1222" n="1221">E a Telamon dis apertemant</l>
+                <l xml:id="d001l1223" n="1222">Che d’oucident jusque<note>1222. jusque] HectB insque (?)</note> en oriant</l>
+                <l xml:id="d001l1224" n="1223">Ne avoit prince ne empereour<note>1223. empereour] HectB emperour</note></l>
+                <l xml:id="d001l1225" n="1224">Che digne fust de tant honour.</l>
+                <l xml:id="d001l1226" n="1225">Ond je te conjur pour l’aute foy</l>
+                <l xml:id="d001l1227" n="1226">Che ocheixon est de ta loy,</l>
+                <l xml:id="d001l1228" n="1227">Che je sace com tu ais<note>1227. ais] HectB as</note> nom</l>
+                <l xml:id="d001l1229" n="1228">E se<note>1228. se] HectB si</note> tu eis Mars en forme d’om,</l>
+                <l xml:id="d001l1230" n="1229">Che ja me dist (n’a feit falance)    [148va]</l>
+                <l xml:id="d001l1231" n="1230">Ch’il faroit de moi vejance</l>
+                <l xml:id="d001l1232" n="1231">E metroit com moy e<note>1231. e] HectB en</note> çamp</l>
+                <l xml:id="d001l1233" n="1232">Plus prous de moy e plus vailant</l>
+                <l xml:id="d001l1234" n="1233">Se d’omour terens non eis nascus,</l>
+                <l xml:id="d001l1235" n="1234">Non ay vergogne se m’ai venchus.</l>
+                <l xml:id="d001l1236" n="1235">E se mortiaus çar t’a encendrés,<note>1235. encendrés] en cendres</note></l>
+                <l xml:id="d001l1237" n="1236">Fa che je sace chi tu es. –</l>
+                <l xml:id="d001l1238" n="1237">L’enfant respond: – Le nom de moy</l>
+                <l xml:id="d001l1239" n="1238">Ne vueil a vous tenir secroy.</l>
+                <l xml:id="d001l1240" n="1239">Je ai nom Hector, niés Laumedon,</l>
+                <l xml:id="d001l1241" n="1240">Pour la qiel mort cum vous tençon.</l>
+                <l xml:id="d001l1242" n="1241">– Adonc eis fil dou roy Priam?</l>
+                <l xml:id="d001l1243" n="1242">Pour toy se doit croir d’Adam</l>
+                <l xml:id="d001l1244" n="1243">Chi fu plus biaus e fu plus fort,</l>
+                <l xml:id="d001l1245" n="1244">Le plus senés, le plus acort</l>
+                <l xml:id="d001l1246" n="1245">Che mais nasqui en cestui mont.</l>
+                <l xml:id="d001l1247" n="1246">Pres lui bien estes le segont</l>
+                <l xml:id="d001l1248" n="1247">Sour tous pasés homes çarnal.</l>
+                <l xml:id="d001l1249" n="1248">Proece doit plaindre che eis mortal. –</l>
+                <l xml:id="d001l1250" n="1249">Hector li dist: – Perdon vous quier.</l>
+                <l xml:id="d001l1251" n="1250">Je n’ay pas feit con se doit fier:</l>
+                <l xml:id="d001l1252" n="1251">De vous amer metre ma cura.</l>
+                <l xml:id="d001l1253" n="1252">Ma venjance est cors de Natura.</l>
+                <l xml:id="d001l1254" n="1253">Ou soit a droit ou soit a tort,</l>
+                <l xml:id="d001l1255" n="1254">Plaindra Nature vetre mort. –</l>
+                <l xml:id="d001l1256" n="1255">Herculés parla e dit:</l>
+                <l xml:id="d001l1257" n="1256">– O tu chi eis sour tous eslit,</l>
+                <l xml:id="d001l1258" n="1257">A toy me sui combatus;</l>
+                <l xml:id="d001l1259" n="1258">Non ay vergogne se m’ai vencus.</l>
+                <l xml:id="d001l1260" n="1259">Ond je te pri pour honour de moy</l>
+                <l xml:id="d001l1261" n="1260">Che il se sace le nom de toy,</l>
+                <l xml:id="d001l1262" n="1261">A ce che tous soient acort</l>
+                <l xml:id="d001l1263" n="1262">Che le prous Hector m’a mis a mort.</l>
+                <l xml:id="d001l1264" n="1263">E a vous di par droite fois</l>
+                <l xml:id="d001l1265" n="1264">Che ay sotmis .lx. rois.</l>
+                <l xml:id="d001l1266" n="1265">Tout lour delit fu tiranie,</l>
+                <l xml:id="d001l1267" n="1266">Je ne li fis droit en tout ma vie.</l>
+                <l xml:id="d001l1268" n="1267">Tout mien coraçe fu desirans</l>
+                <l xml:id="d001l1269" n="1268">De metre a mort tous li tirans.</l>
+                <l xml:id="d001l1270" n="1269">Bestes, serpans e les centaures</l>
+                <l xml:id="d001l1271" n="1270">Che a nous nature sont contraires,</l>
+                <l xml:id="d001l1272" n="1271">Nen pooient da moi fuïr,</l>
+                <l xml:id="d001l1273" n="1272">E or me stuet la mort glotir.</l>
+                <l xml:id="d001l1274" n="1273">Nature m’a donee force</l>
+                <l xml:id="d001l1275" n="1274">Pour abasier vilaine çouse,</l>
+                <l xml:id="d001l1276" n="1275">Mes la vous force n’est pas vilaine,</l>
+                <l xml:id="d001l1277" n="1276">Sour toutes autres estes sopraine.</l>
+                <l xml:id="d001l1278" n="1277">Pour ce n’ai cure de la mort,</l>
+                <l xml:id="d001l1279" n="1278">Quand sour les autres le plus fort</l>
+                <l xml:id="d001l1280" n="1279">M’a mis a outrance pour bataille,</l>
+                <l xml:id="d001l1281" n="1280">Car il est grand, je sui la paille.</l>
+                <l xml:id="d001l1282" n="1281">Hector, dist il, proçainemant</l>
+                <l xml:id="d001l1283" n="1282">M’estuet morir. Un don demant</l>
+                <l xml:id="d001l1284" n="1283">A vous valour, a vous proeçe,<note>1283. proeçe] HectB proece</note></l>
+                <l xml:id="d001l1285" n="1284">A vous bontié, a vous nobleçe:<note>1284. nobleçe] HectB noblece</note></l>
+                <l xml:id="d001l1286" n="1285">Che desour ma sepouture    [148vb]</l>
+                <l xml:id="d001l1287" n="1286">Soit entaillé tiel figure:</l>
+                <l xml:id="d001l1288" n="1287">Com Jupiter, le dieu puisant,</l>
+                <l xml:id="d001l1289" n="1288">Tenoit sa spee vers oriant;</l>
+                <l xml:id="d001l1290" n="1289">Da l’autre part venoit armés</l>
+                <l xml:id="d001l1291" n="1290">Mars de bataille encoronés.</l>
+                <l xml:id="d001l1292" n="1291">Cescun veut suen honour defendre</l>
+                <l xml:id="d001l1293" n="1292">E a plus valour cescun entendre.</l>
+                <l xml:id="d001l1294" n="1293">Jupiter a force com puisance,</l>
+                <l xml:id="d001l1295" n="1294">Mars a corone cum mesurance.</l>
+                <l xml:id="d001l1296" n="1295">Pour che ma force fu sens mesure,</l>
+                <l xml:id="d001l1297" n="1296">Moy a abasié Mars, i mist cure.</l>
+                <l xml:id="d001l1298" n="1297">Sens e proece andeus ensemble</l>
+                <l xml:id="d001l1299" n="1298">Glorie e honour au saçe semble:</l>
+                <l xml:id="d001l1300" n="1299">E vous estes d’andeus vestus.</l>
+                <l xml:id="d001l1301" n="1300">Ne m’est vergogne se m’ais venchus.</l>
+                <l xml:id="d001l1302" n="1301">Pour nous deus se mostre ou voir,</l>
+                <l xml:id="d001l1303" n="1302">La chil stoille<note>1302. La chil stoille] HectB La ch’estoille</note> a plus pooir,</l>
+                <l xml:id="d001l1304" n="1303">Ou Mars con sen ou Jupiter,</l>
+                <l xml:id="d001l1305" n="1304">Car tout metal doma le fer.</l>
+                <l xml:id="d001l1306" n="1305">La vous force n’est pas force,</l>
+                <l xml:id="d001l1307" n="1306">Le suen droit n’est pas force.</l>
+                <l xml:id="d001l1308" n="1307">E vous ne prediés de ce arogance.</l>
+                <l xml:id="d001l1309" n="1308">Je le di a vous pour ma sentance</l>
+                <l xml:id="d001l1310" n="1309">Che stoille d’armes pour vous a honour.</l>
+                <l xml:id="d001l1311" n="1310">De proece serés sour tous seignour. –</l>
+                <l xml:id="d001l1312" n="1311">Hector plore de cuer parfont.</l>
+                <l xml:id="d001l1313" n="1312">A ces paroles li respont:</l>
+                <l xml:id="d001l1314" n="1313">– Lengue de vous<note>1313. vous] HectB nous</note> poroit dir</l>
+                <l xml:id="d001l1315" n="1314">Ne mortiel main savroit escrir</l>
+                <l xml:id="d001l1316" n="1315">Le aut valour chi est en vous.</l>
+                <l xml:id="d001l1317" n="1316">Sour totes riens sui angoisous</l>
+                <l xml:id="d001l1318" n="1317">De la male destiné sort</l>
+                <l xml:id="d001l1319" n="1318">Che fu ocheixon de vetre mort.</l>
+                <l xml:id="d001l1320" n="1319">Le cors de vous tant seulment</l>
+                <l xml:id="d001l1321" n="1320">Jusque aou jour dou feniment</l>
+                <l xml:id="d001l1322" n="1321">Pour li grans saçes sera retrait,</l>
+                <l xml:id="d001l1323" n="1322">Nul fous de vous en terre plait.</l>
+                <l xml:id="d001l1324" n="1323">Quand vous serés en leu d’onour,</l>
+                <l xml:id="d001l1325" n="1324">A vous recomand cist mien labour,</l>
+                <l xml:id="d001l1326" n="1325">Che en cestui mortiel pasaçe</l>
+                <l xml:id="d001l1327" n="1326">Sieve pooir a le coraçe.</l>
+                <l xml:id="d001l1328" n="1327">A vous dirai com a cier amis:</l>
+                <l xml:id="d001l1329" n="1328">Le peril conois ond je sui mis.</l>
+                <l xml:id="d001l1330" n="1329">Besong aou roi de grand pooir</l>
+                <l xml:id="d001l1331" n="1330">A fournir ce che mien voloir</l>
+                <l xml:id="d001l1332" n="1331">Vai pourpensant e nuit e jour.</l>
+                <l xml:id="d001l1333" n="1332">Fors de vergogne non ay peour;</l>
+                <l xml:id="d001l1334" n="1333">De mort ne chur ne de prisons,</l>
+                <l xml:id="d001l1335" n="1334">Seul che honorié soie das bons.</l>
+                <l xml:id="d001l1336" n="1335">Aou mien avis le mond coquerre</l>
+                <l xml:id="d001l1337" n="1336">Me sembleroit un pué de terre.</l>
+                <l xml:id="d001l1338" n="1337">Secorerés moy a cist voloir:</l>
+                <l xml:id="d001l1339" n="1338">La sus n’avrés bien le pooir. –</l>
+                <l xml:id="d001l1340" n="1339">Herculés fortmant sospire</l>
+                <l xml:id="d001l1341" n="1340">E de buen cuer il prist a dire:</l>
+                <l xml:id="d001l1342" n="1341">– La mort ne m’est tant de dolour   [149ra]</l>
+                <l xml:id="d001l1343" n="1342">Com la partie de vous amour.</l>
+                <l xml:id="d001l1344" n="1343">Quand je vous vi dedans le çans</l>
+                <l xml:id="d001l1345" n="1344">E estoie de tiel semblans,</l>
+                <l xml:id="d001l1346" n="1345">Moy envaïr de tiel mainere,</l>
+                <l xml:id="d001l1347" n="1346">Cum liés eüst les mains dariere,</l>
+                <l xml:id="d001l1348" n="1347">Je pensay en mien coraçe:</l>
+                <l xml:id="d001l1349" n="1348">‘Cist passa prous, se il est saçe.</l>
+                <l xml:id="d001l1350" n="1349">Huy serai mors, pris ou vencus,</l>
+                <l xml:id="d001l1351" n="1350">Se secors ne sui desus’.</l>
+                <l xml:id="d001l1352" n="1351">Mes secorus seroie tart.</l>
+                <l xml:id="d001l1353" n="1352">Pardonié vous soit da moie part</l>
+                <l xml:id="d001l1354" n="1353">Le coup tant grand e si cruel,</l>
+                <l xml:id="d001l1355" n="1354">Tiel ne dona mais hom mortiel.</l>
+                <l xml:id="d001l1356" n="1355">Ma gient vous soit recomandee,</l>
+                <l xml:id="d001l1357" n="1356">Che pour Filiminis ne soit houtree.</l>
+                <l xml:id="d001l1358" n="1357">Seur puissent paser dela dao mer:</l>
+                <l xml:id="d001l1359" n="1358">A vous valour cist don requier.</l>
+                <l xml:id="d001l1360" n="1359">De mien lignaçe furent nascus</l>
+                <l xml:id="d001l1361" n="1360">Partinipés e Adrastus</l>
+                <l xml:id="d001l1362" n="1361">Chi furent des Tebans rois.</l>
+                <l xml:id="d001l1363" n="1362">Ancour vueil che vous saçois</l>
+                <l xml:id="d001l1364" n="1363">Che tost veiray la claritiés</l>
+                <l xml:id="d001l1365" n="1364">Ou valorous sont apoiés.</l>
+                <l xml:id="d001l1366" n="1365">Si li diray sens nul mentire</l>
+                <l xml:id="d001l1367" n="1366">Qe vous estes rois e sire</l>
+                <l xml:id="d001l1368" n="1367">De chevalerie e de valour,</l>
+                <l xml:id="d001l1369" n="1368">Sour tretous autre portiés l’onour.</l>
+                <l xml:id="d001l1370" n="1369">Tra<note>1369. Tra] HectB Fra</note> planetes seriés plus aut,</l>
+                <l xml:id="d001l1371" n="1370">A chi ch’en pois e a chi ch’en çaut.<note>1370. e a chi ch’en çaut] HectB a chi ch’en
+                caut</note></l>
+                <l xml:id="d001l1372" n="1371">Proece, ardimant, vertus, honoir</l>
+                <l xml:id="d001l1373" n="1372">Pour la vous mort perdront pooir.</l>
+                <l xml:id="d001l1374" n="1373">Li saçes de vous savront le voir,</l>
+                <l xml:id="d001l1375" n="1374">Le<note>1374. Le] HectB Les</note> bas engin nel poroit croir.</l>
+                <l xml:id="d001l1376" n="1375">Le planete che fait e che sostient</l>
+                <l xml:id="d001l1377" n="1376">Dota vous d’armes sour toute<note>1376. toute] HectB tout</note> gient.</l>
+                <l xml:id="d001l1378" n="1377">Honour pour vous sera honorés,</l>
+                <l xml:id="d001l1379" n="1378">Honour vivra tant com vivrés,</l>
+                <l xml:id="d001l1380" n="1379">E vous vivrés sans nule fin.</l>
+                <l xml:id="d001l1381" n="1380">Donc est honour le don devin. –</l>
+                <l xml:id="d001l1382" n="1381">Quand a ce dit, ceÿ envers</l>
+                <l xml:id="d001l1383" n="1382">Emmi le çans, e paile e pers.</l>
+                <l xml:id="d001l1384" n="1383">La  mort li estoit entré dedans,</l>
+                <l xml:id="d001l1385" n="1384">Ovri sa boçe e cluit ses dans.</l>
+                <l xml:id="d001l1386" n="1385">L’enfans garda de buen voloir,</l>
+                <l xml:id="d001l1387" n="1386">De plus parlier n’a il pooir.</l>
+                <l xml:id="d001l1388" n="1387">Sa fin s’aproçe, il ne puet plus.</l>
+                <l xml:id="d001l1389" n="1388">De ce n’estoit pas irascus,</l>
+                <l xml:id="d001l1390" n="1389">Quand li sovient ch’il est conquis</l>
+                <l xml:id="d001l1391" n="1390">Dao miaudre hom che meis fust vis.</l>
+                <l xml:id="d001l1392" n="1391">Puis che morir tous devoient,</l>
+                <l xml:id="d001l1393" n="1392">N’est mort chi passe honoreement.</l>
+                <l xml:id="d001l1394" n="1393">La mort est fin de toutes riens,</l>
+                <l xml:id="d001l1395" n="1394">La mort mostre la male giens,</l>
+                <l xml:id="d001l1396" n="1395">Mais valoreus ne aime en van.</l>
+                <l xml:id="d001l1397" n="1396">Hector prist la destre man</l>
+                <l xml:id="d001l1398" n="1397">Toçant sa boce e le menton.    [149rb]</l>
+                <l xml:id="d001l1399" n="1398">En senefiance de perdon</l>
+                <l xml:id="d001l1400" n="1399">Clina le cief, beisa ses piés</l>
+                <l xml:id="d001l1401" n="1400">En reverance ch’il fust un diés.</l>
+                <l xml:id="d001l1402" n="1401">Quand a ce feit, il ne puet plus:</l>
+                <l xml:id="d001l1403" n="1402">La mort e Hector l’ont vencus.</l>
+                <l xml:id="d001l1404" n="1403">Il ne se muit point ne crolla,</l>
+                <l xml:id="d001l1405" n="1404">Andeus li ieus dou cief trobla.</l>
+                <l xml:id="d001l1406" n="1405">Trons, sagietes, espontable vos,</l>
+                <l xml:id="d001l1407" n="1406">Pluvie e vent, hair tenebros</l>
+                <l xml:id="d001l1408" n="1407">Ne font nuise si grand nes fors,<note>1407. nes fors] nesfors; HectB n’effors</note></l>
+                <l xml:id="d001l1409" n="1408">Com fist sa arme a ensir dou cors.</l>
+                <l xml:id="d001l1410" n="1409">Quand Hector vit le jeiant<note>1409. jeiant] Ieiant</note> mort,</l>
+                <l xml:id="d001l1411" n="1410">Che fu ardis, vailant e fort,</l>
+                <l xml:id="d001l1412" n="1411">A grand mervoille fist<note>1411. fist] HectB fit</note> dur lament:</l>
+                <l xml:id="d001l1413" n="1412">– Amis, fet il, mout sui dolent,</l>
+                <l xml:id="d001l1414" n="1413">Quand je vous voy ici fenis.</l>
+                <l xml:id="d001l1415" n="1414">Mort voi proece, valour e pris. –</l>
+                <l xml:id="d001l1416" n="1415">Sour lui se cline le sourcourtois,</l>
+                <l xml:id="d001l1417" n="1416">Siens ieus li a andeus enclois.</l>
+                <l xml:id="d001l1418" n="1417">Pués dit plorant: – Sir Herculés,</l>
+                <l xml:id="d001l1419" n="1418">De vous me poise, mout sui irés,</l>
+                <l xml:id="d001l1420" n="1419">Quand vous je voi gieisir a terre.</l>
+                <l xml:id="d001l1421" n="1420">Da moi a vous est fenis la guerre.</l>
+                <l xml:id="d001l1422" n="1421">Quand estes mort, mort est proece,<note>1421. proece] HectB proeçe</note></l>
+                <l xml:id="d001l1423" n="1422">Ardimans, sens e legierece.<note>1422. legierece] HectB legiereçe</note></l>
+                <l xml:id="d001l1424" n="1423">Mort est le prous, n’en sai nul plus</l>
+                <l xml:id="d001l1425" n="1424">En tout le mond, vieus ne çenus.</l>
+                <l xml:id="d001l1426" n="1425">Ne sera mais vetre pareil</l>
+                <l xml:id="d001l1427" n="1426">Trové en ville ne en castel.</l>
+                <l xml:id="d001l1428" n="1427">Pleüst as diés che Laumedon</l>
+                <l xml:id="d001l1429" n="1428">N’eüsiés mort, pour cui chaixon</l>
+                <l xml:id="d001l1430" n="1429">Vous ay oucis, non pas a tort,</l>
+                <l xml:id="d001l1431" n="1430">Mes combatant: tiel fu la sort.</l>
+                <l xml:id="d001l1432" n="1431">Dolans j’en sui e nen pués plus:</l>
+                <l xml:id="d001l1433" n="1432">Proiés pour moy cil de la sus</l>
+                <l xml:id="d001l1434" n="1433">Ch’il moi donent tant de valour,</l>
+                <l xml:id="d001l1435" n="1434">Che complir puisse mien volour:</l>
+                <l xml:id="d001l1436" n="1435">Ce est dou mond grand part conquerre,</l>
+                <l xml:id="d001l1437" n="1436">Se mort ma boce ne cluit ne serre. –</l>
+                <l xml:id="d001l1438" n="1437">Lour se leva le prous em piés.</l>
+                <l xml:id="d001l1439" n="1438">Aou biaus semblant resamble un diés.</l>
+                <l xml:id="d001l1440" n="1439">Le brand trençant mist en vaïne,</l>
+                <l xml:id="d001l1441" n="1440">Dou blans fist le brand sanguine.</l>
+                <l xml:id="d001l1442" n="1441">A petit pas s’en isi ors</l>
+                <l xml:id="d001l1443" n="1442">De la grand bare<note>1442. bare] dubbia la r a causa di una macchia</note> chi tant
+                est fors.</l>
+                <l xml:id="d001l1444" n="1443">De la proiere Herculés</l>
+                <l xml:id="d001l1445" n="1444">S’est le loial bien remembrés.</l>
+                <l xml:id="d001l1446" n="1445">Ains ch’il falist a l’ome mors,</l>
+                <l xml:id="d001l1447" n="1446">Miaus se leisast trencier le cors.</l>
+                <l xml:id="d001l1448" n="1447">Pour ce s’en vait com ciere lie</l>
+                <l xml:id="d001l1449" n="1448">Tretout a pié, sens compeignie,</l>
+                <l xml:id="d001l1450" n="1449">Tra les homes dou jeiant,<note>1449. jeiant] Ieiant</note></l>
+                <l xml:id="d001l1451" n="1450">Che or ne sent ne çaut ne vant.</l>
+                <l xml:id="d001l1452" n="1451">Ce est le cors che gist envers</l>
+                <l xml:id="d001l1453" n="1452">Dedans la bare, vilmant e pers.</l>
+                <l xml:id="d001l1454" n="1453">L’ardis enfant adonc parla,    [149va]</l>
+                <l xml:id="d001l1455" n="1454">Petis e grans bien salua,</l>
+                <l xml:id="d001l1456" n="1455">Pués li dist: – Ne aiés peour!</l>
+                <l xml:id="d001l1457" n="1456">De vous vueil etre pleçeour</l>
+                <l xml:id="d001l1458" n="1457">Che Filiminis ne nus dedans</l>
+                <l xml:id="d001l1459" n="1458">Ne vous feront engomdremans,<note>1458. engomdremans] HectB engombremans</note></l>
+                <l xml:id="d001l1460" n="1459">Ains redirés con tout l’avoir,</l>
+                <l xml:id="d001l1461" n="1460">Chiel part voudriés, sens mal avoir.<note>1460. part] aggiunto in fin di v. con richiamo</note></l>
+                <l xml:id="d001l1462" n="1461">N’aiés doutance d’ome vis:</l>
+                <l xml:id="d001l1463" n="1462">Seür iriés en vous païs. –</l>
+                <l xml:id="d001l1464" n="1463">Quand li barons, petis e grans,</l>
+                <l xml:id="d001l1465" n="1464">Orent oÿ le parlemans</l>
+                <l xml:id="d001l1466" n="1465">Che lour dist e lour desclaire,</l>
+                <l xml:id="d001l1467" n="1466">Ch’il rediront en leur repaire,</l>
+                <l xml:id="d001l1468" n="1467">Cescun d’eus mout le mercie</l>
+                <l xml:id="d001l1469" n="1468">De ceste noble courtoisie.</l>
+                <l xml:id="d001l1470" n="1469">Mout grans presens e grand avoir</l>
+                <l xml:id="d001l1471" n="1470">A lui voloient donier pour voir.</l>
+                <l xml:id="d001l1472" n="1471">Ains se leisast pourmi tout fendre</l>
+                <l xml:id="d001l1473" n="1472">Cheou prous courtois le dignast prendre.</l>
+                <l xml:id="d001l1474" n="1473">Voir che le cors ao grand jeiant<note>1473. jeiant] Ieiant</note></l>
+                <l xml:id="d001l1475" n="1474">Leur demanda pour suen presant.</l>
+                <l xml:id="d001l1476" n="1475">Celour distrent: – A vous voloir</l>
+                <l xml:id="d001l1477" n="1476">Le cors e nous poriés avoir. –</l>
+                <l xml:id="d001l1478" n="1477">Lour retourna l’ardis enfans</l>
+                <l xml:id="d001l1479" n="1478">Vers la citié austivemans.</l>
+                <l xml:id="d001l1480" n="1479">Ains ch’en la ville fust entrié,</l>
+                <l xml:id="d001l1481" n="1480">Filiminis oit encontrié,</l>
+                <l xml:id="d001l1482" n="1481">Armé tré bien sour suen cival;</l>
+                <l xml:id="d001l1483" n="1482">Ou lui civauce e buens e mal.</l>
+                <l xml:id="d001l1484" n="1483">Pour envaïr leur henemis</l>
+                <l xml:id="d001l1485" n="1484">Furent venus, joune e gris.</l>
+                <l xml:id="d001l1486" n="1485">Le roy se fait mener en destre</l>
+                <l xml:id="d001l1487" n="1486">Un buen cival fier e rubeste,</l>
+                <l xml:id="d001l1488" n="1487">Che plus cort de val a mont</l>
+                <l xml:id="d001l1489" n="1488">Che rier a lievre livrier ne font.</l>
+                <l xml:id="d001l1490" n="1489">Quand le roy perçuit l’enfan</l>
+                <l xml:id="d001l1491" n="1490">Venir a pié sens auferant,</l>
+                <l xml:id="d001l1492" n="1491">Alour desist de suen cival</l>
+                <l xml:id="d001l1493" n="1492">Le noble roi ao cuer loial.</l>
+                <l xml:id="d001l1494" n="1493">Vers Hector s’en vien corant;</l>
+                <l xml:id="d001l1495" n="1494">Ne puet parlier, tant fu joiant,</l>
+                <l xml:id="d001l1496" n="1495">Quand s’aprosma aou prous ardis</l>
+                <l xml:id="d001l1497" n="1496">Le jentil roi Filiminis.</l>
+                <l xml:id="d001l1498" n="1497">Devant l’enfant en çenoilon</l>
+                <l xml:id="d001l1499" n="1498">Le roi se fust mis a bandon,</l>
+                <l xml:id="d001l1500" n="1499">Mais le courtois le prist aou bras,</l>
+                <l xml:id="d001l1501" n="1500">Amont le lieve, si dist: – Sire, che fas?</l>
+                <l xml:id="d001l1502" n="1501">Jentis roi, frans, debuenaire,</l>
+                <l xml:id="d001l1503" n="1502">Ne devés pas ce mie faire.</l>
+                <l xml:id="d001l1504" n="1503">Ne se convient a emperer,<note>1503‑36. i vv. sono preceduti da segni di paragrafo,
+                alternatamente rossi e blu</note></l>
+                <l xml:id="d001l1505" n="1504">Comant vous estes, ençenoiler</l>
+                <l xml:id="d001l1506" n="1505">Davant aucun mendre de soy:</l>
+                <l xml:id="d001l1507" n="1506">Ce veut raixon, si com je croy.</l>
+                <l xml:id="d001l1508" n="1507">Chi ce soufrist, seroit da pendre</l>
+                <l xml:id="d001l1509" n="1508">Ou voiremant cremir<note>1508. cremir] HectB cremer</note> en çendre.</l>
+                <l xml:id="d001l1510" n="1509">Se je ai oucis le vous contrarie,    [149vb]</l>
+                <l xml:id="d001l1511" n="1510">Raixon e droit le me fist faire.</l>
+                <l xml:id="d001l1512" n="1511">Pour ce che a tort vous fesoit guerre,</l>
+                <l xml:id="d001l1513" n="1512">Est le jeiant<note>1512. jeiant] Ieiant</note> versé a terre.</l>
+                <l xml:id="d001l1514" n="1513">Le men puisant a soutmis le fort,</l>
+                <l xml:id="d001l1515" n="1514">Confus, matés, honis e mort.</l>
+                <l xml:id="d001l1516" n="1515">Bien est<note>1515. est] aggiunto in fin di v. con richiamo; HectB Bien plus fol
+                ases che beste est</note> plus fol asés che beste</l>
+                <l xml:id="d001l1517" n="1516">Chi a Droiture fet moleste.</l>
+                <l xml:id="d001l1518" n="1517">Sovant se laise maomenier,</l>
+                <l xml:id="d001l1519" n="1518">Mes tost se seit dou tort vençier.</l>
+                <l xml:id="d001l1520" n="1519">De Justise estoit germaine,</l>
+                <l xml:id="d001l1521" n="1520">Pour ce se gard la gient humaine</l>
+                <l xml:id="d001l1522" n="1521">De non tolir contre raixon</l>
+                <l xml:id="d001l1523" n="1522">Çastel<note>1522. Çastel] HectB Castel</note> ne ville ne doion,</l>
+                <l xml:id="d001l1524" n="1523">De nen rober le main puisant,</l>
+                <l xml:id="d001l1525" n="1524">Car Justise plus est corant</l>
+                <l xml:id="d001l1526" n="1525">Che n’est livrier ne liopart:</l>
+                <l xml:id="d001l1527" n="1526">Pour ce cescun da li se gart.</l>
+                <l xml:id="d001l1528" n="1527">En destre main tien une spee</l>
+                <l xml:id="d001l1529" n="1528">Pour ferir mortiel colee</l>
+                <l xml:id="d001l1530" n="1529">A cil ch’avra contre raixon</l>
+                <l xml:id="d001l1531" n="1530">A suen voisin fet mesprison.</l>
+                <l xml:id="d001l1532" n="1531">Bien est plus fol ch’arabis cien<note>1531. Bien] HectB Biens</note></l>
+                <l xml:id="d001l1533" n="1532">Chi feit le mal e spoire bien.</l>
+                <l xml:id="d001l1534" n="1533">Selonc le oevres che l’en fera</l>
+                <l xml:id="d001l1535" n="1534">De tiel monoie paié sera.</l>
+                <l xml:id="d001l1536" n="1535">De mal le mal, dou bien le bien:</l>
+                <l xml:id="d001l1537" n="1536">Ce ne puet venir a mien. –</l>
+                <l xml:id="d001l1538" n="1537">Quand Filiminis oit escoutié</l>
+                <l xml:id="d001l1539" n="1538">Le dir dou joune a<note>1538. notié] HectB norie</note> bien notié,</l>
+                <l xml:id="d001l1540" n="1539">Il pensa bien en suen coraçe</l>
+                <l xml:id="d001l1541" n="1540">Che l’enfant est prous e saçe.</l>
+                <l xml:id="d001l1542" n="1541">Lour ne se puet plus le roi tenir:</l>
+                <l xml:id="d001l1543" n="1542">L’enfans aou cuel prist a seisir,</l>
+                <l xml:id="d001l1544" n="1543">A soy le straint, sovant le baise</l>
+                <l xml:id="d001l1545" n="1544">Bouce e menton, visair e naise.</l>
+                <l xml:id="d001l1546" n="1545">Quand le oit a suen leisir</l>
+                <l xml:id="d001l1547" n="1546">Asés baisé, il prist a dir:</l>
+                <l xml:id="d001l1548" n="1547">– Joune vailans, garis m’avés,</l>
+                <l xml:id="d001l1549" n="1548">Quand mien contraire Herculés</l>
+                <l xml:id="d001l1550" n="1549">Avés vencus en combatant.</l>
+                <l xml:id="d001l1551" n="1550">Vetre pareil ne croi vivant.</l>
+                <l xml:id="d001l1552" n="1551">Cent mille fois vous rand merci:</l>
+                <l xml:id="d001l1553" n="1552">Da mort m’avés huy suresi.</l>
+                <l xml:id="d001l1554" n="1553">Pour vous sui je tourné en joie</l>
+                <l xml:id="d001l1555" n="1554">Che je perdue toute avoie.<note>1554. HectB om.</note></l>
+                <l xml:id="d001l1556" n="1555">Vous secors e vetre aius</l>
+                <l xml:id="d001l1557" n="1556">De non veoir m’a rendu lus.</l>
+                <l xml:id="d001l1558" n="1557">De moy vous estes la lumiere:</l>
+                <l xml:id="d001l1559" n="1558">Rendu m’avés ma joie entiere.</l>
+                <l xml:id="d001l1560" n="1559">Pour ce ne vueil de grand mercis</l>
+                <l xml:id="d001l1561" n="1560">Che vous soiés de moi meris.</l>
+                <l xml:id="d001l1562" n="1561">Ou moy seriés le segond roy,</l>
+                <l xml:id="d001l1563" n="1562">Demi mien regne je vous otroy.</l>
+                <l xml:id="d001l1564" n="1563">Meilour de vous ne serai mie.</l>
+                <l xml:id="d001l1565" n="1564">Fors le honour vueil em bailie. –</l>
+                <l xml:id="d001l1566" n="1565">A Filiminis parle l’enfant:    [150ra]</l>
+                <l xml:id="d001l1567" n="1566">– Sire, fet il, je ne demant</l>
+                <l xml:id="d001l1568" n="1567">Vetre tesour, ne vair<note>1567. vair] HectB nair</note> ne gris.</l>
+                <l xml:id="d001l1569" n="1568">Un don vous quier che je promis</l>
+                <l xml:id="d001l1570" n="1569">Aou fier jeiant ch’est trapasié.</l>
+                <l xml:id="d001l1571" n="1570">Pri vous chel don me soit donié. –</l>
+                <l xml:id="d001l1572" n="1571">Le roy jura dosour<note>1571. dosour] HectB de sour</note> sa loy:</l>
+                <l xml:id="d001l1573" n="1572">– Ne savrais dir ne querir qoy</l>
+                <l xml:id="d001l1574" n="1573">Che ne vous soit tot outroié</l>
+                <l xml:id="d001l1575" n="1574">Mout voluntier e de buen gré. –</l>
+                <l xml:id="d001l1576" n="1575">Lour dist l’enfant con ciere lie:</l>
+                <l xml:id="d001l1577" n="1576">– Cent mil mercis! bien sui merie.</l>
+                <l xml:id="d001l1578" n="1577">Le don, biau sire, che je qier</l>
+                <l xml:id="d001l1579" n="1578">A vous chi<note>1578. chi] HectB che</note> estes emperer,</l>
+                <l xml:id="d001l1580" n="1579">Est che vous vous henemis</l>
+                <l xml:id="d001l1581" n="1580">Leisiés tournier en lour païs.</l>
+                <l xml:id="d001l1582" n="1581">Ne leur fetes engombremant:</l>
+                <l xml:id="d001l1583" n="1582">Ce est le don che je demant.</l>
+                <l xml:id="d001l1584" n="1583">A le jeiant tout ce promis</l>
+                <l xml:id="d001l1585" n="1584">E vous m’avés le don requis.</l>
+                <l xml:id="d001l1586" n="1585">Parole de roy ne doit falir,</l>
+                <l xml:id="d001l1587" n="1586">Ains se doit ferme tenir. –</l>
+                <l xml:id="d001l1588" n="1587">Le roy respont tout en riant:</l>
+                <l xml:id="d001l1589" n="1588">– Ce che volés m’est a talant.</l>
+                <l xml:id="d001l1590" n="1589">Tout ce me pleit qant che volés,</l>
+                <l xml:id="d001l1591" n="1590">De vous servir sui aprestés. –</l>
+                <l xml:id="d001l1592" n="1591">Lour fist tantost le roy mener</l>
+                <l xml:id="d001l1593" n="1592">Galatés le buen detrier.</l>
+                <l xml:id="d001l1594" n="1593">A Hector la<note>1593. la] HectB le</note> presenta,</l>
+                <l xml:id="d001l1595" n="1594">Che vistemant desour monta.</l>
+                <l xml:id="d001l1596" n="1595">Quand asacié oit le portrel,</l>
+                <l xml:id="d001l1597" n="1596">Nel donast pour un çastel.</l>
+                <l xml:id="d001l1598" n="1597">Le gientil roi s’en vient avant,</l>
+                <l xml:id="d001l1599" n="1598">Hetor le suit ardiemant.</l>
+                <l xml:id="d001l1600" n="1599">Tra les homes Herculés</l>
+                <l xml:id="d001l1601" n="1600">Furent andeus mis e rivés.</l>
+                <l xml:id="d001l1602" n="1601">Celour tremblent tuit de peour,</l>
+                <l xml:id="d001l1603" n="1602">Quand mort virent le lour seignour.</l>
+                <l xml:id="d001l1604" n="1603">Le roy parla ao cuer joious,</l>
+                <l xml:id="d001l1605" n="1604">Si fist un graille de sa vous.</l>
+                <l xml:id="d001l1606" n="1605">Bien l’oïrent plus de dis mille</l>
+                <l xml:id="d001l1607" n="1606">Che pour oïr tendrent l’oreille.</l>
+                <l xml:id="d001l1608" n="1607">– Seignour, fet il, escouté moy!</l>
+                <l xml:id="d001l1609" n="1608">Pour vous sui estié mout qoy.</l>
+                <l xml:id="d001l1610" n="1609">La merci Diés e de cist enfant</l>
+                <l xml:id="d001l1611" n="1610">Or puis parlier a mien talant,</l>
+                <l xml:id="d001l1612" n="1611">Car il oucist vetre seignour</l>
+                <l xml:id="d001l1613" n="1612">Chi tant me fist durer peour.</l>
+                <l xml:id="d001l1614" n="1613">Sour vous me fusiés bien vengié,</l>
+                <l xml:id="d001l1615" n="1614">Ne fust l’enfan che m’a proié</l>
+                <l xml:id="d001l1616" n="1615">Che je vous lais en vous païs</l>
+                <l xml:id="d001l1617" n="1616">Tous retournier saus eitis.</l>
+                <l xml:id="d001l1618" n="1617">Pour suen amour pordoné<note>1617. pordoné] HectB perdone</note> vous soit;</l>
+                <l xml:id="d001l1619" n="1618">Alier poés quand il vous ploit.</l>
+                <l xml:id="d001l1620" n="1619">Mien mautalant, mien grand iror</l>
+                <l xml:id="d001l1621" n="1620">Vous perdon ci pour suen amor.</l>
+                <l xml:id="d001l1622" n="1621">Seüremant con vous hernois    [150rb]</l>
+                <l xml:id="d001l1623" n="1622">Poés alier quand vous pleirois. –</l>
+                <l xml:id="d001l1624" n="1623">Quand ceus dehors ont entendu</l>
+                <l xml:id="d001l1625" n="1624">Che de peril sont asolu,</l>
+                <l xml:id="d001l1626" n="1625">Mout mercient le noble roi</l>
+                <l xml:id="d001l1627" n="1626">E le enfant chi est ou soy.</l>
+                <l xml:id="d001l1628" n="1627">Atant se part Filiminis,</l>
+                <l xml:id="d001l1629" n="1628">O lui en moine l’enfant ardis.</l>
+                <l xml:id="d001l1630" n="1629">La gient dehors carcent vitaille,</l>
+                <l xml:id="d001l1631" n="1630">Ne li lasent çouse che rien vaille.</l>
+                <l xml:id="d001l1632" n="1631">Tous lour hernois en porterent,</l>
+                <l xml:id="d001l1633" n="1632">Vieus e jovans, tous s’en alent.</l>
+                <l xml:id="d001l1634" n="1633">Filiminis e le enfans</l>
+                <l xml:id="d001l1635" n="1634">Vont a veoir le mort jeians.</l>
+                <l xml:id="d001l1636" n="1635">Quand sont desour luy venu</l>
+                <l xml:id="d001l1637" n="1636">E le veirent mort estendu,</l>
+                <l xml:id="d001l1638" n="1637">Le cors tant grand le roi remire,</l>
+                <l xml:id="d001l1639" n="1638">Che sovant fois le fist fremire,<note>1637‑38. HectB om.</note></l>
+                <l xml:id="d001l1640" n="1639">Comant il gist e paille e pers,</l>
+                <l xml:id="d001l1641" n="1640">Enmi le çans mort e envers.</l>
+                <l xml:id="d001l1642" n="1641">Le roi le mort mout regarda,</l>
+                <l xml:id="d001l1643" n="1642">Pués ao diable le comanda.</l>
+                <l xml:id="d001l1644" n="1643">Lour ne se puet Hector n tenir<note>1643. Hector n tenir] HectB H. t.</note></l>
+                <l xml:id="d001l1645" n="1644">Ch’au roi ne die: – Gardiés, mien sir,</l>
+                <l xml:id="d001l1646" n="1645">Comant le cors remant tout nu,</l>
+                <l xml:id="d001l1647" n="1646">Quand l’arme s’est<note>1646. s’est] HectB fest</note> partie da lu.</l>
+                <l xml:id="d001l1648" n="1647">Da cestui est partis proeçe,</l>
+                <l xml:id="d001l1649" n="1648">Hardimant<note>1648. Hardimant] HectB Ardimant</note> e lejereçe.</l>
+                <l xml:id="d001l1650" n="1649">Le cors ne vaut une latue,</l>
+                <l xml:id="d001l1651" n="1650">Quand l’arme s’est<note>1650. s’est] HectB fest</note> da luy partue.</l>
+                <l xml:id="d001l1652" n="1651">Cestui pasa petis e grans</l>
+                <l xml:id="d001l1653" n="1652">De vertus e d’ardimans;</l>
+                <l xml:id="d001l1654" n="1653">Dond pour ce vous pri, seignour,</l>
+                <l xml:id="d001l1655" n="1654">Tout seulemant, pour vetre honour,</l>
+                <l xml:id="d001l1656" n="1655">Che le cors dou sourpuisant</l>
+                <l xml:id="d001l1657" n="1656">Sevelir feites noblemant.</l>
+                <l xml:id="d001l1658" n="1657">Se vous grand honour lui ferés,</l>
+                <l xml:id="d001l1659" n="1658">Pour tout le mond ert renomés.</l>
+                <l xml:id="d001l1660" n="1659">Vetre valour, vous cortoisie</l>
+                <l xml:id="d001l1661" n="1660">Pour tout le mond sera contie,</l>
+                <l xml:id="d001l1662" n="1661">Car cil chi rend le bien pour mal</l>
+                <l xml:id="d001l1663" n="1662">Sour tous loés est plus loial.</l>
+                <l xml:id="d001l1664" n="1663">Miesmemant li diés desus</l>
+                <l xml:id="d001l1665" n="1664">A chi ce feit rend buen salus.</l>
+                <l xml:id="d001l1666" n="1665">Se vous ce feites, honour avrés</l>
+                <l xml:id="d001l1667" n="1666">E a cist mond sour tuit loés. –</l>
+                <l xml:id="d001l1668" n="1667">A l’enfant respond le roy:</l>
+                <l xml:id="d001l1669" n="1668">– Ce che volés le vous otroy.</l>
+                <l xml:id="d001l1670" n="1669">Ne remandra pas pour avoir</l>
+                <l xml:id="d001l1671" n="1670">De complir tout vous voloir.</l>
+                <l xml:id="d001l1672" n="1671">Le monumens, la sepouture</l>
+                <l xml:id="d001l1673" n="1672">De cil chi moy fist tant paüre</l>
+                <l xml:id="d001l1674" n="1673">Pour vetre amour tost ferai faire.</l>
+                <l xml:id="d001l1675" n="1674">Ne croy che mais nul fil de maire</l>
+                <l xml:id="d001l1676" n="1675">Veïst tant rice ne tant belle</l>
+                <l xml:id="d001l1677" n="1676">Sarcuel ne tombe, com sera celle. –</l>
+                <l xml:id="d001l1678" n="1677">Hector li dist: – Cent mil merçis !   [150va]</l>
+                <l xml:id="d001l1679" n="1678">Mout noblemant m’avés meris. –</l>
+                <l xml:id="d001l1680" n="1679">Filiminis, che tant est ber,</l>
+                <l xml:id="d001l1681" n="1680">Une bare fist aporter.</l>
+                <l xml:id="d001l1682" n="1681">D’avoire fu asés plus blans</l>
+                <l xml:id="d001l1683" n="1682">Che n’est farine de formans.</l>
+                <l xml:id="d001l1684" n="1683">Dedans mistrent le cors oucis</l>
+                <l xml:id="d001l1685" n="1684">E pour desour un rice samis.</l>
+                <l xml:id="d001l1686" n="1685">Tout fu de soie a or tesus,</l>
+                <l xml:id="d001l1687" n="1686">Non fu jamés suen per veüs.</l>
+                <l xml:id="d001l1688" n="1687">Pour lui portier desis l’enfans,</l>
+                <l xml:id="d001l1689" n="1688">Avec lui maint çastelans.</l>
+                <l xml:id="d001l1690" n="1689">Le roi ausi desist aval</l>
+                <l xml:id="d001l1691" n="1690">E tuit li autres pour engal.</l>
+                <l xml:id="d001l1692" n="1691">A grand honour portent le cors</l>
+                <l xml:id="d001l1693" n="1692">Dou prous jeiant chi tant fu fors.</l>
+                <l xml:id="d001l1694" n="1693">Jusquemant<note>1693. Jusquemant] HectB Yusquemant --- plaçe] HectB place</note>
+                enmi la plaçe</l>
+                <l xml:id="d001l1695" n="1694">L’ont aportié froit come giace.</l>
+                <l xml:id="d001l1696" n="1695">Dedans la ville ne remist</l>
+                <l xml:id="d001l1697" n="1696">Vieus ne jovans che ne ne venist</l>
+                <l xml:id="d001l1698" n="1697">Pour veoir le sourpuisant</l>
+                <l xml:id="d001l1699" n="1698">Che fu cremus plus che serpant.</l>
+                <l xml:id="d001l1700" n="1699">Quand le cors ont reponus,</l>
+                <l xml:id="d001l1701" n="1700">Che outre nature fu membrus,</l>
+                <l xml:id="d001l1702" n="1701">Le roi fist faire enmi le leu</l>
+                <l xml:id="d001l1703" n="1702">En celle plaçe un ardant feu.</l>
+                <l xml:id="d001l1704" n="1703">Maint jentis homes, vieus e jovent,</l>
+                <l xml:id="d001l1705" n="1704">Le cors oucis dedans ruent.</l>
+                <l xml:id="d001l1706" n="1705">Quand dedans l’orent rués,</l>
+                <l xml:id="d001l1707" n="1706">Le roi e Hector sont despoiliés;</l>
+                <l xml:id="d001l1708" n="1707">Sour le cors gietent leur drais.</l>
+                <l xml:id="d001l1709" n="1708">Lour ne fu joune ne esfrais,<note>1708. ne esfrais] HectB el frais</note></l>
+                <l xml:id="d001l1710" n="1709">Pur ch’il fust de aut valour,</l>
+                <l xml:id="d001l1711" n="1710">Che ne se spoilast tuit a un hor.</l>
+                <l xml:id="d001l1712" n="1711">Pour amour l’enfant ardis</l>
+                <l xml:id="d001l1713" n="1712">Ses drais ruent en la cenis.</l>
+                <l xml:id="d001l1714" n="1713">Cire, bausme, or e argiant,</l>
+                <l xml:id="d001l1715" n="1714">Encens e mire ensemant,</l>
+                <l xml:id="d001l1716" n="1715">En gieterent a grand plantié.</l>
+                <l xml:id="d001l1717" n="1716">Lour leva mout grand fumié</l>
+                <l xml:id="d001l1718" n="1717">Ch’a tuit rendi soef odour.</l>
+                <l xml:id="d001l1719" n="1718">Le cors fu ars a tiel honour.</l>
+                <l xml:id="d001l1720" n="1719">Quand il fu ars e mis en cendre,</l>
+                <l xml:id="d001l1721" n="1720">Avant saili e grans e mendre;</l>
+                <l xml:id="d001l1722" n="1721">La poudre prist a recoily,</l>
+                <l xml:id="d001l1723" n="1722">En un vasiaus d’or la mety.</l>
+                <l xml:id="d001l1724" n="1723">Aou temple Jovis fu aportié</l>
+                <l xml:id="d001l1725" n="1724">Le rice vasiaus ou fu Herculé.</l>
+                <l xml:id="d001l1726" n="1725">Desour l’autel l’a reponus</l>
+                <l xml:id="d001l1727" n="1726">Le prous Hector ao cuer membrus.</l>
+                <l xml:id="d001l1728" n="1727">Une grand tombe le roi fist faire,</l>
+                <l xml:id="d001l1729" n="1728">Che a mervoille fu bien claire.</l>
+                <l xml:id="d001l1730" n="1729">La piere samble de cristal;</l>
+                <l xml:id="d001l1731" n="1730">Ne vit tant belle nul oil mortal.</l>
+                <l xml:id="d001l1732" n="1731">Robins, topaces, esmeraut</l>
+                <l xml:id="d001l1733" n="1732">A la tombe pas ne faut.</l>
+                <l xml:id="d001l1734" n="1733">D’elle veoir semble mervoile;    [150vb]</l>
+                <l xml:id="d001l1735" n="1734">De sa biautié n’est sa paroile.</l>
+                <l xml:id="d001l1736" n="1735">Dedans mistrent le vasiaus d’or</l>
+                <l xml:id="d001l1737" n="1736">Ou<note>1736. Ou] HectB O  il</note> gist la poudre ao pugneor.</l>
+                <l xml:id="d001l1738" n="1737">Le brand d’acier e ses sperons</l>
+                <l xml:id="d001l1739" n="1738">Li mistrent leç li galons.<note>1738. li galons] li lpi (?) la g.; lpi la depennato
+                (HectB non segnala)</note></l>
+                <l xml:id="d001l1740" n="1739">Mars encoroné tretout armés</l>
+                <l xml:id="d001l1741" n="1740">Est en la tombe entailés.</l>
+                <l xml:id="d001l1742" n="1741">D’autre part com le nus brant</l>
+                <l xml:id="d001l1743" n="1742">Fu Jupiter, le dieu puisant.</l>
+                <l xml:id="d001l1744" n="1743">Aousi com Hector avoit promis,</l>
+                <l xml:id="d001l1745" n="1744">Aou fier jeiant<note>1744. jeiant] Ieiant</note> fu tout complis.</l>
+                <l xml:id="d001l1746" n="1745">Quand fu le cors a le jeiant,<note>1745. jeiant] Ieiant</note></l>
+                <l xml:id="d001l1747" n="1746">Chi fu tant fort e fier e grant,</l>
+                <l xml:id="d001l1748" n="1747">Serés e clus en monumens,</l>
+                <l xml:id="d001l1749" n="1748">Tuit le lasent en un momens.</l>
+                <l xml:id="d001l1750" n="1749">Il n’a amis, ne blans ne noir,</l>
+                <l xml:id="d001l1751" n="1750">Chi plus vousist ou lui manoir.</l>
+                <l xml:id="d001l1752" n="1751">Or se gard bien li peçeour<note>1751‑66. i vv. sono preceduti da segni di paragrafo
+                alternatamente rossi e blu</note></l>
+                <l xml:id="d001l1753" n="1752">Che tard pentir ne vaut un flour.</l>
+                <l xml:id="d001l1754" n="1753">Chi bien fera ert<note>1753. ert] HectB est</note> bien meris</l>
+                <l xml:id="d001l1755" n="1754">E autremant mort est e pris.</l>
+                <l xml:id="d001l1756" n="1755">Hey!, com est fol le cors human,</l>
+                <l xml:id="d001l1757" n="1756">Che de mal fair ne cluit la man!</l>
+                <l xml:id="d001l1758" n="1757">La mort vient che nul sparagne;</l>
+                <l xml:id="d001l1759" n="1758">En un moment li fait compagne</l>
+                <l xml:id="d001l1760" n="1759">E si devore subitemant</l>
+                <l xml:id="d001l1761" n="1760">Rices e pobres, quant elle prant.</l>
+                <l xml:id="d001l1762" n="1761">Ne soit nus hom quand doit fenir,</l>
+                <l xml:id="d001l1763" n="1762">Rien ne li vaut savoir scremir.</l>
+                <l xml:id="d001l1764" n="1763">Pour ce doit l’en estre aveü</l>
+                <l xml:id="d001l1765" n="1764">De fer les ovres de vertu,</l>
+                <l xml:id="d001l1766" n="1765">Che mout tost saute la mort,</l>
+                <l xml:id="d001l1767" n="1766">Ne garde pas a point ne a sort.</l>
+                <l xml:id="d001l1768" n="1767">Filiminis l’empereour,<note>1767. l’empereour] HectB l’empereor</note></l>
+                <l xml:id="d001l1769" n="1768">Avec lui le pros Hector,</l>
+                <l xml:id="d001l1770" n="1769">Sour le palés furent montié.</l>
+                <l xml:id="d001l1771" n="1770">Le roy l’enfans a remiré,</l>
+                <l xml:id="d001l1772" n="1771">Pués li a dit mout belement:</l>
+                <l xml:id="d001l1773" n="1772">– Jentis enfant, ver moi entent!</l>
+                <l xml:id="d001l1774" n="1773">Je conois bien ch’e’ debuenaire:</l>
+                <l xml:id="d001l1775" n="1774">Pour ce vous pri com fil fet paire,</l>
+                <l xml:id="d001l1776" n="1775">Pour l’amour e pour la foy</l>
+                <l xml:id="d001l1777" n="1776">Ch’est afermie en vous e moy,</l>
+                <l xml:id="d001l1778" n="1777">E pour li diés che sont desus,</l>
+                <l xml:id="d001l1779" n="1778">Che le voir dir ne tenés mus.</l>
+                <l xml:id="d001l1780" n="1779">Dites a moi apertemant</l>
+                <l xml:id="d001l1781" n="1780">Le nom de vous e vous parant.</l>
+                <l xml:id="d001l1782" n="1781">Le cors dedans moi manifeste</l>
+                <l xml:id="d001l1783" n="1782">Che estreit estes de noble gieste.</l>
+                <l xml:id="d001l1784" n="1783">Vetre valour, vetre ardimant</l>
+                <l xml:id="d001l1785" n="1784">M’oit fet ce estre creant. –</l>
+                <l xml:id="d001l1786" n="1785">Lour vit Hector e conuit bien</l>
+                <l xml:id="d001l1787" n="1786">Che plus celer ne vaudroit rien</l>
+                <l xml:id="d001l1788" n="1787">E che celer plus ne se poit</l>
+                <l xml:id="d001l1789" n="1788">Pour le conjur, che tant est droit,</l>
+                <l xml:id="d001l1790" n="1789">Che fait li a le roi puisant.    [151ra]</l>
+                <l xml:id="d001l1791" n="1790">Or ne se puet celer noiant:</l>
+                <l xml:id="d001l1792" n="1791">– Sire, fet il, de<note>1791. de] HectB le</note> voir saciés:</l>
+                <l xml:id="d001l1793" n="1792">Tenir ne puis ja plus cellés.</l>
+                <l xml:id="d001l1794" n="1793">Pourpris m’avés en vous lais</l>
+                <l xml:id="d001l1795" n="1794">Pour le conjur che feit tu m’ais.</l>
+                <l xml:id="d001l1796" n="1795">Oïstes mais parler Prians? –</l>
+                <l xml:id="d001l1797" n="1796">Oïl, fet il, mout est puisans,</l>
+                <l xml:id="d001l1798" n="1797">Jentis e prous e debuenaire,</l>
+                <l xml:id="d001l1799" n="1798">Larçe e courtois en tout afaire.</l>
+                <l xml:id="d001l1800" n="1799">– Je sui suen fil, Hector clamés.</l>
+                <l xml:id="d001l1801" n="1800">Le voir ai dit, or le savés.</l>
+                <l xml:id="d001l1802" n="1801">Mien aiuel fu roi Laumedon</l>
+                <l xml:id="d001l1803" n="1802">Che le jeiant,<note>1802. jeiant] Ieiant</note> non con raixon,</l>
+                <l xml:id="d001l1804" n="1803">Oucist a Troie folement.</l>
+                <l xml:id="d001l1805" n="1804">Mout ai grand ire e sui dolent,</l>
+                <l xml:id="d001l1806" n="1805">Dond Herculés est en sepouture,</l>
+                <l xml:id="d001l1807" n="1806">Le plus fort hom che mais Nature</l>
+                <l xml:id="d001l1808" n="1807">Feïst au mond, si com je croi,</l>
+                <l xml:id="d001l1809" n="1808">Ne che mais fust en nule loi. –</l>
+                <l xml:id="d001l1810" n="1809">Quand oï ce Filiminis,</l>
+                <l xml:id="d001l1811" n="1810">Ver le enfant a feit un ris:</l>
+                <l xml:id="d001l1812" n="1811">– Heis tu Hector, fil roi Prians,</l>
+                <l xml:id="d001l1813" n="1812">Dou miaudre roi che soit vivans?</l>
+                <l xml:id="d001l1814" n="1813">Se la scriture ne faut ci,</l>
+                <l xml:id="d001l1815" n="1814">Ta mere<note>1814. mere] HectB mare</note> pas ao roi ne fali.</l>
+                <l xml:id="d001l1816" n="1815">Voir tu eis de la lignee</l>
+                <l xml:id="d001l1817" n="1816">Che sour les autres est proisee.</l>
+                <l xml:id="d001l1818" n="1817">De Tros e d’Illius,<note>1817. d’Illius] Dillius</note> con dit l’autors,</l>
+                <l xml:id="d001l1819" n="1818">Furent estreit vetre ancesors.</l>
+                <l xml:id="d001l1820" n="1819">Mais sour tous avés valour;<note>1819. HectB om.</note></l>
+                <l xml:id="d001l1821" n="1820">Portier poés en main la flour</l>
+                <l xml:id="d001l1822" n="1821">De proece e d’ardimant.</l>
+                <l xml:id="d001l1823" n="1822">N’est vous pareil home vivant. –</l>
+                <l xml:id="d001l1824" n="1823">Quand a ce dit le jentil roy,</l>
+                <l xml:id="d001l1825" n="1824">Banir baors e grand tournoy</l>
+                <l xml:id="d001l1826" n="1825">Fist banir pourmi sa ville</l>
+                <l xml:id="d001l1827" n="1826">Pour l’enfans nobille,</l>
+                <l xml:id="d001l1828" n="1827">Che garentis avoit sa terre</l>
+                <l xml:id="d001l1829" n="1828">De mal, de brie, de dure guerre.</l>
+                <l xml:id="d001l1830" n="1829">A baordier se furent mis</l>
+                <l xml:id="d001l1831" n="1830">Maint bacaliers<note>1830. bacaliers] HectB baçaliers</note> prous e ardis.</l>
+                <l xml:id="d001l1832" n="1831">Homes, femes, vieus e jovant</l>
+                <l xml:id="d001l1833" n="1832">Pour Hectour<note>1832. Hectour] HectB Hector</note> font la joie grant.</l>
+                <l xml:id="d001l1834" n="1833">Un mois e plus dura la feste</l>
+                <l xml:id="d001l1835" n="1834">Che ceus ferent sans nule reste.</l>
+                <l xml:id="d001l1836" n="1835">Le prous Hector une demain</l>
+                <l xml:id="d001l1837" n="1836">Le roy a pris pour detre main:</l>
+                <l xml:id="d001l1838" n="1837">– Sire, fet il, la Dieu merci,</l>
+                <l xml:id="d001l1839" n="1838">Deviés est le vous nemi,</l>
+                <l xml:id="d001l1840" n="1839">Peour n’avés huimés de nus.</l>
+                <l xml:id="d001l1841" n="1840">Retournier vueil dond sui venus,</l>
+                <l xml:id="d001l1842" n="1841">Car je croi bien certainemant</l>
+                <l xml:id="d001l1843" n="1842">Che dedans Troie vieus e jovant</l>
+                <l xml:id="d001l1844" n="1843">Ont pour moi dolor e poine.</l>
+                <l xml:id="d001l1845" n="1844">Or m’en irai avant la  noine</l>
+                <l xml:id="d001l1846" n="1845">A confortier Prian mien pere    [151rb]</l>
+                <l xml:id="d001l1847" n="1846">E Hecuba, ma ciere mere.</l>
+                <l xml:id="d001l1848" n="1847">Ne remandra’ jusque la soir,</l>
+                <l xml:id="d001l1849" n="1848">Chi moi donast tout le tresoir<note>1848. tresoir] HectB tresor</note></l>
+                <l xml:id="d001l1850" n="1849">Che onque fust en mer ne en terre.</l>
+                <l xml:id="d001l1851" n="1850">Ne vous cremés: n’avrés plus guerre.</l>
+                <l xml:id="d001l1852" n="1851">E se plus adevenist</l>
+                <l xml:id="d001l1853" n="1852">Che nus vous guerre feisist,</l>
+                <l xml:id="d001l1854" n="1853">Mandiés a moi: a vous veray,<note>1853. veray] HectB verai</note></l>
+                <l xml:id="d001l1855" n="1854">Pour vous aidier me combatray.<note>1854. combatray] HectB combatrai</note> –</l>
+                <l xml:id="d001l1856" n="1855">Pour ma foi, fet l’emperer,</l>
+                <l xml:id="d001l1857" n="1856">Pués<note>1856. Pués] e da correz. su i; HectB Puis</note> che mien cors nasqui de
+                mer</l>
+                <l xml:id="d001l1858" n="1857">Ne fui tant fort durement irés</l>
+                <l xml:id="d001l1859" n="1858">Com je serai, se vous alés.</l>
+                <l xml:id="d001l1860" n="1859">Mes pués che vous ne puis tenir</l>
+                <l xml:id="d001l1861" n="1860">E che volés dou tout partir,</l>
+                <l xml:id="d001l1862" n="1861">Dolant en sui. L’alier outroy,</l>
+                <l xml:id="d001l1863" n="1862">Pués che partir volés da moy,</l>
+                <l xml:id="d001l1864" n="1863">Tout seulemant pour vetre pere,</l>
+                <l xml:id="d001l1865" n="1864">A ce ch’il ait sa joie entiere. –</l>
+                <l xml:id="d001l1866" n="1865">Lour fist le roi muls e civaus</l>
+                <l xml:id="d001l1867" n="1866">Çarcier<note>1866. Çarcier] HectB Carcier</note> d’avoir e de cendaus.</l>
+                <l xml:id="d001l1868" n="1867">Aou prous Hector, plain d’ardimant,</l>
+                <l xml:id="d001l1869" n="1868">Maogré de lui en fist presant.</l>
+                <l xml:id="d001l1870" n="1869">Pués fist tantost apareillier,</l>
+                <l xml:id="d001l1871" n="1870">Pour le joune convoier,</l>
+                <l xml:id="d001l1872" n="1871">Pluxors enfans de noble gieste.</l>
+                <l xml:id="d001l1873" n="1872">Dell’alier<note>1872. Dell’alier] Del lalier</note> menerent feste,</l>
+                <l xml:id="d001l1874" n="1873">Si furent tretous vestus</l>
+                <l xml:id="d001l1875" n="1874">De cendaus e de velus.</l>
+                <l xml:id="d001l1876" n="1875">Pour honorier le pros Hector</l>
+                <l xml:id="d001l1877" n="1876">Cescun s’esforze<note>1876. s’esforze] HectB s’efforze</note> outre poor.</l>
+                <l xml:id="d001l1878" n="1877">Ceus alerent con lui a Troie,</l>
+                <l xml:id="d001l1879" n="1878">Mout voluntier le prous convoie.</l>
+                <l xml:id="d001l1880" n="1879">A civaus furent montié</l>
+                <l xml:id="d001l1881" n="1880">Vieus e jovans de la citié.</l>
+                <l xml:id="d001l1882" n="1881">Nacres, tubes e tambor</l>
+                <l xml:id="d001l1883" n="1882">Sonent tant fort li giugleor,</l>
+                <l xml:id="d001l1884" n="1883">Tiel fu la noise dou son e de la giant,</l>
+                <l xml:id="d001l1885" n="1884">Che nul oïst ja Dieu tonant.</l>
+                <l xml:id="d001l1886" n="1885">Ors de la ville civaucerent,</l>
+                <l xml:id="d001l1887" n="1886">Pres che troi lieues le convoierent.</l>
+                <l xml:id="d001l1888" n="1887">Le prous enfant<note>1887. enfant] Enfant</note> le roi mout prie</l>
+                <l xml:id="d001l1889" n="1888">Ch’il retornast pour courtoisie.</l>
+                <l xml:id="d001l1890" n="1889">Mais cil che oit le cuer enclus</l>
+                <l xml:id="d001l1891" n="1890">Ensi remaint com home mus …</l>
+                <l xml:id="d001l1892" n="1891">Sour le cortois, maint fois le baise,</l>
+                <l xml:id="d001l1893" n="1892">Ses oils de lermes li araise.</l>
+                <l xml:id="d001l1894" n="1893">Quand puet parlier, si dist: – Enfant,</l>
+                <l xml:id="d001l1895" n="1894">A tous li diés je vous comant! –</l>
+                <l xml:id="d001l1896" n="1895">Plorant pués est Filiminis</l>
+                <l xml:id="d001l1897" n="1896">Embrons tournié en suen païs.</l>
+                <l xml:id="d001l1898" n="1897">Le prous Hector, tout plain de joie,</l>
+                <l xml:id="d001l1899" n="1898">Le cemin prist droit enver Troie.</l>
+                <l xml:id="d001l1900" n="1899">Tant civaça le prous enfant</l>
+                <l xml:id="d001l1901" n="1900">De jour en jour sour l’auferant,</l>
+                <l xml:id="d001l1902" n="1901">Avec lui ses compeignons,    [151va]</l>
+                <l xml:id="d001l1903" n="1902">Che de Troie les maixons,</l>
+                <l xml:id="d001l1904" n="1903">Les tors virent e li palés</l>
+                <l xml:id="d001l1905" n="1904">Che Yllion fu apelés.</l>
+                <l xml:id="d001l1906" n="1905">Atant Hector, le prous loial,</l>
+                <l xml:id="d001l1907" n="1906">Vit venir sour un cival</l>
+                <l xml:id="d001l1908" n="1907">Un damisiaus prous e ardis</l>
+                <l xml:id="d001l1909" n="1908">Che de la ville estoit partis.</l>
+                <l xml:id="d001l1910" n="1909">De Troie fu l’enfant courtous,</l>
+                <l xml:id="d001l1911" n="1910">Bien conoloit Hector le prous.</l>
+                <l xml:id="d001l1912" n="1911">Hector li dist: – Tournés ao roy.</l>
+                <l xml:id="d001l1913" n="1912">A luy dirais, non pas en secroy,</l>
+                <l xml:id="d001l1914" n="1913">Che Hector vient pour la zapagne.<note>1913. zapagne] HectB zampagne</note></l>
+                <l xml:id="d001l1915" n="1914">O lui amoine grand compagne</l>
+                <l xml:id="d001l1916" n="1915">De damoisiaus prous e ardis,</l>
+                <l xml:id="d001l1917" n="1916">Che leisiés ont le lour païs.</l>
+                <l xml:id="d001l1918" n="1917">Pour honorier lui e suen fil</l>
+                <l xml:id="d001l1919" n="1918">Sont ci venus, che ne sont vil. –</l>
+                <l xml:id="d001l1920" n="1919">Cil<note>1919. Cil] HectB Qil</note> n’atend plus, corant s’en vait,</l>
+                <l xml:id="d001l1921" n="1920">Mout voluntier tiel mesaçe fait.</l>
+                <l xml:id="d001l1922" n="1921">Suen cival urte des esperons,</l>
+                <l xml:id="d001l1923" n="1922">Che a mervoille fu fier e bons.</l>
+                <l xml:id="d001l1924" n="1923">Tant esploita l’enfant nobille</l>
+                <l xml:id="d001l1925" n="1924">Ch’il entra dedans la ville.</l>
+                <l xml:id="d001l1926" n="1925">A l’entrier ch’il fist dedans</l>
+                <l xml:id="d001l1927" n="1926">Il encontra le roy Prians</l>
+                <l xml:id="d001l1928" n="1927">Chi con grand gient aloit deors</l>
+                <l xml:id="d001l1929" n="1928">Pour sbanoier auquant suen cors.</l>
+                <l xml:id="d001l1930" n="1929">Le damoisel ao buen roi dist</l>
+                <l xml:id="d001l1931" n="1930">Con liés visaire, baud e vist:</l>
+                <l xml:id="d001l1932" n="1931">– Sire, fet il, je vous aport</l>
+                <l xml:id="d001l1933" n="1932">Bones novelles. Soiés acort</l>
+                <l xml:id="d001l1934" n="1933">Aou buen recevre vetre fil.</l>
+                <l xml:id="d001l1935" n="1934">Ne motriés visaire vil.</l>
+                <l xml:id="d001l1936" n="1935">Ci vient Hector ao cuer vailant,</l>
+                <l xml:id="d001l1937" n="1936">La flor<note>1936. flor] l da correz. su r</note> de lis de toute giant. –</l>
+                <l xml:id="d001l1938" n="1937">Quand ce oï le<note>1937. le] HectB li</note> roi Prians,</l>
+                <l xml:id="d001l1939" n="1938">Nen demandiés s’il fu joians.</l>
+                <l xml:id="d001l1940" n="1939">Suen detrier urte des esperons</l>
+                <l xml:id="d001l1941" n="1940">Ains ch’il feïst autre respons.</l>
+                <l xml:id="d001l1942" n="1941">Le buen cival fort e isnel</l>
+                <l xml:id="d001l1943" n="1942">Plus tost s’en vet che rier oisel</l>
+                <l xml:id="d001l1944" n="1943">Ne vait spervier quand fait l’argue.</l>
+                <l xml:id="d001l1945" n="1944">Tost trapasa voies e rue;</l>
+                <l xml:id="d001l1946" n="1945">Li barons tuit le sevirent,</l>
+                <l xml:id="d001l1947" n="1946">Le pere fil pas ne atent.</l>
+                <l xml:id="d001l1948" n="1947">Quand fu deors, le roi de Troie</l>
+                <l xml:id="d001l1949" n="1948">Perçuit suen fil, sa rice joie,</l>
+                <l xml:id="d001l1950" n="1949">Chi venoit ou sa compagne</l>
+                <l xml:id="d001l1951" n="1950">Esperonant pour la çampagne.</l>
+                <l xml:id="d001l1952" n="1951">L’enfant regarde e conuit Prians</l>
+                <l xml:id="d001l1953" n="1952">Che fu le cief tout primerans.</l>
+                <l xml:id="d001l1954" n="1953">A ses compagnons dist le prous fere:<note>1953. fere] HectB sere</note></l>
+                <l xml:id="d001l1955" n="1954">– Ci vient Prians, le roi mien pere. –</l>
+                <l xml:id="d001l1956" n="1955">Lour sali de suen cival</l>
+                <l xml:id="d001l1957" n="1956">E tuit les autres pour engal.</l>
+                <l xml:id="d001l1958" n="1957">Prians le vit, si desmonta;    [151vb]</l>
+                <l xml:id="d001l1959" n="1958">Ne puet parlier, tiel joie ha.</l>
+                <l xml:id="d001l1960" n="1959">Hector se mist en çenoilon</l>
+                <l xml:id="d001l1961" n="1960">Devant le roi, querant perdon</l>
+                <l xml:id="d001l1962" n="1961">De la fole desevrance</l>
+                <l xml:id="d001l1963" n="1962">Ch’il fist da lui sans demandance.</l>
+                <l xml:id="d001l1964" n="1963">Le roi le prist entre ses brais,</l>
+                <l xml:id="d001l1965" n="1964">Amont le lieve, a soi le trais.</l>
+                <l xml:id="d001l1966" n="1965">Plus de cent fois li a baisiés</l>
+                <l xml:id="d001l1967" n="1966">Visair, mentons e boçe e nés.</l>
+                <l xml:id="d001l1968" n="1967">– Douç fil, fet il, resuresy</l>
+                <l xml:id="d001l1969" n="1968">M’avés da mort, quant vous voi cy.</l>
+                <l xml:id="d001l1970" n="1969">Pour vous avrai joie complie</l>
+                <l xml:id="d001l1971" n="1970">Tant com avriés au mond la vie.</l>
+                <l xml:id="d001l1972" n="1971">Or a cival alons en Troie.</l>
+                <l xml:id="d001l1973" n="1972">Rechovriés ay la rice proie. –</l>
+                <l xml:id="d001l1974" n="1973">Lour a cival tuit monterent.</l>
+                <l xml:id="d001l1975" n="1974">Chi donc veïst vieus e jovent</l>
+                <l xml:id="d001l1976" n="1975">Recievre Hector e luy toçier!</l>
+                <l xml:id="d001l1977" n="1976">Nus ne s’en puet bien saloer.</l>
+                <l xml:id="d001l1978" n="1977">Tuit le gardent pourmi le vis;</l>
+                <l xml:id="d001l1979" n="1978">Chil puet tocier, se tient garis.</l>
+                <l xml:id="d001l1980" n="1979">Quand ceus de Troie sorent certainement</l>
+                <l xml:id="d001l1981" n="1980">Che l’enfans ao cuer valent</l>
+                <l xml:id="d001l1982" n="1981">Retournoie, cescun leisa</l>
+                <l xml:id="d001l1983" n="1982">Mestier, maisons, encontre li va.</l>
+                <l xml:id="d001l1984" n="1983">Tiel fu la noise e le tambor,</l>
+                <l xml:id="d001l1985" n="1984">Le cris tant grand e le frambor</l>
+                <l xml:id="d001l1986" n="1985">Ch’il fesoient de la grand joie,</l>
+                <l xml:id="d001l1987" n="1986">Quand veirent Hector de Troie,</l>
+                <l xml:id="d001l1988" n="1987">Ne croi ch’il soit nus hom vivant</l>
+                <l xml:id="d001l1989" n="1988">Che oïr peüst ja Dieu tonant.</l>
+                <l xml:id="d001l1990" n="1989">Dedans la ville ne remist</l>
+                <l xml:id="d001l1991" n="1990">Dancelles, dames chi ne venist</l>
+                <l xml:id="d001l1992" n="1991">As baucons pour cil veoir,</l>
+                <l xml:id="d001l1993" n="1992">Chi trapase blans e noir</l>
+                <l xml:id="d001l1994" n="1993">De proece, de courtoisie;</l>
+                <l xml:id="d001l1995" n="1994">De lui pareil non est en vie.</l>
+                <l xml:id="d001l1996" n="1995">Tant erent<note>1995. erent] HectB crent</note> plains çamin e rue</l>
+                <l xml:id="d001l1997" n="1996">D’omes, de fames, de gient menue,</l>
+                <l xml:id="d001l1998" n="1997">Plus desirent veoir l’enfans</l>
+                <l xml:id="d001l1999" n="1998">Che damoiselle suen amans.</l>
+                <l xml:id="d001l2000" n="1999">En la citié entra le roi,</l>
+                <l xml:id="d001l2001" n="2000">Hector suen fil con suen coroi.</l>
+                <l xml:id="d001l2002" n="2001">Quand l’enfant fu reconeüs,</l>
+                <l xml:id="d001l2003" n="2002">Tous escrient, grans e menus:</l>
+                <l xml:id="d001l2004" n="2003">– Diés!, che bien viegne la flour de Troie,</l>
+                <l xml:id="d001l2005" n="2004">Che hui nous a recovré joie!</l>
+                <l xml:id="d001l2006" n="2005">Bien soit venus l’aute lumiere</l>
+                <l xml:id="d001l2007" n="2006">Che claritié rent a tuit entiere! –</l>
+                <l xml:id="d001l2008" n="2007">Hector le cief a tous encline,</l>
+                <l xml:id="d001l2009" n="2008">Si a veilars com a meschine.</l>
+                <l xml:id="d001l2010" n="2009">Droit ao palais s’en vait Prians,</l>
+                <l xml:id="d001l2011" n="2010">Suen fil aprés e maintes gians.</l>
+                <l xml:id="d001l2012" n="2011">Cescun<note>2011. Cescun] HectB Cesçun</note> desist de suen cival,</l>
+                <l xml:id="d001l2013" n="2012">Sus ao palés montent en al.</l>
+                <l xml:id="d001l2014" n="2013">Hecuba cort, quand elle vit    [152ra]</l>
+                <l xml:id="d001l2015" n="2014">Venir suen fil ch’est suen delit.</l>
+                <l xml:id="d001l2016" n="2015">Aou cief le prist, pués le baisa,</l>
+                <l xml:id="d001l2017" n="2016">Plus de cent fois si l’acola.</l>
+                <l xml:id="d001l2018" n="2017">– Fil, fet la dame, bien venés vous!</l>
+                <l xml:id="d001l2019" n="2018">Vetre venue a feit joious</l>
+                <l xml:id="d001l2020" n="2019">Le roi Prians e vetre mere,</l>
+                <l xml:id="d001l2021" n="2020">Parans, cuisins, serors e frere</l>
+                <l xml:id="d001l2022" n="2021">E ceus de Troie ensement,</l>
+                <l xml:id="d001l2023" n="2022">Che com lour fils vous amoient. –</l>
+                <l xml:id="d001l2024" n="2023">Quand Prians oit voiremant seü</l>
+                <l xml:id="d001l2025" n="2024">Comant suen fil oit confondu</l>
+                <l xml:id="d001l2026" n="2025">Le fier jeiant,<note>2025. jeiant] Ieiant</note> vint e oucis,</l>
+                <l xml:id="d001l2027" n="2026">Che Laumedon leisa mendis,</l>
+                <l xml:id="d001l2028" n="2027">Nen demandiés s’il fu joians.</l>
+                <l xml:id="d001l2029" n="2028">Plus de cent fois baisa l’enfans.</l>
+                <l xml:id="d001l2030" n="2029">Ceus de la ville n’aresterent</l>
+                <l xml:id="d001l2031" n="2030">De baordier,<note>2030. baordier] HectB baordir</note> vieus e jovent.</l>
+                <l xml:id="d001l2032" n="2031">Dames, dançeles e baçalier</l>
+                <l xml:id="d001l2033" n="2032">Ne ceserent de charoiler.</l>
+                <l xml:id="d001l2034" n="2033">Plus de dous mois dura la feste</l>
+                <l xml:id="d001l2035" n="2034">Ains che nus feisist areste.</l>
+                <l xml:id="d001l2036" n="2035">Chi vous deüse tout retraire</l>
+                <l xml:id="d001l2037" n="2036">La joie grand che pere e maire,</l>
+                <l xml:id="d001l2038" n="2037">Frier, cuisins e ceus de Troie</l>
+                <l xml:id="d001l2039" n="2038">Firent pour lui, seroit ennoie.</l>
+                <l xml:id="d001l2040" n="2039">Che dir deüst de tuit le çant,</l>
+                <l xml:id="d001l2041" n="2040">Car seroit trou long parlemant.</l>
+                <l xml:id="d001l2042" n="2041">Pour tant ici m’en vueil soufrir:</l>
+                <l xml:id="d001l2043" n="2042">N’en dirai plus, ains vueil teisir.</l>
+                <l xml:id="d001l2044" n="2043">Deo gracias Amen</l>
+                <lb/>
+                <l xml:id="d001l2045" n="2044">Da Portviel Guiaume sui</l>
+                <l xml:id="d001l2046" n="2045">Buen servir est gardier a cui</l>
+                <lb/>
+                <l xml:id="d001l2047" n="2046">Des cauçes noires grand merci</l>
+                <l xml:id="d001l2048" n="2047">De ce che ay escrit bien sui meri</l>
+            </div1>
+        </body>
+    </text>
+</TEI>

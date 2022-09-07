@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="POSTILLAANGIOINA-postillaAngioina">
+                    <title type="short">Postilla nei Registri angioini dell’Archivio di Stato di Napoli</title>
+                    <title type="alt">Postilla angioina</title>
+                    <abbr>Postilla angioina</abbr>
+                    <note xml:id="note1">post 1277, Napoli</note>
+                    <bibl>Paul Durrieu, <emph style="font-style:italic">Notice sur les registres angevins en langue française conservés dans les Archives de Naples</emph>, in «Mélanges d’archéologie et d’histoire publiés par l’École française de Rome», 3 (1883), pp. 3-33: 10, nota 1.</bibl>
+                </title>
+                <author xml:id="POSTILLAANGIOINA" n="169.000">
+                    <name></name>
+                    <abbr></abbr>
+                </author>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata e marcatura digitale</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Reference basis text</resp>
+                    <name>Paul Durrieu, <emph style="font-style:italic">Notice sur les registres angevins en langue française conservés dans les Archives de Naples</emph>, in «Mélanges d’archéologie et d’histoire publiés par l’École française de Rome», 3 (1883), pp. 3-33: 10, nota 1.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.rialfri.eu">RIALFrI</ref>
+                </publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <notesStmt>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>Paul Durrieu, <emph style="font-style:italic">Notice sur les registres angevins en langue française conservés dans les Archives de Naples</emph>, in «Mélanges d’archéologie et d’histoire publiés par l’École française de Rome», 3 (1883), pp. 3-33: 10, nota 1.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t5"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work">
+                <div2 xml:id="d001c000">
+                    <p xml:id="d001l1" n="">{{Napoli, Archivio di Stato,  Reg. Ang. n. 31, f. 116}}</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c001">
+                    <p xml:id="d001l2" n="">Por baller moneta a mastres Symon de Chamont.</p>
+                    <lb/>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

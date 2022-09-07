@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="BIBBIANAPOLI-bibbiaNapoli">
+                    <title type="short">Frammenti di una Bibbia francese di origine napoletana</title>
+                    <title type="alt">Frammenti di una Bibbia francese</title>
+                    <abbr>Bibbia francese di origine napoletana</abbr>
+                    <note xml:id="note1">metà del XIV sec., Napoli</note>
+                    <bibl>Andrea Improta e Fabio Zinelli, <emph style="font-style:italic">Frammenti di una nuova Bibbia napoletana, con alcune riflessioni sul ms fr. 688 della Bibliothèque nationale de France</emph>, in <emph style="font-style:italic">Boccaccio e Napoli. Nuovi materiali per la storia culturale di Napoli nel Trecento</emph>. Atti del convegno Boccaccio angioino. Per il VII centenario della nascita di Giovanni Boccaccio, Napoli-Salerno, 23-25 ottobre 2013, a cura di Giancarlo Alfano et al., Firenze, Franco Cesati Editore, 2015, pp. 81-106.</bibl>
+                </title>
+                <author xml:id="BIBBIANAPOLI" n="023.000">
+                    <name></name>
+                    <abbr></abbr>
+                </author>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale e messa in linea</resp>
+                    <name>Francesca Gambino</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Reference basis text</resp>
+                    <name>Andrea Improta e Fabio Zinelli, <emph style="font-style:italic">Frammenti di una nuova Bibbia napoletana, con alcune riflessioni sul ms fr. 688 della Bibliothèque nationale de France</emph>, in <emph style="font-style:italic">Boccaccio e Napoli. Nuovi materiali per la storia culturale di Napoli nel Trecento</emph>. Atti del convegno Boccaccio angioino. Per il VII centenario della nascita di Giovanni Boccaccio, Napoli-Salerno, 23-25 ottobre 2013, a cura di Giancarlo Alfano et al., Firenze, Franco Cesati Editore, 2015, pp. 81-106.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.rialfri.eu">RIALFrI</ref>
+                </publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <notesStmt>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>Andrea Improta e Fabio Zinelli, <emph style="font-style:italic">Frammenti di una nuova Bibbia napoletana, con alcune riflessioni sul ms fr. 688 della Bibliothèque nationale de France</emph>, in <emph style="font-style:italic">Boccaccio e Napoli. Nuovi materiali per la storia culturale di Napoli nel Trecento</emph>. Atti del convegno Boccaccio angioino. Per il VII centenario della nascita di Giovanni Boccaccio, Napoli-Salerno, 23-25 ottobre 2013, a cura di Giancarlo Alfano et al., Firenze, Franco Cesati Editore, 2015, pp. 81-106.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t5"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work">
+                <p xml:id="d001l1" n="1" rend="I"><lb/> <lb/>{{Ecole Nationale des Beaux Arts, ms. 627}}<lb/> <lb/>{{REGUM IV 11}}</p>
+                <lb/>
+                <p xml:id="d001l2" n="1" rend="1">[1ra] estoit en grant solas et en|grant ioie et faisoit lo pue|ple sonner trompes. Et
+                il p(ar)|ti son uestement parmi et|clama fortement. Ceste est la|coniuration. Ceste
+                est la con|iuration et co(m)manda en co(n)|tinent ioiada ali centurion|liquel estoient
+                sur lex(er)cit et|et lor dist ioiada Menez le|hors del temple dedieu. et ce|lui lo quel
+                ira derriere si l’occi|se sanz nul remede. Lo prestre|a dit en uerite quil non fust|mort
+                en lo temple de dieu tot|puissant. Et pris fu la ma|in deceste gent et le menere(n)t|par
+                force par la uoie. Et qua(n)t|il fu en la presse des chevaux|apres de lo palaiz et fu
+                mort en|celui lieu. Et fist et ordena io|iada p(er) cert confederation en|tre le seignor
+                dieu et entre lo|roi et en &lt;lo&gt;tre lopueple. ace q(ue)|le pueple fust tout de
+                dieu pe|re tout puissant. Et entra cer|tenement tout lo puple dela|terre enla templede
+                baal. et i|destruirent toz les autelz. li|quel estoient en lo temple. 7|toz les ymages
+                furent con|sumes. en tel maniere que|il non aportoit que iamaiz|ifust ymage. Et natham
+                sanz|nulle doute liquel estoit pre|stre de baal occistrent deuant|lautel. Et metoient
+                li prestre|bone garde en lo temple de di|eu tout puissant. &lt;et retorne|rent arriere
+                par la uoie ou&gt;<lb/>[1rb] Et pristrent li centurion|pour cert. et li capitain et|toute
+                la legion et compai(n)|gnie. Et conestable et tout|li pueple de la terre et me|nerent
+                lo Roy en lo temple|de lo seignor dieu pu|issant. Et retornerent arrie|re par la uoie
+                ou se font li|escut et uindrent alo pala|iz et entrerent dedens. Et|firent la|terre
+                et de la cite est demore|en paiz. Et pour cert atha|lia est occis &lt;po&gt;de spee
+                en la|maison de lo roy. Et sept ans|auoit ioas quant il come(n)|sa aregner sur le pueple|de
+                israel<lb/>  <lb/>{{REGUM IV 12}}</p>
+                <lb/>
+                <p xml:id="d001l3" n="2" rend="2">EN lan se|ptisme|de puiz|la mort|de iheu|regna|ioas. et|quara(n)|te ans regna en &lt;leh&gt;
+                ier(usa)l(e)m|ensi come cest xij. capitu|le nouz ensaingne et dit|liquel capitule est
+                del q(ua)rt|liure des rois. Et dit ensi|que lamere del deuant dit|roy ioas auoit nom
+                sebia|laquelle estoit debersabee | Et fist ioas toutes les chozes [1va] droites deuant
+                la presen|ce del seignor dieu pere tot|puissant tout le temps|que ioiada lo prestre
+                lo fu|maistre et uraieme(n)t non|mouoit nulle choze cele|stial. Encoire en uerite lo|pueple
+                sacrefioit et aoro|it lo encens. Et dist ioas|ali prestre toute lapecune|deli saintuare
+                liquel est|offert por lo pechie de larme|en lo temple deli pecheor li|quel uont et uienent.
+                Et|celle choze laquel il do(n)ra|de sa bone uolente et de bo(n)|cuer la do(n)nera et
+                offrira|en la maison de dieu prere|tout puissant. Et celle of|ferte doie prendre lo
+                pre|stre ensi come est ordene|par son ordre. Et doient i |restituet et hedifier le tett|et
+                la paroit del temple de|dieu pere tout puissant|et se enlui sera alcune cho|ze est de
+                appareillier la q(ue)l|le soit neccessaire. Et enue|rite de liprestre iusque a|uint
+                et troiz ans del roy|ioas no(n) restorerent nul|le choze enlo temple de di|eu ne en
+                lo tett ne en lo temple ne en la paroit| Et en uerite demanda ioas|a ioadam pontifex
+                et a|tuit liprestre. Et lor dist|pour quoi non rapareil <lb/>[1vb] liez uouz le temple
+                del seignor|dieu pere tout puissant. De|ci en auant certenement|uouz non prendes monoie|co(m)ment
+                uouz auez fait par|lo temps passe secont vostr(e)|ordre senon par lordinatio(n)|et aministration
+                de lo temple|et rendres la peccunie. Et est de|ffendu alo prestre des celle|hore en
+                auant quil non doie(n)t|receuoir peccune delo pueple|et restorer lo tett de lo temple|del
+                seignor dieu pere tout puis|sant. Et prist ioiada une casso|ne. Et fist en celle cassone
+                un|pertuiz de sus. Et mist celle ca|ssone et la mist apres del lau|tel de la main droite
+                ou entro|ient cil qui Venoient a lo tem|ple del seignor dieu. Et qua(n)t|il ueoient
+                que grant pecune|estoit dedens lo casson uenoi|ent li faitor delo roy de lo pon|tifice
+                tra&lt;i&gt;oent celle peccune|fors en une ranale laquelle|se trouoit el temple de dieu|
+                et do(n)noient ceste pecune par|nombre et par mesure en la|main de cellui liquel estoit|sur
+                les laborators liquel la|boroient e|temple dedieu.la|que pecune il despendoient|pour
+                achater lauigne et a|ceaux qui portoient la calz|et a ceaux qui faisoient lo|ure en
+                la maison de dieu. Et|a ceux qui co(m)mencerent lo|tette de lo temple et aceux <lb/>
+                <lb/>{{REGUM IV 17}}</p>
+                <lb/>
+                <p xml:id="d001l4" n="3" rend="3">[2ra] parolles les quelles estoi|contre dieu. Et hedifierent|statues par les montain|gnes
+                et souz les arbres et|aoroient li encens sur lau|tel ensi come firent la gent|[liq(ue)l]
+                deu pere tout puissant cha|sa et mist aconfusion de la|soe presence. Et furent m(u)lt
+                |de chozes maluaises et lais|serent le seignor dieu et a|orerent les ydoles maluai|ses
+                et faussez. De liquel le se|ignor dieu lor co(m)manda q(u)il|ne le deussent faire ceste
+                cho|ze. Et dieu pere amis testemo|igne en israel et en iude par|la bouche de li p(ro)phete
+                liquel|ont este el temps passe et|de ceux liquel estoient enco|ire uif en cel temps
+                disant|Retornez ariere de uostre ma|luaise uoie. et regardes mo(n)|co(m)mandement. et
+                ma feste|Ensi co(m)me dit la loi la quelle ie co(m)mandai auoz peres|et ensi come ie&lt;co(m)&gt;ma(n)dai
+                A|dire auouz par labouche de|mo(n) seruicial li p(ro)phete et uouz|ne le uolistez oir
+                ne entend(re)|Mes uouz endurastes uos|cuers aussi come uoz peres li|quel non uolirent
+                obeir alo|seignor dieu tout puissant|Et toutes ses chozes legitti|mes et parfaites quil
+                auoi|ent auuec elz chacerent fors|et les couenances les quelles|deu pere tout puissant
+                auoi|t fait o lor ancessors et a <lb/>[2rb] lor peres et laprotestatio(n)|li quel auoit
+                prteste auec|eaux tout cassenite laquelle estoit en lor cuer et en|lor pensee. laquel
+                uanite\lo seignor dieu lor auoit fait le|seignor dieu pere tout puissant li quel est
+                seignor del|ciel et de la terre. Et firent|per caux .ij. ueaux. par art|de dyable liquel
+                Veel ale|noient et flatoient. et &lt;b&gt;|braioient et estoient delor. et firent m(u)lt
+                dautres|ydoles. et alui consa|croient li sien filz et lor fil|lez par feuc. et seruoient|et
+                creoient as dieu. Et en|uerite le seignor dieu pere|est m(u)lt irez contre le pue|ple.
+                Et dieu pere tout puis|sant les chaçiez en tout de <lb/>[2va] deuant sa presence. Et
+                no(n)|remaist deuant la prese(n)|ce de dieu fors solement|la progenie de iude. et en|coire
+                la proienie de iude|non garda le comandem(en)t|de lo seignor dieu pere|tout puissant.
+                Et certe|nement lo pueple dysr|ahel aloit et p(er)seueroit|en lerror laquel il auoi|ent
+                faite. Et chaça leseig|nor dieu tout lo|ure en la maison de dieu. Et|la lepueple|dysrael
+                de soi. et lor dona|le seignor dieu m(u)lt dep|secution et les mist en la|main de ceux
+                liquel les|destruxirent iusque a|tant quil furent en tot|chaqez deuant le seig|nor dieu
+                pere et des celui|temps que fu parti le pu|eple de israel de la mai|son de dauid. et
+                firent|lor roy deieroboam le filz|denabath. Et pour cert ie|roboam fist partir le pu|eple
+                de israel alerent li|&lt;p&gt; fill de israel et firent tu|it Vniuersalment li pe|chie
+                de ieroboam quil a|uoit fait. et non se parti|rent de celui pechie iusq(ue)|atant que
+                loseignor di|eu chaça israel de deuant|sa face, ensi co(m)me il auoit <lb/>[2vb] parle
+                et dit par la bouche de|tuit li sien seruicial et p(ro)phete|Et fu certenement translate|le
+                pueple de israel en la syrie|et et chacie de lor terre de isr(ae)l|iusque a cesti or
+                dehui. Et me|na pour cert le roi de li assirie(n)|de babylone. et de cutha. et de|aiaath.
+                et de emath. et de sa|pharuaiz. et les mist a ester|et a habiter en la cite de lo re|gne
+                de israel en samarie en lo|lieu de li fil de israel. Liquel|auoient possedut samarie|et
+                auoient este en lor p(ro)pre|cite. Et quant il comencere(n)t|a habiter en celle cite
+                il non|timoient lo seignor. Et le se|ignor mist en miege delz li|ons les quelz lyons
+                les occi|oient et les me(n)ioient. Et por|cert il fu a(n)noncie et dit a lo|roy de syrie.
+                Ta gent li quel tu|feiz aler ester et habiter en la|cite dysrael de samarie non|conoissent
+                lor seignor li q(ue)l|lor afait tant debien et de|honor. Et lo seignor dieu lor|a mande
+                m(u)lt de lyons. Et|ces lyons les occient pour|ce quil ne conoissent la &lt;co(n)&gt;|costume
+                et la rayson la q(ue)l|le se doit faire a lo seignor|de la terre. Et lo roi de syrie
+                i|dist. Menez en celle part un|prestre de ceux liquelz nouz|menastez en ceste prison
+                et|habite auec elz et il lor do|ie mostrer ceste choze la q(ue)lle [sont licite]   
+                 <lb/></p>
+                <lb/>
+                <p xml:id="d001l5" n="$2" rend="II"><lb/> <lb/>{{Frammento Forrer}}<lb/> <lb/>{{MACHABAEORUM I 6}}</p>
+                <lb/>
+                <p xml:id="d001l6" n="1" rend="1">[1ra] la fame de cellui lieu auoiet|il pour cert chacie, et chascu(n)| home estoit alez
+                et de ester et|demorer en son lieu. Et oi lizi|as que phelippe lequel auoit|constituit
+                le roy antiochus i|quant il estoit en uie ace quil|deust norrir anthiocus son fillet
+                quil deust regner quant il|fust retorne de perse et de mede|o tout lost liquel estoit
+                alez|auuec lui et pource quil cer|cha destre seignor delo reg|ne ala en continent et
+                dist|alo roi et ali dux et ali prin|ce de lo ex(er)cit. De iour en ior|nous manche lo
+                mengier et|lo boire et nouz en auons poi|et li lieu liquel nouz auo(n)s|assegie est
+                fornit et auons|est besoingne de disponir et|ordener de lo regne mainte|nant en cest
+                temps present|donons lieu aces homes et|faisonz paiz auuec eaux. et|auuec toute lor
+                gent. et co(n)|stituons a eaux, que il doie(n)t|aler et faire secont que dit|lor loy
+                ensi come il faisoie(n)t|deuant. Et par cose legittime|et honeste la quel estoit lor|Car
+                en uerite nouz les auo(n)s|desprisiez. Et pource sont ai|rez contre nouz et ont fait|toute
+                ceste choze. Et plot li|sermon deuant la face de lo|Roy et de touz ses princes. Et|manda
+                le roy a eaux que il|Vouloit faire auuec eauz i|paiz. Eprin|cet eaux de ceste paiz fu|rent
+                m(u)lt content. Et lo roy [1 rb] lor iura certenem(en)t. et li p(ri)n|ce sien et issirent
+                fors de la|forteteresce. et entra lo roy|el mont syon. Et uit certe|nement la fortesce
+                de lo lieu, et|rompi premerem(en)t lo roy lo|sacrement, liquel il auoit|il auoit iure
+                et conferme de|sa bouche. et co(m)manda lo roy|que lo mont fust destruit|tout entor.
+                Et se parti lo roi|lo grant ioie. et est retorne|o grant alegrece en anthio|ce et troua
+                phelippe liquel|seignorioit la cite. Et con|bati lo roi fortement cont(re) |phelippe.
+                Et apene entra en|[nos animes. et pour nost(re)|saluation. Sachiez entene|ment que nouz
+                certenem(en)t|serons uinceor en poi de te(m)s|et les chacerons de nostre &lt;t&gt;|terre
+                et de nostre possession.|laquelle uoir fu donnee de|lo seignor dieu pere tout pu|issant
+                seignor p(ar)faitement|de ciel et de terre sanz nulle do]<lb/> <lb/>{{MACHABAEORUM I
+                7}}</p>
+                <lb/>
+                <p xml:id="d001l7" n="2" rend="2">Nouz trouons escrit en|cest septisme capitule|de li liure premier delima|chabee. que
+                en lan cent. Et|cinquante et un issi deme|trie filz deleucio de la cite de|rome. Et
+                ala o poi de gent|en la cite maritime. et  reg|na leucio en cel cite. Et fait|fu quant
+                il entra en la mai|son de lo regne de son pere|et lo ex(er)cit pristrent anthi|oche
+                et lizia et les menere(n)t|a lui. Et lo roi lor a dit mani</p>
+                <lb/>
+            </div1>
+        </body>
+    </text>
+</TEI>

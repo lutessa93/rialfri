@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="DIDASCALIEPYRGA-didascaliePyrga">
+                    <title type="short">Didascalie degli affreschi della Cappella Reale di Pyrga</title>
+                    <title type="alt">Didascalie di Pyrga</title>
+                    <abbr>Didascalie di Pyrga</abbr>
+                    <note xml:id="note1">tra il 1310-1320 o 1357-1367, Cipro</note>
+                    <bibl>Jens T. Wollesen, <emph style="font-style:italic">Patrons and Painters on Cyprus: The Frescoes in the Royal Chapel at Pyrga</emph>, Turnhout, Brepols, 2010, pp. 85-89.</bibl>
+                </title>
+                <author xml:id="DIDASCALIEPYRGA" n="050.000">
+                    <name></name>
+                    <abbr></abbr>
+                </author>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitale</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale</resp>
+                    <name>Luigi Tessarolo</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Reference basis text</resp>
+                    <name>Jens T. Wollesen, <emph style="font-style:italic">Patrons and Painters on Cyprus: The Frescoes in the Royal Chapel at Pyrga</emph>, Turnhout, Brepols, 2010, pp. 85-89.</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.rialfri.eu">RIALFrI</ref>
+                </publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <notesStmt>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>Jens T. Wollesen, <emph style="font-style:italic">Patrons and Painters on Cyprus: The Frescoes in the Royal Chapel at Pyrga</emph>, Turnhout, Brepols, 2010, pp. 85-89.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t4"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work">
+                <p xml:id="d001l1" n=""><lb/> <lb/> <lb/>{{Tituli e iscrizioni in francese posti a commento del ciclo di affreschi
+                conservato nella Cappella Reale di Pyrga a Cipro:<lb/> <lb/>{{Scena dell'Ascensione:}}
+                ASENS<lb/>{{Scena della Pentecoste:}} LA PENTECOUSTE<lb/>{{Affresco illeggibile nella
+                parete sud:}} DEA . RA...<lb/>{{Scena dell'Ultima cena:}} LA SENE DOU IEUSDI SAINT<lb/>{{Scena
+                della Lavanda dei piedi: ... M (lacuna)}} BE LAVE LE PIE(ds) ...(Apos)TLE<lb/>{{Figura
+                dell'arcangelo Michele:}} GELE.... <lb/>{{Ritratto di san Damiano:}} S. DAMIEN<lb/></p>
+                <lb/>
+                <p xml:id="d001l2" n=""><lb/>{{Scena della Dormizione di Maria: frammento di iscrizione che Wollesen 2010: 27
+                legge ...GNI, mentre Lucey 2016: 32 e 2018: 89 interpreta come GUI.}}<lb/></p>
+                <lb/>
+                <p xml:id="d001l3" n=""><lb/>{{Iscrizione frammentaria in lettere bianche su fondo verde descritta da Camille
+                Enlart, Art gothique et la Renaissance en Chypre, illustré de 34 planches et de 421
+                figures. Ouvrage publié sous les auspices du Ministère de l'Instruction publique et
+                des Beaux-Arts, par Camille Enlart, Paris, Ernest Leroux Éditeur, 1899, 2 voll., II,
+                pp. 431-432, ma oggi perduta:}}<lb/> <lb/> <lb/>...ai / l'an de Nostre-Sei- / gneur
+                M.CCCC et XXI / s.[a] III. [jour]s de / s[e]ncoumēsée / ceste chappele / [en] 'onor
+                de Dieu et de / l[a P]a[ssi]on de nostre [Seigneur] / .....Mar........ en sui / e /
+                ...................ere</p>
+                <lb/>
+            </div1>
+        </body>
+    </text>
+</TEI>
