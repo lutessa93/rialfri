@@ -33,7 +33,7 @@
             </titleStmt>
             <publicationStmt>
                 <publisher>
-                    <ref target="http://www.rialfri.eu">RIALFrI</ref>
+                    <ref target="https://www.rialfri.eu">RIALFrI</ref>
                 </publisher>
                 <pubPlace>
                     <placeName>Padova</placeName>, <country>ITALY</country>
@@ -47,7 +47,7 @@
                 </availability>
             </publicationStmt>
             <seriesStmt>
-                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana</title>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
                 <respStmt>
                     <resp key="RIALFrI">First developer of encoded collection</resp>
                     <persName>Luigi Tessarolo</persName>
