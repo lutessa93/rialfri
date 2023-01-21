@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="MOTTIESTE-mottiEste">Motti delle principesse di Este</title>
+                <title type="short">Motti delle principesse di Este</title>
+                <title type="sub">1444-1448, Ferrara</title>
+                <author xml:id="MOTTIESTE" n="137.000">
+                    <persName type="main"></persName>
+                    <persName type="short"></persName>
+                </author>
+                <principal>Serena Modena</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione e marcatura digitale</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Giulio Bertoni, <emph style="font-style:italic">Motti francesi su maniche e vestiti di principesse estensi nel Quattrocento</emph>, in Id., <emph style="font-style:italic">Poesie, leggende e costumanze del Medio Evo</emph>, Modena, Orlandini, 1917, pp. 243-250.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t5"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <p xml:id="d001l1" n="1" rend="unnumbered"><lb/>I.<lb/> <lb/>{{Motto di Isotta d’Este}}<lb/> <lb/>Loiaumeut . voil . finir . ma
+                . vie.<lb/></p>
+                <lb/>
+                <p xml:id="d001l2" n="2" rend="unnumbered"><lb/>II.<lb/> <lb/>{{Motto di Beatrice d’Este}}<lb/> <lb/>Ansi . doit . il.<lb/></p>
+                <lb/>
+                <p xml:id="d001l3" n="3" rend="unnumbered"><lb/>III.<lb/> <lb/>{{Motto di Bianca Maria d’Este}}<lb/> <lb/>Nul . Bien . sans . paine.<lb/></p>
+                <lb/>
+                <p xml:id="d001l4" n="4" rend="unnumbered"><lb/>IV.<lb/> <lb/>{{Motti delle ancelle della marchesana di Ferrara, Maria d’Aragona}}<lb/>
+                <lb/>O mors . o mersi.<lb/> <lb/>Avoir . ne . quier.</p>
+                <lb/>
+                <lb/>
+                <lb/>
+                <lb/>
+                <lb/>
+                <lb/>
+                <lb/>
+                <lb/>
+                <lb/>
+            </div1>
+        </body>
+    </text>
+</TEI>

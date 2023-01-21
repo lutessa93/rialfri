@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="ALEXANDRENOTECORRER-alexandrenoteCorrer">Roman d'Alexandre (ms. Correr)</title>
+                <title type="alt">Alexandre (Roman de) (ms. Correr)</title>
+                <title type="short">Roman d'Alexandre (ms. Correr)</title>
+                <title type="sub">note al miniatore e rubriche, 1285, Bologna</title>
+                <author xml:id="ALEXANDRENOTECORRER" n="008.000">
+                    <persName type="main"></persName>
+                    <persName type="short"></persName>
+                </author>
+                <principal>Francesca Gambino</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata e marcatura digitale</resp>
+                    <name>Francesca Gambino</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><emph style="font-style:italic">"Le roman d’Alexandre". Riproduzione del manoscritto Venezia, Biblioteca Museo Correr, Correr 1493</emph>, a cura di Roberto Benedetti, Tricesimo, Vattori, 1998, pp. 35-45.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t3"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <lb/>
+                <lb/>
+                <p xml:id="d001l1" n="1" rend="unnumbered">{{Note per il miniatore}}<lb/></p>
+                <lb/>
+                <p xml:id="d001l2" n="1" rend="numbered">c. 4r cavaierà</p>
+                <lb/>
+                <p xml:id="d001l3" n="2" rend="numbered">c. 5r disnar</p>
+                <lb/>
+                <p xml:id="d001l4" n="3" rend="numbered">c. 6r cavalca</p>
+                <lb/>
+                <p xml:id="d001l5" n="4" rend="numbered">c. 7r travalche {{('tenda da guerra')}}</p>
+                <lb/>
+                <p xml:id="d001l6" n="5" rend="numbered">c. 64v denti de can</p>
+                <lb/>
+                <p xml:id="d001l7" n="6" rend="numbered">c. 71v Alexandr</p>
+                <lb/>
+                <p xml:id="d001l8" n="7" rend="numbered">c. 79r ture de Babilonie</p>
+                <lb/>
+                <p xml:id="d001l9" n="8" rend="numbered">cc. 81v, 83v Babilonie <lb/> <lb/></p>
+                <lb/>
+                <p xml:id="d001l10" n="2" rend="unnumbered">{{Rubriche alle miniature}}<lb/></p>
+                <lb/>
+                <p xml:id="d001l11" n="1" rend="numbered">c. 1ra Li jor qu'Alexandre nasqui furent li signes en ciel.</p>
+                <lb/>
+                <p xml:id="d001l12" n="2" rend="numbered">c. 1rb De XXX fil de contor que nasquirent en icel jor que nasqui Alexandre.</p>
+                <lb/>
+                <p xml:id="d001l13" n="3" rend="numbered">c. 1v  De li VII maistre que aprendoit Alexandre.</p>
+                <lb/>
+                <p xml:id="d001l14" n="4" rend="numbered">c. 2r D'Alexandre que vint a Bucifalc en la cartre.</p>
+                <lb/>
+                <p xml:id="d001l15" n="5" rend="numbered">c. 3r D'Alexandre con ses compaignons que s'ala baigner en la mer por estre chivalier.</p>
+                <lb/>
+                <p xml:id="d001l16" n="6" rend="numbered">c 4r Del rei Felip que fist Alexandre son fil chivalier.</p>
+                <lb/>
+                <p xml:id="d001l17" n="7" rend="numbered">c. 4v D'Alexandre que aloit au torniement.</p>
+                <lb/>
+                <p xml:id="d001l18" n="8" rend="numbered">c. 5r Dou message Nicholas que vint devant Felipon au disner.</p>
+                <lb/>
+                <p xml:id="d001l19" n="9" rend="numbered">c. 5v De l'ost Alexandre que s'atenda soz Mont Taurin.</p>
+                <lb/>
+                <p xml:id="d001l20" n="10" rend="numbered">c. 6r D'Alexandre que encontra Sanson en la voie.</p>
+                <lb/>
+                <p xml:id="d001l21" n="11" rend="numbered">c. 6v  De Sanson e de Festion que vindrent por messager a Nicholas.</p>
+                <lb/>
+                <p xml:id="d001l22" n="12" rend="numbered">c. 7r De li dui messaje que dist sa raison au rei Nicholas de Cesaire.</p>
+                <lb/>
+                <p xml:id="d001l23" n="13" rend="numbered">c. 8r D'Alexandre e de Nicholas que vint ajoster sor le pont de Cesaire.</p>
+                <lb/>
+                <p xml:id="d001l24" n="14" rend="numbered">c. 8va De la bataille que fist Alexandre a Nicholas de Cesaire.</p>
+                <lb/>
+                <p xml:id="d001l25" n="15" rend="numbered">c. 8va D'Alexandre que trença la teste a Nicholas et Aristé e Festion l'en prist.</p>
+                <lb/>
+                <p xml:id="d001l26" n="16" rend="numbered">c. 9r D'Alexandre que fist li doçe per.</p>
+                <lb/>
+                <p xml:id="d001l27" n="17" rend="numbered">c. 10r De li messaje Dayre que vint au rei Felip por demander lo treu.</p>
+                <lb/>
+                <p xml:id="d001l28" n="18" rend="numbered">c. 11r  D'Aristote que amaistroit Alexandre.</p>
+                <lb/>
+                <p xml:id="d001l29" n="19" rend="numbered">c. 11v  D'Alexandre que prist a chevauchier encontre Cesaire.</p>
+                <lb/>
+                <p xml:id="d001l30" n="20" rend="numbered">c. 13r  De la gent de Gadres que vint por secorre li dus Balez de Tyr.</p>
+                <lb/>
+                <p xml:id="d001l31" n="21" rend="numbered">c. 17ra  De Sanson que josta au dux Betis de Gadres.</p>
+                <lb/>
+                <p xml:id="d001l32" n="22" rend="numbered">c. 17rb De Eumenedus que ocist Salachançon vesque de Gadres.</p>
+                <lb/>
+                <p xml:id="d001l33" n="23" rend="numbered">c. 17v De la gent d'Alexandre que se combatoit con li turc que portoit les arc.</p>
+                <lb/>
+                <p xml:id="d001l34" n="24" rend="numbered">c. 18v De Eumenedus que trença un duc per mei la schine dusque as arçons dou cival.</p>
+                <lb/>
+                <p xml:id="d001l35" n="25" rend="numbered">c. 19v De Salartons de Clere que vint con VII mil chivalier por aider li dus Balez
+                de Tyr.</p>
+                <lb/>
+                <p xml:id="d001l36" n="26" rend="numbered">c. 20r De Corisnel que dona secors ad Eumenedus.</p>
+                <lb/>
+                <p xml:id="d001l37" n="27" rend="numbered">c. 21v De la gent Alexandre que se combatoit a cil de Gadres en la Val de Josaphat.</p>
+                <lb/>
+                <p xml:id="d001l38" n="28" rend="numbered">c. 24r D'Aridés que aporta le message ad Alexandre davant Tyr de sa gent qui erent
+                confondue en la Val de Josaphat.</p>
+                <lb/>
+                <p xml:id="d001l39" n="29" rend="numbered">c. 24va D'Alexandre que dona secors a Eumenedus en la Val de Josaphat.</p>
+                <lb/>
+                <p xml:id="d001l40" n="30" rend="numbered">c. 24vb De Eumenedus que josta a Gaidifer de Gadres.</p>
+                <lb/>
+                <p xml:id="d001l41" n="31" rend="numbered">c. 27ra De Eumenedus que ocist Gaidifer.</p>
+                <lb/>
+                <p xml:id="d001l42" n="32" rend="numbered">c. 27rb De Eumenedus que pasma por lo sanc que il avoit perdu.</p>
+                <lb/>
+                <p xml:id="d001l43" n="33" rend="numbered">c. 27v D'Alexandre que mena un mire por garir Eumenedus.</p>
+                <lb/>
+                <p xml:id="d001l44" n="34" rend="numbered">c. 28v D'Alexandre que ocist Calot de Nubie.</p>
+                <lb/>
+                <p xml:id="d001l45" n="35" rend="numbered">c. 30r D'Alexandre que desconfist li dux Betis.</p>
+                <lb/>
+                <p xml:id="d001l46" n="36" rend="numbered">c. 30v De cil de Tyr que depeça la tor d'Alexandre qui erent devant Tyr en l'eive.</p>
+                <lb/>
+                <p xml:id="d001l47" n="37" rend="numbered">c. 31va D'Alexandre que fu lanciez dau dux Balez de Tyr.</p>
+                <lb/>
+                <p xml:id="d001l48" n="38" rend="numbered">c. 31vb D'Alexandre que sailli desor le berfroi sor le mur de Tyr.</p>
+                <lb/>
+                <p xml:id="d001l49" n="39" rend="numbered">c. 32r De cil de Tyr que combatoit Alexandre.</p>
+                <lb/>
+                <p xml:id="d001l50" n="40" rend="numbered">c. 32v D'Alexandre que asist Araine e tramist ses mesajes dedenz.</p>
+                <lb/>
+                <p xml:id="d001l51" n="41" rend="numbered">c. 33r Des messajes d'Araine que aporta le clef ad Alexandre et Alexandre la dona au
+                chivalier de Nubie.</p>
+                <lb/>
+                <p xml:id="d001l52" n="42" rend="numbered">c. 33v D'Alexandre que asist Gadres.</p>
+                <lb/>
+                <p xml:id="d001l53" n="43" rend="numbered">c. 34r D'Alexandre que prist Gadres.</p>
+                <lb/>
+                <p xml:id="d001l54" n="44" rend="numbered">c. 37v De li serf Cliabraz e Bersa que ocist Daire reis de Perse.</p>
+                <lb/>
+                <p xml:id="d001l55" n="45" rend="numbered">c. 38r D'Alexandre que fist apaindre li dui serf que avoit mort Daire en traison.</p>
+                <lb/>
+                <p xml:id="d001l56" n="46" rend="numbered">c. 38v De Porrus que dona sa fille a un filz de la raïne Candace.</p>
+                <lb/>
+                <p xml:id="d001l57" n="47" rend="numbered">c. 39r De la bataille que fu entre la gent d'Alexandre e de Porrus davant Ynde.</p>
+                <lb/>
+                <p xml:id="d001l58" n="48" rend="numbered">c. 40r D'Alexandre que ocist Sardeu un rei de Parte.</p>
+                <lb/>
+                <p xml:id="d001l59" n="49" rend="numbered">c. 41r D'Alexandre que prist Yndie.</p>
+                <lb/>
+                <p xml:id="d001l60" n="50" rend="numbered">c. 42va D'Alexandre que prist a aler por le desert d'Ynde vers Bautres.</p>
+                <lb/>
+                <p xml:id="d001l61" n="51" rend="numbered">c. 42vb De l'eive que dona Teophylon ad Alexandre en le desert.</p>
+                <lb/>
+                <p xml:id="d001l62" n="52" rend="numbered">c. 43r D'Alexandre que gusta de l'eive amare.</p>
+                <lb/>
+                <p xml:id="d001l63" n="53" rend="numbered">c. 43va De quatre cent chivalier d'Alexandre que fu mangié en le flum poir li ypopotamos.
+                Alexandre li voloit secorre.</p>
+                <lb/>
+                <p xml:id="d001l64" n="54" rend="numbered">c. 43vb De li C chivalier que devoit guïer Alexandre por le desert que fu gitez en
+                l'eive por le comandement d'Alexandre.</p>
+                <lb/>
+                <p xml:id="d001l65" n="55" rend="numbered">c. 44r De la orse que encontra une mulle cargee de farine.</p>
+                <lb/>
+                <p xml:id="d001l66" n="56" rend="numbered">c. 45ra De li coans que aloit volant per desor l'ost Alexandre.</p>
+                <lb/>
+                <p xml:id="d001l67" n="57" rend="numbered">c.  45rb Del feu que fist faire Alexandre environ l'ost et environ la fontaine por
+                la vermine del desert.</p>
+                <lb/>
+                <p xml:id="d001l68" n="58" rend="numbered">c. 45v De li serpent cresté que fist le domage ad Alexandre.</p>
+                <lb/>
+                <p xml:id="d001l69" n="59" rend="numbered">c. 46ra De la beste qui ot nom Dearant que vont a boivre a la fontaine.</p>
+                <lb/>
+                <p xml:id="d001l70" n="60" rend="numbered">c. 46rb D'Alexandre que se mist a chevauchier por le desert vers Bautres.</p>
+                <lb/>
+                <p xml:id="d001l71" n="61" rend="numbered">c. 46v D'Alexandre que fist teindre son pavillon davant la cité de Bautres.</p>
+                <lb/>
+                <p xml:id="d001l72" n="62" rend="numbered">c. 47v D'Alexandre que fist faire le fossez entor li olifant.</p>
+                <lb/>
+                <p xml:id="d001l73" n="63" rend="numbered">c. 48v De Don Clin que josta ad Asterot de Nubie.</p>
+                <lb/>
+                <p xml:id="d001l74" n="64" rend="numbered">c. 49r D'Alexandre que ocist li reis Boz de Calef.</p>
+                <lb/>
+                <p xml:id="d001l75" n="65" rend="numbered">c. 49v D'Eumenedus que ocist un duc de Bautres.</p>
+                <lb/>
+                <p xml:id="d001l76" n="66" rend="numbered">c. 50v De Porrus que feri Licanor.</p>
+                <lb/>
+                <p xml:id="d001l77" n="67" rend="numbered">c. 51ra De Antigonum que abati Aminadab reis d'Elanie.</p>
+                <lb/>
+                <p xml:id="d001l78" n="68" rend="numbered">c. 51rb De Don Clin que feri Porrus o une lance e Porrus feri lui o une maçue.</p>
+                <lb/>
+                <p xml:id="d001l79" n="69" rend="numbered">c. 51v De Porrus que se rendi ad Alexandre.</p>
+                <lb/>
+                <p xml:id="d001l80" n="70" rend="numbered">c. 52v D'Alexandre que enchauçoit [G]og e Magog quant li camp fu vencuz.</p>
+                <lb/>
+                <p xml:id="d001l81" n="71" rend="numbered">c. 53v D'Alexandre e de Porrus que prist a chevaucier por le desert.</p>
+                <lb/>
+                <p xml:id="d001l82" n="72" rend="numbered">c. 54r D'Alexandre e de Porrus que passa l'eive ou erent Liber et Artus formez d'or.</p>
+                <lb/>
+                <p xml:id="d001l83" n="73" rend="numbered">c. 55ra De la gent Alexandre que ala siter li Liotifal.</p>
+                <lb/>
+                <p xml:id="d001l84" n="74" rend="numbered">c. 55rb De les sirenes que tenoit la gent Alexandre.</p>
+                <lb/>
+                <p xml:id="d001l85" n="75" rend="numbered">c. 55va De la gent Alexandre que fu assaillie dai Coinocifal qui avoient testes de
+                cien.</p>
+                <lb/>
+                <p xml:id="d001l86" n="76" rend="numbered">c. 55vb De la gent d'Alexandre que trova homes que avoinet II testes et II buç.</p>
+                <lb/>
+                <p xml:id="d001l87" n="77" rend="numbered">c. 56ra Del feu que chaoient sor la gent d'Alexandre.</p>
+                <lb/>
+                <p xml:id="d001l88" n="78" rend="numbered">c. 56rb De la nef que plovi sor la gent d'Alexandre en le desert.</p>
+                <lb/>
+                <p xml:id="d001l89" n="79" rend="numbered">c. 56v De la grote enfantasmee.</p>
+                <lb/>
+                <p xml:id="d001l90" n="80" rend="numbered">c. 57r De l'ost Alexandre que chevaucoit per la ruste montagne.</p>
+                <lb/>
+                <p xml:id="d001l91" n="81" rend="numbered">c. 57v D'Alexandre que trova gent c'on apelle murmural e liotifal.</p>
+                <lb/>
+                <p xml:id="d001l92" n="82" rend="numbered">c. 58r D'Alexandre que descendi en la Val perileuse.</p>
+                <lb/>
+                <p xml:id="d001l93" n="83" rend="numbered">c. 59ra D'Alexandre que remest tot seul en la Val perileuse.</p>
+                <lb/>
+                <p xml:id="d001l94" n="84" rend="numbered">c. 59rb D'Alexandre qui parla au diable en la Val perileuse.</p>
+                <lb/>
+                <p xml:id="d001l95" n="85" rend="numbered">c. 59v D'Alexandre que geta lo peron del col au diable en la Val perileuse.</p>
+                <lb/>
+                <p xml:id="d001l96" n="86" rend="numbered">c. 60r D'Alexandre que issi de la Val perileuse e vint a son tref reial.</p>
+                <lb/>
+                <p xml:id="d001l97" n="87" rend="numbered">c. 60v D'Alexandre que trova li II enfant d'or que defendoit le passaje dou pont des
+                dames con II mail.</p>
+                <lb/>
+                <p xml:id="d001l98" n="88" rend="numbered">c. 61va D'Alexandre que vint a la foreste des dames.</p>
+                <lb/>
+                <p xml:id="d001l99" n="89" rend="numbered">c. 61vb De les dames que aloient faire son talent con la gent Alexandre.</p>
+                <lb/>
+                <p xml:id="d001l100" n="90" rend="numbered">c. 62r De Don Clin que mist la dame sor le mul.</p>
+                <lb/>
+                <p xml:id="d001l101" n="91" rend="numbered">c. 63r Del sanc que plovi sor la gent Alexandre.</p>
+                <lb/>
+                <p xml:id="d001l102" n="92" rend="numbered">c. 63v D'Alexandre que se departi da l'ost por aler as arbres.</p>
+                <lb/>
+                <p xml:id="d001l103" n="93" rend="numbered">c. 64va De li veillart que se bagnoit en la fontaine de jovent.</p>
+                <lb/>
+                <p xml:id="d001l104" n="94" rend="numbered">c. 64vb D'Alexandre que trova lo preste que gardoit les arbres.</p>
+                <lb/>
+                <p xml:id="d001l105" n="95" rend="numbered">c. 65r D'Alexandre que escoutoit la voiz des arbres.</p>
+                <lb/>
+                <p xml:id="d001l106" n="96" rend="numbered">c. 65va D'Alexandre que se lava ses mains por manjer e por conforter sa gent.</p>
+                <lb/>
+                <p xml:id="d001l107" n="97" rend="numbered">c. 65vb D'Alexandre que retorna en Ynde.</p>
+                <lb/>
+                <p xml:id="d001l108" n="98" rend="numbered">c. 66r De Porrus que prist congiez da Alexandre.</p>
+                <lb/>
+                <p xml:id="d001l109" n="99" rend="numbered">c. 67ra D'Alexandre que abati Porrus dou cival.</p>
+                <lb/>
+                <p xml:id="d001l110" n="100" rend="numbered">c. 67rb De Porrus que detrança la jambe a Bucifale.</p>
+                <lb/>
+                <p xml:id="d001l111" n="101" rend="numbered">c. 69r D'Alexandre que ocist Porrus reis d'Ynde.</p>
+                <lb/>
+                <p xml:id="d001l112" n="102" rend="numbered">c. 69v Dou messaje d'Alexandre que ala por Divinuspater e por Antipater.</p>
+                <lb/>
+                <p xml:id="d001l113" n="103" rend="numbered">c. 70v Del duc de Palatine que prist la muiller de Candeolus a fine force.</p>
+                <lb/>
+                <p xml:id="d001l114" n="104" rend="numbered">c. 71va D'Al' x. que se fist apeller Antigonus quant il dona le secors a Candeolus.</p>
+                <lb/>
+                <p xml:id="d001l115" n="105" rend="numbered">c. 71vb D'Antigonus que manda por le duc de Palatine.</p>
+                <lb/>
+                <p xml:id="d001l116" n="106" rend="numbered">c. 72ra Del duc de Palatine que amena la dame devant Antogonus.</p>
+                <lb/>
+                <p xml:id="d001l117" n="107" rend="numbered">c. 72rb De Antigonus que fist apendre le duc de Palatine devant la porte de sa cité.</p>
+                <lb/>
+                <p xml:id="d001l118" n="108" rend="numbered">c. 72v De Candeolus que vint cum Alexandre, que se fasoit apeler Antigonus dedevant
+                Tholomé, que il cuidoit que fust Alexandre.</p>
+                <lb/>
+                <p xml:id="d001l119" n="109" rend="numbered">c. 73r D'Alexandre qui esteit en la chambre cum la raïne Candace dedevant l'ymage
+                que fu faite a son nom.</p>
+                <lb/>
+                <p xml:id="d001l120" n="110" rend="numbered">c. 74v De l'ost Alexandre que chevaucoit vers Babiloine.</p>
+                <lb/>
+                <p xml:id="d001l121" n="111" rend="numbered">c. 75ra D'Alexandre que vint en la foreste d'Araan.</p>
+                <lb/>
+                <p xml:id="d001l122" n="112" rend="numbered">c. 75rb D'Alexandre que remest tot sol en la Val d'Araan.</p>
+                <lb/>
+                <p xml:id="d001l123" n="113" rend="numbered">c. 75v D'Alexandre que parla au diable en la Val d'Araan.</p>
+                <lb/>
+                <p xml:id="d001l124" n="114" rend="numbered">c. 77r D'Alexandre que geta la piere del col au diable en la Val d'Araan.</p>
+                <lb/>
+                <p xml:id="d001l125" n="115" rend="numbered">c. 78v De la citez de Babiloine.</p>
+                <lb/>
+                <p xml:id="d001l126" n="116" rend="numbered">c. 79r De les lengues que fu devisee quant issoit la tor.</p>
+                <lb/>
+                <p xml:id="d001l127" n="117" rend="numbered">c. 81v De l'amirai de Babiloine que se fasoit canter devant.</p>
+                <lb/>
+                <p xml:id="d001l128" n="118" rend="numbered">c. 83v Des messajes que retorna a Alexandre.</p>
+                <lb/>
+                <p xml:id="d001l129" n="119" rend="numbered">c. 84v De cil de Babiloine que asailli l'ost d'Alexandre.</p>
+                <lb/>
+                <p xml:id="d001l130" n="120" rend="numbered">c. 86r De Tholomeu e de Clincon que vint davant Alexandre qui ert irïez.</p>
+                <lb/>
+                <p xml:id="d001l131" n="121" rend="numbered">c. 86v De Tholomeu que vint en la Val Danïel por proie prendre.</p>
+                <lb/>
+                <p xml:id="d001l132" n="122" rend="numbered">c. 88r De la bataille que fu en la Val Danïel.</p>
+                <lb/>
+                <p xml:id="d001l133" n="123" rend="numbered">c. 88v De Don Clins qui aporta les novelles de la Val Danïel ad Alexandre.</p>
+                <lb/>
+                <p xml:id="d001l134" n="124" rend="numbered">c. 89ra D'Alexandre que abati l'amirail de Babiloine.</p>
+                <lb/>
+                <p xml:id="d001l135" n="125" rend="numbered">c. 89ra D'Alexandre que prist Babiloine.</p>
+                <lb/>
+                <p xml:id="d001l136" n="126" rend="numbered">c. 89v Del monstre que nasqui en Babilonie le jor qu'Alexandre devoit morir.</p>
+                <lb/>
+                <p xml:id="d001l137" n="127" rend="numbered">c. 90r D'Alexandre que recut li II serf a grant joie.</p>
+                <lb/>
+                <p xml:id="d001l138" n="128" rend="numbered">c. 90v D'Alexandre que fu encoronez en Babiloine.</p>
+                <lb/>
+                <p xml:id="d001l139" n="129" rend="numbered">c. 91r De la roïne Rosonés que fu encoronee en Babiloine.</p>
+                <lb/>
+                <p xml:id="d001l140" n="130" rend="numbered">c. 91v Dou serf que dona lo verin ad Alexandre au disner.</p>
+                <lb/>
+                <p xml:id="d001l141" n="131" rend="numbered">c. 92r D'Alexandre que dona sa muiller a Perdicas.</p>
+                <lb/>
+                <p xml:id="d001l142" n="132" rend="numbered">c. 95v D'Alexandre que encorona les doçe per.</p>
+                <lb/>
+                <p xml:id="d001l143" n="133" rend="numbered">c. 96r D'Alexandre que trespassa dou siecle.</p>
+                <lb/>
+                <p xml:id="d001l144" n="134" rend="numbered">c. 103 De li doçe per qui porta Alexandre a sepelir.</p>
+                <lb/>
+                <p xml:id="d001l145" n="135" rend="numbered">c. 104r Dou message la raïne Candace que dist novelles as doçe per de Divinuspater
+                e de Antipater.</p>
+                <lb/>
+                <p xml:id="d001l146" n="136" rend="numbered">c. 104v De li doçe per que prist li traitor en dormant que envenena Alexandre.</p>
+                <lb/>
+                <p xml:id="d001l147" n="137" rend="numbered">c. 105r De la raïne Candace que vint a la sepulture d'Alexandre.</p>
+                <lb/>
+                <p xml:id="d001l148" n="138" rend="numbered">c. 106r De li dui serf que fu encartrez.</p>
+                <lb/>
+                <p xml:id="d001l149" n="139" rend="numbered">c. 106v De li diables que aporterent li dui serf que ocist Alexandre.</p>
+                <lb/>
+            </div1>
+        </body>
+        <back>
+            <div type="edizione">
+                Note per il miniatore e rubriche alle miniature.
+            </div>
+        </back>
+    </text>
+</TEI>

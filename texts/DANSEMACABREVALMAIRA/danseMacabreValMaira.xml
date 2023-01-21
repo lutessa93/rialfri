@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="DANSEMACABREVALMAIRA-danseMacabreValMaira">Didascalie di un frammento di "Danse Macabre" in Val Maira</title>
+                <title type="short">Didascalie di un frammento di "Danse Macabre" in Val Maira</title>
+                <title type="sub">1461, Val Maira</title>
+                <author xml:id="DANSEMACABREVALMAIRA" n="062.000">
+                    <persName type="main"></persName>
+                    <persName type="short"></persName>
+                </author>
+                <principal>Serena Modena</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale e messa in linea</resp>
+                    <name>Francesca Gambino</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Marco Piccat, <emph style="font-style:italic">Le scritte di San Peyre di Macra (Val Maira): una «Danse Macabre» in Occitania</emph>, in «Bollettino dell'Atlante Linguistico Italiano», III Serie, n. 24 (2000), pp. 103-124.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t5"/>
+                <keywords>
+                    <term type="form">poetry</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <div2 xml:id="d001c000" n="">
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c001" n="1">
+                    <head>I frate narratore</head>
+                    <l xml:id="d001l1" n="1"></l>
+                    <l xml:id="d001l2" n="2">... a en esta dan(...........a)rel et agro(.......)</l>
+                    <l xml:id="d001l3" n="3">(.....o)r va met(.........)a( ... de) des(.........s) je.</l>
+                    <l xml:id="d001l4" n="4">(.......)me (. .. )vi je ay vison(...........) en a(.........)</l>
+                    <l xml:id="d001l5" n="5">(……………………….)n(……………)</l>
+                    <l xml:id="d001l6" n="6">( ........ )sir(ia) ( ....)que .. (.........l…….al..........)</l>
+                    <l xml:id="d001l7" n="7">(............)fas(......) (s)egne( ... e ............i son)//</l>
+                    <l xml:id="d001l8" n="8">Or az( ...) quant</l>
+                    <l xml:id="d001l9" n="9">la m(ort.......)</l>
+                </div2>
+                <div2 xml:id="d001c002" n="2">
+                    <head>II papa</head>
+                    <l xml:id="d001l10" n="1"></l>
+                    <l xml:id="d001l11" n="2">E llas en si grant</l>
+                    <l xml:id="d001l12" n="3">henor que si tost</l>
+                    <l xml:id="d001l13" n="4">se perd.</l>
+                </div2>
+                <div2 xml:id="d001c003" n="3">
+                    <head>III morte</head>
+                    <l xml:id="d001l14" n="1">Venes avant enperor: mort</l>
+                    <l xml:id="d001l15" n="2">n’esparmie petit ne grant.</l>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c004" n="4">
+                    <head>IV imperatore</head>
+                    <l xml:id="d001l16" n="1">E llas je (ne) sae que far ne ond</l>
+                    <l xml:id="d001l17" n="2">fuir per m(ort) g(ar)d(ar).</l>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c005" n="5">
+                    <head>V morte</head>
+                    <l xml:id="d001l18" n="1"></l>
+                </div2>
+                <div2 xml:id="d001c006" n="6">
+                    <head>VI cardinale</head>
+                    <l xml:id="d001l19" n="1">Oy las, el m(e)</l>
+                    <l xml:id="d001l20" n="2">faut morir</l>
+                    <l xml:id="d001l21" n="3">jamae n’es(e)-</l>
+                    <l xml:id="d001l22" n="4">raye plus des</l>
+                    <l xml:id="d001l23" n="5">vayr ne gris.</l>
+                </div2>
+                <div2 xml:id="d001c007" n="7">
+                    <head>VII morte</head>
+                    <l xml:id="d001l24" n="1">Fete vos en sa rey jerons ...a les//</l>
+                    <l xml:id="d001l25" n="2">...ra..ates se vous</l>
+                    <l xml:id="d001l26" n="3">…..l..bes</l>
+                </div2>
+                <div2 xml:id="d001c008" n="8">
+                    <head>VIII ?</head>
+                    <l xml:id="d001l27" n="1"></l>
+                </div2>
+                <div2 xml:id="d001c009" n="9">
+                    <head>IX</head>
+                    <l xml:id="d001l28" n="1">(re)</l>
+                    <l xml:id="d001l29" n="2">…. ne sae.. pe</l>
+                    <l xml:id="d001l30" n="3">....que la mort</l>
+                    <l xml:id="d001l31" n="4">.... er si den…</l>
+                    <l xml:id="d001l32" n="5">e.........a .poc</l>
+                    <l xml:id="d001l33" n="6">pret…… ec</l>
+                    <l xml:id="d001l34" n="7">de.... ta ......</l>
+                    <l xml:id="d001l35" n="8">..reatura.</l>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c010" n="10">
+                    <head>X morte</head>
+                    <l xml:id="d001l36" n="1">Fete (vo)s avant</l>
+                    <l xml:id="d001l37" n="2">vesque: jamays no in-</l>
+                    <l xml:id="d001l38" n="3">trere en canbre pente.</l>
+                </div2>
+                <div2 xml:id="d001c011" n="11">
+                    <head>XI vescovo</head>
+                    <l xml:id="d001l39" n="1">La mort meyna guera darera</l>
+                    <l xml:id="d001l40" n="2">e devant. Oy Dieu aie piété</l>
+                    <l xml:id="d001l41" n="3">de moe d’ora en avant.</l>
+                </div2>
+                <div2 xml:id="d001c012" n="12">
+                    <head>XII morte</head>
+                    <l xml:id="d001l42" n="1"></l>
+                </div2>
+                <div2 xml:id="d001c013" n="13">
+                    <head>XIII ?</head>
+                    <l xml:id="d001l43" n="1"></l>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c014" n="14">
+                    <head>XIV morte</head>
+                    <l xml:id="d001l44" n="1"></l>
+                </div2>
+                <div2 xml:id="d001c015" n="15">
+                    <head>XV soldato</head>
+                    <l xml:id="d001l45" n="1">...e me defendroye</l>
+                    <l xml:id="d001l46" n="2">a la mort tant</l>
+                    <l xml:id="d001l47" n="3">com je podr(oie):</l>
+                    <l xml:id="d001l48" n="4">la mort, si se (de-)</l>
+                    <l xml:id="d001l49" n="5">vien en ver-</l>
+                    <l xml:id="d001l50" n="6">moye, a gran pas,</l>
+                    <l xml:id="d001l51" n="7">cum les fleces e ot</l>
+                    <l xml:id="d001l52" n="8">plein sun archas(...)//</l>
+                    <l xml:id="d001l53" n="9">Venes en sa execrable mort. A mi</l>
+                    <l xml:id="d001l54" n="10">la mort m’a pris e</l>
+                    <l xml:id="d001l55" n="11">…feri....</l>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c016" n="16">
+                    <head>XVI abate</head>
+                    <l xml:id="d001l56" n="1">La mort (m’a) pris e fer(i).</l>
+                    <l xml:id="d001l57" n="2">E llas Diu, aye piétié</l>
+                    <l xml:id="d001l58" n="3">de mi.</l>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c017" n="17">
+                    <head>XVII morte</head>
+                    <l xml:id="d001l59" n="1">Ab(at) ve(nes): fuir</l>
+                    <l xml:id="d001l60" n="2">vous n’aves la c(ur.): ...</l>
+                    <l xml:id="d001l61" n="3">us (mo)ndes a.. l’aba(...) que</l>
+                    <l xml:id="d001l62" n="4">vos segrar va.</l>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c018" n="18">
+                    <head>XVIII usuraio</head>
+                    <l xml:id="d001l63" n="1">Te(ne)s mort mon</l>
+                    <l xml:id="d001l64" n="2">argent, e vos me</l>
+                    <l xml:id="d001l65" n="3">laseres aler coma</l>
+                    <l xml:id="d001l66" n="4">devant.</l>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c019" n="19">
+                    <head>XIX donna</head>
+                    <l xml:id="d001l67" n="1">(Ven)es usurier: vos</l>
+                    <l xml:id="d001l68" n="2">perdere la via: a les</l>
+                    <l xml:id="d001l69" n="3">(dr)aie ifernal me</l>
+                    <l xml:id="d001l70" n="4">fere cunpagnia.</l>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c020" n="20">
+                    <head>XX frate</head>
+                    <l xml:id="d001l71" n="1">E las: je ne sae que</l>
+                    <l xml:id="d001l72" n="2">fer. En mon cuvant</l>
+                    <l xml:id="d001l73" n="3">no zai piu toner.</l>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c021" n="21">
+                    <head>XXI morte</head>
+                    <l xml:id="d001l74" n="1">Venes (mer)chader...a</l>
+                    <l xml:id="d001l75" n="2">pagn .... vous tant</l>
+                    <l xml:id="d001l76" n="3">perdere la.......a</l>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c022" n="22">
+                    <head>XXII mercante</head>
+                    <l xml:id="d001l77" n="1">Je e stait a mont e a (val) e</l>
+                    <l xml:id="d001l78" n="2">a pie e a chaval.</l>
+                    <l xml:id="d001l79" n="3">(la mo)rt m’a</l>
+                    <l xml:id="d001l80" n="4">pris senza</l>
+                    <l xml:id="d001l81" n="5">remisiun.</l>
+                    <l xml:id="d001l82" n="6">E llas non</l>
+                    <l xml:id="d001l83" n="7">sai re-</l>
+                    <l xml:id="d001l84" n="8">tur-</l>
+                    <l xml:id="d001l85" n="9">ner a ma</l>
+                    <l xml:id="d001l86" n="10">mays(un).</l>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c023" n="23">
+                    <head>XXIII morte</head>
+                    <l xml:id="d001l87" n="1">Venes lavor(…)</l>
+                    <l xml:id="d001l88" n="2">vous aves</l>
+                    <l xml:id="d001l89" n="3">tant lavoré noit</l>
+                    <l xml:id="d001l90" n="4">ne ior. Vous</l>
+                    <l xml:id="d001l91" n="5">ne vos e reposé.</l>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c024" n="24">
+                    <head>XXIV morte</head>
+                    <l xml:id="d001l92" n="1">Ve(nes)……….</l>
+                    <l xml:id="d001l93" n="2">…cors rep…//</l>
+                    <l xml:id="d001l94" n="3">……..je t…s</l>
+                    <l xml:id="d001l95" n="4">……………</l>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c025" n="25">
+                    <head>XXV ?</head>
+                    <l xml:id="d001l96" n="1"></l>
+                    <l xml:id="d001l97" n="2">…..je ….t….s</l>
+                </div2>
+            </div1>
+        </body>
+        <back>
+            <div type="edizione">
+                NB: All'edizione di Piccat 2000 è stata integrato il numero [VIII] mancante.
+            </div>
+        </back>
+    </text>
+</TEI>

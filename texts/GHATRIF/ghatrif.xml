@@ -1,0 +1,1669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="GHATRIF-ghatrif">Le livre de Ghatrif</title>
+                <title type="short">Le livre de Ghatrif</title>
+                <title type="sub">1249-1272</title>
+                <author xml:id="GHATRIF" n="043.000">
+                    <persName type="main">Daniele Deloc da Cremona</persName>
+                    <persName type="short">Daniele Deloc da Cremona</persName>
+                </author>
+                <principal>Serena Modena</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale</resp>
+                    <name>Luigi Tessarolo</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><emph style="font-style:italic">Moamin et Ghatrif. Traités de fauconnerie et des chiens de chasse</emph>, édition princeps de la version franco-italienne avec trois planches hors texte, par Håkan Tjerneld, Stockholm-Paris, Éditions C.E. Fritze-Librairie J. Thiébaud, 1945 («Studia Romanica Holmiensia», 1).</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t3"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <div2 xml:id="d001c000" n="prol.">
+                    <lb/>
+                    <p xml:id="d001l1" n="1" rend="numbered">Ici comence li livres qi fist mestre Tarif de Perse, par latin, et puis le translata
+                    en franchoins metre Daniel de Cremone.</p>
+                    <lb/>
+                    <p xml:id="d001l2" n="2" rend="numbered">Aprés ce qe je ai, la merci nostre seignor, finé le livre de Monayn fauchonier, ploit
+                    a mon segnor le noble roi qe je m'entremeïsse de translatier un autre livre encore de
+                    latin en franchois, li qels traite de la drotrine de oisseax de rapine et des mecine
+                    de lor enfermitez, et dou qel mestres Tariph de Perse fu compilleres premieremant, come
+                    cil qi le translata de persie[n] en latin.</p>
+                    <p xml:id="d001l3" n="3" rend="numbered">Est devisez par lxxv capitres ensi come je le vos diviserai par ordre l'un aprés l'autre
+                    distinctemant.<lb/> <lb/>(1) D'un petit prologe qi fist mestre Tarif de Perse sor ceste
+                    ovre. I<lb/>(2) [D]es enseignes de la bonté des oisseax de rapine. II<lb/>(3) De fere
+                    maniers les oisseax de rapine. III<lb/>(4) [D]e reclamer les oiseax de rapine. IV<lb/>(5)
+                    [D]e la qantité dou past des oisseax de rapine. V<lb/>(6) [D]e les egestions desoure
+                    et desoutz. VI<lb/>(7) [D]e cog[n]oistre la purgaüre des oiseax et les enseignes de
+                    la sainté de la gorge. VII<lb/>(8) [D]e la bone garde de l'oisel. VIII<lb/>(9) [D]e
+                    la bonté et dou solaz des qatre manieres principaus des oisseax de rapine. XIX<lb/>(10)
+                    [D]e l'ostor. X<lb/>(11) [D]ou faucon. XI<lb/>(12) [D]ou faucon pelegrin. XII<lb/>(13)
+                    [D]ou premier past des esparviers. XIII<lb/>(14) [D]e la nature de la char des colums.
+                    XIV<lb/>(15) [D]e la nature de la char des moutons. XV<lb/>(16) [D]e la nature de la
+                    char des polastres et des autres oiseax. XVI<lb/>(17) [D]ou past des oiseax de rapine.
+                    XVII<lb/>(18) [D]ou maveis past. XVIII<lb/>(19) [D]e cure[r] l'oisel qant il ne puet
+                    esquizer. XIX<lb/>(20) [Q]es chars l'en doit veer as oisseax de rapine. XX<lb/>(21)
+                    [D]'engrasser les oisseax de rapine. XXI<lb/>(22) [D]e conoistre qant past puet soufir
+                    a pestre l'oisel. XXII<lb/>(23) [D]e la debilité de l'apetit. XXIII<lb/>(24) [Q]e l'en
+                    ne doit pestre l'oisel maintenant q'il a prise la proie. XXIV<lb/>(25) [D]e pestre l'oisel
+                    sauvage. XXV<lb/>(26) [D]e metre l'oisel en mue. XXVI<lb/>(27) [D]e la egestion. XXVII<lb/>(28)
+                    [D]e la murmuracion dou ventre. XXVIII<lb/>(29) [D]e chars bones a engraissier. XXIX<lb/>(30)
+                    [D]e conoistre qant li oisseax a bien enduit suen past. XXX<lb/>(31) [D]e curer l'enfermité
+                    qi est calice appellee. XXXI<lb/>(32) [D]e curer l'oisel des lombrices qi lor naissent
+                    el ventre. XXXII<lb/>(33) [D]'amender l'oisel qi ne vient velentiers au reclam. XXXIII<lb/>(34)
+                    [D]e curer le vomir. XXXIV<lb/>(35) [D]e curer la fleme et la colore par vomir. XXXV<lb/>(36)
+                    [D]e fere l'oisel tost muer. XXXVI<lb/>(37) [D]ou past qi fet issir bones les novelles
+                    pennes. XXXVII<lb/>(38) [D]ou leu de la mue. XXXVIII<lb/>(39) [D]'amegrir l'oisel qant
+                    l'en le tret de mue. XXXIX<lb/>(40) [D]e cure de la depennason de l'oisel. XL<lb/>(41)
+                    [D]e curer l'oisel de peoils. XLI<lb/>(42) [D]e curer la podrage. XLII<lb/>(43) [C]omant
+                    l'en doit fere la chave qe l'en fet trere por metre dedens l'oisel. XLIII<lb/>(44) [D]e
+                    l'ardant appetit de l'oisel. XLIV<lb/>(45) [D]e la cure dou dolor dou dos. XLV<lb/>(46)
+                    [D]e la cure de la corosion. XLVI<lb/>(47) [D]e la cure d'une autre maniere de corosion.
+                    XLVII<lb/>(48) [D]es enseignes por savoir en qel partie a l'oiseax sa enfermité. XLVIII<lb/>(49)
+                    [D]e conoistre la sainté et l'enfermité de l'oisel. XLVIV<lb/>(50) Por fere qe l'oisel
+                    preinge granz oiseax. L<lb/>(51) Por fere qe l'en ne perde l'oisel de vern. LI<lb/>(52)
+                    D'un engin por prendre l'oisel qant il est fuiz et ne veit retorner au reclam. LII<lb/>(53)
+                    [D]'adomastier le grant oisel. LIII<lb/>(54) [D]e chacier les lombrices. LIV<lb/>(55)
+                    [D]e la cure de l'aneler. LV<lb/>(56) [D]e la cure des plaies et des feries qe l'oisel
+                    sostient par autre oisel. LVI<lb/>(57) [D]e la cure de l'enfleüre dou chief. LVII<lb/>(58)
+                    [D]e le cure de la reume qi descent en la gole a l'oisel. LVIII<lb/>(59) [D]e la cure
+                    de l'enfermité de l'asme. LIX<lb/>(60) [D]e la cure de la fleme qi vient en la gole.
+                    LX<lb/>(61) [D]e la cure de la blanchor des euz de l'oisel. LXI<lb/>(62) [D]e la cure
+                    de l'enfermité des oreilles. LXII<lb/>(63) [D]e la cure de l'enfermité de la pree. LXIII<lb/>(64)
+                    [D]e curer l'oisel qant il est timoreus. LXIV<lb/>(65) [D]e restaurer les pennes rotes
+                    et tortes. LXV<lb/>(66) [D]e curer l'oisel gras et pereceus en chacier. LXVI</p>
+                    <lb/>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c001" n="1">
+                    <head>1.</head>
+                    <p xml:id="d001l4" n="1" rend="numbered">Mestres Tariph de Perse dist, selonc ce qe je trovai escrit en son livre dou latin,
+                    qe maint sage home de Persse et de Grece en l'art des oisseax de rapine escristrent
+                    maint livres sor ce, el qel il comprehendirent mainte chose inutels et non besoigneuse
+                    confusemant. Mes transcurrans lor livres et lor dit, el present volume compilla et met
+                    tot ce qi'l trova dispers en eax breumant, utel et neccessaire a ceste matire, et dist
+                    en ceste maniere.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c002" n="2">
+                    <head>2.</head>
+                    <p xml:id="d001l5" n="1" rend="numbered"><emph style="font-style:italic">Des einseignes de la bonté de oissieax de rapine.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l6" n="2" rend="numbered">Savoir et noter doit l'en certainemant qe del oisseax qi vivent de rapine sunt li meillor
+                    cil qi ont gros bec et a la bouche large et a la voiz grosse et la lange et le palé
+                    noir et les nares targes et les euz amples et concaus et les sorcils vertz, mes non
+                    trop espois ni covert de plumes, et la face grosse et le col gros et la gole large et
+                    ample la gorge et ample le pit et curtes les pennes des eles.</p>
+                    <p xml:id="d001l7" n="3" rend="numbered">Mes li coutel doivent estre lonc et l'ele, lai ou elle se conjoint au cors, doit estre
+                    grosse, et doivent estre el dos arufez et noirs, et la coue doivent avoir [un pou torte
+                    et] dure la char et les cuisses curtes et amdeus les piez retortes et loncs et vert
+                    et les plantes amples et l'erre grant et large et le voler lonc.</p>
+                    <p xml:id="d001l8" n="4" rend="numbered">Et doivent estre fauve de color ou ferant, traiant ensi com a janece ou a rosece, mes
+                    li meillors de tout sunt li fauve.</p>
+                    <lb/>
+                    <p xml:id="d001l9" n="5" rend="numbered">Et sachient tuit qe tuit li oisel qi sunt mellé et de diverse color sunt buen.</p>
+                    <lb/>
+                    <p xml:id="d001l10" n="6" rend="numbered">Dels ostors dist Caycans, un rois de Parthe, qe li miaudres ostors est cil qi est blanc,
+                    qar ce est esprovez sor toutez autres oissieax de rapine par ardimant et par proeche
+                    et par biauté et est de cortoise nature, mes pou en trova.</p>
+                    <p xml:id="d001l11" n="7" rend="numbered">Mes d'autres oissieax de rapine sunt maint qi sunt engalmant buen, et la miaudres venason
+                    q'il font est d'oches et d'oiseax d'eve, mes il ne prenent pas les arons.</p>
+                    <p xml:id="d001l12" n="8" rend="numbered">Mes li ostor prenent les ayrons et toutez autres oissieax, ausi les grans come les
+                    petitz.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="3">
+                    <head>3.</head>
+                    <p xml:id="d001l13" n="1" rend="numbered"><emph style="font-style:italic">De fere manieres les oissieax de rapine.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l14" n="2" rend="numbered">Qant vos venez a aucune fonteine d'eve, aspergez li la bouche et le chief de l'eve
+                    de cele fonteine.</p>
+                    <p xml:id="d001l15" n="3" rend="numbered">Et aprés ce qe li soleax est tornez a declin, tenez tot adés l'oisel en vetre main,
+                    et la nuit meeme le tenez assez longemant a la luor de la lucerne, et ensi le fetes
+                    veilier longemant.</p>
+                    <p xml:id="d001l16" n="4" rend="numbered">Et avant q'il soit jorz, prenez encore l'oisel en vestre main et l'aloseingiez, selonc
+                    ce q'a vos semblera estre besoign et selonc ce q'a l'oisel vos semblera blaisir.</p>
+                    <lb/>
+                    <p xml:id="d001l17" n="5" rend="numbered">Et s'il se debat et ne veit seoir sor le poing, ne le leissiez por tot ce, mé benignement
+                    l'estruez, et le retornez sor le poing doucemant et soevemant, ensi q'il conoise et
+                    sache vostre volenté, et [l'estruez a] estruter de la perche sor la main ou de la main
+                    sor la perche et a retorner a vostre main autresi pou et pou.</p>
+                    <p xml:id="d001l18" n="6" rend="numbered">Et ensi s'adoucira et s'apriveera et viendra au clamer volentiers et volentiers maingiera.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c004" n="4">
+                    <head>4.</head>
+                    <p xml:id="d001l19" n="1" rend="numbered"><emph style="font-style:italic">De la maniere de reclamer les oisel de rapine.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l20" n="2" rend="numbered">Premieremant doit l'en clamer l'oisel par un espace loing da soi ensi com est par un
+                    braz, et aprés ce par deus, et ensi pou et pou plus loing toute voies.</p>
+                    <p xml:id="d001l21" n="3" rend="numbered">Et chascune foee q'il vient a main, l'en le doit leissier becher de la char un petit,
+                    por ce q'il s'aüse a venir volentiers et q'il conoisse q'il place a celui qil clame.</p>
+                    <lb/>
+                    <p xml:id="d001l22" n="4" rend="numbered">Et aprés ce, qant l'en l'avra fet venir a sa volunté, adonc li doit complir suen past
+                    et sachier le a tout suen voloir, et ce fetes par auqant jor.</p>
+                    <p xml:id="d001l23" n="5" rend="numbered">L'en doit puis issir o tot fors es champ.</p>
+                    <lb/>
+                    <p xml:id="d001l24" n="6" rend="numbered">Mes bien se gart q'il nel leist es premiers amajestrimanz sanz creance, et qant il
+                    l'avra bien amajestrié et q'il viendra bien au reclam, adonc face puis de lui ce qe
+                    li plet et qe li semble avoir mestier.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c005" n="5">
+                    <head>5.</head>
+                    <p xml:id="d001l25" n="1" rend="numbered"><emph style="font-style:italic">De la qantité de past des oisseax de rapine.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l26" n="2" rend="numbered">Mestiers est premieremant qe li syres de l'oisel sache bien la qantité dou [past] de
+                    suen oisel et qant il li doit acroistre ou minuoir, et q'il sache s'il est constipez
+                    ou trop laxe par vomir ou par esquizer.</p>
+                    <p xml:id="d001l27" n="3" rend="numbered">Et se ce doint garde de conoistre bien manifestemant, qar s'il ne se feit bien porveoir
+                    de ce, suens oisseax puet encore maintes grans enfermitez.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c006" n="6">
+                    <head>6.</head>
+                    <p xml:id="d001l28" n="1" rend="numbered"><emph style="font-style:italic">Des egestions desoure et desoutez.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l29" n="2" rend="numbered">Encore est meslier qe l'en osert l'egestion et voie s'ele est mout ou pou molle ou
+                    dure et autresi cil q'il gite par la boche, et se ce purgaüre sunt de buen ou de mauveis
+                    odor.</p>
+                    <p xml:id="d001l30" n="3" rend="numbered">Et saichient tuit qe qant le purgaüre desout sunt molle et cele desoure sunt dure qe
+                    ce signifie qe li past soit corompuz dedenz l'estomac.</p>
+                    <lb/>
+                    <p xml:id="d001l31" n="4" rend="numbered">Et qant il devint le contraire de ce, ce est qe le purgaüre desoutz sunt dure et celle
+                    desoure sunt molle, adonc saiche l'en qe ce signifie estre par male digestion et qe
+                    li stomaic ait tante debilité q'il ne puist coire par ochaison de mauveis past.</p>
+                    <lb/>
+                    <p xml:id="d001l32" n="5" rend="numbered">Et a ce doit l'en user tel cure: l'en doit prendre un columbel et gitier le devant
+                    l'oisel tout vif et leisser li assez deplumer, et ce fet, trove l'en une columbelle
+                    et peisse l'oisel de li et li doint de l'eve a sa volenté, qar ce refroidera et recreera
+                    suen cors.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c007" n="7">
+                    <head>7.</head>
+                    <p xml:id="d001l33" n="1" rend="numbered"><emph style="font-style:italic">De conoistre la purgeüre et la sainté de lor gorge.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l34" n="2" rend="numbered">Mes qant le purgeüre de l'oisel, desoure come desouz, sunt dure, adonc sachient tuit
+                    qe l'oisels est sainz, et adonc doit estre mout studieus et curieus li fauconiers a
+                    enqere et a conoistre les enseignes de la gorge, ensi come li mires conoist cele de
+                    l'home par le pulse.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c008" n="8">
+                    <head>8.</head>
+                    <p xml:id="d001l35" n="1" rend="numbered"><emph style="font-style:italic">De la garde qe li fauconiers doit fer de l'oissel.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l36" n="2" rend="numbered">Encore est mestier tot premieremant qe li fauchoniers aint l'oiselet q'il le tiegne
+                    et governe hu[m]blemant et benignemant et li honore de qant q'il puet, allosenjant
+                    le et serviant le bien et debonairemant a tot suen pooir, et q'il le pesse de bone
+                    et de fresche char.</p>
+                    <p xml:id="d001l37" n="3" rend="numbered">Et s'il avint a la foee q'il ne volt bien ou q'il fault a prendre, ja por ce ne li
+                    doit l'en espuer en la face, ne irer soi envers lui, qar li oisel de rapine sunt entendant
+                    miauz de tot autres oiseax et sunt de plus desdeigneuse nature et cil qi plus ont afasti
+                    tout despit et qi plus le fuient,</p>
+                    <p xml:id="d001l38" n="4" rend="numbered">ni ne le doit l'en touchier trop sovant o la main, qar saichent tuit qe l'oisés n'aime
+                    l'en fors por le bien qe l'en li fet.</p>
+                    <p xml:id="d001l39" n="5" rend="numbered">Dont tuit l'oisel de rapin[e] se doivent studieusemant honorer et tenir chier, alosenjant
+                    les et serviant les tot adés debonairemant, ensi come dit est desus, et meememant l'esparver,
+                    qar il est sor toutz autres oiseax de desdeigneuse nature et cil qi moinz soufre despit.</p>
+                    <p xml:id="d001l40" n="6" rend="numbered">Dont saichent tuit qe cil qi bien et saigemant et amiablemant ne le garde, le pert
+                    tost.</p>
+                    <p xml:id="d001l41" n="7" rend="numbered">Adonc aim le cil et honort et serve do tot suen cor qi de lui vel bien avoir et joïr.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c009" n="9">
+                    <head>9.</head>
+                    <p xml:id="d001l42" n="1" rend="numbered"><emph style="font-style:italic">De la bonté et dou solaz des qatres manieres des oissieax
+                    de rapine.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l43" n="2" rend="numbered">Semblable diligence, cure et garde doit l'en metre es ostors et es faucons et es sagres
+                    com el esparvier, qar ce qatre maniere d'oisseax de rapine sunt meillor des autres
+                    et de greignor soulaz.</p>
+                    <lb/>
+                    <p xml:id="d001l44" n="3" rend="numbered">Mes de toutz est plus soufranz et enduranz de mal li ostors et cil qi sert ausi en
+                    yver com en esté et prent ausi la proie de l'esparvier come cele dou faucon, por qoi
+                    li ostors fet mout a loer come cil qi prent les perdiz et les faissanz havondeusemant.</p>
+                    <lb/>
+                    <p xml:id="d001l45" n="4" rend="numbered">Ausi fet assez a loer li faucons qi prent les oisseax qi usent en eve.</p>
+                    <p xml:id="d001l46" n="5" rend="numbered">Mes li esparviers fet a loer sor toutz, qar il vaut a totes les predites choses et
+                    sor tot ce prent les columblés.</p>
+                    <p xml:id="d001l47" n="6" rend="numbered">Est encore un autre oisels li qex est appellez en la lange de Perse yuyu, qe, qant
+                    il vole, tuit autre oisel s'en fuient devant lui, et est ausi buens por oissiler com
+                    est li sagres.</p>
+                    <p xml:id="d001l48" n="7" rend="numbered">Et uns autres en est ausi en Perse, qi est appellé en cele lange gutuy et uns autres
+                    ausi qe est appellee cursue et uns autres ausi qi est appeliez golot.</p>
+                    <p xml:id="d001l49" n="8" rend="numbered">Tuit cist oisel qe je vos ai nomez sunt fort a mervoille.</p>
+                    <p xml:id="d001l50" n="9" rend="numbered">Mes li miaudres de tuit ces est cil qi est appeliez yuyu, qar se vos le veïssiez -
+                    qar il prent les faissans et les perdiz - et comant il les prent par naturel enging,
+                    vos reputarez por noiant les solaz de l'esparvier.</p>
+                    <lb/>
+                    <p xml:id="d001l51" n="10" rend="numbered">Et si tot je vos ai mout loé l'esparvier et le yuyu, ja por ce ne leissierai qe je
+                    aucune chose ne retraia dou faucon sagre, com cil qi a une especiele proprieté en oissielier
+                    qe l'en ne troveroit pas es autres oissieax de rapine, la qele fet bien a meintevoir
+                    et a retrere et est ceste, qar je di veraiemant qe li sagres prendra tant de proie
+                    a suen segnor q'il en avra assez o toute sa mesniee et en pora servir a ses amis gramant,
+                    qar il ne doute de prendre les granz et les fortz oissieax, mes ardiemant et ardentemant
+                    se fiert entr'es sanz nulle doutance.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c010" n="10">
+                    <head>10.</head>
+                    <p xml:id="d001l52" n="1" rend="numbered"><emph style="font-style:italic">De l'ostor.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l53" n="2" rend="numbered">Li ostors est a mervoile biax oisseax et fort et viaz et ardiz estrangemant et a mout
+                    buen odor et est entendanz merveileusemant et de parfite venasson.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c011" n="11">
+                    <head>11.</head>
+                    <p xml:id="d001l54" n="1" rend="numbered"><emph style="font-style:italic">Dou faucon.</emph> <lb/></p>
+                    <lb/>
+                    <p xml:id="d001l55" n="2" rend="numbered">Dou faucon di je qe ce est uns oisseax plains de grant perece, et est mout perileus
+                    et grief a garder et non est biax, et raremant, a poine entre mil, en puet l'en trover
+                    un buen, et si n'est de mout plaisant odor.</p>
+                    <p xml:id="d001l56" n="3" rend="numbered">Et cil qil garde a maint peril en sa garde et pou d'utilité et mout li convient travaillier
+                    a crier, et saichent tuit qe ce est uns oissieax mout ochaisonables.</p>
+                    <p xml:id="d001l57" n="4" rend="numbered">Et mainte foee avint qe vos veirez maint biax faucons qi ne sunt d'aucune utilité.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c012" n="12">
+                    <head>12.</head>
+                    <p xml:id="d001l58" n="1" rend="numbered"><emph style="font-style:italic">Dou faucon pellerin.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l59" n="2" rend="numbered">Se vos vos volez eslire la meillor maniere des faucons, eslissiez le faucon pellegrin
+                    de mareme qi soit noir de color traiant vers rosece ou vers janece clere, et qi ait
+                    les piez soutver[t]ez et la face grosse et les sorcils soutils et les pennes des eles
+                    longes et la coue curte et le bec noir et les ungles noires.</p>
+                    <p xml:id="d001l60" n="3" rend="numbered">Et des ces aitex sunt li meillor cil qi volent o greignor velocité a l'aire et qi bien
+                    prenent suen past et qi volentiers vienent et demorent pres de suen segnor.</p>
+                    <p xml:id="d001l61" n="4" rend="numbered">Et qant vos troverés les predites enseignes el faucon pellerin, saichiez qe cil aitex
+                    est nobles faucons, et l'en le doit avoir chier, qar li soulaz et la venason de lui
+                    est sor tuitz solaz et sor totez venason d'ostor et de sagre et de toutz autres oisseax
+                    de rapine.</p>
+                    <p xml:id="d001l62" n="5" rend="numbered">Et se aucun vousist demander por qoi la venason dou faucon pelerin fet a loer sor totes
+                    autres, je li respondroie ensi, qar je di qe li faucons pelerins oissele es champs
+                    et prent les chevrols et les levres et le grues, les dammes, les airons et les voltors,
+                    et s'il les trove deus et deus, si ne les doute il envahir.</p>
+                    <p xml:id="d001l63" n="6" rend="numbered">Et sor tot ce prent les corbs noirs et les cors de color entremellé et les hoches roseres
+                    et les carbonieres, et les perdiz et les columbes et les bubons et les qaternis, oisseax
+                    d'eve et faissans.</p>
+                    <p xml:id="d001l64" n="7" rend="numbered">Et por ce di je q'il fet a loer sor toutz autres oisseax de rapine com celui la cui
+                    bonté est exprovee et coneüe manifestemant par exprove experte et certaine et come
+                    cil qi est plus fort et plus ardanz en sa venason de tuit autres oissieax de rapine,
+                    et por ce qe sa bonté et ses vertu soient manifeste as saichians et as non saichanz,
+                    les ai je ici escrites et denotees.</p>
+                    <lb/>
+                    <p xml:id="d001l65" n="8" rend="numbered">Mes maint home sunt, chevalier et autres, qi en ont aucun ou plusors en lor garde [et],
+                    certes, de lor enfermité ni de lor nature ne sevent point, et se aucuns lor deman[da]st
+                    por qoi le egestion des faucons sunt belle, il n'en sevent rendre reison, et se l'en
+                    lor deman[da]st ausi se ses faucons esquize bien ou non, il ne sevent qoi respondre.</p>
+                    <p xml:id="d001l66" n="9" rend="numbered">Dont il est domages et desnature trop grant qe tant chier oisseax doie remanoir en
+                    tel garde, qar le garde de tant precieuse rien et de tant prisiee doit estre par raison
+                    mout sage et mout curieuse et mout entente de li en totes manieres.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c013" n="13">
+                    <head>13.</head>
+                    <p xml:id="d001l67" n="1" rend="numbered"><emph style="font-style:italic">Dou premier past des esparviers.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l68" n="2" rend="numbered">Li past de l'esparvier doit estre premieremant d'oissieax qe l'en appelle en la lange
+                    de Perse sache chayste et guchardus, oissel de trop buen past qant il trovent les semences
+                    es chams.</p>
+                    <lb/>
+                    <p xml:id="d001l69" n="3" rend="numbered">Mes qant il peissent les herbez, il ne sunt pas buen, qar il corompent l'estomac de
+                    l'oissel et le gastent.</p>
+                    <p xml:id="d001l70" n="4" rend="numbered">Mes li guchartz pontic est chascune seison buens a doner por past a l'oisel.</p>
+                    <p xml:id="d001l71" n="5" rend="numbered">Et qant li guchartz ne se troivent, doint l'en a l'oissel petitz oissieletz, si tout
+                    il non engraissent et restreignent les egestions.</p>
+                    <p xml:id="d001l72" n="6" rend="numbered">Et doit l'en user de cest past des le commencemant de l'autome dusqe par toute la seison
+                    de ver.</p>
+                    <p xml:id="d001l73" n="7" rend="numbered">Mes por ce gardez, vos en de cest oissieax doner por past qant il sunt en amor, qar
+                    il sunt adonc magre et ont dure la char, por qoi l'en doit attendre tant q'il aient
+                    fetes les oves.</p>
+                    <p xml:id="d001l74" n="8" rend="numbered">Mes se l'en trovast adonc es nius d'oisseax aucun petit oissielet et tiendre ou pipions
+                    de columbs qi adonc premieremant se commençassent de movoir saiche q'il sunt buen parfitemant.</p>
+                    <p xml:id="d001l75" n="9" rend="numbered">Et saichent tuit qe cestui past puet l'en doner seüremant a chascun oisel de rapine.</p>
+                    <p xml:id="d001l76" n="10" rend="numbered">Encore sunt mout bone le char de tortres et d'un oisel qi est appellez guarsan, meememant
+                    qant le semence se trovent es champ.</p>
+                    <p xml:id="d001l77" n="11" rend="numbered">Mes de char d'asne en aucun temp ne peissiez ja vetre oisel, se vos poez trover d'autres
+                    meillors.</p>
+                    <p xml:id="d001l78" n="12" rend="numbered">Mes se vos n'en poez avoir d'autres, prenez de celles et lavez les bien en eve et puis
+                    les leissiez ester tant dedenz l'eve qe tout le sanc o tote la putrefacion en isse
+                    et remanent pure et netoiee, et ensi serunt puis legiere et bone.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c014" n="14">
+                    <head>14.</head>
+                    <p xml:id="d001l79" n="1" rend="numbered"><emph style="font-style:italic">De la nature de la chars des colums.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l80" n="2" rend="numbered">Les chars de colums tiendres, qant il se comencent premieremant a movoir, dist mestres
+                    Tariph q'i[l] sunt meillor por past de toutes autres chars, et lor cuisse et lor col
+                    sunt trop meillor qe li pitz.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c015" n="15">
+                    <head>15.</head>
+                    <p xml:id="d001l81" n="1" rend="numbered"><emph style="font-style:italic">De la nature de la char dou mouton.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l82" n="2" rend="numbered">Le chars des moutons sunt gramant a loer, qar elle sunt a mervoille legiere et sunt
+                    buen past et engraissent l'oisel de rapine a cui l'en les done a maingier.</p>
+                    <p xml:id="d001l83" n="3" rend="numbered">Voiremant l'en les doit appareillier selonc la maniere qe je vos deviserai desoutz,
+                    qi veit q'ele soient sane, mes qi autremant les vousist doner a l'oisel, saiche de
+                    voir q'ele ne sunt pas ensi saine.</p>
+                    <lb/>
+                    <p xml:id="d001l84" n="4" rend="numbered">Adonc prenez les chars des moutons bones et non magres et tele qi ne soient moritive
+                    et lavez bien en eve tepe ensi qe tout le sanc et tote la putrefaction en issent et
+                    q'elle deviegne blanche, et aprés les mundez bien des voines et des ners et puis les
+                    lavez encore bien en eve tepe.</p>
+                    <p xml:id="d001l85" n="5" rend="numbered">Et qant vos les tondrez puis fors de cele eve, donez les erramant sanz nulle delaiance
+                    a maingier a l'oisel.</p>
+                    <p xml:id="d001l86" n="6" rend="numbered">Et saichent tuit qe cist past purge et mundifie l'estomac de l'oisel et tout les cors
+                    li humifie et trop merveilleusemant valt a fere metre les pennes.</p>
+                    <p xml:id="d001l87" n="7" rend="numbered">Encore saichent tuit qe cist past qe je vos ai desus nomez ne sunt pas past tant seulemant
+                    as oisseax de rapine, ançois lor sunt bien ensi come mecine, et de ces past puet l'en
+                    seüremant ausi en yver com en esté user.</p>
+                    <p xml:id="d001l88" n="8" rend="numbered">Et saichent tuit encore certainemant qe le meillor char et plus legiere a past d'oiseax
+                    de rapine sunt le cuisse des perdiz et des faissans, tant com il maingient les semences.</p>
+                    <p xml:id="d001l89" n="9" rend="numbered">Et saichiez qe tuit li oissel sunt meillor et plus gras qant il maingient les semences
+                    q'il ne sunt qant il maingient les herbes.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c016" n="16">
+                    <head>16.</head>
+                    <p xml:id="d001l90" n="1" rend="numbered"><emph style="font-style:italic">De la char des pollastres et des autres oissieax.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l91" n="2" rend="numbered">Mes les char de polastres sunt past d'esté trop buen, por ce q'elle sunt froide et
+                    remoillifient les egestions.</p>
+                    <p xml:id="d001l92" n="3" rend="numbered">Les char de les qaternix sunt legiere et meememant le cuisse, et saichent tuit qe toutes
+                    les char des bois sunt savoreuse et legiere plus de totes autres, mes les char des
+                    oissieax d'eve sunt de diverse sabor, selonc ce qe je le vos descriverai maintenant.</p>
+                    <p xml:id="d001l93" n="4" rend="numbered">Premieremant sunt oisel qi sunt appellé tadac, qi usent en eve, la char de qels est
+                    miaudres et plus digestibles de totes autres chars de oiseax d'eve, qar ceste chace
+                    le fime dur de l'oisel et li engraisse et li elarge le fundemant por ce q'ele est humide,
+                    et semblable char de ceste en tot sunt les chars de arundes de mareme.</p>
+                    <p xml:id="d001l94" n="5" rend="numbered">Mes la chars des tyches est encore plus profitable de ces autres et a pou de graisse
+                    et sa complexion est miaudrez de totz les predites chars.</p>
+                    <p xml:id="d001l95" n="6" rend="numbered">La char des oches charbonieres est mout bone et meememant el temp qe elle se commencent
+                    de soi movoir.</p>
+                    <p xml:id="d001l96" n="7" rend="numbered">Et saichiez qe tuit li pul qi sunt nori de verms, ce sunt li oisel petit, sunt plus
+                    convenable a la seison de la mue qe nulle autre char d'oisel ni d'autre.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c017" n="17">
+                    <head>17.</head>
+                    <p xml:id="d001l97" n="1" rend="numbered"><emph style="font-style:italic">Dou past de oissieax de rapine.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l98" n="2" rend="numbered">Savoir doivent cil qi ont a garder oissieax de rapine qe l'en les doit pestre selonc
+                    les diverses seisons de l'an diversemant, qar el mois de dissembre et de jenier doit
+                    l'en acroistre le past a l'oisel un pou plus qe l'en ne soloit devant, por ce qe li
+                    temps est froit et le nuit sunt mout grant.</p>
+                    <p xml:id="d001l99" n="3" rend="numbered">Mes qant cil dui mois sunt passé et febriers est entrés, adonc doit l'en sutrere de
+                    cele qantité qe l'en avoit acreüe au past et retorner le a cele devant qe l'en li soloit
+                    acustumeemant doner.</p>
+                    <p xml:id="d001l100" n="4" rend="numbered">Et en cele seisson doit l'en porter [suen oisel] volentiers sor le poing por ce q'il
+                    enduit miauz et plus en devint privez, et ensi doit l'en fere de l'esparvier et de
+                    l'ostor.</p>
+                    <p xml:id="d001l101" n="5" rend="numbered">Et en ceste seison ne doit pestre l'en suen oisel de char de mouton, por ce q'elle
+                    est magre en celle seisson et non pas convenable a past.</p>
+                    <p xml:id="d001l102" n="6" rend="numbered">En ceste seisson sunt li columbel buen a l'esparvier et tuit oissel qi herbe ne maingent.</p>
+                    <p xml:id="d001l103" n="7" rend="numbered">Et gardez vos bien qe vos en nulle maniere ne donez a votre oissel ossez sanz meolle,
+                    costes ou extremité d'eles ou celles osses qi sunt devant le pit, qe l'en appelle
+                    forcele.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c018" n="18">
+                    <head>18.</head>
+                    <p xml:id="d001l104" n="1" rend="numbered"><emph style="font-style:italic">Dou mauveis past.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l105" n="2" rend="numbered">Encore se doit l'en garder de doner a l'ostor de sanc d'oissel et de cerebre de geline,
+                    faisane d'eve et dou poumon de chascun oisel d'eve et de cerebre de corb.</p>
+                    <p xml:id="d001l106" n="3" rend="numbered">Et saichent tuit qe mestres Tariph dist toutez les chars de toutz oisels qi noent
+                    en eve et qe se submergent dedenz, generaumant estre mauveisses a l'esparvier, et
+                    meememant lor cols.</p>
+                    <p xml:id="d001l107" n="4" rend="numbered">Mes s'il avenist par avanture qe l'en li donast et li chief de l'oissel ou li col
+                    se gravast por ce, cuissiez li adonc o une virge de mirte l'os qi est entre amdeus
+                    les euz sor les nares.</p>
+                    <p xml:id="d001l108" n="5" rend="numbered">Et puis fetes buillir auqant d'oile et prenez une vergelle soutil et envolupez de
+                    l'un de chief un pou de bambaz, et puis la moilliez da celui chief ou est le bambaz
+                    envolupez et en oingiez le palé a l'oisel.</p>
+                    <p xml:id="d001l109" n="6" rend="numbered">Et saichiez qe ceste enfermitez est trop pericleuse.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c019" n="19">
+                    <head>19.</head>
+                    <p xml:id="d001l110" n="1" rend="numbered"><emph style="font-style:italic">De curer l'oissel qant il ne pue[t] esquiçer.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l111" n="2" rend="numbered">S'il avint qe vetre oisseax ne puisse egerir por ochaisons qe la egestions li soit
+                    enduree el ventre, adonc le devez curer en tel maniere:</p>
+                    <p xml:id="d001l112" n="3" rend="numbered">prenez d'aleopatic en tante qantitate apessé com est uns grans de cisre et tridez
+                    le bien, et puis le distenprez avec auqant de lait bel et freis et metez i dedenz
+                    autresi pilulas de zucre ros ou de miel et de zucre une drame et mellez les bien ensemble,
+                    puis lez donez boivre a l'oissel.</p>
+                    <p xml:id="d001l113" n="4" rend="numbered">Encore a le egestion enduree el ventre valt li butre mellez avec miel.</p>
+                    <lb/>
+                    <p xml:id="d001l114" n="5" rend="numbered">Encore est a ce bone ceste autre cure: prenez dou fiel des bous et autretant de miel
+                    et liquifiez les en eve chaude, et de ce fetes un cristier a l'oisel constipé.</p>
+                    <p xml:id="d001l115" n="6" rend="numbered">Ou prenez fiel de chavre en tante qantité com vos semble soufir, et mellez la avec
+                    tant de borac com est uns grans de pevre et usez de ce par cristier.</p>
+                    <lb/>
+                    <p xml:id="d001l116" n="7" rend="numbered">Encore a ce meeme est buens cist autres cristiers: prenez des piez de bestes ensi
+                    come sunt berbiz et moutons, et fetes les buillir en eve et de cele eve fetes le cristier.</p>
+                    <p xml:id="d001l117" n="8" rend="numbered">Encore valt ceste mecine: prenez de l'esscorze des piez de cele bestes qe je vos nomai
+                    orendroit desus, ce est qant le pié serunt bien cuit en eve, et de ces escorçes poez
+                    doner auqant morseax a l'oisel a maingier.</p>
+                    <lb/>
+                    <p xml:id="d001l118" n="9" rend="numbered">Et saichent [tuit] qe ce ne se doit pas doner por past mes por mecine de cestre enfermité,
+                    et ce fet, leissiez puis l'oisel dusq'atant q'il gerisse.</p>
+                    <p xml:id="d001l119" n="10" rend="numbered">Et saichent tuit qe ceste eve qi est dite desus est bone mout et mout valt encontre
+                    la pree et encontre l'egestion dure et autresi encontre la constroiture des boelles
+                    et dou fundemant.</p>
+                    <p xml:id="d001l120" n="11" rend="numbered">Encore donez li a maingier de la lye fresche et belle, et est ceste lie graisse, la
+                    qelle est sout la coue dou mouton en la partie defors de la coue, qar ce sunt le plus
+                    grasse char et le plus legiere dou monde, et de ce donez tant a l'oisel en tote la
+                    semaine come sunt dui tarin en pesser, et ce fetes en yver et en esté.</p>
+                    <lb/>
+                    <p xml:id="d001l121" n="12" rend="numbered">Mes se ceste enfermitez sorvenist a l'oisel par ochaison de trop past, sachiez adonc
+                    q'elle est trop grief a curer; dont vos vos devez bien prendre garde de non doner
+                    le past en supercle qantité.</p>
+                    <p xml:id="d001l122" n="13" rend="numbered">Mes se le mecine qi sunt dite desus ne valent par avanture a lasser le ventre de l'oissel
+                    et a mollifier l'egestion qi est dedenz enduree, prenez de predite lie encore, ce
+                    est de la predicte graisse de la cou dou mouton, et pistez la bien.</p>
+                    <p xml:id="d001l123" n="14" rend="numbered">Et qant elle sera bien pistee, donez en en morsieax une oinze a l'oisel, et aprés
+                    ce descovrez le fundemant de l'oisel et oingiez l'i bien o la predicte graisse, et
+                    puis li en metez dedenz tant com pessent troi aurei, se ce est ostors qi soit de ce
+                    malades, mes se ce est esparviers, metez le en seulemant tant come pesse uns grans,
+                    et dusq'atant l'i leissiez qe la graisse se liquefie es boeles de l'oisel.</p>
+                    <lb/>
+                    <p xml:id="d001l124" n="15" rend="numbered">Et aprés ce levez l'oissel sor vestre poing, et il egerira atant aucun pou, et puis
+                    le metez jos et metez un bacin plein d'eve devant lui, et saichiez qe ensi se purgera
+                    et enduira bien.</p>
+                    <lb/>
+                    <p xml:id="d001l125" n="16" rend="numbered">Mes s'il ne se purge bien por les predites mecines, prenez la predite graisse et liqefié
+                    bien la dedenz un cauderel mundee et net et aprés ce la collez bien, et puiz metez
+                    auqant de cere avec.</p>
+                    <p xml:id="d001l126" n="17" rend="numbered">La metez sor le feu encore en aucun veisel bel et net, et les leissiez ensi tant eschaufer
+                    q'elle se mellent ensemble dou tot et puis le collez en un petit chanel, et qant elle
+                    serunt coagulee et refroidiee bien dedenz le chanel, rompez le chanel ensi qe la forme
+                    de la graisse qi sera dedenz ne se gaste mes remaigne toute entiere et toute sane
+                    selonc ce q'elle estoit dedenz le chanel.</p>
+                    <lb/>
+                    <p xml:id="d001l127" n="18" rend="numbered">Et de la graisse ensi saine fetes en a l'oisel, ce est a l'ostor ou a l'esparvier,
+                    un suppositoire, mes oingiez le premieremant, avant qe vos li metez ce suppositoire,
+                    le fundemant de la predicte graisse, et aprés ce fetes de cele meeme graisse un cristier
+                    a l'oisel.</p>
+                    <lb/>
+                    <p xml:id="d001l128" n="19" rend="numbered">Et saichiez qe li chaneus doit estre gros selonc ce qe l'oisaeaus est, ensi come vos
+                    semblera estre mestiers, et le cristier doit estre a mesure d'un doiz.</p>
+                    <p xml:id="d001l129" n="20" rend="numbered">Encore de cele meeme graisse doit l'en pestre l'oisel, qar elle remole l'egestion
+                    et purge bien.</p>
+                    <p xml:id="d001l130" n="21" rend="numbered">Mes saichiez qe el temp d'esté i doit l'en metre plus de la cere qe en celui d'iver,
+                    por ce qe li suppositoires vigne plus durs et plus fort.</p>
+                    <p xml:id="d001l131" n="22" rend="numbered">Et qant vos avrez mise la predite mecine o le cristier el ventre de l'oisel, vos le
+                    devez voivre ça et la ensi qe la mecine corre par tout le ventre, et ce fet, devez
+                    metre devant lui eve en un bacin, por ce q'il boive s'il vel.</p>
+                    <lb/>
+                    <p xml:id="d001l132" n="23" rend="numbered">Encore avom a ce un'autre mecine bone et veraie, et saichent tuit veraiemant q'ele
+                    a esté par mainte fois exprovee et est trovee bone et veraie et parfitemant:</p>
+                    <p xml:id="d001l133" n="24" rend="numbered">prenez d'oile de susamin et d'oile de mirasol et d'oile lentiscin, une oince de chascun,
+                    et mellez les ensemble, et prenez deus terces d'une drame de sarcocole bien tridee
+                    et de sal montenier une oince et d'aloepat une autre oince et la sexte part de turbit
+                    et de butre de vache fresche et de miel depumé, de chascun une oince.</p>
+                    <p xml:id="d001l134" n="25" rend="numbered">Totes ces choses tridez et mellez ensemble et en donez a l'esparvier a maingier tant
+                    come pesse dimi aureo ou tant come pesse la tierce partie d'un aureu.</p>
+                    <p xml:id="d001l135" n="26" rend="numbered">Et ce doit est[r]e le matin avant tot autre past.</p>
+                    <p xml:id="d001l136" n="27" rend="numbered">Et ensi par ces mecines porez gerir vestre oisel de ceste enfermité et autremant non.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c020" n="20">
+                    <head>20.</head>
+                    <p xml:id="d001l137" n="1" rend="numbered"><emph style="font-style:italic">Qel char l'en doit veher a l'oiseux de rapine.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l138" n="2" rend="numbered">Char froide ne se doivent doner a l'ostor en aucune maniere, qar elle sunt ochaisons
+                    de chascune enfermité.</p>
+                    <p xml:id="d001l139" n="3" rend="numbered">Encore ne li doit l'en doner char de geline, mes se besoigne vos mene a ce qe vos
+                    li conveigne doner por ce qe vos n'en aiés d'autre, donez li d'une geline noire qi
+                    soit bien grasse.</p>
+                    <p xml:id="d001l140" n="4" rend="numbered">Encore li doit l'en veher totes chars d'oisseax qi usent en eve, por ce q'elle sunt
+                    trop froide et por ce q'elle endurent mout l'egestion el ventre de l'oisel.</p>
+                    <p xml:id="d001l141" n="5" rend="numbered">Encore le doit l'en garder des chars de chascun animau magre et de chars des moutons
+                    autresi, meememant tant q'elle sunt chaude et freschemant occisse, mes se vos en avez
+                    mestier de pestre qe autre n'en puissiez fere, leissiez le refroidier qant elle sunt
+                    occisse.</p>
+                    <p xml:id="d001l142" n="6" rend="numbered">Et encore devez garder vetre oisel de doner li char qi soit reservee d'un jor au autre
+                    et meememant au temp d'esté, mes el temp d'iver li puet l'en doner chaude en eve tepe.</p>
+                    <lb/>
+                    <p xml:id="d001l143" n="7" rend="numbered">Encore gardez vos de doner li char mordue ou adentee par chien ou par autre beste,
+                    se vos ne l'avés lavé bien et netoiee tot avant, qar se vos li donisiez sanz laver
+                    la, il vendroit a l'oisel une infermité dedenz la boche, la qelle appellent cil de
+                    Perse goffrinech, et en ceste enfermité apperent en la boche de l'oisel ensi come
+                    granellez petitz.</p>
+                    <p xml:id="d001l144" n="8" rend="numbered">Encore se doivent veher a l'oisel tuit li cerebre de chascun oisel, meememant el temp
+                    d'esté, por ce q'il sunt mauveis et grief et si ne se poent enduire.</p>
+                    <p xml:id="d001l145" n="9" rend="numbered">Encore autresi est mauveis past por l'oisel chascuns fie qant il est froit, qar il
+                    est trop grief et fet mauveis et turpez humors a l'oisel, mes qant il est chaut, il
+                    n'est pas mauveis, ançois le puet bien l'en doner.</p>
+                    <lb/>
+                    <p xml:id="d001l146" n="10" rend="numbered">Et saichient tuit cil qi ont oisseax a garder qe l'en les dout mout bien garder dau
+                    froit et de la terre moble et dau fum, qi est pires encore qi ne sunt li dui autre
+                    qi sunt dit desus.</p>
+                    <p xml:id="d001l147" n="11" rend="numbered">Encore se doit l'en garder q'il ne prende l'oisel o ire et o furor et q'il nel por
+                    autresi, et garder s'en doit ausi qant il est anxieus ou conturbez par aucune ochaison,
+                    et qant il est chargiez de vin, et qant il est dou feu de luxuire eschaufez et espris.</p>
+                    <p xml:id="d001l148" n="12" rend="numbered">Et encore se doit l'en bien garder q'il ne toche o les mains dusq'a tant q'il les
+                    ait bien lavez, et meememant le matin qant il se leve de dormir ou qant il se leve
+                    de maingier.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c021" n="21">
+                    <head>21.</head>
+                    <p xml:id="d001l149" n="1" rend="numbered"><emph style="font-style:italic">Comant l'en doit engraisser suen oisel.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l150" n="2" rend="numbered">Chaichanz, uns rois de Parte, nos done par doctrine qe qant l'en veit suen ostor engraissier
+                    q'il doit prendre une piece de char de mouton soutilmant tailliee et munder la bien
+                    de toute graisse, de ners et de voines; et metés la en eve chaude por ce q'elle se
+                    mundifie bien et se lave, et puis l'en trahez fors et la donez a l'oisel a maingier.</p>
+                    <p xml:id="d001l151" n="3" rend="numbered">Et qant vos l'avrez ensi peü de cestui past deus jorz assiduemant, au tierz jor li
+                    donez a maingier de char de columbs.</p>
+                    <p xml:id="d001l152" n="4" rend="numbered">Et saichiez qe se vos peissiez ensi vetre oisel par troiz jorz, il engraissera selonc
+                    vetre volenté.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c022" n="22">
+                    <head>22.</head>
+                    <p xml:id="d001l153" n="1" rend="numbered"><emph style="font-style:italic">Por conoistre qant l'oisels est assez peüz.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l154" n="2" rend="numbered">Qant vos volez conoistre se vetre oissieax est soufissemant peüz de convenable past,
+                    gardez li as tuls q'il a sout les oreilles, et se vos les veés noirs, adonc saichiez
+                    q'il a assez dou past.</p>
+                    <p xml:id="d001l155" n="3" rend="numbered">Et ausi gardez se les extremité dou palé est noire, qar ce signifie autresi q'il soit
+                    assez peüz.</p>
+                    <p xml:id="d001l156" n="4" rend="numbered">Mes se vos veez, aprés ce qe vos avez peüz vetre oisel, q'il ait en sa gorge la char
+                    constroite et envolupee et q'ele ne li descende au ventre pou et pou, ensi com elle
+                    suelt et doit par reison, adonc saichiez q'il est molestez de male digestion ou d'aucune
+                    autre enfermité.</p>
+                    <p xml:id="d001l157" n="5" rend="numbered">Et qant, peissanz l'oisel, vos poez apercevoir qe li past li descent pou et pou el
+                    ventre, adonc saichiez q'il est sainz et de bone disposicions.</p>
+                    <p xml:id="d001l158" n="6" rend="numbered">Mes qant vos le volez bien pestre, gardez vos bien de doner li l'un bocon sor l'autre,
+                    mes donez l'en premieremant un bocon et leissiez li descendre en la gorge et puis
+                    li donez l'autre, et ensi porrez bien conoistre sanz faillir qant vetre oisseax avra
+                    assez de suen past et saciablemant.</p>
+                    <p xml:id="d001l159" n="7" rend="numbered">Et saichiez qe se vos sorhavondant li donez un seul morsel, il l'ascondera deriere
+                    en suen col.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c023" n="23">
+                    <head>23.</head>
+                    <p xml:id="d001l160" n="1" rend="numbered"><emph style="font-style:italic">De la debilité de l'apetit.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l161" n="2" rend="numbered">Qant vos veirez l'apetit de l'oisel debilité et q'il ne prendra suen cib ni nel demandera
+                    o tante avidité com il suelt, saichiez adonc q'il a esté feruz ou q'il est grevé d'aucune
+                    enfermité, ou il est sorpris de ventosité ou de vieille indigestion, le qele conse
+                    consument et destruient les vertuz et la force de suen cors.</p>
+                    <lb/>
+                    <p xml:id="d001l162" n="3" rend="numbered">Mes qant vos veirez l'oisel movoir les eles et toutes ses autres menbres fors qe le
+                    chief et le col seulemant, et ceaus tient droiz entensez ensi com un fust sanz movoir
+                    les point, saichiez adonc q'il a aucune enfermité el chief et el col, por qoi vos
+                    le devez garder adonc de pestre de chars pleines de graisse, de ners ou de voines.</p>
+                    <p xml:id="d001l163" n="4" rend="numbered">Dont l'en les doit garder de cuisses de toutez oisseaux et de totes autres menbres
+                    es qels sunt habondance de ners ou de voines, qar ce chars sunt mout grief a digerir
+                    et sunt trop perileuse s'ele ne sunt mundee et purgee des ners et des voines.</p>
+                    <lb/>
+                    <p xml:id="d001l164" n="5" rend="numbered">La graisse autresi est mout nuissanz past as oisseaux de rapine, ensi come sunt nerf
+                    et le voine.</p>
+                    <p xml:id="d001l165" n="6" rend="numbered">Et maint fauconier sunt qi paissient lor oisseaux des pitz de faissans et des perdiz
+                    et des qaterniz, de la qel chonse il ne funt mie qe sage, qar ce telle char s'envisclent
+                    a la gorge de l'oissel, dont il avint qe de ce li sorvint indigestion.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c024" n="24">
+                    <head>24.</head>
+                    <p xml:id="d001l166" n="1" rend="numbered"><emph style="font-style:italic">Qe vos ne peissiez l'oisel maintenant q'il a sa proie
+                    prise.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l167" n="2" rend="numbered">Qant vos avrez gitié vetre oisel et il avra prise sa proie gardez vos adonc qe vos
+                    ne le peissiez maintenant, mes leissiez le un pou reposer et recovrer sa alaine, qar
+                    se vos le peissiez avant q'i[l] l'ait recovree, il puet bien avenir q'il en cheira
+                    en une grant enfermité.</p>
+                    <p xml:id="d001l168" n="3" rend="numbered">Mes qant li oisseax sera bien reposez et avra bien recovree s'alaine, adonc le peissiez
+                    tot seüremant a sa volenté, et ceste usance tenés totes voies et ensi se fetes adés.</p>
+                    <p xml:id="d001l169" n="4" rend="numbered">Et saichent tuit qe l'en ne doit tochier l'oisel o la main qant il mainge, qar se
+                    l'en le toche, il cuide qe l'en li voile tollir suen past; dont por celle doutançe
+                    avint q'il mainge et ce qe li est besoigne, et ce qe ne li est.</p>
+                    <p xml:id="d001l170" n="5" rend="numbered">Mes qant l'en li leisse maingier a suen voloir sanz tochier le, saichiez de voir qe
+                    cil li est mout buens past profitables, qar oisseax se conoist si bien en ce qe, pois
+                    qe l'en li leisse maingier a suen voloir, il mainge ce qi li profite et qi buens li
+                    est, et ce qe li poroit nuire leisse ester.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c025" n="25">
+                    <head>25.</head>
+                    <p xml:id="d001l171" n="1" rend="numbered"><emph style="font-style:italic">Comant l'en doit pestre l'oisel sauvage.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l172" n="2" rend="numbered">Qant vos volez pestre l'oissel qi n'est encore privez, attendre devez et garder qe
+                    deriere vos ne demort aucuns hom ni aucun autre animaus, qar qant l'oisseaux mainge,
+                    s'il avint q'il retorche suen col por soi garder arriere, il poit avenir par avanture
+                    q'il li cheira dou past aucune chose en aucun autre leu q'il ne devroit, et de ce
+                    se poroit engeindrier une maladie, dont il poroit morir legieremant.</p>
+                    <p xml:id="d001l173" n="3" rend="numbered">Et estre puet par avanture qe li oissieaux cheira en ceste maladie qant il istra de
+                    mue, la qelle maladie vos porez par ces enseignes conoistre, qar vos veirez les maiselles
+                    de l'oisel enflees defors et dedenz, ensi come devint en celle especiali[t]é de maladie
+                    la qelle appellent li mire quinancie, et est une maladie qi neist en la gole par occaison
+                    de superfluité d'umors.</p>
+                    <p xml:id="d001l174" n="4" rend="numbered">Dont vos veirez autresi l'oisel movoir li chief et la coue espessemant, et movant
+                    le chief veirez q'il ovrira la boche autresi.</p>
+                    <lb/>
+                    <p xml:id="d001l175" n="5" rend="numbered">Dont la cure est telle: prenez un soutil chanelet d'argent ou d'oton qi soit parforez
+                    soutilmant et metez li dedenz la bouche et le fetes passer par mi la bouche dusq'a
+                    celui leu ou vos veirez estre li hochons qi contreire a l'oissel, et qant vos le locherez
+                    o le chanelet, trahés a vos li flaus.</p>
+                    <p xml:id="d001l176" n="6" rend="numbered">Et ensi en viendra fors li bocons ou l'os, se ce est os qi i soit, ou qelqe autre
+                    chose qi i fust; et maintenant sera geriz li oissieax.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c026" n="26">
+                    <head>26.</head>
+                    <p xml:id="d001l177" n="1" rend="numbered"><emph style="font-style:italic">De metre l'oissel en mue.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l178" n="2" rend="numbered">Qant vos volez metre l'ostor en mue, ussez le premieremant, avant qe vos l'i metez,
+                    a prendre granz oissieax au plus qe vos onqes poroiz en toute maniere, et peissiez
+                    le autresi de char de granz oisseax por ce qe de la venason des granz oissieax li
+                    remenbre le segont an aprés.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c027" n="27">
+                    <head>27.</head>
+                    <p xml:id="d001l179" n="1" rend="numbered"><emph style="font-style:italic">De la male digestion.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l180" n="2" rend="numbered">Qant vos veirez l'egestion molle de l'ostor et incise et fisse, saichiez qe en suen
+                    ventre est l'egestion enduree.</p>
+                    <p xml:id="d001l181" n="3" rend="numbered">Dont, vos le devez curer selonc ce qe se contient desus el capitre de la cure de l'oisel
+                    qant il ne puet egerir, li qels chapitres est li xviii[i].</p>
+                    <p xml:id="d001l182" n="4" rend="numbered">Mes qant vos veirez l'egestion de l'oisel molle, coloree de janece, et la nigror qi
+                    i est dedenz veirez trop entense, saichiez qe ce devint par male digestion.</p>
+                    <lb/>
+                    <p xml:id="d001l183" n="5" rend="numbered">Dont, la cure de li doit estre tele: tenez l'oisel en une chambre oscure et illec
+                    le fetes tant jeüner qe la indigestion se cure et se remove da lui par soi meeme.</p>
+                    <p xml:id="d001l184" n="6" rend="numbered">Et qant vos le voudrez pestre puis, tailliez trois soutils morseax de tiendre char
+                    et poudriez le de poudre de semence de mastrurce ou de poudre de ging[i]bre de Seine
+                    ou de brise, et pou a pou en peissiez l'oisel, acroissant li le past de jor en jor
+                    pou et pou.</p>
+                    <p xml:id="d001l185" n="7" rend="numbered">Et qant ensi l'avez un petit peu adoné, le devez metre a seoir sor sa perche et laissier
+                    le enduire.</p>
+                    <p xml:id="d001l186" n="8" rend="numbered">Et qant il a bien enduit, prenez de la terre dou fornel ou l'en cuit le pein et les
+                    autres choses de maingier et metez la dedenz l'eve et leissiez l'i estre bien longemant,
+                    et aprés ce trahez la terre de celle eve et collez l'eve bien.</p>
+                    <p xml:id="d001l187" n="9" rend="numbered">Et qant elle sera bien collee, eschaufez la a feu en un veissel, et qant elle sera
+                    chaude, metez dedenz la char dont vos volez pestre vetre oisel, et de cele char ensi
+                    chaude dedenz celle eve le peissiez.</p>
+                    <lb/>
+                    <p xml:id="d001l188" n="10" rend="numbered">Et saichiez qe de char sunt aucune bone et aucune contreire.</p>
+                    <p xml:id="d001l189" n="11" rend="numbered">Le contrarieuse sunt ceste: ce est la chars des gelines, qar elle est froide et feit
+                    ventosité dedenz le ventre et ne se puet enduire.</p>
+                    <p xml:id="d001l190" n="12" rend="numbered">Encore sunt autresi contrerieuse le char de la vache por ce q'ele sunt trop laxative,
+                    mes ne porqant je ne di pas q'ele soient laxative de sa propre nature, mes por ce
+                    q'elle sunt trop froide et de grant ponderosité, funt elle indigestion qant elle sunt
+                    descendue dedenz l'estomac.</p>
+                    <p xml:id="d001l191" n="13" rend="numbered">Et de ce porvient puis laxacions granz, por qoi l'en ne doit la pestre suen oisel
+                    en aucune maniere.</p>
+                    <p xml:id="d001l192" n="14" rend="numbered">Mes de char de guchartz et des puls de petit oissieaux et de pul d'arondes, qant l'en
+                    les trove es nius, puet l'en et doit pestre suen oisel seüremant, qar mout li est
+                    buen past.</p>
+                    <p xml:id="d001l193" n="15" rend="numbered">Mes l'en nel [doit] pas pestre de char des columbes vielles, se ce n'est par neccessité,
+                    et ce doit estre a la foee.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c028" n="28">
+                    <head>28.</head>
+                    <p xml:id="d001l194" n="1" rend="numbered"><emph style="font-style:italic">De curer la murmuracion do ventre.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l195" n="2" rend="numbered">Qant vos veirez ou sentirez dedenz le ventre de l'oisel sonor ou rugir ou murmuracion,
+                    devez le curer en tele maniere: donez li a maingier de semence de masturce et de gingibre
+                    blanc, et ce fetes dusq'a tant qe la ventosité soit cesee.</p>
+                    <p xml:id="d001l196" n="3" rend="numbered">Et doit estre suen past par trois jorz de char d'oisseax.</p>
+                    <p xml:id="d001l197" n="4" rend="numbered">Et s'il avint qe l'oisel ne garise par ces cures, fetes le bien engraissier, qar s'il
+                    sera bien gras, par avanture il se sanera par soï meeme, ou s'il ne se saine, puis
+                    q'il sera gras, il pora miauz soufrir et sera plus fort et plus roides a prendre les
+                    mecines qe l'en li voudra doner.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c029" n="29">
+                    <head>29.</head>
+                    <p xml:id="d001l198" n="1" rend="numbered"><emph style="font-style:italic">De char qi sunt bone por engrassier.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l199" n="2" rend="numbered">Et qant voudriez engraisser vetre oissel de rapine, les meillor char et le plus puissant
+                    qe l'en [trovast], selonc ce qe dist mestre Tariph, q'il les avoit exprovees, sunt
+                    le char dou moutoncel petit, gras, mes non magre, et le char autresi des soriz petit
+                    avec lait de cavre.</p>
+                    <p xml:id="d001l200" n="3" rend="numbered">Encore sunt bone char autresi a engraissier les chars des gelines et de qaternices
+                    et des cheels et des porceaus et de totes autres bestes petites, meememant qant il
+                    sunt de huit ou de dis jorz, au plus, [et] q'il se commencent premieremant movoir.</p>
+                    <p xml:id="d001l201" n="4" rend="numbered">Mes saichiez qe l'en ne le doit pas doner chaudes mes froides, qar se l'en les donast
+                    chaudes, elle seroient trop nuissant.</p>
+                    <p xml:id="d001l202" n="5" rend="numbered">Et saiche(e)nt tuit qe le ventosité venient as oisseax par male digestion ou par vent,
+                    et qe par la ventosité pert l'oissel la vertu digestive et en chiet en grief et en
+                    grant enfermité, dont il egerist adonc diverses et grosses egestions colorees de diverse
+                    color.</p>
+                    <p xml:id="d001l203" n="6" rend="numbered">Et une part de la egestion s'endure et se desiche dedenz le ventre et devint ensi
+                    come preele, et de ce vient une enfermité a l'oisel resemblanz a une enfermité qi
+                    est appellee colliche, de la qele nos vos parleron desoutz sout suen chapitre.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c030" n="30">
+                    <head>30.</head>
+                    <p xml:id="d001l204" n="1" rend="numbered"><emph style="font-style:italic">De conoistre l'oisel s'il enduit bien.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l205" n="2" rend="numbered">Se vos volez conoistre se li oisseax a bien enduit en suen past, esgardez et veez
+                    se sa egestion est bien cuite, et saichiez qe, s'elle est bien cuite et bien digeste,
+                    li blanc qi est dedenz sera si visceus et si tenanz qe, qant vos le tochierez, il
+                    se tiendra ensi ensemble com se ce fust viscles.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c031" n="31">
+                    <head>31.</head>
+                    <p xml:id="d001l206" n="1" rend="numbered"><emph style="font-style:italic">De la cure de l'enfermité qi est appellee coliche.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l207" n="2" rend="numbered">Chaychanz, li rois de Parthe, dist qe ceste enfermité qi est appellee coliche porvient
+                    a l'ostor en tel maniere qe li gestions se desiche et en s'endure en suen ventre ensi
+                    q'il ne puet egerir.</p>
+                    <lb/>
+                    <p xml:id="d001l208" n="3" rend="numbered">Et apperent en lui ce enseigne, ce est qe si euz et suen fundemanz se constreingent
+                    si q'il ne puet egerir, et qant il semble egerir, il sen mout grant dolor et fiert
+                    et grate suen fundemant ou suen bec, et li chief li enfle por la trop ardor q'il sent.</p>
+                    <p xml:id="d001l209" n="4" rend="numbered">Et es maxelles li vient une enfermitez qi est appellee branchons, ensi come vint as
+                    enfanz petit; adonc est l'egestions de l'enfanz verde qant il a ceste enfermité, et
+                    tot ausi devint a l'ostor, qant il a ceste enfermité, qe sa egestion est verde autresi.</p>
+                    <lb/>
+                    <p xml:id="d001l210" n="5" rend="numbered">Dont qant l'egestions de l'oissel apert tele, com je vos ai dit avant, q'ele s'endurt
+                    ou q'ele desice en suen ventre ou q'elle se convertisse ensi come preelles, si com
+                    il est dit desus, doit bien porveoir de curer la, por qoi l'en doit doner adonc a
+                    l'oisel de la semence dou masturce et dou gingibre et des oissieaux qi sunt appellé
+                    guchartz et de puls des arondes et des petitz soriz et des granz soriz ausi avec oile,
+                    et ne soient ja lor os ro[m]pu en aucune maniere, et de char de levre, qar ce resemble
+                    ensi com a char de soriz.</p>
+                    <p xml:id="d001l211" n="6" rend="numbered">Ou prenez troiz morseax de char et metez le dedenz oile d'olive ou dedenz oile de
+                    noiz et puis en peissiez l'oisel, et saichiez qe l'oile est mecine a ceste enfermité
+                    et le char qe bien se digerent.</p>
+                    <p xml:id="d001l212" n="8" rend="numbered">Ou prenez une columbe et fendez la parmi le ventre, et tant longemant la tenez en
+                    vetre main et la estreigniez qe tout le sanc isse de li, et adonc qant li sanc en
+                    sera bien toutez issuz, peissiez vetre oisel.</p>
+                    <p xml:id="d001l213" n="9" rend="numbered">Mes [en ceste] enfermité veons nos dou ttot le chars des gelines, qar elle i sunt
+                    mout mauveisse et mout nuissant et commovent molte ventosité.</p>
+                    <lb/>
+                    <p xml:id="d001l214" n="10" rend="numbered">Et qant vos veirez l'egestion chaingee et douter[e]z q'il n'ait autre enfermité qe
+                    ceste, donez li adonc a maingier de penidies blanc, qar il rompent la ventosité et
+                    laxent le ventre et sunt a ce trop profitable.</p>
+                    <p xml:id="d001l215" n="11" rend="numbered">Et qant vos veirez en sa egestions ensi come preelles, peissiez le adonc par trois
+                    jor de petitiz soriz, et au qart jor le peissiez de char de gelines graisses noires.</p>
+                    <p xml:id="d001l216" n="12" rend="numbered">Ou prenez une columbe vive et gitez la devant l'oisel et li leissiez prendre et deplumer,
+                    et qant li sanc en comenciera a issir et a aparoir, metez illec dont il ist le sanc
+                    de l'oile susimin et de poudre de zucre blanc pisté et leissiez le ensi maingier,
+                    et aprés ce le fetes maingier ensi par troiz jors.</p>
+                    <p xml:id="d001l217" n="13" rend="numbered">Et aprés ce qe li troi jor serunt passé, prenez une soriz feme et escorciez la et
+                    reversez les pils de la pel dedenz, et puis la emplez d'oile de susimin et donez la
+                    ensi a maingier a l'oisel.</p>
+                    <p xml:id="d001l218" n="14" rend="numbered">Encore prenez de semence d'anet et de chardons et de pevre et de semence de racine
+                    et fenocle et pistez toutez ces choses et mellez les ensemble avec oile de susimin,
+                    et de ce fetes un cristier a l'oisel.</p>
+                    <p xml:id="d001l219" n="15" rend="numbered">Ou prenez de butre de vache et de pevre et de sal armoniac et tridez les ensemble
+                    et de ce fetes un cristier.</p>
+                    <p xml:id="d001l220" n="16" rend="numbered">Ou prenez de semence de jusquiam et de semence d'anet et de semence de racine et de
+                    semence de chardons, de fenocle, de chascuns cinc granz, et tridez totes ces chosez
+                    ensemble et metez le dedenz une pel de soriz enversee et donez les ensi a maingier
+                    a l'oisel.</p>
+                    <p xml:id="d001l221" n="17" rend="numbered">Ou prenez de zucre blanc et de mirabolains et metez lez dedenz une fiel de berbiz,
+                    et puis lez donez ensi a maingier a l'oisel.</p>
+                    <p xml:id="d001l222" n="18" rend="numbered">Ou fetes li un cristier de butre de vache.</p>
+                    <lb/>
+                    <p xml:id="d001l223" n="19" rend="numbered">Mes s'il avint qe toute ce chouse ne li vailent rien, metez en la char qe vos li donez
+                    a maingier oile de mirasol, se ce sera en seison d'iver, mes se ce sera en seison
+                    d'esté, enfondez la char dont vos le peissiez dedenz l'oile nomé.</p>
+                    <p xml:id="d001l224" n="20" rend="numbered">Et s'il par avanture refu[s]ast par ochaison de cest oile suen past, gitiez en de
+                    cestui oile en sa bouche et en ses maiselles, et ceste mecine suffissent a l'enfermité
+                    nomee.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c032" n="32">
+                    <head>32.</head>
+                    <p xml:id="d001l225" n="1" rend="numbered"><emph style="font-style:italic">De la cure des verms nés dedenz le ventre.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l226" n="2" rend="numbered">Li rois Chaichanz de Parthe dist qe, qant vos veirez vetre oisel deplumer soi ou avoir
+                    les plantes de ses piez enflees desoure, qe vos saichiez adonc veraiemant qe ce li
+                    devint par ochaison d'une enfermité la qelle vient de verms qe li naissent el ventre,
+                    li qel verm sunt fet en semblance de granz des zuches.</p>
+                    <p xml:id="d001l227" n="3" rend="numbered">Et de ce le doit l'en curer en tel maniere: prenez de suc de pomes granees fortes
+                    et enfondez la char dont vos volez pestre l'oisel et puis l'en peissiez, et donez
+                    li autresi girofles a maingier avec la char.</p>
+                    <p xml:id="d001l228" n="4" rend="numbered">Ou prenez une pel d'une soriz feme et lavez la bien en eve en la qele aient esté fic
+                    buili, et puis prenez dou brou de ceax fic et metez en dedenz cele pel, et metez avec
+                    autresi cinc granz de ris autresi, et par trois jorz peissiez de ce vetre oissel.</p>
+                    <lb/>
+                    <p xml:id="d001l229" n="5" rend="numbered">Ou prenez auqant de cisre et poudriez le bien, et puis prenez trois morseaus de char
+                    et oingiez les de miel et puis poudriez desus de cele poudre des cisres et donez la
+                    a maingier a l'oisel.</p>
+                    <lb/>
+                    <p xml:id="d001l230" n="6" rend="numbered">Et saichent tuit qe ceste mecine purge l'oisel de tout vers.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c033" n="33">
+                    <head>33.</head>
+                    <p xml:id="d001l231" n="1" rend="numbered"><emph style="font-style:italic">De fere amender l'oissel de venir a reclam qant il
+                    n'i vient volentiers.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l232" n="2" rend="numbered">Qant l'ostors ne vient au reclam volentiers, sa cure est tele: prenez dou basilicon
+                    qi neist es lacs, et sechiez le bien et pois le poudriez, et de cele poudre metez
+                    sor le chars dont vos devez pestre l'oisel, et puis l'en peissiez.</p>
+                    <p xml:id="d001l233" n="3" rend="numbered">Ou prenez d'une confeccion qi est appellee brise et donez la avec suen past a l'oisel.</p>
+                    <p xml:id="d001l234" n="4" rend="numbered">Et se vos veirez vetre oisele comencer de venir bien au reclam, donez li aucune foee
+                    a maingier de char de chevaus bien grasse; et de ces chars devez tout adés avoir et
+                    aporter avec vos, qar por amor de celes chars l'oisel ne vos leissiera jamés tant
+                    com il les sente estre avec vos, ainçois vos viendra trop volentiers come cil qi vos
+                    amera de trop grant amor.</p>
+                    <p xml:id="d001l235" n="5" rend="numbered">Encore vault mout a ce a prendre l'oisel la nuit sor suen poing mainte foee, et doit
+                    l'en oindre suen gant de les nomees chars dou cheval, por ce qe li oisseaux i seera
+                    plus volentiers desus.</p>
+                    <p xml:id="d001l236" n="6" rend="numbered">Ou prenez dou lombil dou ceval en qantité d'un gran de cisre ou pou plus et mollifiez
+                    le bien entre vos maains, et qant vos l'avrez bien mollifiee, oingiez en le bec a
+                    l'oisel.</p>
+                    <lb/>
+                    <p xml:id="d001l237" n="7" rend="numbered">Et saichient tui[t] qe li oissieaux devint ensi come fol d'amer formant suen segnor
+                    por ochaison de ceste ointure, dont il avint q'il vient puis tant volentiers au reclam
+                    qe ce est une grant mervoille.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c034" n="34">
+                    <head>34.</head>
+                    <p xml:id="d001l238" n="1" rend="numbered"><emph style="font-style:italic">De la cure dou vomir.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l239" n="2" rend="numbered">Qant l'ostor vomist et gete le past, sa cure doit estre ceste: l'en le doit fere tant
+                    jeunier qe l'en puisse conoistre q'il ait bien vuidié l'estomac, et aprés ce doit
+                    l'en prendre trois pieces de char tiendre et poudrier desus gingibre de Seine et semence
+                    de masturce et doner le puis a maingier a l'oisel.</p>
+                    <p xml:id="d001l240" n="3" rend="numbered">Et au segont jor aprés le main li doi[n]t l'en trois petitez pieces de char tiendre,
+                    et qant viendra puis a hore de midi, donez li le remanant de suen past, tailliez par
+                    morseaux et mis en eve chaude.</p>
+                    <p xml:id="d001l241" n="4" rend="numbered">Et s'il avint q'il nel reteigne encore mes le vomisse et le giet, fetes ceste autre
+                    mecine: prenez de la terre dou fornel ou dou foolair arse et metez dedenz eve clere,
+                    et puis i tailliez dedenz la char dont vos volez peistre l'oisel par morseaux petit;
+                    de ceax morseax peissiez puis l'oisel.</p>
+                    <p xml:id="d001l242" n="5" rend="numbered">Ou prenez char de mouton et eschaufez la en eve chaude et donez la a maingier a l'oisel.</p>
+                    <lb/>
+                    <p xml:id="d001l243" n="6" rend="numbered">Et se aucune de ces mecines ne li valt, au dereain est ceste la sovreine: prenez une
+                    espiece qe l'en appelle phangar et metez la es chars en eve chaude, et qant elle i
+                    sera demoree bien longemant, donez a maingier a l'oisel cele char.</p>
+                    <p xml:id="d001l244" n="7" rend="numbered">Et saichent tuit qe ceste mecine est bien esprovee et q'ele confort l'estomac et l'apetit
+                    et engraisse l'oisel.</p>
+                    <p xml:id="d001l245" n="8" rend="numbered">Ussez ausi a doner a l'oisel a maingier dou pevre, qar mout li est profitable.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c035" n="35">
+                    <head>35.</head>
+                    <p xml:id="d001l246" n="1" rend="numbered"><emph style="font-style:italic">De la cure de la fleume et de la colere par vomir.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l247" n="2" rend="numbered">Prenez de cele semence qi est appellee stafisagrie montenere vii grans, se ce est
+                    des greignors oisseax, mes se ce est por oisel de dimie maniere, prenez en seulement
+                    cinc, et se ce [est] por menor oisel, prenez en trois tant seulement.</p>
+                    <p xml:id="d001l248" n="3" rend="numbered">Et escorciez les et tridez les bien qant il serunt escorcié, et puis metez ensi dedenz
+                    la char dont vos volez pestre l'oisel en tel maniere qe li oisseaux ne s'en puisse
+                    en nulle guise apercevoir, et puis l'en peissiez.</p>
+                    <p xml:id="d001l249" n="4" rend="numbered">Et saichent tuit qe ce purgera maintenant la fleume et la colore.</p>
+                    <p xml:id="d001l250" n="5" rend="numbered">Et aprés ce, qant vos le voudriez pestre, donez li d'un collumbel gras ou d'un pul
+                    ou d'une geline noire grasse ou de char de soriz ou de char d'oisseaux.</p>
+                    <p xml:id="d001l251" n="6" rend="numbered">Et saichent tuit qe, ussant l'en ceste cure, se saine bien l'oisel et s'engraisse
+                    et avra buen apetit de maingier et vollentier oissielera.</p>
+                    <lb/>
+                    <p xml:id="d001l252" n="7" rend="numbered">Et se vos volez bien purger vetre oisel de la fleume et des lombrices et de la colore,
+                    prenez de la graisse qe l'en trove sout la coue dou mouton es partiez d'Espaingne,
+                    qant li moutons sera ocis novelemant, et oingiez la de miel et la donez a l'oisel
+                    avec suen past.</p>
+                    <p xml:id="d001l253" n="8" rend="numbered">Aprés ce liez l'oisel au soleauz tant q'il s'echaufe suen dos et metez devant un bacin
+                    d'eve munde et belle par ce q'il boive a sa volenté.</p>
+                    <p xml:id="d001l254" n="9" rend="numbered">Et saichent tuit qe por ceste cure se purgera bien l'oisel dou tout.</p>
+                    <p xml:id="d001l255" n="10" rend="numbered">Encore est mout buens li zucres ros por purger bien, et est el ventre de l'oisel froitez
+                    et munde li stomac et li done buen apetit de maingier et volenté d'oisilier.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c036" n="36">
+                    <head>36.</head>
+                    <p xml:id="d001l256" n="1" rend="numbered"><emph style="font-style:italic">De fere muer viaz l'oisel.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l257" n="2" rend="numbered">Qant vos volez fere tost muer vetre oissel, prenez des glandes qe l'en trove el col
+                    dou mouton et seichiez les a l'ombre, puis qe vos en avrez fet lesches soutils.</p>
+                    <p xml:id="d001l258" n="3" rend="numbered">Et qant voz voudrez pestre vostre oisel de mue, prenez de la nomee poudre o une pointe
+                    de coutel et la poudriez sor, la char dont vos volez pestre l'oisel, et ensi li donez
+                    a maingier.</p>
+                    <p xml:id="d001l259" n="4" rend="numbered">Et ceste mecine li fetes dou setm' en setem jor.</p>
+                    <p xml:id="d001l260" n="5" rend="numbered">Encore donez li es set jor set puis d'arondes a maingier, et aucune foee li donez
+                    a maingier autresi de peissons.</p>
+                    <p xml:id="d001l261" n="6" rend="numbered">Encore prenez autresi des vespes grans et seichiez les et poudriez les, et de cele
+                    poudre li donez o suen past a maingier.</p>
+                    <lb/>
+                    <p xml:id="d001l262" n="7" rend="numbered">Encore prenez autresi l'espoile dou serpant et sechiez bien et tridez la et la li
+                    donez a maingier avec suen past.</p>
+                    <p xml:id="d001l263" n="8" rend="numbered">Encore li est mout buen por doner a maingier char de trois ranez et char de nible
+                    et char de bisse escuere.</p>
+                    <lb/>
+                    <p xml:id="d001l264" n="9" rend="numbered">Et qant vos veirez qe vestre oisseaux commenciera a gitier les pennes, aspergiez sor
+                    les chars qe vos li volez doner a maingier chascun jor assiduemant d'oile de susimin,
+                    qar ce est mout buen a humifier le cors de l'oisel et a fere qe le penne nove naissant
+                    molle et tiendre et no sseche et aspre.</p>
+                    <p xml:id="d001l265" n="10" rend="numbered">Et saichiez qe totes pennes le qeles gite l'oisseaux de novel dures, seches et fragiles
+                    et sanz fortece, vienent trop foible aprés et sanz aucune vertu.</p>
+                    <p xml:id="d001l266" n="11" rend="numbered">Et ce devient por le mauveises mecines qi lli sunt donee, le qelle l'ont fet muer
+                    trop subitemant et ont corumpue la vertu de suen stomac.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c037" n="37">
+                    <head>37.</head>
+                    <p xml:id="d001l267" n="1" rend="numbered"><emph style="font-style:italic">Dou past qi fet oissir les pennes novelles bones.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l268" n="2" rend="numbered">La meillor mecine et la plus exprovee qe l'en puisse fere as bones pennes muer est
+                    doner a maingier a l'oisel pivions de columbez et puis de petitz oisseaux buens et
+                    tiendres, qant il se commencent premieremant a movoir ou a esprover soi s'il poent
+                    voler, et puis d'arondes autresi en lor seison et char de moutons ointes d'oile de
+                    noiz et d'oile d'olive melleemant, ou fondez [l]es dedenz amdeus cels oiles.</p>
+                    <p xml:id="d001l269" n="3" rend="numbered">Ou prenez char de levre et seichiez les et poudriez les; de cele poudre poudrez les
+                    char qe vos a vetre oisel volez doner a maingier.</p>
+                    <p xml:id="d001l270" n="4" rend="numbered">Et saichient qe ceste char sunt sain a l'oisel et le funt bien muer et l'engraissent.</p>
+                    <p xml:id="d001l271" n="5" rend="numbered">Mes gardez vos de doner tantes mecines a l'oisel, qar mout li est perils.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c038" n="38">
+                    <head>38.</head>
+                    <p xml:id="d001l272" n="1" rend="numbered"><emph style="font-style:italic">Deu leu de la mue.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l273" n="2" rend="numbered">A ce doit l'en savoir qe li leus ou l'en doit metre l'oisel en mue doit estre tels
+                    qar il doit estre lonteins et sevrez de trop clamor et de trop aler d'aucun et trop
+                    usance autresi, et nuls doit aler pres de la mue ni dormir, qar li rumors et le parler
+                    de chascun qi demorast pres de la mue est trop contra cuer a l'oisel et trop fort
+                    li anuie.</p>
+                    <p xml:id="d001l274" n="3" rend="numbered">Et la meisons de la mue ne doit estre overte devers cele partie dont vient li vent
+                    de midi, qi est appeliez austre.</p>
+                    <p xml:id="d001l275" n="4" rend="numbered">Encore se doit l'en porveoir sor totes choses en toute maniere qe li leus de la mue
+                    ne soit fumeus ni poudreus et q'il ne soi[t] en leu ou ait esté devant acustumé de
+                    fere feu, qar le fumositez qi i avroit esté fete et qi avroit sorpris le leu de fumee
+                    nuiroit trop a l'oisel et l'empleroit de peoils, por qo[i] il se feroit magres et
+                    foibles.</p>
+                    <p xml:id="d001l276" n="5" rend="numbered">Et s'il avint qe sa garde ne se porvoie de ce et rien n'en saiche, il se mervoilera
+                    de sa magrece, por qoi elle soit et dont elle viegne.</p>
+                    <p xml:id="d001l277" n="6" rend="numbered">Et ensi mura l'oisel s'il n'est subitemant et tot secoruz et aidiez.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c039" n="39">
+                    <head>39.</head>
+                    <p xml:id="d001l278" n="1" rend="numbered"><emph style="font-style:italic">D'amegrir l'oisel qant l'en l'oste de mue.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l279" n="2" rend="numbered">Qant vos trahez vostre oisel de mue et vos le volez amegrir, prenez dou poumon d'un
+                    oisel et tailliez le soutilmant, mes ne por qant en tiel maniere le tailliez qe li
+                    morsel remaingnent entier, et aprés ce le fetes bien laver en eve froide dusq'a tant
+                    q'il soient bien mundé et bien purgé dou sanc et de sa vertu, et donez les a maingier
+                    a l'oisel.</p>
+                    <p xml:id="d001l280" n="3" rend="numbered">Et saichent tuit qe ceste mecine liquefie la graisse de l'oisel et le fet amegrir.</p>
+                    <lb/>
+                    <p xml:id="d001l281" n="4" rend="numbered">Encore a ce une autre cure mout bone: prenez de sal blanc et de sal geme andranen
+                    en qantité d'une oinçe et fetes le trider et donez le a maingier a l'oisel en trois
+                    [morseax de char] et metez eve devant lui por ce q'il boive qant il velt, et la nuit
+                    metez fanc mout humide la ou il dort, mes premieremant metez vetre oisel iluec.</p>
+                    <p xml:id="d001l282" n="5" rend="numbered">Et saichiez qe por ochaison de cestui fanc veilliera l'oisel toute nuit, et ensi liquifiera
+                    sa graisse et se purgera et deviendra humitez suen cors.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c040" n="40">
+                    <head>40.</head>
+                    <p xml:id="d001l283" n="1" rend="numbered"><emph style="font-style:italic">De curer la depenaxon de l'oisel.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l284" n="2" rend="numbered">Qant l'oisseax se depenne, ceste est sa cure: prenez des pomes granees douces et en
+                    trahez le suc, et en celui suc tailliez menuemant morseax de char et puis le donez
+                    a maingier a l'oisel.</p>
+                    <lb/>
+                    <p xml:id="d001l285" n="3" rend="numbered">Et se ce ne li val, prenez cinc granz de frument et cinc de ris et metez le en la
+                    pel d'une soriz baigniee et donez les puis a maingier a l'oisel.</p>
+                    <p xml:id="d001l286" n="4" rend="numbered">Ou prenez de cisre blanc un pou et fetes le arostir et tridez le et puis prenez trois
+                    morseax de char et oingiez les de miel et poudrez desus de cele poudre qi est dite
+                    de cisre, et puis les [donez] a maingier a l'oisel.</p>
+                    <p xml:id="d001l287" n="5" rend="numbered">Et saichiez qe ceste mecine chace toutz le lombrices qi li naissent dedenz le cors.</p>
+                    <p xml:id="d001l288" n="6" rend="numbered">Mes s'il avenist qe vos conoissiez qe sa egestions fust en suen ventre et por ce fust
+                    cele depenason, fetes li un cristier de butre de vache viauz.</p>
+                    <p xml:id="d001l289" n="7" rend="numbered">Mes se vos conoisiez cele depennason estre par corosion, prenez de sal armoniac blanc
+                    et de gingibre et de girofles et de sal comun, et toutes ces choses tridez bien et
+                    les crivelés et puis en soflez un pou en les nares de l'oisel et mout li vaudra.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c041" n="41">
+                    <head>41.</head>
+                    <p xml:id="d001l290" n="1" rend="numbered"><emph style="font-style:italic">De curer les peoils.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l291" n="2" rend="numbered">Qant il avint qe vetre oisseax a peoils, a ces enseignes le porez conoistre, qar li
+                    peoil vienent a l'oisel tot adés vers le chief et vers les euz, por ce q'il boivent
+                    des euz, et sachiez qe s'il ne poent prosmer as euz, il murent de soi maintenant.</p>
+                    <p xml:id="d001l292" n="3" rend="numbered">Et por ce sunt maint fauconier qi metent es plumes dou col de l'oisel orpigmant, por
+                    ce qe ce defent qe li peoil ne poent passer ais euz per boivre.</p>
+                    <p xml:id="d001l293" n="4" rend="numbered">Mes nos ussons a ce mout plus legiere cure, qe est qe nos prenons l'oisel trois jorz,
+                    et chascun de ceax trois jorz deus foees ou trois l'envolvon en une pecie blanche
+                    et soutil de lin et le meton au soleauz, et ceste pecie suffomigon de surfre, et adonc
+                    le peoil se traient tuit.</p>
+                    <p xml:id="d001l294" n="5" rend="numbered">Encore saiche qe se l'en li met liquirice verde tridee en la sumité des pennes, tuit
+                    li peoil muiront maintenant, et auqant sunt qi prenent de la liquirice verde li fust
+                    et les foilles et les gietent aprés le leu ou li oissieaux siet et demore, et por
+                    ochaison de l'odor de lor avint qe tuit li oisel maintenant se muirent.</p>
+                    <p xml:id="d001l295" n="6" rend="numbered">Ou prenez auqant de bambaz et en fetes un anel et oingiez le de fece de vin et metez
+                    le el col de l'ostor, de nuit ou de jor, qant il siet sor vetre main, et saichiez
+                    qe maintenant viendront tuit li peoil a l'anel dou banbaz qe l'oisseaus avra el col,
+                    et qant vos veirez qe l'anel li sera assez esté el col, gitiez le aillors.</p>
+                    <p xml:id="d001l296" n="7" rend="numbered">Ou prenez d'oile d'olive et oingiez les jambes ou le plantes et les doiz de l'oisel,
+                    et ensi veirez atant tuit li peoil venir a l'odor de l'oile, et voz le porrez adonc
+                    fere ocire tout plainemant.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c042" n="42">
+                    <head>42.</head>
+                    <p xml:id="d001l297" n="1" rend="numbered"><emph style="font-style:italic">De curer la podrage.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l298" n="2" rend="numbered">Qant vos veirez qe vestre oisels ait la podrage, en ceste maniere le devez curer:
+                    premieremant li devez oster les champenellez et veoir se li laz li sunt trop estroit
+                    et non doner li a maingier fors qe puis d'oissieax qi encore n'aient comencié voler,
+                    ou buens pivions, et ce doit l'en fere dusq'atant q'il soit geriz.</p>
+                    <p xml:id="d001l299" n="3" rend="numbered">Et le doit l'en [fere] premierement de soir et tenir le ensi en abstinence par deus
+                    jor, ce est doner li a maingier seulement de soir et pou, mes le tierz jor aprés le
+                    doit l'en pestre auqant plus.</p>
+                    <lb/>
+                    <p xml:id="d001l300" n="4" rend="numbered">Et s'il avint qe les plaintes de ses piez li enflent, sa cure doit estre tele: prenez
+                    une piece de veire, et o cele piece de veire navrés li le plaintes soutilmant et leissiez
+                    li ensir le sanc et putrede.</p>
+                    <p xml:id="d001l301" n="5" rend="numbered">Aprés ce prenez d'aloepat et de gumme et d'aubume d'ou et de gum arabic et de groc,
+                    et metez toutes ces choses en un veisel de fer et puis le metez sor le feu ensi dedenz
+                    le veisel et les leissiez tant ester q'ele se liquifient, et qant elle liquifie et
+                    melle ensemble, oingiez en les plaintes de l'oisel.</p>
+                    <p xml:id="d001l302" n="6" rend="numbered">Et saichent tuit qe ceste mecine chace la dolor et constraint la reume.</p>
+                    <p xml:id="d001l303" n="7" rend="numbered">Mes s'il ne saine por ce dou tot, prenez d'un fust de mirte et metez li uns des chiés
+                    dedenz [le feu] si q'il s'alume en la sumité de celui chief, et puis en cuissiez le
+                    leu de l'enfleüre.</p>
+                    <p xml:id="d001l304" n="8" rend="numbered">Mes gardez qe vos ce fetes en tel maniere qe vos ne dampnez li nerf ni les plantes
+                    des piez de l'oisel.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c043" n="43">
+                    <head>43.</head>
+                    <p xml:id="d001l305" n="1" rend="numbered"><emph style="font-style:italic">Comant l'en doit fere la cave.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l306" n="2" rend="numbered">Encore fetes une chave en terre, parfonde deus branz et [un] braz ample, et eschau[f]ez
+                    la dedenz o sermentes de vignes, et qant elle sera bien eschaufee, trahez en tout
+                    ce qi i sera dedenz de feu et de ceindre.</p>
+                    <p xml:id="d001l307" n="3" rend="numbered">Et qant vos la avrez bien mundee, borfez la de vin, et puis envolupez l'oisel dedenz
+                    un pan de lin soutil, et desor la chave metez une lame soutil, et puis tenez l'oisel
+                    ensi envolupé desoure cele lame ensi qe la chalor et la vapor de la cave passent a
+                    lui.</p>
+                    <p xml:id="d001l308" n="4" rend="numbered">Et vos veirez qant l'oisseax sera bien eschaufez q'il li istrunt gote liquide des
+                    nares, ensi come avint qe por refroidemant issent a aucun animau humidité des nares.</p>
+                    <lb/>
+                    <p xml:id="d001l309" n="5" rend="numbered">Et aprés ce ostés l'oisel d'iluec et peissiez le de char chaudes de grasse geline
+                    noire.</p>
+                    <p xml:id="d001l310" n="6" rend="numbered">Et ce qe l'en remaindra a maingier li donez l'autre jor aprés, mes donez li chaut,
+                    et aprés ce le peissiez des bones chars et ce li vaudra sanz faille, qar exprovez
+                    est.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c044" n="44">
+                    <head>44.</head>
+                    <p xml:id="d001l311" n="1" rend="numbered"><emph style="font-style:italic">Dou ardant apetit.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l312" n="2" rend="numbered">Qant vetre oisseaux a trop ardant apetit de maingier, donez li a boivre totes voies
+                    de butre vieauz et pou de char li donez a maingier.</p>
+                    <p xml:id="d001l313" n="3" rend="numbered">Et saichiez qe cestui vices se cure par butre plus tost qe par char, et por ce qant
+                    l'en li done la char, l'en la doit efundre dedenz le butre.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c045" n="45">
+                    <head>45.</head>
+                    <p xml:id="d001l314" n="1" rend="numbered"><emph style="font-style:italic">De curer la dolor dou dos.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l315" n="2" rend="numbered">Qant vos veirez a vetre oissel avoir dolor el dos ou en l'espine, sa cure est tele:
+                    prenez le et liez le sor un feis de fen ou d'erbe, et aprés ce prenez une zuche foree
+                    des petitz forainz el font, et li gitez eve dedenz si q'ille isse par les forains
+                    et chee sor les humres de l'oissel [et] entre les espales.</p>
+                    <p xml:id="d001l316" n="3" rend="numbered">Et ce doit l'en fere mes non pas assiduemant, et li forain doivent tant petit estre
+                    qe l'eve en isse ensi plainemant q'ele n'en semble issir mes isse ensi come entremissivemant,
+                    ensi qe li oissieax ne repasse a la foee.</p>
+                    <p xml:id="d001l317" n="4" rend="numbered">Et saichent tuit qe li past de l'oissel doit estre adonc de char baigniee en oile
+                    comun ou en oile de noiz.</p>
+                    <p xml:id="d001l318" n="5" rend="numbered">Ou fetes buillir auqant de vin et enfundez dedenz une piece de feautre, et aprés ce
+                    colez le feautre et le prenez o les mains, et tant tost eschaufez l'oisel o celui
+                    feutre el dos ou en chascun autre leu ou vos poez conoistre q'il sente la dolor, et
+                    ce fetes savant.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c046" n="46">
+                    <head>46.</head>
+                    <p xml:id="d001l319" n="1" rend="numbered"><emph style="font-style:italic">De curer la corrosion.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l320" n="2" rend="numbered">La corrosions, selonc ce qe dist Bulchanz d'Armarie, vint en deus manieres, et chascune
+                    commence es eles.</p>
+                    <p xml:id="d001l321" n="3" rend="numbered">Et en l'une de ces deus manieres, qant vos veirez l'oisel o suen bec deplumer ses
+                    eles et aucune des pennes gitier, prenez cele penne gitiee et gardez se la corosion
+                    est da chief dusq'au chanul et s'ele passe dusq'a la char de l'oisel.</p>
+                    <lb/>
+                    <p xml:id="d001l322" n="4" rend="numbered">Sa cure est tele: prenez bone galie, ce est une confections fete de bones espices,
+                    et parmi le chanul des pennes corroses en cele part ou vos veirrez li chanuls carros
+                    et overt, metez tant de la nomee confection qe vos puissiez cuidier q'ele parviegne
+                    au leu et au commençemant de la corrosion.</p>
+                    <p xml:id="d001l323" n="5" rend="numbered">Et saichient tuit q'elle s'acurera mout s'il avint qe la mecine parviegne dusq'au
+                    commençemant de li, qar ceste enfermité prent naiscemant dedenz les chanuls.</p>
+                    <lb/>
+                    <p xml:id="d001l324" n="6" rend="numbered">Mes ceste autre mecine est en li meillor, ensi come dist mestres [Tariph], qi dist
+                    q'il l'avoit exprovee.</p>
+                    <p xml:id="d001l325" n="7" rend="numbered">Prenez aisit vieauz et fort et metez dedenz auqant d'ails pistez et d'orpigmant et
+                    de zenapre vert et un pou de sal et de borac armenic, et puis fendez et ovrés les
+                    chanuls des pennes coroses de l'oisel, et par celes sissures et overtures des chanuls
+                    mettés de ceste mecine, et saichient tuit q'ele est bien exprovée.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c047" n="47">
+                    <head>47.</head>
+                    <p xml:id="d001l326" n="1" rend="numbered"><emph style="font-style:italic">D'une maniere de corrosion et de la cure.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l327" n="2" rend="numbered">L'autre maniere de ceste enfermité est mout diverse de ceste, qar elle n'est pas es
+                    chanuls mes es osses de l'oisel et neist et se cree ou par trop sanc ou par naturel
+                    prurit.</p>
+                    <p xml:id="d001l328" n="3" rend="numbered">Sa cure est tele: fetes saignier l'oisel de les deus voines q'il a sout les eles et
+                    puis ussez de les nomees mecines.</p>
+                    <p xml:id="d001l329" n="4" rend="numbered">Enseigne de ceste enfermité est qe vos veirez l'oisel gitier les plumes et non pas
+                    les pennes granz et les gietera des eles et non pas coroises, ançois serunt bien enterre
+                    et bien saine.</p>
+                    <p xml:id="d001l330" n="5" rend="numbered">Et saichient tuit qe ceste enfermité est trop grief por cure[r], et s'ele n'est curee
+                    par aucun sage et esprové home en ce, li oisseaus en perira sanz nulle faille.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c048" n="48">
+                    <head>48.</head>
+                    <p xml:id="d001l331" n="1" rend="numbered"><emph style="font-style:italic">Des enseignes de la sainté ou de la maladie.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l332" n="2" rend="numbered">Esgardez bien vetre oisel et veez s'il set droitemant sor la perche d'andeus les lez
+                    et s'il avra engal le mou de chascun lé et se sa chars sera dure et se andoui li os
+                    qi sunt en sa boche sunt engal, qar se ceste enseigne aperent en lui, saichent tuit
+                    q'il est sainz bien sanz nulle faille.</p>
+                    <lb/>
+                    <p xml:id="d001l333" n="3" rend="numbered">Mes qant vos [le] veirez voler et tenir suen chief plus pleié vers une partie qe vers
+                    une autre et soi pleier tot plus sor un leu qe sor un autre, saichiez adonc qe sa
+                    enfermitez est en cele partie ou il incline le chief et ou il se plie tout et ou il
+                    se revoit volentiers.</p>
+                    <p xml:id="d001l334" n="4" rend="numbered">Encore prenez vos garde se vetre oissieaux, qant il vole, se detort majormant en un
+                    lé qe en un autre ou par avanture se li oisseaux q'il chace torne vers cele part ou
+                    il ne se puet virer, et saichiez qe par ces enseignes et par ces manieres poroiz conoistre
+                    l'enfermité et la sainté de lui manifestemant.</p>
+                    <p xml:id="d001l335" n="5" rend="numbered">Mes le principaus enseigne sunt ceste: encerchiés les osses qi sunt sor l'orifice
+                    dou cul et les voines autresi qi sunt en les extremitez des eles, qar, sentant li
+                    fauconiers ces leus, legieremant porra conoistre se sis oisseaux sera sains ou enfermez
+                    ou s'i[l] soistendra debilité ou dolor.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c049" n="49">
+                    <head>49.</head>
+                    <p xml:id="d001l336" n="1" rend="numbered"><emph style="font-style:italic">Comant l'en se doit contenir vers suen oisel.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l337" n="2" rend="numbered">Qant li oisseaux de rapine vient a vos mains, fetes li doner suen past suffissemant
+                    et bien saichier, et qant ce viendra vers la nuit, metez le a jeisir pres de vos sor
+                    une lame ou sor une perche et fetes alumer une lampe devant lui.</p>
+                    <p xml:id="d001l338" n="3" rend="numbered">Et levez vos la nuit trois ou qatre foees, et s'il drot, saichiez q'il enduit bien
+                    suen past et q'il est adonc bien sains, et s'il ne dort ou ne enduit suen past, il
+                    n'est sains.</p>
+                    <lb/>
+                    <p xml:id="d001l339" n="4" rend="numbered">Et a ce doit estre sa cure tele: donez li a maingier un collumbel o un pul gras ou
+                    une geline noire grasse ou d'un mouton gras, mes qe ce soit avec oile d'olive ou avec
+                    butre vieauz.</p>
+                    <p xml:id="d001l340" n="5" rend="numbered">Et par ceste usance mantenir, porrez conoistre se li oisseaux s'engraissiera ou non.</p>
+                    <p xml:id="d001l341" n="6" rend="numbered">Et ceste semblance meeme troverez el home qant il n'est bien sains et maingüe aucune
+                    chose trop, q'il ne dort bien la nuit por la gravité q'il sent en suen stomac et por
+                    la male digestion.</p>
+                    <p xml:id="d001l342" n="7" rend="numbered">Et en ces manieres et es autres desus nomees porez conoistre apertemant l'enfermité
+                    et la sainté de vetre oisel.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c050" n="50">
+                    <head>50.</head>
+                    <p xml:id="d001l343" n="1" rend="numbered"><emph style="font-style:italic">Por acostumer suen oissel de prendre oissieax granz.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l344" n="2" rend="numbered">Se vos volez acostumer vetre oisel a prendre grans oisseaux, en ceste maniere le poez
+                    fere: prenez un columbel o un pul et donez li a boivre de bon et de fort aisit, et
+                    puis le leissiez aler ou voler auqant ensi qe li aisit li passe et aille par tot le
+                    cors, et aprés ce li donez a maingier a l'oisel.</p>
+                    <p xml:id="d001l345" n="3" rend="numbered">Saichiez tuit qe cestui past amegrist l'oisel.</p>
+                    <p xml:id="d001l346" n="4" rend="numbered">Et ce fetes: prenez trois petitez pieces de char, au plus en qantité d'une amigdale,
+                    et prenez un cornesel et metez i dedenz de buen aissitz et de for et puis baigniez
+                    dedenz celes pecietes de char, et un pou avant qe vos gietiez vetre oisel, donez li
+                    a maingier une pece ou deus.</p>
+                    <p xml:id="d001l347" n="5" rend="numbered">Et saichent tuit qe ceste mecine fet estre plus ardiz l'oisel et de meillor volenté
+                    a qelqe oisel qe l'en li giete, et le fet voler a prendre selonc sa puissance, de
+                    bone volonté et d'ardant.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c051" n="51">
+                    <head>51.</head>
+                    <p xml:id="d001l348" n="1" rend="numbered"><emph style="font-style:italic">Qant l'en doute de perdre l'oissel.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l349" n="2" rend="numbered">Se vos doutez par avanture de perdre vetre oisel en la seison de ver, por ce q'il
+                    ne se recort de suen niu et q'il n'i voile torner, a ce fetes ceste mecine:</p>
+                    <p xml:id="d001l350" n="3" rend="numbered">prenez auqant d'orpigmant et le mellez en suen past et li donez a maingier, et saichez
+                    q'il obliera suen niu por ce et toutes choses passees, et si n'entendra fors seulement
+                    a chacier et meememant a prendre grant oissieaux.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c052" n="52">
+                    <head>52.</head>
+                    <p xml:id="d001l351" n="1" rend="numbered"><emph style="font-style:italic">Qant l'oissel s'en est fuiz, por fere le retorner.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l352" n="2" rend="numbered">Se vostre oissieaux s'en sera fuiz et ne voudra retorner et jesira fors as arbres
+                    par une nuit ou par deus et retornera ensi comme sauvage de dure volenté, sa cure
+                    doit estre tele:</p>
+                    <p xml:id="d001l353" n="3" rend="numbered">prenez deus columbeaux ou deus puls et liés lez ensemble o une cordelle ensi qe li
+                    uns ne se desevre de l'autre en aucune maniere.</p>
+                    <p xml:id="d001l354" n="4" rend="numbered">Et qant vos avrez trové vetre oisel qi ne voile venir a vos, gitiez li le columbeaux
+                    ou les puls, et cil se melerunt ensemble et commencierunt de volitier, por qoi li
+                    oissieaux ne se pora tenir q'il ne descende sor eaux.</p>
+                    <p xml:id="d001l355" n="5" rend="numbered">Et vos aiez adonc appareilliee une verge o une chane longe et en la sumitié d'un des
+                    chief aiez mis un anel o un laz.</p>
+                    <p xml:id="d001l356" n="6" rend="numbered">Et qant l'oissieaux sera descenduz sor les puis et les avra o[cis] amdeus et les commenciera
+                    a deplumer, et vos adonc plainemant et ascosemant vos traiez vers lui tant qe vos
+                    li gitiez les laz, qi sera en la sumité de la chane, au col.</p>
+                    <p xml:id="d001l357" n="7" rend="numbered">Et ce fetes qant il avra ja comencié de maingier, mes au plus ascosemant qe vos poez
+                    le fetes et ensi le poroiz reavoir.</p>
+                    <p xml:id="d001l358" n="8" rend="numbered">Et se vos ensi ne le reavés, un autre soutil engingn vos convient trover, et certes
+                    cestui est assez soutils et biax.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c053" n="53">
+                    <head>53.</head>
+                    <p xml:id="d001l359" n="1" rend="numbered"><emph style="font-style:italic">Qant li oissieaux est de male disposicion.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l360" n="2" rend="numbered">Se vos veez qe vetre oisseax soit de male volunté, prenez zuchre ros et groc et lache
+                    et tridez totes ces choses et mellez avec le past de l'oisel et li donez a maingier.</p>
+                    <p xml:id="d001l361" n="3" rend="numbered">Ou prenez de pomes granees douce et de fortes autresi et premez en le suc fors, et
+                    puis metez dedenz cele suc sis ou set morseax de char et donez les a l'oisel a maingier.</p>
+                    <p xml:id="d001l362" n="4" rend="numbered">Et saichent tuit qar ceste mecine est mout profitables et bone a ce et feit bien enduire
+                    et chace les lombrices dou ventre.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c054" n="54">
+                    <head>54.</head>
+                    <p xml:id="d001l363" n="1" rend="numbered"><emph style="font-style:italic">De la cure des lombrices dou ventre.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l364" n="2" rend="numbered">Qant vos conostriés qe vetre oissieax ait lombrices en suen ventre, devez le en tel
+                    maniere curer:</p>
+                    <p xml:id="d001l365" n="3" rend="numbered">prenez dou suc des pomes granees douces et metez dedenz tante char qe puisse soufir
+                    au past de l'oisel, et soit cele char talliees en morseax.</p>
+                    <lb/>
+                    <p xml:id="d001l366" n="4" rend="numbered">Et leissez l'oisel jeuner par un jor et puis li donez suen past, et saichent tuit
+                    qe ceste mecine le sanera et le fera purger des lombrices.</p>
+                    <p xml:id="d001l367" n="5" rend="numbered">Ou prenez des enteriors d'un oisel ensi come sunt le fie et le cuers ou des autres
+                    chars autresi, et aprés ce prenez des pils de la coue dou ceval ou des pils des chiés
+                    qi sunt gitié aillors et qe l'en a por noiant, et tailliez les o forges menuemant
+                    sor les chars qe vos volez doner a maingier a l'oisel et puis l'en peissiez.</p>
+                    <p xml:id="d001l368" n="6" rend="numbered">Et saichent tuit qe li oissieaux se purgera adonc de toutz lombrices et de toutz verms
+                    q'il avra en suen ventre.</p>
+                    <p xml:id="d001l369" n="7" rend="numbered">Et mout li vaut autresi aloepat, li qel l'en doit prendre en qantité d'un gran de
+                    cisre, et le doit l'en fichier en la char et doner le ensi a l'oisel a maingier.</p>
+                    <p xml:id="d001l370" n="8" rend="numbered">Ou prenez d'erbez de frument qant il neist, tele qi soit tiendre et fresche et verde,
+                    et pistez la et prenez en le suc, et en celui suc baigniez auqant morseaux de char
+                    et donez les a maingier a l'oisel.</p>
+                    <p xml:id="d001l371" n="9" rend="numbered">Et usez de ceste mecine deus ou trois jors, et ensi se curera.</p>
+                    <p xml:id="d001l372" n="10" rend="numbered">Et saichent tuit qe ceste mecine est bien exprovee et est bone et veraie.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c055" n="55">
+                    <head>55.</head>
+                    <p xml:id="d001l373" n="1" rend="numbered"><emph style="font-style:italic">Qant li oisseaux covre ses euz o ses paupebres sovant.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l374" n="2" rend="numbered">Qant vos veirez vetre oisel sovant et espesemant recovrir ses euz o ses pauperes ou
+                    esgarder tot adés as humres des ses eles et veirez de ses eus eve discore sor les
+                    pennes de ses eles, por la qele eve se prendront ensemble ses pennes ensi come par
+                    viscle, saichiez qe ce li devint ou par reume qe dau chief li descent as euz, ou par
+                    ochaison de corosion fetes en ses tuls ou par ochaison de cele enfermité qi est colyche
+                    appellee.</p>
+                    <p xml:id="d001l375" n="3" rend="numbered">Et est signes de ce qe vos veirez la naturele noirece de ses tuls estre convertie
+                    en bla[n]chor et li veirez autresi sovant ses nares o ses ongles rasper.</p>
+                    <lb/>
+                    <p xml:id="d001l376" n="4" rend="numbered">Sa cure doit estre tele: prenez un pivion gras et tiendre et enplez li la gole et
+                    la gorge de fort aisitz en tante qantité q'il chee par soi meeme, et adonc non autremant
+                    ocis le metez entre les piez de l'oisel et l'en leissiez pestre a sa volunté, et saichiez
+                    q'il se sanera en ceste maniere.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c056" n="56">
+                    <head>56.</head>
+                    <p xml:id="d001l377" n="1" rend="numbered"><emph style="font-style:italic">De la cure des plaies et de feries de l'oisel.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l378" n="2" rend="numbered">Qant vostre oiseaux sera feris par aucun autre oisel, sa cure doit estre tiele: prenez
+                    une qantité d'une espice qi est appeliez challains artmatic et la moitié de cele qantité
+                    prenez de filice, ce est d'esule.</p>
+                    <p xml:id="d001l379" n="3" rend="numbered">Encore la moitié de ceste autre qantité prenez de cost, et totes ces choses poudrez
+                    et emplez en la plaie, ou q'ele soit fisteleuse ou non.</p>
+                    <p xml:id="d001l380" n="4" rend="numbered">Mes qant la ferie est viele, et ceste enfermitez ne suelt avenir a l'oisel fors qant
+                    il est dedenz le niu petitz avec ses autres freres, q'il se fierent ensemble adonc
+                    o ses piez, dont il avint qe cele ferie enveillee porist et la putrede remaint entre
+                    la char et la pel et desiche et porist tot entor li.</p>
+                    <lb/>
+                    <p xml:id="d001l381" n="5" rend="numbered">Et qant li oissieaux se commence de movoir a voler a la proie, la putrede se commence
+                    a movoir autresi, et com il soit ensi q'ele ne puist issir par la pel, et il a vint
+                    a donc q'ele romp dedenz et passe dusqe as boelles et ensi ocit l'oisel.</p>
+                    <p xml:id="d001l382" n="6" rend="numbered">Sa cure doit estre tele: donez li a maingier par trois jorz char de soriz avec lait
+                    de cavre, aprés li donez a boivre mumie avec oile de jasmin ou avec oile de lilles,
+                    et aprés le peissiez d'un pivion ou d'un pul et donez li a boivre et puis leissiez
+                    ensi ester.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c057" n="57">
+                    <head>57.</head>
+                    <p xml:id="d001l383" n="1" rend="numbered"><emph style="font-style:italic">De la cure de l'enfleüre dou chief.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l384" n="2" rend="numbered">Ceste enfermitez avint a l'oissel en deus manieres, l'une par ochaison de la fumosité
+                    de l'egestion enduree en suen ventre, ce est qant il ne puet egerir, et ceste enfermité
+                    est appellee colyche, dont est la cure devisee desus.</p>
+                    <p xml:id="d001l385" n="3" rend="numbered">L'autre ne sevent mie maint home bien curer, et ce devint par ochaison qe li oiseaux
+                    a tant lonc le bec a la foee qe, qant il mainge le chars, elle s'i envisclent dedenz
+                    et il masce fort, et por le fort mascer si enfle le chief.</p>
+                    <lb/>
+                    <p xml:id="d001l386" n="4" rend="numbered">Et saichiez qe l'aposteme ne sorvint a l'oisel fors es manieres divisees desus, dont
+                    mestre Tariph vea expressemant qe l'en ne deüst curer l'oisel par ochaison de ceste
+                    enfermité.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c058" n="58">
+                    <head>58.</head>
+                    <p xml:id="d001l387" n="1" rend="numbered"><emph style="font-style:italic">De cure[r] la reume qi descent en la gorge.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l388" n="2" rend="numbered">Qant la reume descent en la gole de l'oisel, ceste doit estre sa cure: se ce est d'esté,
+                    de zucre ros, mes se ce est d'iver, de zucre blanz, mes l'en les doit meller avec
+                    ces autres choses en tel maniere:</p>
+                    <p xml:id="d001l389" n="3" rend="numbered">l'en doit prendre premieremant dou zucre blanc une qantité, et aprés doit l'en prendre
+                    autretant de suc de liquirice et puis autretant encore de la racine de la meeme liquirice
+                    et encore autretant de gom arabie et un pou de chamfore, et doit l'en toutes ches
+                    choses enpaster ensemble avec eve rosee.</p>
+                    <lb/>
+                    <p xml:id="d001l390" n="4" rend="numbered">Et chascun main en doit l'en doner a l'oisel, se ce est ostors, la qantité d'une avelane
+                    a maingier, et se ce est esparviers, la tierce par ou la dimie d'une avelane.</p>
+                    <p xml:id="d001l391" n="5" rend="numbered">Ou prenez dou sumac tridé et enpasté avec miel et donez l'en a maingier en qantité
+                    d'une mangdale.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c059" n="59">
+                    <head>59.</head>
+                    <p xml:id="d001l392" n="1" rend="numbered"><emph style="font-style:italic">De curer l'enfermité de l'asne.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l393" n="2" rend="numbered">A curer l'enfermité de l'asne n'est aucune cure meillors com prendre dou sanc des
+                    ventoses et doner en a maingier a l'oisel.</p>
+                    <p xml:id="d001l394" n="3" rend="numbered">Mes se l'asm' avint par ochaison qe li oisseax ait maingié char chaude agües, sa cure
+                    doit estre ceste:</p>
+                    <p xml:id="d001l395" n="4" rend="numbered">metez le en une chambre ventose et froide et donez li suen past e morseax de char
+                    moilliez dedenz eve rosee en la qelle soit un grans de champhore tridez et distemprez,
+                    et oingiez le li piez de sandal blanc poudrié et mellé avec champhore.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c060" n="60">
+                    <head>60.</head>
+                    <p xml:id="d001l396" n="1" rend="numbered"><emph style="font-style:italic">De curer le fleume de la gole.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l397" n="2" rend="numbered">Enseigne de l'enfermité de le fleume qe vient en la gole a l'oisel est maximemant
+                    qant le humidité li sunt resolue en la gole, et vos veirez adonc q'il maingiera fort
+                    les chars et oirez une sonor en sa gole.</p>
+                    <p xml:id="d001l398" n="3" rend="numbered">Sa cure doit adonc estre tele: prenez de la char qi est en la moitié de la [geline]
+                    et oingiez la d'oile et puis la li donez a maingier.</p>
+                    <p xml:id="d001l399" n="4" rend="numbered">Aprés ce prenez de sal armoniac une drame et autretant de celidoine et fetes le trider
+                    et enpaster avec miel.</p>
+                    <p xml:id="d001l400" n="5" rend="numbered">Et qant le troi hore dou jor sunt passee, prenez l'oisel et distemprez la mecine en
+                    eve tepe et friez en o les doiz la gole de l'oisel.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c061" n="61">
+                    <head>61.</head>
+                    <p xml:id="d001l401" n="1" rend="numbered"><emph style="font-style:italic">De curer l'aubume des euz.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l402" n="2" rend="numbered">Qant vos veirez blanchor es euz de l'oisel, sa cure doit estre tele: prenez dimie
+                    daniche de miel et de lait de feme une daniche et de vertram tant come pese une lentiche,
+                    et mellez les ensemble et en fetes un colier.</p>
+                    <p xml:id="d001l403" n="3" rend="numbered">Et passees les trois hores dou jor, metez a ses euz ceste mecine et remanant ensi.</p>
+                    <p xml:id="d001l404" n="4" rend="numbered">Prenez de spice tant come pesse une daniche et madifiez la en eve froide et donez
+                    la a maingier a l'oisel de tierz en tierz jor.</p>
+                    <p xml:id="d001l405" n="5" rend="numbered">Ensi se sanera.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c062" n="62">
+                    <head>62.</head>
+                    <p xml:id="d001l406" n="1" rend="numbered"><emph style="font-style:italic">De meciner les oreilles.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l407" n="2" rend="numbered">Qant li oisseaus est infirmes en sa oreille, a ceste enseigne le poez conoistre, qar
+                    il frie suen chief pres de ses oreilles et le grate si fort a la foee q'il en fet
+                    issir sanc et putrede.</p>
+                    <p xml:id="d001l408" n="3" rend="numbered">Sa cure doit estre tiele: prenez dou seu de l'ors une carathe et de petroleo blanc
+                    autretant et destemprez la avec eve et eschaufez le un pou, et qant elle sera tepe,
+                    metez en l'oreille de l'oisel par trois jors une gote.</p>
+                    <p xml:id="d001l409" n="4" rend="numbered">Et ce doit l'en fere ento[r] la tierçe hore dou jors.</p>
+                    <p xml:id="d001l410" n="5" rend="numbered">Et aprés doit l'en metre l'oisel en un leu chaut et oscur et suen past doit estre
+                    chars et sanc de geline noire dusq'atant q'il soit sanez.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c063" n="63">
+                    <head>63.</head>
+                    <p xml:id="d001l411" n="1" rend="numbered"><emph style="font-style:italic">De curer l'enfermité de la pree.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l412" n="2" rend="numbered">Qant vos conoistriez qe vetre oissieaux ait la pree, sa cure est ceste: prenez dou
+                    sanc de la berbiz qant elle est freschemant ocise et leissiez le un pou refroidier,
+                    et puis en fetes maingier a l'oisel et usez l'i de ce par deus jorz.</p>
+                    <p xml:id="d001l413" n="3" rend="numbered">Au tierz jor prenez un columbel gras et ociez le, et tant tost le metez en eve ensi
+                    q'il palpite encore et gemisse.</p>
+                    <p xml:id="d001l414" n="4" rend="numbered">Et lavez bien de l'eve, et aprés le donez o toutez les plumes et les penes a maingier
+                    a l'oisel.</p>
+                    <p xml:id="d001l415" n="5" rend="numbered">Et saichent tuit qe ceste mecine cure le ventre de l'oisel de toutes prees qi i fussent
+                    engeindree.</p>
+                    <p xml:id="d001l416" n="6" rend="numbered">Ou prenez lait de berbiz et mellez avec miel et madefiez dedenz char tailliees menuemant
+                    par mor seaux et donez les a l'oisel a maingier.</p>
+                    <p xml:id="d001l417" n="7" rend="numbered">Et saichent tuit qe ceste mecine romp les prees engeindrees el cors de l'oisel, et
+                    ceste mecine est exprovee.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c064" n="64">
+                    <head>64.</head>
+                    <p xml:id="d001l418" n="1" rend="numbered"><emph style="font-style:italic">De curer la timor de l'oisel.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l419" n="2" rend="numbered">Qant vos veirez qe vetre oisseaus ait poor de vos et, qant elle vos esgarde, q'il
+                    ovre ses eles et se debat, sa cure doit estre tele, qar l'en doit alosengier l'oisel
+                    premieremant qant l'en poit, et doit taillier petitz morseaux de char et metre les
+                    en sa boche ensi q'il pendent de fors, et leissiez les prendre a l'oisel de sa boche.</p>
+                    <p xml:id="d001l420" n="3" rend="numbered">Et ensi le doit l'en user mainte foee de soir et de main doucemant et benignemant.</p>
+                    <p xml:id="d001l421" n="4" rend="numbered">Et saichiez tuit qe ce li fera perdre le temor et le fera merveilleusemant [a]mer
+                    celui qi ce li fera.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c065" n="65">
+                    <head>65.</head>
+                    <p xml:id="d001l422" n="1" rend="numbered"><emph style="font-style:italic">De ens[er]ir les pennes rompues.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l423" n="2" rend="numbered">Qant les pennes des eles ou de la coue de l'oisel sunt rote ou torte ou corose ou
+                    deplumee et vos les volez restorer, tiele doit estre la cure: l'en doit taillier qi
+                    est rot ou tort ou devasté et fere un chanelet bien ordener et enviscler amdeus les
+                    chiés des pennez o chaude colle de peis.</p>
+                    <p xml:id="d001l424" n="3" rend="numbered">Et celui leu covrez puis de ners et leissiez les ensi par trois jors, et aprés ce
+                    en removez les ners.</p>
+                    <p xml:id="d001l425" n="4" rend="numbered">Ou prenez une agoille qaree de chascune part et tailliez les penes a vetre volenté
+                    et fichiez l'agoile dedenz et fetes les bien joindre et tenir ensemble.</p>
+                    <p xml:id="d001l426" n="5" rend="numbered">Et se l'en baigne l'agoile en sanc, mieauz vaut et plus tient.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c066" n="66">
+                    <head>66.</head>
+                    <p xml:id="d001l427" n="1" rend="numbered"><emph style="font-style:italic">De curer l'oisel gras et pereceus en chacier.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l428" n="2" rend="numbered">[Q]ant li oisseaux est gras et est pereceus a voler, sa cure doit estre tiele: prenez
+                    une daniche de sal d'Inde et poudriez sor trois morseaux de char et donez les a maingier
+                    a l'oisel et puis le fetes ester a l'ombre, et metez devant lui un veisielet mund
+                    et bel, plein d'eve munde et belle.</p>
+                    <lb/>
+                    <p xml:id="d001l429" n="3" rend="numbered">Et saichent tuit qe se li oisseaux a l'enfermité de l'asme, ceste cure li [est] veraie
+                    et exprovee:</p>
+                    <p xml:id="d001l430" n="4" rend="numbered">Prenez rachans petitz, se vos les poez avoir, et donez les a maingier a l'oisel, et
+                    il sera gariz mantenant, ensi com il a esté exprovez selonc ce qe dist mestres Tariph.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c067" n="67">
+                    <head>67.</head>
+                    <p xml:id="d001l431" n="1" rend="numbered"><emph style="font-style:italic">De la rompeüre dou pié ou de la cuisse.</emph><lb/></p>
+                    <lb/>
+                    <p xml:id="d001l432" n="2" rend="numbered">Se vetre ostors eu[st] rot le piez ou la cuisse, sa cure doit estre tielle, [com est]
+                    exprovee: prenez auqant de grasse et oingiez en la rompeüre et metez l'en desus et
+                    liez l'i o une piece, et eranmant sera geriz sanz aucune faille.</p>
+                    <lb/>
+                    <p xml:id="d001l433" n="3" rend="numbered">Explicit liber.</p>
+                    <lb/>
+                    <p xml:id="d001l434" n="4" rend="numbered">Deo gratias.</p>
+                    <lb/>
+                    <p xml:id="d001l435" n="5" rend="numbered">Qui me scribebat, Angelus de Franch[o]nia nomen habebat.</p>
+                    <lb/>
+                </div2>
+            </div1>
+        </body>
+        <back>
+            <div type="edizione">
+                Manoscritto: Venezia, Biblioteca Nazionale Marciana, gall. app. 14, ff. 85r-107v (XIV sec.)
+            </div>
+        </back>
+    </text>
+</TEI>

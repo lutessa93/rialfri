@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="ISCRIZIONEFAMAGOSTA-iscrizioneFamagosta">Iscrizione in francese della Cattedrale di San Nicola a Famagosta</title>
+                <title type="alt">Iscrizione in francese di Famagosta</title>
+                <title type="short">Iscrizione in francese di Famagosta</title>
+                <title type="sub">1311, Cipro</title>
+                <author xml:id="ISCRIZIONEFAMAGOSTA" n="118.000">
+                    <persName type="main"></persName>
+                    <persName type="short"></persName>
+                </author>
+                <principal>Serena Modena</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitale</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale</resp>
+                    <name>Francesca Gambino</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Camille Enlart, <emph style="font-style:italic">Art gothique et la Renaissance en Chypre</emph>, illustré de 34 planches et de 421 figures, ouvrage publié sous les auspices du Ministère de l’Instruction publique et des Beaux-Arts, 2 voll., Paris, Ernest Leroux Éditeur, 1899, vol. I, p. 278.  </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t4"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <p xml:id="d001l1" n="1" rend="unnumbered"><lb/>{{Iscrizione posta sul terzo contrafforte del lato sud della Cattedrale di San
+                Nicola di Famagosta (Cipro).}}<lb/> <lb/>L’an de mil e troi cens et XI | d[e] Crist
+                a IIII jors d’aoust fu | despendue la monée ordonné|e por le labour d[e] l’iglise d[e]
+                Fam|ag[ouste] e come[n]sa le labour l’evesq[ue] | Bauduin le dit an le pre|mier jor
+                d[e] septembre do|uquel labour VI votes d[e] | deus heles estoient faites e X votes
+                des heles ave VIII vots d[e]<lb/> <lb/>{{Sul rovescio del contrafforte, l’iscrizione
+                continua:}}<lb/> <lb/>la nave d[e]| l’iglise e|stoit a fa|ire.</p>
+                <lb/>
+            </div1>
+        </body>
+        <back>
+            <div type="edizione">
+                Si è intervenuti nell’edizione diplomatica di Camille Enlart dividendo le parole, introducendo gli accenti, gli apostrofi e le lettere maiuscole secondo l’uso moderno e sciogliendo le abbreviazioni e i compendia, che si segnalano per ragioni di praticità di codifica fra parentesi quadre anziché col corsivo consueto. 
+            </div>
+        </back>
+    </text>
+</TEI>

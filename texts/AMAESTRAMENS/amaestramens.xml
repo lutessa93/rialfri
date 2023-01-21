@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="AMAESTRAMENS-amaestramens">'Amaestramens' di Aristotele a Alessandro</title>
+                <title type="short">'Amaestramens' di Aristotele a Alessandro</title>
+                <title type="sub">inizio XIV sec.</title>
+                <author xml:id="AMAESTRAMENS" n="012.000">
+                    <persName type="main"></persName>
+                    <persName type="short"></persName>
+                </author>
+                <principal>Daniele Mineri e Serena Modena</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata</resp>
+                    <name>Daniele Mineri e Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale</resp>
+                    <name>Luigi Tessarolo</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Anna Maria Babbi, <emph style="font-style:italic">Il testo franco-italiano degli “Amaestramens” di Aristotele a Alessandro (Parigi, B.N., ms. 821 del fondo francese)</emph>, “Quaderni di lingue e letterature”, 9 (1984), pp. 201-269.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t2"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <div2 xml:id="d001c001" n="I">
+                    <head>[I]</head>
+                    <p xml:id="d001l1" n="1" rend="numbered">Filz gloriousisme, empereor, confirme toi dieus en la voie de conoistre les sentiers
+                    de veritez et de vertuz et constringe les bestiels desiriers et confirme ton reigne
+                    et alume ton enging au suen servise et honor et cetera.</p>
+                    <lb/>
+                    <p xml:id="d001l2" n="2" rend="numbered">Primierement de necesitez convient a cascun roi avoir dous aides qe sousteigne son reigne,
+                    li uns des qiels est fortece d'omes, por les qiels se defent et conforte son reigne.</p>
+                    <p xml:id="d001l3" n="3" rend="numbered">Et ne aura ce, se qant il governe sa gent droitement non, et seignoreie si come seignoregeors
+                    entre ses sougiez; et ceaus sougiez engalment obeissent au seignor, si come por enobedience
+                    des sougiez s'afoublist et se sozmet la puissance dou seignor et de celui qe governe
+                    les autres: et les sougiet seignoreient.</p>
+                    <p xml:id="d001l4" n="4" rend="numbered">Et ge te moustrerai la ochaoson por qoi les sougiet se enduissent au obeir au seignor.</p>
+                    <p xml:id="d001l5" n="5" rend="numbered">Et la ocheison est de dous manieres: l'une est entrinseche, ce est a dire dedens; l'autre
+                    extrinseche, ce est a dire dehors.</p>
+                    <p xml:id="d001l6" n="6" rend="numbered">Et la extrinseche si est q'il despent a ses sougiez sa richece sagement et vers lor
+                    us largece retribuant as merites de cascuns; et aprés ce, convient qe li roi aie une
+                    autre cautele de qoi ge te ferai mencion ci aprés, el capitre des richeces et des profitemenz.</p>
+                    <p xml:id="d001l7" n="7" rend="numbered">Le segont si est endouire les cuers des sougiez a ovrement: et cest veit por davant
+                    et est ou primier gré.</p>
+                    <p xml:id="d001l8" n="8" rend="numbered">Et ceste segont a dous ocheisons: l'une est extrinsece, l'autre est entrinsece; la ocheison
+                    extrinsece si est qe li rois us iustise es pousessions et es pecuines aqises por ses
+                    sougiet, perdonant et aiant misericorde.</p>
+                    <p xml:id="d001l9" n="9" rend="numbered">Mes la ocheison entrinsece si est el secrez des anciens filosophes et des iustes, les
+                    qiex le glorious dieus eslist et a eus comanda sa science.</p>
+                    <p xml:id="d001l10" n="10" rend="numbered">Et ie recomant a toi cestui secrez ou maint autres qe tu troveras en cest livres, entres
+                    qiels tu troveiras grandisme filosophye et doctrine.</p>
+                    <p xml:id="d001l11" n="11" rend="numbered">Et entre l'entrinsece se contient l'entencion finel: et iluec est ton principel propousement
+                    et finel.</p>
+                    <lb/>
+                    <p xml:id="d001l12" n="12" rend="numbered">Et qant tu auras entandu les significacions des diz et des esamples, lors tu auras
+                    ploinement ton desirez propousement.</p>
+                    <p xml:id="d001l13" n="13" rend="numbered">Donques diex sapientisme et glorious alume ta raison et esclarisse / ton entendiment
+                    a rechoivre le seiremant de ceste science a ce qe en ceste tu merite d'estre mes oires
+                    et fels succesors, donant aide a toi celui qe esparge sa science abundablement en armes
+                    des sages et a ceaus qi student done grace de conoistre; a qiels auchune couse n'est
+                    escure, sanz li qieus n'est puissible qe aucune couse puisse estre posehue.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c002" n="II">
+                    <head>[II]</head>
+                    <p xml:id="d001l14" n="1" rend="numbered">Rois sunt de qatre manieres: rois larges a soi et a ses sougiez et rois avers a soi
+                    et avers a ses sougiez; et rois avers a soi et larges a ses sugiez; et rois larges
+                    a soi et avers a ses sougiez.</p>
+                    <p xml:id="d001l15" n="2" rend="numbered">Li sages Ytaliens distrent q'il n'est vices au roi se il est avers a soi et larges
+                    a ses sougiez.</p>
+                    <p xml:id="d001l16" n="3" rend="numbered">Ceaus distrent d'Inde qe celui roi est boen qi est avers a soi et a ses sougiez.</p>
+                    <p xml:id="d001l17" n="4" rend="numbered">Ceaus de Perse distrent le contraire de ceaus d'Inde: ce est q'il ne vaut riens celui
+                    rois qi n'est larges a soi et a ses sougiez.</p>
+                    <p xml:id="d001l18" n="5" rend="numbered">Mes entres toz les autres, selonc mon ioise, est pires de toz et doit estre reprovez
+                    qi a soi est larges et avers aus sougiez, por ce qe le reigne de celui tost sera destruit.</p>
+                    <p xml:id="d001l19" n="6" rend="numbered">Donqes vos convient soutilment cerqier et enqerre de ceste vertu ou vices et moustrer
+                    qoi soit largece et avarice, et ou est le error de largece.</p>
+                    <p xml:id="d001l20" n="7" rend="numbered">Et manifeste chose est qe les estremités sont d'estre reprovees qant mout elles de
+                    descordent de son mi.</p>
+                    <p xml:id="d001l21" n="8" rend="numbered">Et nos savons que le servement de largece est grief et son trespasament est legier,
+                    qe a cascuns est legiere couse a user avarice et prodigalitez, et tenir largece est
+                    grief.</p>
+                    <p xml:id="d001l22" n="9" rend="numbered">Et por ce, se tu viaus aqire la vertuz de largece, consire ta puissance, les tens de
+                    necessitez et les merites des persones.</p>
+                    <p xml:id="d001l23" n="10" rend="numbered">Donqes, selonc ta puissance, done ou mesure as homes besoignos et dignes.</p>
+                    <p xml:id="d001l24" n="11" rend="numbered">Et qi autrement done, il trespasa la regle de largece, por ce qe celui qi done ses
+                    dons as non beisoignous ne n'i aqiert / aucun los.</p>
+                    <p xml:id="d001l25" n="12" rend="numbered">Et ce qe est donez as non dignes est perduz; et qi outre mesure done ses richeces tost
+                    veindra as rivages de grant povertez et est scemblables a celui qi done victoire a
+                    ses anemis sovra les suens.</p>
+                    <p xml:id="d001l26" n="13" rend="numbered">Donqes, celui qi done de ses biens as homes besoignous et dignes en tens de necesitez,
+                    tiel rois &lt;est&gt; larges a soi et a ses sougiez, et son reigne se prosperera et
+                    son comandament serra observez: tiel roi ont loés les anciens, tiel est apellez vertuous
+                    et larges et atenprez.</p>
+                    <p xml:id="d001l27" n="14" rend="numbered">Mes celui qi esparge les biens de son reigne non ordeneement as non dignes et as non
+                    besoignous, tiel si est gastiers de la couse comune et destruers dou reigne et non
+                    soufisans au governement, por qoi il est apellez prodiges por ce qe loing de lui est
+                    providence.</p>
+                    <p xml:id="d001l28" n="15" rend="numbered">Et le nome d'avarice est molt deshonorable au roi et est desconvenable a sa maiestez.</p>
+                    <p xml:id="d001l29" n="16" rend="numbered">Donqes, se aucuns rois, leqiels aie li uns ou l'autre de ces vices, avarice ou prodigalitez,
+                    se viaut conseilier de ce, il se doit ou grant diligence porveoir d'un discrez home
+                    feels et eslit de pluisors, au qiel il doit cometre les couses publices qe sont a despendre
+                    et les richeces dou roiaume de estre governees.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="III">
+                    <head>[III]</head>
+                    <p xml:id="d001l30" n="1" rend="numbered">Alexandres, f[er]ermament ie di a toi qe cascuns rois qe trop continuelment use le
+                    doner plus qe son reigne ne puet soustenir, tiel sans faille sera destruit et destruira
+                    autrui.</p>
+                    <p xml:id="d001l31" n="2" rend="numbered">Por ce di ge a toi uns de ces amaistramens qe onqes mes ne sui retreit de dire a ta
+                    clemence: ce est qe garder soi de prodigalitez et d'avarice et aqistemant de largece
+                    est gloire des rois et perpetualitez des roiaumes.</p>
+                    <p xml:id="d001l32" n="3" rend="numbered">Et ce feit li rois qant il astient et retreit sa main des biens et des posessions des
+                    sou[a]gés.</p>
+                    <p xml:id="d001l33" n="4" rend="numbered">Et ie ai trovez escrit entre les comandemenz dou grant douctor HERMOGINES:</p>
+                    <p xml:id="d001l34" n="5" rend="numbered">«O come sou / vraine et veraie bontez, clarece d'entendiment, ploinece de loi et signes
+                    de perfeccion en le roi est l'astinence des pecunies et des possessions [et] des sougiez!»</p>
+                    <p xml:id="d001l35" n="6" rend="numbered">Le contraire de la qiel cose fu ocaison de la destrucion dou reigne des Cangeus, por
+                    ce qe la superfluitez des espenses supercloit les rentes des citez.</p>
+                    <lb/>
+                    <p xml:id="d001l36" n="7" rend="numbered">Et ensi, failant les rentes as espenses, le rois destisent ses mains as couses et as
+                    rentes des autres.</p>
+                    <p xml:id="d001l37" n="8" rend="numbered">Mes les sougiez por tort feit se clamerent a diex gloreus, le qiels, mandant vant chaut,
+                    eslasa eus grantment et lieva le pueple contre lour, et oste de sor terre l'erme de
+                    lor.</p>
+                    <p xml:id="d001l38" n="9" rend="numbered">Et, se diex glorious ne eüst souvenuz et mandez ce q'il manda a celui reigne, delivrament
+                    il estoit destruit.</p>
+                    <p xml:id="d001l39" n="10" rend="numbered">Et por ce sachez qe les richeces sont occaison qe feit divenir l'arme raisnables animals,
+                    et est partie de celle, et ne puet durer le reigne se tiel paroule est destruite.</p>
+                    <lb/>
+                    <p xml:id="d001l40" n="11" rend="numbered">Et por ce doit mout estre eschivez la superfluitez et la sovrabonda&lt;n&gt;ce des
+                    espenses. Donqes, a ce qe atemprance et largece soit aquise, la foule et la soupercle
+                    donaison doit estre eschivee.</p>
+                    <p xml:id="d001l41" n="12" rend="numbered">Et [de] sustance de largece et de vertuz est laisier et ne avoir a memoire les donaisons
+                    et cerchier des secretes choses, ensi come est de generacion des bones.</p>
+                    <p xml:id="d001l42" n="13" rend="numbered">Et [de] sustance de vertuz est remunerier les merites, remetre tort feit, honorier
+                    ceus qi doivent estre honorez, avoir en reverence ceus qi se convient, souvenir les
+                    simples, complir les defautes des ennoceins, a ceus qi saluent respondre, refrenier
+                    la lenge, dissimilier les tort feit a tens, enfaindre soi a egnorier la foulie dou
+                    foul.</p>
+                    <p xml:id="d001l43" n="14" rend="numbered">Donqes ie t'ai amaistrez ces couses qe toz iors ie te soloie dir et semer en ton piz,
+                    por qoi ie ai ploine esperance qe celui meistrement ert en ta vie et ovre clarece toz
+                    iorz luisant a tes governemenz toz tens de ta vie.</p>
+                    <p xml:id="d001l44" n="15" rend="numbered">Mes ie dirai a toi la sapience philos&lt;of&gt;ice abreviee.</p>
+                    <p xml:id="d001l45" n="16" rend="numbered">Et, se auchuns tens ne eüse a toi dit autre meistrement, soufisanz devroit estre a
+                    toi, en toutes ces / ovres en ceste siegle et en l'autre qe doit avenir.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c004" n="IV">
+                    <head>[IV]</head>
+                    <p xml:id="d001l46" n="0" rend="unnumbered">QE ENTENDIMENT EST ET DESIRIER DE NOMINANCE OU BONE OU MAUVEISE ET DE VERITEZ ET DE
+                    BOSDIE ET DE SES RACINES.</p>
+                    <lb/>
+                    <p xml:id="d001l47" n="1" rend="numbered">Saches qe l'entendiment est chief dou governement, saneitez d'aume, sauveor des vertuz,
+                    speculeour des vices; et certes, en celle nos esgardons les couses qe sont a fuir,
+                    por celle nos elisons les couses qe sont a eslire.</p>
+                    <p xml:id="d001l48" n="2" rend="numbered">Celle est naiscement des vertuz et raicine de toz les biens qe sont a loer et a honorier.</p>
+                    <p xml:id="d001l49" n="3" rend="numbered">Et le primier estrument de l'entendiment est le desirier de boene nomenance: por celle
+                    nomenance, qi veraiement la desire, il ert glorious et famous; et qi fausement la desire,
+                    ce est ou fause demoustrance, por enfamé est confonduz.</p>
+                    <p xml:id="d001l50" n="4" rend="numbered">Donqes la nomenance boene est une couse qe principelment et por soi est desiree en
+                    le governement, por ce qe governement ne est desiriers por soi, mes por boene nomenance.</p>
+                    <p xml:id="d001l51" n="5" rend="numbered">Por qoi le comencement de sapience si est l'entendiment et le desirier de boene nomenance,
+                    la qiele por governament et dominacion est aquise.</p>
+                    <p xml:id="d001l52" n="6" rend="numbered">Et se, por autre occhaison, dominacion ou governament, est aqis, il ne ert pas aqistament
+                    de boene nomenance, mes d'enveie.</p>
+                    <lb/>
+                    <p xml:id="d001l53" n="7" rend="numbered">Et enveie engendre bousie, la qiele est racine de toutes les couses qe doivent estre
+                    reprovees, et matire des vices.</p>
+                    <p xml:id="d001l54" n="8" rend="numbered">Et bousie angendre [de] traicon et de traicon engendre haine, haine angendre tort feit,
+                    tort feit angendre pertinace, pertinace engendre iraconde, iraconde engendre contrastement,
+                    contrastement engendre enemistez, enemistez engendre bataille: et la bataille oste
+                    la loi et destruit les citez.</p>
+                    <p xml:id="d001l55" n="9" rend="numbered">Et ce est contre raison naturel.</p>
+                    <p xml:id="d001l56" n="10" rend="numbered">Et celle couse qe contraste destruit toute l'ovre: et por ce estuide d'amer le desirier
+                    de boene renomee por ce qe la raison, por le desirier de boene renomee, aparturist
+                    veritez.</p>
+                    <p xml:id="d001l57" n="11" rend="numbered">Veritez est racine de toutes les couses qe doivent estre loees, est matire de toutes
+                    biens por ce q'elle est contraire a la bousie et si engendre desirier de iustise.</p>
+                    <lb/>
+                    <p xml:id="d001l58" n="12" rend="numbered">Et iustise engendre confiance, confiance largece; largece / feit familiaritez, familiaritez
+                    amistez, amistez engendre consoil et aide.</p>
+                    <p xml:id="d001l59" n="13" rend="numbered">Et certes por ces couses fu ordenez le monde et les lois constituees as homes: et ces
+                    couses sont convenables a raison et a nature.</p>
+                    <p xml:id="d001l60" n="14" rend="numbered">Donqes manifeste chouse est qe le desirier dou governement por boene renomee est durable
+                    bien et doit estre loez.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c005" n="V">
+                    <head>[V]</head>
+                    <p xml:id="d001l61" n="0" rend="unnumbered">COMENT LES CARNIELS DESIRIERS ENGENDRENT DESIRIER DE RICHECE ET NON VERGOINGNE ET AUTRES
+                    SES RACINES.</p>
+                    <lb/>
+                    <p xml:id="d001l62" n="1" rend="numbered">Alexandres, desevre toi das efforcemens des bestiels desideries, por ce qe les carniels
+                    desirieres sont coruptibles et enclinent les corages as corruptibles delitances ou
+                    bestiel voluntez non ou aucune porpensee discrecion, et meesmement le cors corruptible
+                    se eslesce et se contriste por l'ente&lt;nde&gt;ment non corruptible.</p>
+                    <p xml:id="d001l63" n="2" rend="numbered">Donqes tu dois savoir qe l'efforcement des carniels desiriers engendre desiriers de
+                    richece; et desirier de richece engendre non vergoigne; et non vergoigne engendre presoncion,
+                    non feelitez; et non feelitez engendre lairecin et laidece, de qoi naist cheitivitez,
+                    la qiel moine l'ome a destruicion de loi et de familiaritez por ce qe en toutes ovres
+                    elle est contraire a la nature.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c006" n="VI">
+                    <head>[VI]</head>
+                    <p xml:id="d001l64" n="1" rend="numbered">En primierement et principelment convient au roi, qant a soi meismes, qe la nominance
+                    de son nome soit renomee en loable sapience et q'il raison ou les siens saiement por
+                    ce q'il est de ce loez, honorez et cremuz da chascun qant il le voient en son parler
+                    sages et en toutes &lt;choses&gt; feire sagement.</p>
+                    <lb/>
+                    <p xml:id="d001l65" n="2" rend="numbered">En veritez legierment se puet por certes signes comprandre et savoir se en le roi sapience
+                    ou foulie reigne, por ce qe chascuns rois qe son reingne soutmet a la divine loi deignes
+                    est de reigner et honorable/ment seignoregier.</p>
+                    <p xml:id="d001l66" n="3" rend="numbered">Mes celui qe en servaie met sa loi, soutponant celle a son reigne et comandament, est
+                    trespaseor de veritez et despriseor de sa loi.</p>
+                    <p xml:id="d001l67" n="4" rend="numbered">Et celui qe desprise sa loi da chascuns est desprisez, por ce q'il est condempnez en
+                    la loi.</p>
+                    <p xml:id="d001l68" n="5" rend="numbered">Ancore di ge ce qe li sages filosofes enspirez de diex parlant distrent: ce est qe
+                    en primierement a la maiestez dou roi est honorable couse atemprer soi as comandamens
+                    de la loi non pas por enganable aparence, mes por esperience de feit, a ce qe chascuns
+                    conoisce q'il criem dex grant et q'il est sougiet a sa divine poisance.</p>
+                    <p xml:id="d001l69" n="6" rend="numbered">Lors les veut les homes avoir en reverence et criembre qant il voient q'il a en reverence
+                    et criem diex.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c007" n="VII">
+                    <head>[VII]</head>
+                    <p xml:id="d001l70" n="1" rend="numbered">Et se seulement en aparence il se moustre religious et en ovre maufactor, por ce qe
+                    a poine puet estre celee la couse maufaite et non estre sehue por le pueple, &lt;por&gt;
+                    deu est reprovez et por les homes desprisez.</p>
+                    <lb/>
+                    <p xml:id="d001l71" n="2" rend="numbered">Et son feit est desafermez et son enp&lt;er&gt;ier s'amerie et la corone de sa gloire
+                    ne aura honor.</p>
+                    <p xml:id="d001l72" n="3" rend="numbered">Qe di ge plus? Il n'est tresor qe li puisse reambre la bone nomenance. Ancore mout
+                    se convient au roi honorer ceaus qi portent nance.</p>
+                    <p xml:id="d001l73" n="4" rend="numbered">Ancore mout se convient au roi honorer ceaus qi portent la loi et avoir en reverence
+                    les religious et exaucier les sages, disputier ou ceaus en mouvoir doutouses qestions,
+                    honestement demandier, ou discrecion respondre, les plus sages et noubles gregnourment
+                    honorier selonc qe se convient au grez de chascun.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c008" n="VIII">
+                    <head>[VIII]</head>
+                    <p xml:id="d001l74" n="1" rend="numbered">Encore convient au roi gardier ce qi est a avenir et sagement contrastier as avenimens
+                    desaventurous, a ce qe il poise legierement contrastier as couses contraires.</p>
+                    <p xml:id="d001l75" n="2" rend="numbered">/ Ancore est honorable &lt;chose&gt; a lui avoir pitiez, et retenir l'ire et le movement
+                    dou corrage a ce qe le movement non proveuz ne veigne a compliment sens deliberaison,
+                    et son error raisnablement reconoistre et sagement revochier, por ce qe sovraine sapience
+                    est en le roi governier soi meismes.</p>
+                    <p xml:id="d001l76" n="3" rend="numbered">Et, qant il aura vehu auchun bien ou utilitez de estre faite, si la face ou discrecion
+                    non trop pereceusement non trop toust, a ce qe il ne demoustre soi estre oblierés ne
+                    subitaines.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c009" n="IX">
+                    <head>[IX]</head>
+                    <p xml:id="d001l77" n="1" rend="numbered">Mout se convient a la roial maiestez et dignitez honorablement vestir et toz iors ou
+                    belle voluntez et apareilement aparer et trespasser les autres en biautez, por qoi
+                    il doit user belles et chieres et variables vestimenz.</p>
+                    <p xml:id="d001l78" n="2" rend="numbered">Encore honorables couses est au roi soupercler les autres toz en aucun meilorament
+                    a ce qe por ce la dignitez soit ornee, la puisance ne soit damnee, et la debite reverence
+                    a lui soit faite.</p>
+                    <p xml:id="d001l79" n="3" rend="numbered">Meismement honorable couse est au roi estre biaus parliers et gracios et avoir claire
+                    voiz, la qiele est mout profitable et specielment an tans des batailles.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c010" n="X">
+                    <head>[X]</head>
+                    <p xml:id="d001l80" n="1" rend="numbered">ALEXANDRES, qant belle couse est au roi astenir soi de trop parlier se necessitez nel
+                    reqiert, por ce q'il est mieus qe les oreiles des homes soient volunteuses d'oïr ses
+                    paroules qe q'il l'en soient seules por ce qe por la seuleté des oreiles li cuers se
+                    seulent, ne mout voluntiers voit li rois.</p>
+                    <p xml:id="d001l81" n="2" rend="numbered">Encore est honorable chouse au roi astenir soi ne user mout la compaingnie des sougiez
+                    et gregnorment des vils persones, por ce qe trop familiaritez des vils persones aparturist
+                    desprisiemant d'honor.</p>
+                    <p xml:id="d001l82" n="3" rend="numbered">Et por ce biau usage est cel de ceaus d'Inde en la disposicion de son regne et la ordinacion
+                    dou roi, por ce q'il ont ordenez qe seulemant une foiz en l'an le rois apparer davant
+                    toz, ou appareilement de roi et ou armés / host, seant noblismement sor son destrer
+                    ornez de biaus ornamenz d'armes.</p>
+                    <p xml:id="d001l83" n="4" rend="numbered">Et feit estier le pueple auchune chose loing desevrez da soi et ses noubles barons
+                    entor soi.</p>
+                    <p xml:id="d001l84" n="5" rend="numbered">Et lors est usez defenir ses grieus afaire es divers et trespassez feit retraire et
+                    moustrer l'o&lt;v&gt;re la qiele il a fe&lt;rm&gt;ement menee entor la couse comune.</p>
+                    <p xml:id="d001l85" n="6" rend="numbered">Et meismement est usez en cel iors doner dou sien et les prisons leisier de prison,
+                    et relevier les grief carges et maintes pietouses ovres faire.</p>
+                    <p xml:id="d001l86" n="7" rend="numbered">Et, finez son sermon, le rois s'aseite; et enconti[e]nent lieve sus uns des barons
+                    qi li est dau lez qe plus saie et plus biaus parler est tenuz et arenge au honor et
+                    a comendeison dou roi referant grace au glorious diex, le qiels ensi &lt;a&gt; ordenez
+                    le reigne d'Inde et de ensi sage rois a ornez le païs qe le loauble pueple de ceaus
+                    d'Inde obeisant et dou corrage a confermez.</p>
+                    <p xml:id="d001l87" n="8" rend="numbered">Et pois le lous devins et comendaison dou roi, il se vire as lous dou pueple, recordans
+                    les bones costons, aqirant benevoilence, enduisant aus por esamples et por raison a
+                    humilitez, hobedience, reverence et dileccion dou roi.</p>
+                    <p xml:id="d001l88" n="9" rend="numbered">Et feit ce, le pueple se studeira d'esaucier le laus dou roi et comender ses boenes
+                    ovres, et proier diex por la magestez dou roi et por les citez et por les maisnees,
+                    narrer la sapience et les ovres dou roi.</p>
+                    <p xml:id="d001l89" n="10" rend="numbered">Et por ce amaistrerent les enfans iusqe il sont petiz et les enduisent a maior honor,
+                    hobedience et temor du roi.</p>
+                    <p xml:id="d001l90" n="11" rend="numbered">Et en ceste guise est publiee et croist la bone renomee dou roi en repoust et en pailiz.
+                    Et en cest tans est usez punir les maufactors, a ceus qi presoument de maufaire soit
+                    la voie seree de nuire et les autres s'en chastient.</p>
+                    <p xml:id="d001l91" n="12" rend="numbered">Encore sont usé de alesier les treisages et despensier ou les mercheans et partie leisier
+                    de ses rantes et l'or ou ses mercheandies defandre et gardier.</p>
+                    <p xml:id="d001l92" n="13" rend="numbered">Ceste est la ochaison por la qiele est mout pueplee Inde, por ce qe de toutes parties
+                    vont les mercheans voluntiers la ou il sont bien receuz, et gaagnent riches et povres,
+                    / citeins et forestiers et de ce s'acroist les treusages et les rantes dou roi; et
+                    por ce sont a gardarse des tort feit et des offensions des m&lt;er&gt;ceains.</p>
+                    <p xml:id="d001l93" n="14" rend="numbered">Et il sont a loer q'il dient la nomenance d'aus por tout le monde.</p>
+                    <p xml:id="d001l94" n="15" rend="numbered">Et por ce doit estre donez a cascun ce qe suen est por ce qe ausi se garnist les citez
+                    et moutiplie les rantes et acroist au roi honor et gloire.</p>
+                    <p xml:id="d001l95" n="16" rend="numbered">Et ensi les criemt les enemis et viv le roi en pais et segur et ensi a li desiriers
+                    de sa voluntez.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c011" n="XI">
+                    <head>[XI]</head>
+                    <p xml:id="d001l96" n="1" rend="numbered">O Alexandres, ne desirier ce qi est corruptibles et transitoires et qe convient toust
+                    leisier.</p>
+                    <p xml:id="d001l97" n="2" rend="numbered">Doumande richeces non coruptibles, vie non muable, reigne eterniels, durabletez gloriouse.</p>
+                    <p xml:id="d001l98" n="3" rend="numbered">Adreiche donqes tes pensiers en bien, rant toi virils et glorious, eschive les voies
+                    des leons et des autres bestes et ses inmondises.</p>
+                    <p xml:id="d001l99" n="4" rend="numbered">Ne voloir estre cruels et tieuls qe ne puisse ploier a ceus des qiels tu as eu victoire.</p>
+                    <p xml:id="d001l100" n="5" rend="numbered">Pense de ce &lt;qe&gt; puet avenir por ce qe tu as, ne sas qe doie aparturir le iors
+                    qe doit avenir.</p>
+                    <p xml:id="d001l101" n="6" rend="numbered">Ne voloir seguir tes desiriers en mangier et en boire et &lt;en&gt; cotidiens dormir
+                    et en luxuire.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c012" n="XII">
+                    <head>[XII]</head>
+                    <p xml:id="d001l102" n="1" rend="numbered">O clement empereor, ne t'ancliner au coniungement des femes, por ce q'il est une proprietez
+                    des pors.</p>
+                    <p xml:id="d001l103" n="2" rend="numbered">Donqes, coment gloire sera a toi se tu uses les vices &lt;des&gt; nonraisnables animals?</p>
+                    <p xml:id="d001l104" n="3" rend="numbered">Croi a moi sans doute, qe le coniungement est destrucion dou cors, abreviement de
+                    vie, corrupcion de vertuz, trespasament de loi et angendre costuns feminils et finelment
+                    enduit ces maus qe ge t'ai dit.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c013" n="XIII">
+                    <head>[XIII]</head>
+                    <p xml:id="d001l105" n="1" rend="numbered">Convenable couse est a l'empereor avoir de ses privez feels en le qiels il se delite
+                    ou diner &lt;ou&gt; ses estrumenz ou generacions d'organes qant il est ennoious, por
+                    ce qe l'arme de l'home en tieus choses se delite na/turalment.</p>
+                    <p xml:id="d001l106" n="2" rend="numbered">Li sens se repousent, la curiousitez et la solicitudens se envanist, tout le cors
+                    se avigourist.</p>
+                    <p xml:id="d001l107" n="3" rend="numbered">Mes se tu viaus deliter en tieles couses, persevere au plus an tiel vie III iors ou
+                    qatre, ce qe tu verras estre convenable et toz iors valoit miaus a faire tiex couses
+                    priveement.</p>
+                    <p xml:id="d001l108" n="4" rend="numbered">Et qant tu seras en tiel soulaz, astien toi de boire, et laise boire les autres a
+                    sa voluntiez; enfeing toi estre chaut dou vin, por ce qe tu porras iluec maintes secretes
+                    couses entendre et oïr.</p>
+                    <p xml:id="d001l109" n="5" rend="numbered">Et ne fais &lt;ce&gt; espoisement, mes II foiz ou trois en l'an.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c014" n="XIV">
+                    <head>[XIV]</head>
+                    <p xml:id="d001l110" n="1" rend="numbered">Tu dois avoir aprés de toi de ta maisnee &lt;aucuns loyaux&gt; et speciaus les qieus
+                    te reportent ces couses qe se font et dient por le reigne.</p>
+                    <p xml:id="d001l111" n="2" rend="numbered">Qant tu serras entre tes barons, honore les sages et ceaus qe tu verras dignes d'estre
+                    honorez.</p>
+                    <p xml:id="d001l112" n="3" rend="numbered">Et tien cascun an son grés: come hui le uns, et demain l'autre; tu dois vestir hui
+                    li uns, et l'autre demain; selonc qe se convient au grés de cascuns les honore.</p>
+                    <p xml:id="d001l113" n="4" rend="numbered">Ne soit auchuns de tes noubles qe ne sante ta largece, a ce q'il li place la clemente
+                    de ta maiestez et la noublece dou cuer liberaus.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c015" n="XV">
+                    <head>[XV]</head>
+                    <p xml:id="d001l114" n="1" rend="numbered">En veritez au roi est honorable couse entre les autres avoir continance et discrecion
+                    et astener soi de mout dire, por ce qe le spois rire hoste reverence et engendre veilece.</p>
+                    <p xml:id="d001l115" n="2" rend="numbered">Ancore dient li sages qe li rois est plus tenuz d'onorier les homes en sa cort et
+                    en son concestoires qe autre por ce q'il apertient a lui.</p>
+                    <p xml:id="d001l116" n="3" rend="numbered">Et, se aucuns feit aucun forfeit, ponir le doit selonc la qalité de sa persone a ce
+                    qe les autres se ne spaventent et aprendre de astener soi des forfeit: en autre guise
+                    doit estre puniz un grant et nouble qe uns de pueple et vil persone.</p>
+                    <p xml:id="d001l117" n="4" rend="numbered">Et bien est server le rigor et continence a ce q'il soit difference de persones entre
+                    le roi et ses sougiet.</p>
+                    <p xml:id="d001l118" n="5" rend="numbered">Et il est escrit en le livre de ASCOLAPES qe cil rois feit a loer et a amer qi est
+                    / semblables a l'aigle qe seignoreie entre ses oisiaus, non pas celui qi est scemblables
+                    a uns des autres oisiaus qi li sont sougiet.</p>
+                    <p xml:id="d001l119" n="6" rend="numbered">Et se aucuns en la court ou en la presence de la maiestez dou roi ouse traitier ou
+                    faire aucuns tort feit, ou doit estre considerez ou qe il &lt;por&gt; corrage il a
+                    ce feit ou por iluec, a ce q'il te place et q'il enduge li cuer des autres a l'esce,
+                    ou en desprisement et non en devocion de ta dignitez.</p>
+                    <p xml:id="d001l120" n="7" rend="numbered">Se a la primiere guise il a feit ce, legierement soit castiez; se il l'a feit a la
+                    seconde, soit conduit a mort.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c016" n="XVI">
+                    <head>[XVI]</head>
+                    <p xml:id="d001l121" n="1" rend="numbered">Alexandres, l'obedience de seignorie si pormaint en qatres chouses: ce est en reliositez,
+                    dileccion, cortesie et reverence.</p>
+                    <p xml:id="d001l122" n="2" rend="numbered">O Alexandres, tu dois convertir a toi les cuers de tes sougiez.</p>
+                    <p xml:id="d001l123" n="3" rend="numbered">Hoste les tort feit et les noniustices d'eaus, ne doner matire as homes de parlier
+                    contre toi, por ce qe, qant le pueple puet dire legierement il puet faire; por ce
+                    governe toi en tiel maniere qe aucune couse ne se puisse dire contre toi, et por ce
+                    eschiveras le asie feire.</p>
+                    <p xml:id="d001l124" n="4" rend="numbered">Ancore saches qe discrecion de mathureces est gloire de dignitez, reverence de seignorie
+                    et execucion de roiaume et certes sovraine prudence est qe ta reverence abite plus
+                    as cuers des homes qe dilection: et meisment il se leiz qe li rois en son roiaume
+                    est ausi come la pluige en terre, la qiele est grace de diex dou ciel.</p>
+                    <p xml:id="d001l125" n="5" rend="numbered">Celle benedicion &lt;est&gt; vie de la terre, nuirement des couses qe vivent por ce
+                    qe por la pluige s'apareile les sentiers as mercheains, aide a ceaus qe defient.</p>
+                    <p xml:id="d001l126" n="6" rend="numbered">Mes por la pluige se feit troins, cient les foudres, les aigues qi ne sont, croisent,
+                    et la mer enfle et maint maus en avint, por les qiels maintes couses vivainz p&lt;er&gt;ierent.</p>
+                    <p xml:id="d001l127" n="7" rend="numbered">Mes por ce les accidentiels maus ne enpechent qe les homes ne loent le glorious diex
+                    en sa magestez, considerant les signes de sa grace et les dons de misericorde, por
+                    ce qe por la pluige / se vivifie les couses qe naiscent: les arbres flourissent et
+                    toutes les couses verdes se enfondent de la benedicion de dieu.</p>
+                    <p xml:id="d001l128" n="8" rend="numbered">Et por ce referissent les homes lox a dieu qe oblient les maus trespassez qi sont
+                    sor lor avenuz.</p>
+                    <lb/>
+                    <p xml:id="d001l129" n="9" rend="numbered">Et l'asample dou roi se convient ou l'esample des vens, les qieus dieus excelentisme
+                    mande [et] destant dou tresor de sa misericorde.</p>
+                    <p xml:id="d001l130" n="10" rend="numbered">Et por eaus moine les nues, croiscent les blees, les fruiz des arbres se maürent,
+                    les esperiz prandent force et l'eve desiree se recheit, la voie se ovre a ceaus qi
+                    naigent et mains autres biens si ensuivent.</p>
+                    <p xml:id="d001l131" n="11" rend="numbered">Mes por elles se enduissent enpechemenz diverses e perils an mer et an terre, por
+                    lor sont angendrees les corruptions de l'aire et se nourissent les mortiels venins
+                    et maintes autres desconvenables couses en avient.</p>
+                    <p xml:id="d001l132" n="12" rend="numbered">Et les creatures de terre si prient la clemence dou creaor qe da eus doie remouvoir
+                    ceus maus.</p>
+                    <p xml:id="d001l133" n="13" rend="numbered">Et lui ne plus ne mains soustient les vens mener son cors et tenir l'ordre q'il a
+                    statuiz a eus; le qiels totes les couses por sa sapience a engal pis et a cert ordre
+                    a ordenees et statuies qi les a sez sers deiant servir et en fins de sa grande misericorde
+                    et bontez qi ne se porroit dire.</p>
+                    <p xml:id="d001l134" n="14" rend="numbered">Et en veritez cest esample se puet metre en l'enver et en l'estez, les froides es
+                    calors des qiels ou grant providence il a ordenez a generacion et a amplifiement et
+                    a durabletez des couses naturieus, les qiels ne se puet eschiver ne estre muez.</p>
+                    <p xml:id="d001l135" n="15" rend="numbered">Mes maintes couses desconvenables et mortiels perils avient por le froit d'inver et
+                    por le chaut de estez.</p>
+                    <p xml:id="d001l136" n="16" rend="numbered">Et ausi devint dou roi qe en veritez maintes couses desconvenables suelt avenir les
+                    qiex despleisent a ses sougiet et griefment les portent: mes a eus et en celles est
+                    grandisme utilitez.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c017" n="XVII">
+                    <head>[XVII]</head>
+                    <p xml:id="d001l137" n="1" rend="numbered">O Alexandres, enqier de la povretez et necessitez / des misericordable et foibles
+                    persones; souvien as povres en sa necessitez de ta clemente; eslis aprés de toi un
+                    home qi sace sa lengue bien parlant, qi aime iustise, leqiel puise estre en ton leu
+                    et lor misericordablement governier et amer.</p>
+                    <p xml:id="d001l138" n="2" rend="numbered">Et ce est ouservacion de loi, leece des homes, couse qe mout pleist au creaor.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c018" n="XVIII">
+                    <head>[XVIII]</head>
+                    <p xml:id="d001l139" n="1" rend="numbered">O Alexandres, te souveigne toi mout des grains et des liemes proficables a user el
+                    tens de la faime; qe soit soufisans a ta gens el tens de necessitez a ce qe qant viendra,
+                    si come est usez auchune foiz, l'an de la famine et de la necessitez, de tex homes
+                    puisse sovenir ta providence, car en tens de necessitez il se doit souvenir as citez,
+                    et lors tu dois ouvrir tes graniers et pueblier por les citez et por le reigne le
+                    forment et les grains qe tu auras.</p>
+                    <p xml:id="d001l140" n="2" rend="numbered">Et cest est grant escautriment et grant proveance dou garniment dou regne et seinitez
+                    dou pueple et garde des citez.</p>
+                    <p xml:id="d001l141" n="3" rend="numbered">Lors ton comandement est servez, et ton feit est prosperez et de la belle proveance
+                    vivront toz, et lors seirvent tois qe tes oeilz voient loing.</p>
+                    <p xml:id="d001l142" n="4" rend="numbered">Et por ces couses priseront mout ta clemence et eschiveront de offendre a ta maiestez.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c019" n="XIX">
+                    <head>[XIX]</head>
+                    <p xml:id="d001l143" n="1" rend="numbered">O Alexandres, espoisement ge t'ai amonis et ancore t'amonisse, qe tu dois server ma
+                    doctrine, la qiele, se tu la serveras, tu auras ton proposement et ton regne serra
+                    durable: ce est qe tu ne spandes le sanc de la humaine generacion, por ce qe ceste
+                    couse apertient a seul dex, le qiel choit les secretes des cuers et les privances
+                    des homes.</p>
+                    <p xml:id="d001l144" n="2" rend="numbered">Por ce ne vouloir tolir a toi l'ofice de dex, por ce q'il n'est conceuz a toi savoir
+                    les proveances de deu.</p>
+                    <p xml:id="d001l145" n="3" rend="numbered">Donqes eschive qant tu pueis de espandre le sanc humains por ce qe le grant doutor
+                    HERMOIENES / escrist disant ausi:</p>
+                    <p xml:id="d001l146" n="4" rend="numbered">«Qant une creature ocist une autre qe est semblables a soi, las vertuz de celle claiment
+                    a la maiestez divine et dient: "Mi sire, mi sire! ton serf viaut estre scemblables
+                    a toi!"</p>
+                    <p xml:id="d001l147" n="5" rend="numbered">Et se contre raison il l'a mort, lors respont le creaor: "Laise estre lui por ce qi
+                    ocira sera mort.</p>
+                    <p xml:id="d001l148" n="6" rend="numbered">A moi la vengance et ie la geredonerai"».</p>
+                    <p xml:id="d001l149" n="7" rend="numbered">Et tantes fois les vertuz de cil en ses lous recordent la mort de celui qi mort est
+                    iusqe la veniance est faite de l'omecidiels, le qiels sera uns de ceus qe poisera
+                    les poines eternels.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c020" n="XX">
+                    <head>[XX]</head>
+                    <p xml:id="d001l150" n="1" rend="numbered">Alexandres, en toutes les poines tu as ameistrement.</p>
+                    <p xml:id="d001l151" n="2" rend="numbered">Maintes generacions de maus tu as apris por esperence: aies a memoire les feiz des
+                    gregnors, qe de ceaus tu poras treire mains biens, por ce qe li feit trespassez donent
+                    meistrement de ceaus qi doivent avenir.</p>
+                    <p xml:id="d001l152" n="3" rend="numbered">Ne desprisier les petiz, por ce qe ausi come suelt avenir aucune foiz, uns bien petiz
+                    et vils puet toust montier en richece et en honor, et lors il est pois puissant a
+                    nuire.</p>
+                    <p xml:id="d001l153" n="4" rend="numbered">Garde toi de rumpre la foi donee et les promissions confermees, por ce qe ceste couse
+                    est convenable seulement as non feels et as puitaines; conserve &lt;fe&gt;elment la
+                    foi prometue por ce qe honor en suit et se, en rompre les convencions, aucun bien
+                    da deu venist, celle espise est mauvese et esample reprovez et de generacion de mal.</p>
+                    <p xml:id="d001l154" n="5" rend="numbered">Encore saches qe por la foi sont feites les congregacions des homes, habitees les
+                    citez, comunitez d'omes, dominacions des rois.</p>
+                    <p xml:id="d001l155" n="6" rend="numbered">Por la foi se tient les chasteus, les citez sont servees, li rois seignoreient, et,
+                    se tu hostes la foi, toz les homes tornent au primierains grés, ce est a savoir engalance
+                    et similitude des bestes; por ce eschive, feelisme roi, de rompre la foi donee, /
+                    serve fermement les seiremenz et les promisions meismement se il sont a toi damnables.</p>
+                    <p xml:id="d001l156" n="7" rend="numbered">Ne sas tu por le dit d'ERMOIENES qe dous sont les esperiz qe toi gardent, li uns des
+                    qiels ista dau les destre et l'autre dau sinistre esgardant et sachant tes ovres et
+                    qe les retreit au creaor?</p>
+                    <p xml:id="d001l157" n="8" rend="numbered">Et en veritez seulement ceste couse devroit retreire toi et cascuns de cascune ovre
+                    desoneste qi constraint toi ausi espoisement yurier.</p>
+                    <p xml:id="d001l158" n="9" rend="numbered">Certes, ce ne doit estre feit se por grant necesitez non: le roi, s'il n'est mout
+                    priez et spoisement requeruz ne doit iurier.</p>
+                    <p xml:id="d001l159" n="10" rend="numbered">Ne sas tu q'il est desconvenables a sa dignitez et ammeine l'onor qant tu iures, por
+                    ce qe as sougiez et serf apertient le iurier?</p>
+                    <p xml:id="d001l160" n="11" rend="numbered">Et se tu me demandes qiele fu la ochaison de la destrucion des roiaumes des Abaiols
+                    et de ceaus de Syrie, ie respondrai a toi qe ses rois usoient seirement frausement
+                    et a engains des homes et des prosemaines citez, derompant les convenances qe estoient
+                    statuies por le saluz et utilitez de la humaine generation.</p>
+                    <p xml:id="d001l161" n="12" rend="numbered">Et teus oni et desfortunés ousoient sairemens a la destrucions des procheins, et por
+                    ce l'engalance dou iustisme iuges ne le puet plus soustenir.</p>
+                    <lb/>
+                    <p xml:id="d001l162" n="13" rend="numbered">O sage filz, ne te pantir de la couse trespassee, por ce qe ce est une proprietez
+                    des foibles fames por manifeste prueve.</p>
+                    <p xml:id="d001l163" n="14" rend="numbered">Serve cortoisie et ovre bontez et ce est gardament dou reigne et destrucion des enemis.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c021" n="XXI">
+                    <head>[XXI]</head>
+                    <p xml:id="d001l164" n="1" rend="numbered">Apareiles ces couses qe ont besoing au stuides.</p>
+                    <p xml:id="d001l165" n="2" rend="numbered">Ordene as citez de ton reigne li estuides, comande a tes homes q'il ameistrent ses
+                    filz en la science des letres et faicent aus studier as noubles et liberaus ars et
+                    sciences: et ta providence doit a eus souvenir as necessaires couses.</p>
+                    <p xml:id="d001l166" n="3" rend="numbered">Fai aucuns meilorement a ceus qi stuident et aprendent bien por ce qe tu dones matire
+                    et esamples as autres scoliers de veilier.</p>
+                    <p xml:id="d001l167" n="4" rend="numbered">Mete en ovre les domandaisons d'aus, rechoive ses epistres, loe ceus qi sont a loer,
+                    geiredone ceus qi sont a geiredoner.</p>
+                    <p xml:id="d001l168" n="5" rend="numbered">Et en ce tu reciteras les letres / a magnifier tes lox et a metre en escrit tes boenes
+                    ovres a eterniel memoire.</p>
+                    <p xml:id="d001l169" n="6" rend="numbered">Cest ordre feit a comander, ceste prudence doit estre mout loee.</p>
+                    <p xml:id="d001l170" n="7" rend="numbered">De ce est honoriez l'empire, ornez tout le regne, enluminee la cort et les roiaus
+                    feitmans sont comendez.</p>
+                    <p xml:id="d001l171" n="8" rend="numbered">Mes qi exauta le reigne des Grecois, qi a feit renomer por perpetuelment por tout
+                    le monde ses feit?</p>
+                    <p xml:id="d001l172" n="9" rend="numbered">Certes, la diligence des studeors et la prudence des sages les qiex sor mesure ont
+                    amés le sciences.</p>
+                    <p xml:id="d001l173" n="10" rend="numbered">Et certes une fantine fu en cee d'un suen pere qi por grant estuide savoit les cours
+                    de l'an, les festes qi devoient avenir, les soulempnitez des mois, les cours des planetes,
+                    la ochaison de l'abreivement dou ior, les signes des estoilles, les ioisses &lt;des
+                    choses&gt; qe devoient avenir et autres choses sans fins qe s'epartient a l'art de
+                    sovre.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c022" n="XXII">
+                    <head>[XXII]</head>
+                    <p xml:id="d001l174" n="1" rend="numbered">O Alexandres, ne fier toi as servises et en les ovres des fames, ne te cometre a celles
+                    et, se necessitez le reqiert, comet toi a celle qe est feels et qe est creuz qe t'aime,
+                    por ce qe iusqe la fame traite ta persone, saches qe tu es qais com un deposite metuz
+                    aprés de celle por ce qe en ses mains est ta vie.</p>
+                    <p xml:id="d001l175" n="2" rend="numbered">Eschive les venins mortiex, por ce qe novellement les homes ne comencent d'aveni&lt;me&gt;r
+                    et mani&lt;fe&gt;ste chose est qe maintes rois et seignors en sont mortes enanz terme
+                    et greuz por bevandes veninouses.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c023" n="XXIII">
+                    <head>[XXIII]</head>
+                    <p xml:id="d001l176" n="1" rend="numbered">O Alexandres, ne te fier en un seul mire, por ce qe un mire est puissant a nuire et
+                    de legier ouse pansier feunie et mener a compliment.</p>
+                    <p xml:id="d001l177" n="2" rend="numbered">Donqes, se estre puet, soit dis et non meins et faire lor estre ensamble en un luec.</p>
+                    <p xml:id="d001l178" n="3" rend="numbered">Et, se tu dois prendre medicine, ne la rechoivre sanz le consoil des plusors.</p>
+                    <p xml:id="d001l179" n="4" rend="numbered">Et qant les choses se / doivent trover, tu dois avoir un home conoisant les generacions
+                    et la qualitez des espices et feels, le qiels doit toutes les coses qe sont necessaires
+                    a la medicine conoistre por le consoil des mires ou certain pois et mesure, et comprendre
+                    ausi come se convient.</p>
+                    <p xml:id="d001l180" n="5" rend="numbered">O Alexandres, aies a memoire les feiz de la roine d'Inde qant elle manda a toi por
+                    occaison d'amistez maint dons riches et biaus, entres qiels fu celle belisme pucelle,
+                    la qielle da enfance fu ploine et nurie de venins de serpent en tiel gise qe sa nature
+                    se vira en nature de serpent.</p>
+                    <p xml:id="d001l181" n="6" rend="numbered">Et se en celle hore ne eusse esgardez vers elle et por art maiqe iugiez por ce qe
+                    ausi ousement et orible et ne finant sanz vergogne sa gardeure metoit envers les homes
+                    ta mort seroit por l'ardor de son coniungiment venue qe en veritez ie esgardai qe
+                    sa mordeure elle ocioit les homes, laqiel couse por esperience &lt;se prove&gt;.</p>
+                    <p xml:id="d001l182" n="7" rend="numbered">O Alexandres, garde ta noblisme arme sovraine et angelice, laqiele est donee a toi
+                    en garde a ce q'elle ne soit deshonestee mes glorifiee, et ne soit de la condicion
+                    et de la generacion des enmondes, mes do&lt;u&gt; nombre des sages.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c024" n="XXIV">
+                    <head>[XXIV]</head>
+                    <p xml:id="d001l183" n="1" rend="numbered">Iustise est comendacion loable de la proprietez de l'altisme glorious, por qoi le
+                    governement doit estre de celui le qiels dex a esleuz et constituis sor ses sers,
+                    au qiel doit estre cometuz les afeires as governemens des sougiez, le qiel doit garder
+                    et defandre les possessions et l'avoir et le sanc des sougiez et ses ovres si come
+                    sont diex.</p>
+                    <p xml:id="d001l184" n="2" rend="numbered">Donqes en ce doit il estre semblables a diex et convient qe li rois soit semblables
+                    et siegue a l'altisme en toutes ses ovres, mes diex est sages et [qe] set, et ses
+                    lous et ses nomes sont glorious en lui, et la grandece de sa seignorie est gran/disme
+                    sor toz les loux.</p>
+                    <p xml:id="d001l185" n="3" rend="numbered">Donqes sapience est le contraire de tort feit et son contrestement si est iustise.</p>
+                    <p xml:id="d001l186" n="4" rend="numbered">Et en iustise sont fermees les ciels et constituiz sor terre, et en iustise fu mandez
+                    les prophetes santismes, et en iustise est formé l'entendiment la qiel crea dex et
+                    conduist sa creature a cil.</p>
+                    <p xml:id="d001l187" n="5" rend="numbered">Et por iustise est edifiee la terre et ordenez sont les rois es sougiez obeisant et
+                    [sont] adomestegiez.</p>
+                    <p xml:id="d001l188" n="6" rend="numbered">Et por celle sont adomestegez les couses terribles et aprochees les couses lontaines
+                    et sauvees les armes et gardees de toz et aprés de ses roi de totes corruptions.</p>
+                    <p xml:id="d001l189" n="7" rend="numbered">Et por ce ceus d'Inde dient: «La iustise de celui qi governe est plus profitable as
+                    sougiez qe abondance de tens».</p>
+                    <p xml:id="d001l190" n="8" rend="numbered">Et ancore dient: «Segnoregeor iustes est meilor qe pluige de soire».</p>
+                    <p xml:id="d001l191" n="9" rend="numbered">Et trovez fu escrit en une piere en lai&lt;n&gt;gue chaudee qe le rois et l'entendement
+                    sont freres, les uns aiant toz iors besoigne &lt;de l'autre&gt; ne ni est soufisans
+                    li uns sanz l'autre.</p>
+                    <p xml:id="d001l192" n="10" rend="numbered">Et toutes couses universelment sont formees et naisent de iustise, et celle si est
+                    occaison de l'entendement, leqiel puet en son estre et la racine de celle est da entendiment
+                    et cil est ovrement qe moine celle a ce.</p>
+                    <p xml:id="d001l193" n="11" rend="numbered">Et cil est puisance et ovre de celle, cil est entention et esgardement de science,
+                    cil est iuges qe ovre et qe rechoit ce qe avient por l'ovre: en ce q'il rechoit est
+                    celle iustise.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c025" n="XXV">
+                    <head>[XXV]</head>
+                    <p xml:id="d001l194" n="1" rend="numbered">Donqes apert il qe iustise est de dos manieres, manifeste et oculte.</p>
+                    <p xml:id="d001l195" n="2" rend="numbered">Et manifeste est celle qe est manifeste por ovre ovrant sor les condicions et est
+                    droite iustise pesee et mesuree por cil entendement et la ioise por celle si aqiert
+                    nome.</p>
+                    <p xml:id="d001l196" n="3" rend="numbered">Oculte si est la foi et la creence dou iuges feisans ses ovres et la creance et le
+                    confermement de ses dis.</p>
+                    <p xml:id="d001l197" n="4" rend="numbered">/ Donqes apert il, selonc ce qe est dit, qe li rois en la iustise est asimilez a l'altisme,
+                    et por ce besoigne q'il soit fermez en toutes ses ovres propries et comuniels, et
+                    celle couse qi se descuse de la propre ou de la comune ni est iustise, et qe la iustise
+                    de dex et la voluntez aient poise en ces couses et q'il croie en tout ce por ce qe
+                    por sa foi consuiet l'aqiert la loi, la qiel couse est perfection dou segnoregement.</p>
+                    <p xml:id="d001l198" n="5" rend="numbered">Et, ausi come il aparra por ses ovres, elle abrace les cuers des sougiez, ce est ausi
+                    come aparra ses ovres, et le sentira les ovres des sougiez de lui, et si iugera les
+                    ovres de lui.</p>
+                    <p xml:id="d001l199" n="6" rend="numbered">Et proprietez et comunitez sont en diverses grés et les transgresions de la iustise
+                    en lui si aporte.</p>
+                    <p xml:id="d001l200" n="7" rend="numbered">Et iustise est nome relattives ad aucune couse dit et correction de tort feit et droiture
+                    de stadiere et forme de mesure, et est nome colectives esgardant a cortesie et as
+                    costuns de largece et as ovremens de bontez.</p>
+                    <lb/>
+                    <p xml:id="d001l201" n="8" rend="numbered">Et iustise se devise en dous parties: il est une iustise la qiele guarda au ioise
+                    aprés au iuges; et est une iustise qi apertient a l'home en le raisonement de soi
+                    meismes en ces coses qe sont entre son creaor et soi.</p>
+                    <p xml:id="d001l202" n="9" rend="numbered">Donqes dois tu ordener iustise en ces couses les qieles sont entre toi et ton pueple
+                    selonc la mesure des costuns et les seiges des reignes.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c026" n="XXVI">
+                    <head>[XXVI]</head>
+                    <p xml:id="d001l203" n="1" rend="numbered">E ge certifie a toi forme loable sapience filosofice mout chiere, la qiele demoustrera
+                    &lt;a&gt; cascune qant est entre les homes, la qiele abrace le regne des sougiez et
+                    demoustre li grés d'aus et les caletés et les racines de li; la qiel couse se convient
+                    avoir en cascun grés.</p>
+                    <p xml:id="d001l204" n="2" rend="numbered">Donqes se depart elle en dous cerculieres speriqes, cascune divi/sion est un grés.</p>
+                    <p xml:id="d001l205" n="3" rend="numbered">Donqes comence da qiel division tu viaus et donra a toi celle couse de la qiele aucune
+                    couse n'est plus pretiouse.</p>
+                    <p xml:id="d001l206" n="4" rend="numbered">Vois le cercle dou firmement et qantes foiz sera les ordinations ou soit les governamens
+                    iurez as cous&lt;es&gt; desout et as couses de sovre a la comunance de cest monde.</p>
+                    <lb/>
+                    <p xml:id="d001l207" n="5" rend="numbered">Aparuz est a moi de comencier en tiel guise dau monde.</p>
+                    <p xml:id="d001l208" n="6" rend="numbered">Et ceste est la utilitez de cest livre: et ceste est la figure de lui.</p>
+                    <lb/>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="EPISTOLEMODENA-epistoleModena">Epistole in versi del canzoniere α.R.4.4. della Biblioteca Estense di Modena</title>
+                <title type="short">Epistole in versi del canzoniere α.R.4.4. della Biblioteca Estense di Modena</title>
+                <title type="sub">sec. XIV</title>
+                <author xml:id="EPISTOLEMODENA" n="068.000">
+                    <persName type="main"></persName>
+                    <persName type="short"></persName>
+                </author>
+                <principal>Serena Modena</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale e messa in linea</resp>
+                    <name>Francesca Gambino</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Giulio Bertoni, <emph style="font-style:italic">Le lettere franco-italiane di Faramond e Meliadus</emph>, in «Giornale storico della letteratura italiana», 63 (1914), pp. 79-88; ripubblicato in Id., <emph style="font-style:italic">Studi su vecchie e nuove poesie e prose d’amore e di romanzi</emph>, Modena, Orlandini, 1921, pp. 183-206.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t2"/>
+                <keywords>
+                    <term type="form">poetry</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <div2 xml:id="d001c001" n="1">
+                    <head>I. (D, c. 211b)</head>
+                    <lb/>
+                    <l xml:id="d001l1" n="1">[A]u noble roi Melxadus</l>
+                    <l xml:id="d001l2" n="2">que tant puet et tant vault, que nus</l>
+                    <l xml:id="d001l3" n="3">n'est ore de bonté greignor,</l>
+                    <l xml:id="d001l4" n="4">a cel que ge tiegn por seignor</l>
+                    <l xml:id="d001l5" n="5">e 'n cui ç'ai toute ma fiance,</l>
+                    <l xml:id="d001l6" n="6">Ge Faramonz, li rois de France,</l>
+                    <l xml:id="d001l7" n="7">envoi mon brief, saluz li mant.</l>
+                    <l xml:id="d001l8" n="8">Autre chouse ge ne demant</l>
+                    <l xml:id="d001l9" n="9">fors qu'il ait et bien et santé</l>
+                    <l xml:id="d001l10" n="10">et de toute joie planté.</l>
+                    <l xml:id="d001l11" n="11">Tout ausint com li deaitiéz,</l>
+                    <l xml:id="d001l12" n="12">qui de plaies est maltraitiéz</l>
+                    <l xml:id="d001l13" n="13">quant navréz est et sormenéz,</l>
+                    <l xml:id="d001l14" n="14">s'en vet tout droit, s'il est senéz,</l>
+                    <l xml:id="d001l15" n="15">au mire qui le set guerir,</l>
+                    <l xml:id="d001l16" n="16">quar autrement porroit perir;</l>
+                    <l xml:id="d001l17" n="17">ausint ge, qui sui esmaiéz,</l>
+                    <l xml:id="d001l18" n="18">qui sui dedenz le cuer plaiéz</l>
+                    <l xml:id="d001l19" n="19">de doulor et de marrison,</l>
+                    <l xml:id="d001l20" n="20">mant a vos por ma guerison.</l>
+                    <l xml:id="d001l21" n="21">Rois Melÿadus, biaus amis,</l>
+                    <l xml:id="d001l22" n="22">li forz rois Artus si m'a mis</l>
+                    <l xml:id="d001l23" n="23">en grant poor nouvellement,</l>
+                    <l xml:id="d001l24" n="24">qar l'en me dit certeinnement</l>
+                    <l xml:id="d001l25" n="25">q'il doit a ost sor moi venir.</l>
+                    <l xml:id="d001l26" n="26">S'il vient, qui me porra tenir</l>
+                    <l xml:id="d001l27" n="27">contre lui? Ge n'i avrai force,</l>
+                    <l xml:id="d001l28" n="28">se vostre valor ne s'esforce</l>
+                    <l xml:id="d001l29" n="29">de moi encontre lui defendre!</l>
+                    <l xml:id="d001l30" n="30">Amis, pensez or de moi rendre</l>
+                    <l xml:id="d001l31" n="31">ce qu'a vos fis aucune foiz!</l>
+                    <l xml:id="d001l32" n="32">S'en vos n'est or trouvee foiz,</l>
+                    <l xml:id="d001l33" n="33">franchise, loiauté, pietéz,</l>
+                    <l xml:id="d001l34" n="34">donc est fausce vostre amistiéz,</l>
+                    <l xml:id="d001l35" n="35">s'a cest point ne me secorez;</l>
+                    <l xml:id="d001l36" n="36">ge sui de doulor acoréz.</l>
+                    <l xml:id="d001l37" n="37">Au dereain de cest mon brief</l>
+                    <l xml:id="d001l38" n="38">vos salu o parlament brief:</l>
+                    <l xml:id="d001l39" n="39">ne demorez, venez a mi,</l>
+                    <l xml:id="d001l40" n="40">mostrez que vos soiez ami!</l>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c002" n="2">
+                    <head>II. (D, c. 211c)</head>
+                    <lb/>
+                    <l xml:id="d001l41" n="1">[A] vos, a vos, tres noubles rois</l>
+                    <l xml:id="d001l42" n="2">d'Estrangorre, qui mainz desrois</l>
+                    <l xml:id="d001l43" n="3">e maint orgoill avéz sousmis,</l>
+                    <l xml:id="d001l44" n="4">Melïadus, li vostre amis,</l>
+                    <l xml:id="d001l45" n="5">vostre hom lige et vostre sers,</l>
+                    <l xml:id="d001l46" n="6">vos manda ses letres par vers,</l>
+                    <l xml:id="d001l47" n="7">et o ses letres vos salue,</l>
+                    <l xml:id="d001l48" n="8">non pas o cuer plain de faulue,</l>
+                    <l xml:id="d001l49" n="9">mas o cuer entier et verai.</l>
+                    <l xml:id="d001l50" n="10">Jamés nul jor n'oblierai</l>
+                    <l xml:id="d001l51" n="11">la vostre tres grant amistiéz.</l>
+                    <l xml:id="d001l52" n="12">Por ce vos salu sans faintié,</l>
+                    <l xml:id="d001l53" n="13">ami verai sans fauseté,</l>
+                    <l xml:id="d001l54" n="14">qui gaaignié et conquesté</l>
+                    <l xml:id="d001l55" n="15">m'avés par vostre cortoisie.</l>
+                    <l xml:id="d001l56" n="16">Amis qui amés sans baudie,</l>
+                    <l xml:id="d001l57" n="17">qui pitié eüstes de moi</l>
+                    <l xml:id="d001l58" n="18">la ou ge estoie en esmoi</l>
+                    <l xml:id="d001l59" n="19">et en doutance de morir,</l>
+                    <l xml:id="d001l60" n="20">qui ne me lassastes perir</l>
+                    <l xml:id="d001l61" n="21">por honor de chevalerie,</l>
+                    <l xml:id="d001l62" n="22">qui m'avés rendue la vie,</l>
+                    <l xml:id="d001l63" n="23">qar de mort estoie ja pres,</l>
+                    <l xml:id="d001l64" n="24">mil saluz vos mant et aprés</l>
+                    <l xml:id="d001l65" n="25">vos merci par cent mille foiz.</l>
+                    <l xml:id="d001l66" n="26">Amis, tant fu la vostre foiz</l>
+                    <l xml:id="d001l67" n="27">cortoise vers vostre anemi</l>
+                    <l xml:id="d001l68" n="28">que ge n'ai ore si bon ami</l>
+                    <l xml:id="d001l69" n="29">qui me feïst si grant bonté;</l>
+                    <l xml:id="d001l70" n="30">por ce voill ge qu'il soit cunté</l>
+                    <l xml:id="d001l71" n="31">par tout le monde cestui fet,</l>
+                    <l xml:id="d001l72" n="32">si que l'en sace que a fet</l>
+                    <l xml:id="d001l73" n="33">li Bons Chevaliers sans Poor</l>
+                    <l xml:id="d001l74" n="34">par sa grant franchise au peior</l>
+                    <l xml:id="d001l75" n="35">enemi qu'il eüst in vie.</l>
+                    <l xml:id="d001l76" n="36">Ge sai bien que avront invie</l>
+                    <l xml:id="d001l77" n="37">bon et malvés de cestui fet,</l>
+                    <l xml:id="d001l78" n="38">q'a vostre annemi avéz fet:</l>
+                    <l xml:id="d001l79" n="39">touz li monz s'en merveillera,</l>
+                    <l xml:id="d001l80" n="40">quant par le mont conté sera.</l>
+                    <l xml:id="d001l81" n="41">Amis, quant delivré m'avéz</l>
+                    <l xml:id="d001l82" n="42">par tel franchise com savéz,</l>
+                    <l xml:id="d001l83" n="43">or faites un autre franchise,</l>
+                    <l xml:id="d001l84" n="44">si que la vostre gentilise</l>
+                    <l xml:id="d001l85" n="45">doie estre droitement loee.</l>
+                    <l xml:id="d001l86" n="46">Quant ma cartre avroiz regardee</l>
+                    <l xml:id="d001l87" n="47">e lehue de chief in chief,</l>
+                    <l xml:id="d001l88" n="48">metéz arierez touz meschief</l>
+                    <l xml:id="d001l89" n="49">e movéz por venir a cort,</l>
+                    <l xml:id="d001l90" n="50">si que li blasme qui or cort,</l>
+                    <l xml:id="d001l91" n="51">que la loiauté ne gardéz</l>
+                    <l xml:id="d001l92" n="52">que vos au roi Artus devéz,</l>
+                    <l xml:id="d001l93" n="53">chiee par la vostre venue:</l>
+                    <l xml:id="d001l94" n="54">ormais n'i ait resne tenue</l>
+                    <l xml:id="d001l95" n="55">de venir a cort. Venéz tost,</l>
+                    <l xml:id="d001l96" n="56">o grant esforz et o grant ost!</l>
+                    <l xml:id="d001l97" n="57">Secoréz le bon roi Artu,</l>
+                    <l xml:id="d001l98" n="58">si que par la vostre vertu</l>
+                    <l xml:id="d001l99" n="59">li Sesne qui sunt esvellié</l>
+                    <l xml:id="d001l100" n="60">se truisent si descon[se]llié,</l>
+                    <l xml:id="d001l101" n="61">qu'il soient tuit pris come bestes.</l>
+                    <l xml:id="d001l102" n="62">Amis, regardéz qui vos estes:</l>
+                    <l xml:id="d001l103" n="63">del monde estes ben la merveille!</l>
+                    <l xml:id="d001l104" n="64">Faites que li mundes s'esveille</l>
+                    <l xml:id="d001l105" n="65">e fremisse in vostre venir!</l>
+                    <l xml:id="d001l106" n="66">Par vos se puet bien maintenir</l>
+                    <l xml:id="d001l107" n="67">l'onor del reaume de Logres.</l>
+                    <l xml:id="d001l108" n="68">Se tuit li Sesne estoient ogres,</l>
+                    <l xml:id="d001l109" n="69">si n'avront il a vos duree;</l>
+                    <l xml:id="d001l110" n="70">mainte peinne avéz enduree</l>
+                    <l xml:id="d001l111" n="71">por mantenir chevalerie:</l>
+                    <l xml:id="d001l112" n="72">or puet estre par vos guerie</l>
+                    <l xml:id="d001l113" n="73">la plaie de la Grant Bretagne;</l>
+                    <l xml:id="d001l114" n="74">faites tost que par vos estaigne</l>
+                    <l xml:id="d001l115" n="75">la dolor qu'il vont endurant.</l>
+                    <l xml:id="d001l116" n="76">Des Sesnes qui asegurant</l>
+                    <l xml:id="d001l117" n="77">se vont or trop en ceste terre</l>
+                    <l xml:id="d001l118" n="78">poéz vos tost finer la guerre.</l>
+                    <l xml:id="d001l119" n="79">Bien sai: si tost ne conoistrunt</l>
+                    <l xml:id="d001l120" n="80">vostre espee qu'il se metrunt</l>
+                    <l xml:id="d001l121" n="81">a la fuie sanz delaier;</l>
+                    <l xml:id="d001l122" n="82">l'en le porra prendre e laier</l>
+                    <l xml:id="d001l123" n="83">come chievres, se il vos voient:</l>
+                    <l xml:id="d001l124" n="84">ge nes conois s'il ne marvoient</l>
+                    <l xml:id="d001l125" n="85">e s'il ne perdent tout pooir</l>
+                    <l xml:id="d001l126" n="86">tant tost com vos porunt veoir.</l>
+                    <l xml:id="d001l127" n="87">Amis, ne vos quier autre don,</l>
+                    <l xml:id="d001l128" n="88">fors que vos rendoiz guerredon</l>
+                    <l xml:id="d001l129" n="89">au bon roi Artus de l'onor</l>
+                    <l xml:id="d001l130" n="90">que il me fist par vostre amor</l>
+                    <l xml:id="d001l131" n="91">Par vos m'a fet cest grant servise;</l>
+                    <l xml:id="d001l132" n="92">or vos pri par vostre franchise</l>
+                    <l xml:id="d001l133" n="93">que vos guerredon l'en rendéz</l>
+                    <l xml:id="d001l134" n="94">ne a venir plus n'atendéz.</l>
+                    <l xml:id="d001l135" n="95">Venéz tost sanz delaiement,</l>
+                    <l xml:id="d001l136" n="96">si qu'enscenble alom lieement</l>
+                    <l xml:id="d001l137" n="97">sor noz enemis de Sensoigne.</l>
+                    <l xml:id="d001l138" n="98">Malement ira lor besogne:</l>
+                    <l xml:id="d001l139" n="99">se ensenble alomes sor eus</l>
+                    <l xml:id="d001l140" n="100">a peinne en eschaperunt deus.</l>
+                    <l xml:id="d001l141" n="101">Porce que osté m'avés de chartre,</l>
+                    <l xml:id="d001l142" n="102">au der[e]ain de ceste chartre,</l>
+                    <l xml:id="d001l143" n="103">con mon cer ami vos salu</l>
+                    <l xml:id="d001l144" n="104">qar plus ke nuls m'avéz valu.</l>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="3">
+                    <head>III. (D, c. 212a)</head>
+                    <lb/>
+                    <l xml:id="d001l145" n="1">[A]u meillor roi qui ore vive,</l>
+                    <l xml:id="d001l146" n="2">qui tout bien e tout pris ravive,</l>
+                    <l xml:id="d001l147" n="3">qui a touz granz besongn fu tex</l>
+                    <l xml:id="d001l148" n="4">que entre touz les rois mortex</l>
+                    <l xml:id="d001l149" n="5">ne fu si vaillans vehuz nus,</l>
+                    <l xml:id="d001l150" n="6">c'est li bon rois Meliadus</l>
+                    <l xml:id="d001l151" n="7">cil qui Sanz Poor est noméz.</l>
+                    <l xml:id="d001l152" n="8">qui aséz est plus renoméz</l>
+                    <l xml:id="d001l153" n="9">que sa prosse ne comande,</l>
+                    <l xml:id="d001l154" n="10">ses letres e son brief li mande</l>
+                    <l xml:id="d001l155" n="11">e li envoie mil saluz</l>
+                    <l xml:id="d001l156" n="12">de part celui qui est saluz</l>
+                    <l xml:id="d001l157" n="13">de touz Cristïens et confort,</l>
+                    <l xml:id="d001l158" n="14">e li mande qu'il se confort,</l>
+                    <l xml:id="d001l159" n="15">aprés la vilaine prison</l>
+                    <l xml:id="d001l160" n="16">qu'il a ehue contre reison</l>
+                    <l xml:id="d001l161" n="17">Rois de pooir, rois de valor,</l>
+                    <l xml:id="d001l162" n="18">qui mon cuer en mainte dolor</l>
+                    <l xml:id="d001l163" n="19">meïstes ja par vostre aspresce,</l>
+                    <l xml:id="d001l164" n="20">la cui bonté, la cui prosce,</l>
+                    <l xml:id="d001l165" n="21">malgré mien et par force lou,</l>
+                    <l xml:id="d001l166" n="22">de vos a cest point me deslou,</l>
+                    <l xml:id="d001l167" n="23">qar vos me donéz lous et pris,</l>
+                    <l xml:id="d001l168" n="24">de ce que ge unques n'enpris</l>
+                    <l xml:id="d001l169" n="25">et dites que fustes delivre</l>
+                    <l xml:id="d001l170" n="26">par moi; mes donc fusse ge yvre</l>
+                    <l xml:id="d001l171" n="27">se ge delivré vos eüsse,</l>
+                    <l xml:id="d001l172" n="28">qar bien sai ke ge ne pehusse</l>
+                    <l xml:id="d001l173" n="29">mielz prochacier le mien joïse:</l>
+                    <l xml:id="d001l174" n="30">g'eüsse porchace et quise</l>
+                    <l xml:id="d001l175" n="31">la verge dont fusse battu!</l>
+                    <l xml:id="d001l176" n="32">De mun tor me fusse abatu,</l>
+                    <l xml:id="d001l177" n="33">qar mielz ne me pehusse abatre</l>
+                    <l xml:id="d001l178" n="34">que vers le roi Artus conbatre</l>
+                    <l xml:id="d001l179" n="35">por vostre delivrance avoir.</l>
+                    <l xml:id="d001l180" n="36">Por moi ne fust ce pas savoir,</l>
+                    <l xml:id="d001l181" n="37">quar de pes me meïsse en guerre.</l>
+                    <l xml:id="d001l182" n="38">Bien savéz vos que en nulle terre</l>
+                    <l xml:id="d001l183" n="39">ou Fortune nos amenast</l>
+                    <l xml:id="d001l184" n="40">ne pot nus faire qu'il menast</l>
+                    <l xml:id="d001l185" n="41">ferme concorde entre nos deus.</l>
+                    <l xml:id="d001l186" n="42">Acordé nos somes amdeus</l>
+                    <l xml:id="d001l187" n="43">plusors foiz, mes tout maintenant</l>
+                    <l xml:id="d001l188" n="44">descordoit nostre convenant;</l>
+                    <l xml:id="d001l189" n="45">e quant de ce vos recordéz,</l>
+                    <l xml:id="d001l190" n="46">com est que vos vos acordéz</l>
+                    <l xml:id="d001l191" n="47">a ce que ne porroit durer?</l>
+                    <l xml:id="d001l192" n="48">Avant convendroit enmurrier</l>
+                    <l xml:id="d001l193" n="49">Orgoill, qui tout ce nos fait faire,</l>
+                    <l xml:id="d001l194" n="50">qu'en pes alast le nostre afaire.</l>
+                    <l xml:id="d001l195" n="51">E neporquant, se Deus me salt,</l>
+                    <l xml:id="d001l196" n="52">bien voill que la guerra e l'asalt</l>
+                    <l xml:id="d001l197" n="53">de nos deus desoremais fine</l>
+                    <l xml:id="d001l198" n="54">e qu'il i ait pes bone e fine.</l>
+                    <l xml:id="d001l199" n="55">Mes se pes fesomes ensenble,</l>
+                    <l xml:id="d001l200" n="56">de nos deus ira, ce me scenble,</l>
+                    <l xml:id="d001l201" n="57">come del lou e de l'agnel</l>
+                    <l xml:id="d001l202" n="58">qui bevoient a un ruissel:</l>
+                    <l xml:id="d001l203" n="59">ge, que sui del mendre pooir,</l>
+                    <l xml:id="d001l204" n="60">porrai ben tost de moi veoir</l>
+                    <l xml:id="d001l205" n="61">ce que li aigniaus vit de soi:</l>
+                    <l xml:id="d001l206" n="62">dejoste vos morai de soi,</l>
+                    <l xml:id="d001l207" n="63">qar pris i serai com au peige.</l>
+                    <l xml:id="d001l208" n="64">Ja n'i serai en sehur sege,</l>
+                    <l xml:id="d001l209" n="65">touz jorz avrai poor e doute</l>
+                    <l xml:id="d001l210" n="66">que vostre espee ne me boute</l>
+                    <l xml:id="d001l211" n="67">por joer a rechigne-chat.</l>
+                    <l xml:id="d001l212" n="68">Adés criem que ge chier n'achat</l>
+                    <l xml:id="d001l213" n="69">au dereain ceste concorde.</l>
+                    <l xml:id="d001l214" n="70">Ge ne croi mie que Descorde</l>
+                    <l xml:id="d001l215" n="71">soit trop loign de nos ostelee:</l>
+                    <l xml:id="d001l216" n="72">aséz tost sera apellee</l>
+                    <l xml:id="d001l217" n="73">por nos deus faire enscemble prendre.</l>
+                    <l xml:id="d001l218" n="74">L'en porroit ausi tost aprendre</l>
+                    <l xml:id="d001l219" n="75">l'asne a chant et a acorder</l>
+                    <l xml:id="d001l220" n="76">con l'en nos porroit acorder;</l>
+                    <l xml:id="d001l221" n="77">qar vos roide, ge orgoilleus,</l>
+                    <l xml:id="d001l222" n="78">vos geün et ge fameilleus,</l>
+                    <l xml:id="d001l223" n="79">vos de batagla desirier,</l>
+                    <l xml:id="d001l224" n="80">ne ge ne m'en puis conscirier…</l>
+                    <l xml:id="d001l225" n="81">Qui i porra metre pes ferme?</l>
+                    <l xml:id="d001l226" n="82">Nus, fors cil qui clot et enferme</l>
+                    <l xml:id="d001l227" n="83">touz le monde en sai deitié.</l>
+                    <l xml:id="d001l228" n="84">Cil, si volt, avra tost traitié</l>
+                    <l xml:id="d001l229" n="85">entre nos deus cele concorde</l>
+                    <l xml:id="d001l230" n="86">que jamés n'i avra descorde.</l>
+                    <l xml:id="d001l231" n="87">E cil de nos deus s'intremette</l>
+                    <l xml:id="d001l232" n="88">in tel guise que il i mette</l>
+                    <l xml:id="d001l233" n="89">ferme concorde e ferme pes,</l>
+                    <l xml:id="d001l234" n="90">que guerre ne viegne jamés.</l>
+                    <l xml:id="d001l235" n="91">Au dereain de cest mien brief</l>
+                    <l xml:id="d001l236" n="92">vos pri, frans rois, ne vos soit grief</l>
+                    <l xml:id="d001l237" n="93">se a vos ne vins maintenant</l>
+                    <l xml:id="d001l238" n="94">que de vos letres fui tenant.</l>
+                    <l xml:id="d001l239" n="95">Ge nel poi, mes or le porrai.</l>
+                    <l xml:id="d001l240" n="96">o vos aséz tost me jondrai.</l>
+                    <l xml:id="d001l241" n="97">a grant ost et a grant pooir,</l>
+                    <l xml:id="d001l242" n="98">vos irai desormes veoir.</l>
+                    <l xml:id="d001l243" n="99">Saluz vos mant, saluz vos viegne.</l>
+                    <l xml:id="d001l244" n="100">Ce que vos voléz vos aviegne.</l>
+                    <lb/>
+                    <lb/>
+                    <lb/>
+                </div2>
+            </div1>
+        </body>
+        <back>
+            <div type="edizione">
+                L’edizione parziale delle Epistole del ms. α.R.4.4. della Biblioteca Estense di Modena di Giulio Bertoni 1914 è stata integrata e completata con l’aggiunta dei versi seguenti: I., v. 32; II., vv. 9-15, 23-29, 36-55, 62-86, 91-101; III., vv. 7-13, 17-51, 54, 59-76, 81-90. Per altre modifiche puntuali, cfr., inoltre, l'apparato.
+            </div>
+            <div type="apparato"><p>Modifiche all’edizione parziale di Giulio Bertoni, Le lettere franco-italiane di Faramond e Meliadus,
+                «Giornale storico della letteratura italiana», 63, 1914, pp. 79-88 (ristampa in Id., Studi su vecchie
+                e nuove poesie e prose d’amore e di romanzi, Modena, Orlandini, 1921, pp. 183-206) concernente: I, vv.
+                1-31, 33-40; II, vv. 1-8, 16-22, 30-35, 56-61, 87-90, 102-104; III, vv. 1-6, 14-16, 52-53, 55-58, 77-80,
+                91-100.&lt;br/&gt;&lt;br/&gt;a cura di Serena Modena&lt;br/&gt;&lt;br/&gt;verso ed. Bertoni 1914] modifica&lt;br/&gt;&lt;br/&gt;I.&lt;br/&gt;&lt;br/&gt;8
+                chose] chouse&lt;br/&gt;&lt;br/&gt;10 ioie] joie&lt;br/&gt;&lt;br/&gt;12 mal traitiéz] maltraitiéz&lt;br/&gt;&lt;br/&gt;14 sen] s’en&lt;br/&gt;&lt;br/&gt;15
+                guerir] guerir,&lt;br/&gt;&lt;br/&gt;21 Melyadus] Melÿadus&lt;br/&gt;&lt;br/&gt;26 tenir?] tenir&lt;br/&gt;&lt;br/&gt;27 contre lui ge] contre
+                lui? Ge&lt;br/&gt;&lt;br/&gt;29 defendre.] defendre!&lt;br/&gt;&lt;br/&gt;31 foiz] foiz!&lt;br/&gt;&lt;br/&gt;33 pietéz] pietéz,&lt;br/&gt;&lt;br/&gt;35
+                secorez.] secorez;&lt;br/&gt;&lt;br/&gt;37 derr[e]ain] dereain&lt;br/&gt;mien brief] mon brief,&lt;br/&gt;&lt;br/&gt;38 brief.] brief:&lt;br/&gt;&lt;br/&gt;40
+                qe] que&lt;br/&gt;ami.] ami!&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;II.&lt;br/&gt;&lt;br/&gt;1 Vos avez] [A] vos, a vos (cfr. Lagomarsini 2015: 102)&lt;br/&gt;&lt;br/&gt;3
+                avez sousmis.] avéz sousmis,&lt;br/&gt;&lt;br/&gt;4 Meliadus] Melïadus&lt;br/&gt;&lt;br/&gt;7 salue] salue,&lt;br/&gt;&lt;br/&gt;8 faulue]
+                faulue,&lt;br/&gt;&lt;br/&gt;16 ames] amés&lt;br/&gt;&lt;br/&gt;17 eustes] eüstes&lt;br/&gt;&lt;br/&gt;19 morir] morir,&lt;br/&gt;&lt;br/&gt;22 m'aves
+                rendue la vie] m'avés rendue la vie,&lt;br/&gt;&lt;br/&gt;33 bons chevaliers sans poor] Bons Chevaliers sans Poor&lt;br/&gt;&lt;br/&gt;35
+                vie] vie.&lt;br/&gt;&lt;br/&gt;56 ost,] ost!&lt;br/&gt;&lt;br/&gt;57 Secorez] Secoréz&lt;br/&gt;&lt;br/&gt;61 bestes……] beste.&lt;br/&gt;&lt;br/&gt;90
+                qe] que&lt;br/&gt;&lt;br/&gt;104 avez] avéz&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;III.&lt;br/&gt;&lt;br/&gt;14 confort] confort,&lt;br/&gt;&lt;br/&gt;15 apres] aprés&lt;br/&gt;&lt;br/&gt;52
+                et] e&lt;br/&gt;&lt;br/&gt;55 ensemble] ensenble&lt;br/&gt;&lt;br/&gt;57 et] e&lt;br/&gt;&lt;br/&gt;77 orguilleus] orgoilleus&lt;br/&gt;&lt;br/&gt;78
+                geun] geün&lt;br/&gt;familleus] fameilleus,&lt;br/&gt;&lt;br/&gt;79 desirier] desirier,&lt;br/&gt;&lt;br/&gt;80 men] m'en&lt;br/&gt;&lt;br/&gt;96
+                asez tost me iondrai] aséz tost me jondrai&lt;br/&gt;&lt;br/&gt;100 volez] voléz&lt;br/&gt;&lt;br/&gt;
+            </p></div>
+        </back>
+    </text>
+</TEI>

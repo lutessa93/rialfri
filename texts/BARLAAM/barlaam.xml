@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="BARLAAM-barlaam">Barlaam et Josaphat</title>
+                <title type="short">Barlaam et Josaphat</title>
+                <title type="sub">frammento di Cividale del Friuli, terzo quarto del XIV sec.</title>
+                <author xml:id="BARLAAM" n="021.000">
+                    <persName type="main"></persName>
+                    <persName type="short"></persName>
+                </author>
+                <principal>Serena Modena</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata e marcatura digitale</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Jean Sonet, <emph style="font-style:italic">Le Roman de Barlaam et Josaphat</emph>, Vol. 1: <emph style="font-style:italic">Recherches sur la tradition latine et française</emph>, Namur, Bibliothèque de la Faculté de Philosophie et Lettres, 1949, pp. 295-306. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t1"/>
+                <keywords>
+                    <term type="form">poetry</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <l xml:id="d001l1" n="1">E la puisance e la proece.</l>
+                <l xml:id="d001l2" n="2">Per aus si somés et plaisiez</l>
+                <l xml:id="d001l3" n="3">Mes enemis de soz me piez;</l>
+                <l xml:id="d001l4" n="4">E ancor plus car, quant nul oir</l>
+                <l xml:id="d001l5" n="5">Ne cuidoie iamais avoir</l>
+                <l xml:id="d001l6" n="6">Qui apres moy roy deüst estre,</l>
+                <l xml:id="d001l7" n="7">Per m'oraison te firent nestre.</l>
+                <l xml:id="d001l8" n="8">Certes, bel fiz, mult as mespris</l>
+                <l xml:id="d001l9" n="9">Car ne say a quel deu t'es pris</l>
+                <l xml:id="d001l10" n="10">Qui fu mors et crucifiez</l>
+                <l xml:id="d001l11" n="11">E si bons deus as renoiez!</l>
+                <l xml:id="d001l12" n="12">Crie merci, a els t'acorde</l>
+                <l xml:id="d001l13" n="13">E requier lor misericorde.</l>
+                <l xml:id="d001l14" n="14">Apaie les par sacrefice:</l>
+                <l xml:id="d001l15" n="15">Que de bon cuer e sen feintise</l>
+                <l xml:id="d001l16" n="16">A aus pardon requerre vout,</l>
+                <l xml:id="d001l17" n="17">Legierement trover le pot.</l>
+                <l xml:id="d001l18" n="18">Entrés ere en bone esperance</l>
+                <l xml:id="d001l19" n="19">Que, par toy et par ta puisance,</l>
+                <l xml:id="d001l20" n="20">Fust me reaumes asauciés:</l>
+                <l xml:id="d001l21" n="21">Desesperez suy et iriez!»</l>
+                <l xml:id="d001l22" n="22">[J]osaphaz voit que c'est acertes</l>
+                <l xml:id="d001l23" n="23">E que le choses sunt apertes</l>
+                <l xml:id="d001l24" n="24">Ne del celer n'i a mais rien.</l>
+                <l xml:id="d001l25" n="25">Dont dist au roy que sache bien</l>
+                <l xml:id="d001l26" n="26">Que il par voir est crestians,</l>
+                <l xml:id="d001l27" n="27">Ronpu a toz mauvais lians:</l>
+                <l xml:id="d001l28" n="28">«Ja por moy, Sire, n'ert celé</l>
+                <l xml:id="d001l29" n="29">A quel bien Deu m'a apelé:</l>
+                <l xml:id="d001l30" n="30">De tenebres et d'oscurté</l>
+                <l xml:id="d001l31" n="31">M'a mis en joie et en clarté,</l>
+                <l xml:id="d001l32" n="32">De mort en vie susité</l>
+                <l xml:id="d001l33" n="33">E m'a mostré sa verité.</l>
+                <l xml:id="d001l34" n="34">Le diables ay renoiez</l>
+                <l xml:id="d001l35" n="35">E or suy reconciliez.</l>
+                <l xml:id="d001l36" n="36">E Deu qui fist le premier home</l>
+                <l xml:id="d001l37" n="37">A sa senblance et a sa forme.</l>
+                <l xml:id="d001l38" n="38">Apres, quant cil se fu somis</l>
+                <l xml:id="d001l39" n="39">Par son pechié a l'enemis</l>
+                <l xml:id="d001l40" n="40">De tote humaine creature,</l>
+                <l xml:id="d001l41" n="41">Pitié out grant de sa faiture</l>
+                <l xml:id="d001l42" n="42">Li sire fait l'avoit</l>
+                <l xml:id="d001l43" n="43">E a l'onor c'avoir devait</l>
+                <l xml:id="d001l44" n="44">Le vout remener e retraire</l>
+                <l xml:id="d001l45" n="45">E en tel guise le vout faire</l>
+                <l xml:id="d001l46" n="46">Que de cieus a la terre vint.</l>
+                <l xml:id="d001l47" n="47">Deu e home mortel devint;</l>
+                <l xml:id="d001l48" n="48">D'une sainte virgen nasqui</l>
+                <l xml:id="d001l49" n="49">E en terre meint ans vesqui.</l>
+                <l xml:id="d001l50" n="50">Apres, sen forfait, a grant tort,</l>
+                <l xml:id="d001l51" n="51">Fu mis en crox, livré a mort</l>
+                <l xml:id="d001l52" n="52">E par la sainte passïon,</l>
+                <l xml:id="d001l53" n="53">Del dampnement on estïon</l>
+                <l xml:id="d001l54" n="54">Cheüs par le premier pechiez,</l>
+                <l xml:id="d001l55" n="55">Fumes delivre et relaschiez.</l>
+                <l xml:id="d001l56" n="56">Apres, quant fu resusité,</l>
+                <l xml:id="d001l57" n="57">Voiant toz, e cieus est monté.</l>
+                <l xml:id="d001l58" n="58">Nature humaine qu'il ot prise</l>
+                <l xml:id="d001l59" n="59">El haut trone de gloire a sise.</l>
+                <l xml:id="d001l60" n="60">Icil Sires, a çaus qui l'aiment</l>
+                <l xml:id="d001l61" n="61">E qui volentier le reclaiment,</l>
+                <l xml:id="d001l62" n="62">Si grant bien done e si grant gloire</l>
+                <l xml:id="d001l63" n="63">Que nul sen ne nule memoire</l>
+                <l xml:id="d001l64" n="64">Nel porroit savoir ne esmer</l>
+                <l xml:id="d001l65" n="65">Ne boche dire ne nomer!</l>
+                <l xml:id="d001l66" n="66">Baptisié suy en son sain non</l>
+                <l xml:id="d001l67" n="67">E ne croi may Deu se luy non;</l>
+                <l xml:id="d001l68" n="68">Sen luy n'a rien el monde fait</l>
+                <l xml:id="d001l69" n="69">E tot par sa devise est fait.</l>
+                <l xml:id="d001l70" n="70">Se cest Segnor laisier voloie</l>
+                <l xml:id="d001l71" n="71">E diable Deu apelloie</l>
+                <l xml:id="d001l72" n="72">E aoroie les ymages,</l>
+                <l xml:id="d001l73" n="73">Ge ne feroie pas que sages;</l>
+                <l xml:id="d001l74" n="74">E tant ay apris de lor estre</l>
+                <l xml:id="d001l75" n="75">Par Balaam, le mien bon mestre,</l>
+                <l xml:id="d001l76" n="76">E coneüe lor malice</l>
+                <l xml:id="d001l77" n="77">Qu'il n'auront mais de moy service;</l>
+                <l xml:id="d001l78" n="78">E n'est hom po rien que deïst</l>
+                <l xml:id="d001l79" n="79">Qui mais amer le me feïst.</l>
+                <l xml:id="d001l80" n="80">E ja soit ce que ge en aie</l>
+                <l xml:id="d001l81" n="81">Molt grant leece e molt grant joie</l>
+                <l xml:id="d001l82" n="82">Por ce que Deu par sa pitié</l>
+                <l xml:id="d001l83" n="83">Que de la dure serveté</l>
+                <l xml:id="d001l84" n="84">Au diable m'as hors gité</l>
+                <l xml:id="d001l85" n="85">E en la joie ou suy entré,</l>
+                <l xml:id="d001l86" n="86">Ne m'est nequedent [que] demie</l>
+                <l xml:id="d001l87" n="87">Ceste chose, quant tu n'es mie</l>
+                <l xml:id="d001l88" n="88">De cest bien parconer ne frere</l>
+                <l xml:id="d001l89" n="89">Qui es me sires et me peres!</l>
+                <l xml:id="d001l90" n="90">Por ce a Deu proier ne fin</l>
+                <l xml:id="d001l91" n="91">Que il te meint a bone fin</l>
+                <l xml:id="d001l92" n="92">E qu'il te giet de cest peril</l>
+                <l xml:id="d001l93" n="93">E te rapeaut del loc essil</l>
+                <l xml:id="d001l94" n="94">En quel tu es, a droite voie,</l>
+                <l xml:id="d001l95" n="95">E, si te pri, ne te travalle</l>
+                <l xml:id="d001l96" n="96">De moy tenpter c'ariere alle</l>
+                <l xml:id="d001l97" n="97">Del convenent e de la foy</l>
+                <l xml:id="d001l98" n="98">Que ge ver cel segnor qui moy</l>
+                <l xml:id="d001l99" n="99">De son sanc precious raent!</l>
+                <l xml:id="d001l100" n="100">En foroies tu por noient!</l>
+                <l xml:id="d001l101" n="101">Plus poroies legierement</l>
+                <l xml:id="d001l102" n="102">Monter desor le firmament</l>
+                <l xml:id="d001l103" n="103">E a ta main le ciel tochier</l>
+                <l xml:id="d001l104" n="104">E la grande mer esechier</l>
+                <l xml:id="d001l105" n="105">Que, par mort ne par pasïon,</l>
+                <l xml:id="d001l106" n="106">Ceste bone confesïon</l>
+                <l xml:id="d001l107" n="107">Ne peüst nul hom giter puer</l>
+                <l xml:id="d001l108" n="108">Ne de ma boche ne del cuer.</l>
+                <l xml:id="d001l109" n="109">Mais or giete puer la folie</l>
+                <l xml:id="d001l110" n="110">E de tot ton cuer t'umelie;</l>
+                <l xml:id="d001l111" n="111">A Yhesu Crist la merci quier</l>
+                <l xml:id="d001l112" n="112">Si qu'il te face parconier</l>
+                <l xml:id="d001l113" n="113">De la joie qui toz ior dure;</l>
+                <l xml:id="d001l114" n="114">Si que nos duy qui, par nature</l>
+                <l xml:id="d001l115" n="115">E par no sanc entre tenon,</l>
+                <l xml:id="d001l116" n="116">Seions en la foy conpagnon!</l>
+                <l xml:id="d001l117" n="117">Se tu nel fait, saches de voir,</l>
+                <l xml:id="d001l118" n="118">Ver toy amor ne puis avoir</l>
+                <l xml:id="d001l119" n="119">Ne por pere ne te tendray</l>
+                <l xml:id="d001l120" n="120">Mais a Deu servir entendray</l>
+                <l xml:id="d001l121" n="121">Par cui amor doit estre amere.</l>
+                <l xml:id="d001l122" n="122">L'amor da pere et de la mere».</l>
+                <l xml:id="d001l123" n="123">[Q]uant Josaphaz se fu teüs</l>
+                <l xml:id="d001l124" n="124">Se peres fu molt conmeüs</l>
+                <l xml:id="d001l125" n="125">De desverie et de grant ire</l>
+                <l xml:id="d001l126" n="126">Par la rayson qu'il li ot dire:</l>
+                <l xml:id="d001l127" n="127">Le denz recigne e fier ensenble,</l>
+                <l xml:id="d001l128" n="128">De mautalent tresue e trenble</l>
+                <l xml:id="d001l129" n="129">E senble bien home enragié</l>
+                <l xml:id="d001l130" n="130">E si li dit: «Tot ce m'ai gié</l>
+                <l xml:id="d001l131" n="131">Porcachié qui m'est avenu</l>
+                <l xml:id="d001l132" n="132">Qui t'ay tojor si maintenu.</l>
+                <l xml:id="d001l133" n="133">Bien puis dire par verité</l>
+                <l xml:id="d001l134" n="134">Qu'en tel honor n'en tel chierté</l>
+                <l xml:id="d001l135" n="135">Ne tint son fil roys onques mais</l>
+                <l xml:id="d001l136" n="136">Come ge ay toy tot ades</l>
+                <l xml:id="d001l137" n="137">Si c'unques jor nul ne fausis</l>
+                <l xml:id="d001l138" n="138">A rien nule c'avoir vosis.</l>
+                <l xml:id="d001l139" n="139">E por ce que, en ceste guise,</l>
+                <l xml:id="d001l140" n="140">A ton voloir, a ta devise</l>
+                <l xml:id="d001l141" n="141">As tot ades esté menez,</l>
+                <l xml:id="d001l142" n="142">Es tu ore si dereisnez...</l>
+            </div1>
+        </body>
+        <back>
+            <div type="apparato"><p>Apparato &lt;br/&gt;&lt;br/&gt;a cura di Serena Modena&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;1 proece ] prodece, &lt;i&gt;con&lt;/i&gt; d
+                &lt;i&gt;espunta&lt;/i&gt;.&lt;br/&gt;5 ne cuidoie jamais ] ne cuidoie e jamais&lt;br/&gt;7 firent nestre ] firent
+                mestre&lt;br/&gt;9 a quel deu ] a quel teu&lt;br/&gt;11 as renoiez ] as renoz&lt;br/&gt;15 Qui ] Que&lt;br/&gt;19 Que ] Qui&lt;br/&gt;22
+                que c'est ] que ceste&lt;br/&gt;23 sunt apertes ] sunt p apertes&lt;br/&gt;30 e d'oscurté ] e d'escurité&lt;br/&gt;36 A
+                Deu ] E Deu&lt;br/&gt;42 sire qui faite ] sire faite&lt;br/&gt;51 crox livré ] crox e livré&lt;br/&gt;53 on estion ] on
+                estien&lt;br/&gt;57 monté ] mondté, con d cancellata.&lt;br/&gt;64 porroit ] puet&lt;br/&gt;65 Ne boche ] Ne boch&lt;br/&gt;67
+                croi ] crois, con s espunta.&lt;br/&gt;68 luy n'a ] luy m n'a, con m espunta.&lt;br/&gt;75 Par Balaam ] Que Balaam&lt;br/&gt;76
+                E coneue ] A coneue&lt;br/&gt;83 serveté ] sevité&lt;br/&gt;98 Del convenent ] Del couent &lt;br/&gt;131 Tot ce m'ai ] Tote
+                m'ai&lt;br/&gt;133 Qui] Que&lt;br/&gt;
+            </p></div>
+        </back>
+    </text>
+</TEI>

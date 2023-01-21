@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="BOVOUDINESE-bovoUdinese">Bovo d'Antona udinese</title>
+                <title type="short">Bovo d'Antona udinese</title>
+                <title type="sub">fine XIV sec., Italia Nord Orientale</title>
+                <author xml:id="BOVOUDINESE" n="028.000">
+                    <persName type="main"></persName>
+                    <persName type="short"></persName>
+                </author>
+                <principal>Francesca Gambino</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione e marcatura digitale</resp>
+                    <name>Francesca Gambino</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Francesca Gambino, <emph style="font-style:italic">Code-mixing nel 'Bovo d’Antona' udinese, con una nuova edizione del frammento Udine, Archivio Capitolare, Fondo Nuovi manoscritti 736.28</emph>, “Francigena” 2 (2016), pp. 35-130.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t2"/>
+                <keywords>
+                    <term type="form">poetry</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <p xml:id="d001l1" style="font-weight:bold" n="">I</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l2" n="1">[...]</l>
+                <l xml:id="d001l3" n="1" rend="unnumbered">Enchià in Antona non oit aresté;</l>
+                <l xml:id="d001l4" n="2">Là ch'el vit Blondoia in cela parte est alé.</l>
+                <l xml:id="d001l5" n="3">«Dama», dit don Albrigo li fier,</l>
+                <l xml:id="d001l6" n="4">«Da parte de Dodon sì t'ò a salutier.</l>
+                <l xml:id="d001l7" n="5">E dise che tu li mandi Bovo, toa rité:</l>
+                <l xml:id="d001l8" n="6">Alcider lo vol, a morte delivrer,</l>
+                <l xml:id="d001l9" n="7">- Che in questa note m'avi aviser</l>
+                <l xml:id="d001l10" n="8">Che conbatant era fato Bovo li bier - ,</l>
+                <l xml:id="d001l11" n="9">E sì li partia li cors e li fiçé.»</l>
+                <l xml:id="d001l12" n="10">E la meltris dama començà a parler:</l>
+                <l xml:id="d001l13" n="11">«Don Albrigo, or ve tornè arier,</l>
+                <l xml:id="d001l14" n="12">E diré a mo sire ch'io non lo vo' mander.</l>
+                <l xml:id="d001l15" n="13">Per amor de son pier lo voio atuer.»</l>
+                <l xml:id="d001l16" n="14">E don Albrigo sì sen tornà arer.</l>
+                <l xml:id="d001l17" n="15">E la meltris dama sì fe Bovo pier;</l>
+                <l xml:id="d001l18" n="16">In una çanbra sì lo foit mener;</l>
+                <l xml:id="d001l19" n="17">Ben §{.v.} dì non li fe dar boire ni mançer.</l>
+                <l xml:id="d001l20" n="18">E Bovo començà a crider:</l>
+                <l xml:id="d001l21" n="19">«Ai, mia mier, tu fa' torto e peçié,</l>
+                <l xml:id="d001l22" n="20">Che a cotal morte tu me fa' transiier.</l>
+                <l xml:id="d001l23" n="21">Ai laso mi!», dit Bovo li ber,</l>
+                <l xml:id="d001l24" n="22">«Se mon piere me fos a le costé,</l>
+                <l xml:id="d001l25" n="23">Non lo poria durer per tuto l'or de Dié.»</l>
+                <l xml:id="d001l26" n="24">La dama l'olde, sì non pò plu durer.</l>
+                <l xml:id="d001l27" n="25">Una fant sì prist a clamer:</l>
+                <l xml:id="d001l28" n="26">«Fant», dist la dama, «a[n]dé da Bovo mia rité;</l>
+                <l xml:id="d001l29" n="27">E una tovaia blancha li averì porter,</l>
+                <l xml:id="d001l30" n="28">E un pan blancho altrotiel;</l>
+                <l xml:id="d001l31" n="29">E del plu malvasio tosego che se posa trover</l>
+                <l xml:id="d001l32" n="30">Tuto lo pan avrì intenperer.</l>
+                <l xml:id="d001l33" n="31">Per amor de sun pier li voio atoseger.»</l>
+                <l xml:id="d001l34" n="32">E l'infant non osà altro fier.</l>
+                <l xml:id="d001l35" n="33">«E diséli che dela morte de son pier son fort desconsolé,</l>
+                <l xml:id="d001l36" n="34">Che io de luy non m'ò arecordé.</l>
+                <l xml:id="d001l37" n="35">Quando le serà cresù e fato civaler,</l>
+                <l xml:id="d001l38" n="36">Le raxon de son pier averò a doner.</l>
+                <l xml:id="d001l39" n="37">E da mia parte l'averì a saluder.»</l>
+                <l xml:id="d001l40" n="38">L'infant sì oit la tovaia pié,</l>
+                <l xml:id="d001l41" n="39">E un pan blancho altretiel;</l>
+                <l xml:id="d001l42" n="40">E[n] un malvasio tosego l'oit tenperé;</l>
+                <l xml:id="d001l43" n="41">E vient ala canbra lò est Bovo li ber;</l>
+                <l xml:id="d001l44" n="42">E do livrer li vin drè, ch'è da fame raçé.</l>
+                <l xml:id="d001l45" n="43">E la fant vist Bovo, e començà a parler:</l>
+                <l xml:id="d001l46" n="44">«Sire Bovo, or ve levé in piè.</l>
+                <l xml:id="d001l47" n="45">Asay ve porto boire e che mançier.</l>
+                <l xml:id="d001l48" n="46">Da parte de toa mier sì te ò saluder;</l>
+                <l xml:id="d001l49" n="47">E dis che de ren non ve debié doter.</l>
+                <l xml:id="d001l50" n="48">Asay debié boire e mançer:</l>
+                <l xml:id="d001l51" n="49">Che la sta sì grama dela morte de vostro pier</l>
+                <l xml:id="d001l52" n="50">Che de vu no se avea arecorder.</l>
+                <l xml:id="d001l53" n="51">Quando vu serì cresù e fato civaler,</l>
+                <l xml:id="d001l54" n="52">La raxon de vostro pier el v'averà doner.»</l>
+                <l xml:id="d001l55" n="53">E Bovo l'intende, sì è drito in piè,</l>
+                <l xml:id="d001l56" n="54">E prese le pan e la tovaia altrotiel.</l>
+                <l xml:id="d001l57" n="55">E la fant non pò dal dol vardere.</l>
+                <l xml:id="d001l58" n="56">Ese dela çanbra, vient a le solier,</l>
+                <l xml:id="d001l59" n="57">E 'nfra si fist un bel inpensier.</l>
+                <l xml:id="d001l60" n="58">«Lasa», dit ela, «tristo mon cor serè,</l>
+                <l xml:id="d001l61" n="59">Che per moy pò un bel fant scanpier.</l>
+                <l xml:id="d001l62" n="60">No m'aỳ Dio, s'io lo laso atuer.»</l>
+                <l xml:id="d001l63" n="61">E vient a la çanbra da Bovo li ber:</l>
+                <l xml:id="d001l64" n="62">«Bovo», dit la fante, «gardé che mançé!</l>
+                <l xml:id="d001l65" n="63">Malvasia vianda t'ò davanty porté.»</l>
+                <l xml:id="d001l66" n="64">E Bovo li responde indrè:</l>
+                <l xml:id="d001l67" n="65">«Dama», dit el, «de vianda me doné.»</l>
+                <l xml:id="d001l68" n="66">Et ela dist: «Or fé a vostra volonté.»</l>
+                <l xml:id="d001l69" n="67">Ela es dela çanbra, sor li palax la vien.</l>
+                <l xml:id="d001l70" n="68">E Bovo pia un cortel che trença voluntier,</l>
+                <l xml:id="d001l71" n="69">E delo pan oit fato quatuor quartier;</l>
+                <l xml:id="d001l72" n="70">A lo livrer  maçor à diéli un quartier;</l>
+                <l xml:id="d001l73" n="71">Avanti che lo levrier li conplis de mançer,</l>
+                <l xml:id="d001l74" n="72">Li oglis dela testa li son por tera alés.</l>
+                <l xml:id="d001l75" n="73">E Bovo li vite, sì è tuto sacié,</l>
+                <l xml:id="d001l76" n="74">Che de mançar non oit plu volonté.</l>
+                <l xml:id="d001l77" n="75">E de for dela canbra Bovo sì sen vien,</l>
+                <l xml:id="d001l78" n="76">E vient a le plaçe li nobel bacalier,</l>
+                <l xml:id="d001l79" n="77">E non trova chi li fese destorbier.</l>
+                <l xml:id="d001l80" n="78">Per la mastra porta vient Bovo li ber;</l>
+                <l xml:id="d001l81" n="79">Inver San Simon oit li camin pié:</l>
+                <l xml:id="d001l82" n="80">Avanty che sia sera avrà le camin falé.</l>
+                <l xml:id="d001l83" n="81">En le gran bosco Bovo est intré.</l>
+                <l xml:id="d001l84" n="82">S'el è sì ver co dise li cantier,</l>
+                <l xml:id="d001l85" n="83">Tre dì va Bovo, non trov'al da mançier</l>
+                <l xml:id="d001l86" n="84">Se no rayse d'erba, del'aqua del fosé.</l>
+                <l xml:id="d001l87" n="85">Tanto vient Bovo li ber,</l>
+                <l xml:id="d001l88" n="86">Ch'el è açonto sor li rivaço del mier.</l>
+                <l xml:id="d001l89" n="87">«Ay Dio!», dist Bovo li ber,</l>
+                <l xml:id="d001l90" n="88">«Alto è lo mier, non lo poso paser,</l>
+                <l xml:id="d001l91" n="89">Ne indriè non saveria torner.</l>
+                <l xml:id="d001l92" n="90">Ai Dio, dàme iutorio de mia vita scanper!»</l>
+                <l xml:id="d001l93" n="91">E per la mier Bovo prist a garder,</l>
+                <l xml:id="d001l94" n="92">E vit una nave che non pò avanti alier.</l>
+                <l xml:id="d001l95" n="93">E un deli marinar sì prist a garder,</l>
+                <l xml:id="d001l96" n="94">E vit Bovo su le rivaço del mier.</l>
+                <l xml:id="d001l97" n="95">Encontra li altri sì l'oit mostré:</l>
+                <l xml:id="d001l98" n="96">«Signor», dit el, «or me intendì per Dié.</l>
+                <l xml:id="d001l99" n="97">El à ben §{.xxx.} ano ch'io uso per sto mier:</l>
+                <l xml:id="d001l100" n="98">Su questo rivaço non vity may hom né,</l>
+                <l xml:id="d001l101" n="99">Se no bestie salvaçe e lion abrevé:</l>
+                <l xml:id="d001l102" n="100">Mo ne veço un efant de piteto aiter.</l>
+                <l xml:id="d001l103" n="101">Entremo in le batel, sì l'anderemo a garder;</l>
+                <l xml:id="d001l104" n="102">E s'el è cristian  sì l'averemo mener,</l>
+                <l xml:id="d001l105" n="103">E s'elo serà sarasin sì lo lasaremo ster.»</l>
+                <l xml:id="d001l106" n="104">E li merchadanti in lo batel est intré,</l>
+                <l xml:id="d001l107" n="105">E sunt vegnù sor li rivaço del mer.</l>
+                <l xml:id="d001l108" n="106">Là che li vite Bovo, in cela parte sen vien.</l>
+                <l xml:id="d001l109" n="107">«Fant», dist li merçadanti dela nieve,</l>
+                <l xml:id="d001l110" n="108">«Donde sé vu? Vardé non mel celé.</l>
+                <l xml:id="d001l111" n="109">Sé vu cristian o pagan d'oltra mier?»</l>
+                <l xml:id="d001l112" n="110">E Bovo li responde: «Io sun ben cristians;</l>
+                <l xml:id="d001l113" n="111">E sì fu' fio d'un pestriner;</l>
+                <l xml:id="d001l114" n="112">E mia mier sì va drapi a laver</l>
+                <l xml:id="d001l115" n="113">A rice dame por diner gadagner.</l>
+                <l xml:id="d001l116" n="114">L'altro çorno me chorociè cun lié.</l>
+                <l xml:id="d001l117" n="115">Ben è oto çorni ch'io non bevi ni mançiè.</l>
+                <l xml:id="d001l118" n="116">Féme dar un poco de pan, per l'amor de Dié!»</l>
+                <l xml:id="d001l119" n="117">A li merchadanty prese gran pieté:</l>
+                <l xml:id="d001l120" n="118">Entro la nave oit Bovo porté,</l>
+                <l xml:id="d001l121" n="119">E sì li donà boire e mançer.</l>
+                <l xml:id="d001l122" n="120">Cola le vele e va per l'alto mar.</l>
+                <l xml:id="d001l123" n="121">En §{.xx[x].} çorni oit pasé la mier.</l>
+                <l xml:id="d001l124" n="122">[D]e Bovo sì ve voio conter.</l>
+                <l xml:id="d001l125" n="123">Asai à da boire e da mançer.</l>
+                <l xml:id="d001l126" n="124">Li fant vien plu belo de rosa de pré,</l>
+                <l xml:id="d001l127" n="125">Li cavés à b[l]ondi quant oro smeré,</l>
+                <l xml:id="d001l128" n="126">Li braç grosser e li pugno inquaré,</l>
+                <l xml:id="d001l129" n="127">La forcadura grande, ben staria in destrier:</l>
+                <l xml:id="d001l130" n="128">Le plu bel fant che may nasé da mier.</l>
+                <l xml:id="d001l131" n="129">L'un deli marchadanty sì prist a parlier.</l>
+                <l xml:id="d001l132" n="130">L'un dit: «Fant, io voio che tu servi a mio mançier.»</l>
+                <l xml:id="d001l133" n="131">L'altro dist: «Per mia foi, averà mi onorer!»</l>
+                <l xml:id="d001l134" n="132">Li terço començò a parler:</l>
+                <l xml:id="d001l135" n="133">«Lo servirà pur moy, ch'io lo vy inprimer.»</l>
+                <l xml:id="d001l136" n="134">Li mercadant sì se prist a regleter:</l>
+                <l xml:id="d001l137" n="135">Li s'à traty li brandi, sì se volea atuer.</l>
+                <l xml:id="d001l138" n="136">Li ber Bovo sì prist a parlier.</l>
+                <l xml:id="d001l139" n="137">Li dite: «Signor, or me intendì, per Dié!</l>
+                <l xml:id="d001l140" n="138">L'un servirò ala cena, l'altro a le disner;</l>
+                <l xml:id="d001l141" n="139">L'un non serà meio de l'altro valisant §{.j.} diner».</l>
+                <l xml:id="d001l142" n="140">Li marchadanti dist: «Per mia fé, l'infant à ben parlé!»</l>
+                <l xml:id="d001l143" n="141">Li §{.xxx.} çorni oit li mier pasé;</l>
+                <l xml:id="d001l144" n="142">La neve sun al porto d'Arminia arivé.</l>
+                <l xml:id="d001l145" n="143">Li roy va per soa tera pur luy stramaçer.</l>
+                <l xml:id="d001l146" n="144">Li marinier comença a parlier.</l>
+                <l xml:id="d001l147" n="145">Li dit: «Signor, vedì li roy de sta cité».</l>
+                <l xml:id="d001l148" n="146">[A] la proda dela nieve Bovo sì est alé.</l>
+                <l xml:id="d001l149" n="147">Li roy Arminiun oit la nave gardé.</l>
+                <l xml:id="d001l150" n="148">E a li so baroni sì l'oit mostré.</l>
+                <l xml:id="d001l151" n="149">«Signor», dit el, «vedés un bel infanté.»</l>
+                <l xml:id="d001l152" n="150">E davanti la nive le rois est aresté,</l>
+                <l xml:id="d001l153" n="151">E varda e vit Bovo li ber,</l>
+                <l xml:id="d001l154" n="152">Tanto belo e acismé.</l>
+                <l xml:id="d001l155" n="153">«Sancta Maria mier», dit el,</l>
+                <l xml:id="d001l156" n="154">«Mo fus tu mio scodere!»</l>
+                <l xml:id="d001l157" n="155">E pasa oltra, e va per la cité.</l>
+                <l xml:id="d001l158" n="156">E li marinar oit la neve armiçé,</l>
+                <l xml:id="d001l159" n="157">E li rois dela tera est tornà indrè;</l>
+                <l xml:id="d001l160" n="158">Ancora sta Bovo a la proda apuçé.</l>
+                <l xml:id="d001l161" n="159">E li rois dela tera ala nave sen vien,</l>
+                <l xml:id="d001l162" n="160">E vardà e vite Bovo li ber.</l>
+                <l xml:id="d001l163" n="161">E li mercadanti sì vient a li res</l>
+                <l xml:id="d001l164" n="162">E dis: «Che ve plas comander?»</l>
+                <l xml:id="d001l165" n="163">«Per mia fé», ço dis li rois, «per mi le saverés.</l>
+                <l xml:id="d001l166" n="164">Chi è quel fant? È de vostro barné?»</l>
+                <l xml:id="d001l167" n="165">«Nanil», li mercadanti li re[s]pose arer,</l>
+                <l xml:id="d001l168" n="166">«L'infante trovasemo sor li rivaço del mer.</l>
+                <l xml:id="d001l169" n="167">Delo fante vosemo gadagner.»</l>
+                <l xml:id="d001l170" n="168">«Per mia fé», dist li roy, «elo me plase asé.</l>
+                <l xml:id="d001l171" n="169">De l'infant v'avrò ben pager.»</l>
+                <l xml:id="d001l172" n="170">E §{.xxx.} marche d'oro li fis doner.</l>
+                <l xml:id="d001l173" n="171">E li ber Bovo fo in tera porté.</l>
+                <l xml:id="d001l174" n="172">E li rois Arminiun fist davanti ses portier.</l>
+                <l xml:id="d001l175" n="173">«Fant», dit el, «che fo to pier e toa miere?»</l>
+                <l xml:id="d001l176" n="174">«Miser», dite Bovo, «io fu fio d'un pestriner,</l>
+                <l xml:id="d001l177" n="175">E mia mier sì va drap a lavier</l>
+                <l xml:id="d001l178" n="176">A rice dame por diner guadagner.»</l>
+                <l xml:id="d001l179" n="177">«Fant», dist li roy, «tu me costi masa cer.</l>
+                <l xml:id="d001l180" n="178">Or vay, e si' bon scuder.»</l>
+                <l xml:id="d001l181" n="179">El fo plu belo de rosa de pré.</l>
+                <l xml:id="d001l182" n="180">S'el è sì ver com dise li cantier,</l>
+                <l xml:id="d001l183" n="181">Ben quatro ani conplì e pasé</l>
+                <l xml:id="d001l184" n="182">Stete Bovo in Arminia la cité;</l>
+                <l xml:id="d001l185" n="183">Done e chavalier sì n'oit che parler;</l>
+                <l xml:id="d001l186" n="184">La novela [fo] çonta a Drusiana al viso clier,</l>
+                <l xml:id="d001l187" n="185">La fia de li roy ch'Arminia mantien:</l>
+                <l xml:id="d001l188" n="186">S'ela non lo ve, la cre da dol raier.</l>
+                <l xml:id="d001l189" n="187">E la çentil dama à fato un corer;</l>
+                <l xml:id="d001l190" n="188">De done ben §{.lx.} su le palasio vient.</l>
+                <l xml:id="d001l191" n="189">E Drusiana vient su per la sala a piè;</l>
+                <l xml:id="d001l192" n="190">Per lié se driça pedon e chavalier;</l>
+                <l xml:id="d001l193" n="191">En piè se driça medesimo son pier.</l>
+                <l xml:id="d001l194" n="192">«Fia», dit el, «che ve plas comander?</l>
+                <l xml:id="d001l195" n="193">De vegnir in mia sala vostra usança non è.»</l>
+                <l xml:id="d001l196" n="194">«Piere», dit Drusiana, «ça per mi lo saverés.</l>
+                <l xml:id="d001l197" n="195">De done ben §{.lx.} io ò fato un corer.</l>
+                <l xml:id="d001l198" n="196">Le bele done vol li beli enfant.»</l>
+                <l xml:id="d001l199" n="197">«Fia», dit li rois, «prendì a vostre talant.»</l>
+                <l xml:id="d001l200" n="198">E la dama vien a Bovo e sì pri apeler:</l>
+                <l xml:id="d001l201" n="199">«Fant», dit ela, «tolés deli altri doncel;</l>
+                <l xml:id="d001l202" n="200">Dechia §{.xx.} avrì con vos mener.»</l>
+                <l xml:id="d001l203" n="201">E Bovo responde: «A vostre volunté.»</l>
+                <l xml:id="d001l204" n="202">E Bovo li dona l'aqua, el'est asisi a le mançer.</l>
+                <l xml:id="d001l205" n="203">E Drusiana lo garda, lo li plas asé.</l>
+                <l xml:id="d001l206" n="204">«Fant», dist la dama, «vu si' sì belo e sì clier!»</l>
+                <l xml:id="d001l207" n="205">La çentil dama non poite mançer;</l>
+                <l xml:id="d001l208" n="206">De vardar Bovo non se pò sacier.</l>
+                <l xml:id="d001l209" n="207">Entro ses man oit un pan pié,</l>
+                <l xml:id="d001l210" n="208">E un corteus que trence voluntier.</l>
+                <l xml:id="d001l211" n="209">Per grande ira la lo vait a trencer,</l>
+                <l xml:id="d001l212" n="210">E che de mans est li cortes alé;</l>
+                <l xml:id="d001l213" n="211">Soto la tabla est li cortelo alés.</l>
+                <l xml:id="d001l214" n="212">E li ber Bovo si est in tera tuto plegé</l>
+                <l xml:id="d001l215" n="213">Soto la tabla per li cortes pier.</l>
+                <l xml:id="d001l216" n="214">S'el è sì ver com dise li cantere,</l>
+                <l xml:id="d001l217" n="215">La çentil dama sì l'oit baxé.</l>
+                <l xml:id="d001l218" n="216">Et anbi si est redrecé.</l>
+                <l xml:id="d001l219" n="217">Bovo vient vermeio com rosa de pré.</l>
+                <l xml:id="d001l220" n="218">La çentil dama lo prist a garder;</l>
+                <l xml:id="d001l221" n="219">Tanto li plase, non se pò sacier.</l>
+                <l xml:id="d001l222" n="220">E la dama si è redrita in piès:</l>
+                <l xml:id="d001l223" n="221">A tute le dame fist donar conçé;</l>
+                <l xml:id="d001l224" n="222">E çascuna va a son ostier:</l>
+                <l xml:id="d001l225" n="223">Che Drusiana fo per tenpo levé</l>
+                <l xml:id="d001l226" n="224">Per ordenar le viande cun lo mastro cusiner,</l>
+                <l xml:id="d001l227" n="225">E per ço vol alier ala çanbra ponsier.</l>
+                <l xml:id="d001l228" n="226">E tute done va per son ostier;</l>
+                <l xml:id="d001l229" n="227">E la çentil dama ala canbra sen vien;</l>
+                <l xml:id="d001l230" n="228">E li ber Bovo [s'est] asiso a le mançer.</l>
+                <l xml:id="d001l231" n="229">Avanti ch'elo sia da la tabla levé</l>
+                <l xml:id="d001l232" n="230">E la çentil Drusiana à per lu mandé;</l>
+                <l xml:id="d001l233" n="231">E Bovo sì li voit a parlier,</l>
+                <l xml:id="d001l234" n="232">Per ço che la dama l'oit comandé.</l>
+                <lb/>
+                <l xml:id="d001l235" n="233">E li ber Bovo ala çanbra sen vien</l>
+                <l xml:id="d001l236" n="234">E lì trova Drusiana a un bancho senté;</l>
+                <l xml:id="d001l237" n="235">E Bovo davant est inçenoglé.</l>
+                <l xml:id="d001l238" n="236">«Fant», dist la dama, «chi fo ton pier e toa mier?»</l>
+                <l xml:id="d001l239" n="237">E Bovo si è redrito in piè.</l>
+                <l xml:id="d001l240" n="238">«Dama», dit Bovo, «vu dì torto e peçié</l>
+                <l xml:id="d001l241" n="239">Quando de vostry homes vu demandé de pier.</l>
+                <l xml:id="d001l242" n="240">Da ch'el ve plas, io vel dirò asés.</l>
+                <l xml:id="d001l243" n="241">Mon pier fu un çaitivo pestriner,</l>
+                <l xml:id="d001l244" n="242">E mia mier drapi avea laver</l>
+                <l xml:id="d001l245" n="243">A riçe dame pur diner gadagner.»</l>
+                <l xml:id="d001l246" n="244">«Fiç a putan», dit ela, «vu non dì verité,</l>
+                <l xml:id="d001l247" n="245">Che non te loda lo servir ni l'afer.»</l>
+                <l xml:id="d001l248" n="246">«Dama», dit Bovo, «donéme li conçé,</l>
+                <l xml:id="d001l249" n="247">Ch'io voio alier servir d'erba li destrer.»</l>
+                <l xml:id="d001l250" n="248">E Bovo pia uno salto, e de sovra sen vien.</l>
+                <l xml:id="d001l251" n="249">Permé la plaça Bovo incontra §{.j.} scuder,</l>
+                <l xml:id="d001l252" n="250">Che avea fato erba a li destrier.</l>
+                <l xml:id="d001l253" n="251">Bovo vient a l'elba, la comença a falder;</l>
+                <l xml:id="d001l254" n="252">E un gran faldo Bovo mist su li destrier,</l>
+                <l xml:id="d001l255" n="253">E una çirlanda se mite sul cef.</l>
+                <l xml:id="d001l256" n="254">E Bovo sì montà su li corant destrer;</l>
+                <l xml:id="d001l257" n="255">E vien ala plaça li bon Bovo li ber.</l>
+                <l xml:id="d001l258" n="256">E sì como l'est ala plaça arivé,</l>
+                <l xml:id="d001l259" n="257">En la plaça vit una quintana afermé;</l>
+                <l xml:id="d001l260" n="258">E vit Marchabrun, che Polonia mantien,</l>
+                <l xml:id="d001l261" n="259">E apreso luy §{.xx.} §{.M.} civaler</l>
+                <l xml:id="d001l262" n="260">A blanci usbergi e a corant destrer,</l>
+                <l xml:id="d001l263" n="261">Ch'è vegnù per [prender] Drusiana per muier.</l>
+                <l xml:id="d001l264" n="262">Per so amor dè çostrâ ben §{.xx.} §{.M.} civaler;</l>
+                <l xml:id="d001l265" n="263">Medesimo Roy sì vorà çostrer.</l>
+                <l xml:id="d001l266" n="264">E la çostra è fata per ordenamento tiel,</l>
+                <l xml:id="d001l267" n="265">Che Drusiana ali balcon die' ster</l>
+                <l xml:id="d001l268" n="266">A veder la çostra deli baron civaler.</l>
+                <l xml:id="d001l269" n="267">E quand la ientil dama non vorà plu garder,</l>
+                <l xml:id="d001l270" n="268">Ela sì die' far un corno soner:</l>
+                <l xml:id="d001l271" n="269">E li baron se die' tuti quanti [des]armer.</l>
+                <l xml:id="d001l272" n="270">E Bovo d'Antona ala plaça sen vien,</l>
+                <l xml:id="d001l273" n="271">E vit la iostra deli baron civaler;</l>
+                <l xml:id="d001l274" n="272">E de quela çostra l'oit gran volonté.</l>
+                <l xml:id="d001l275" n="273">E por la plaçe vit Bovo un scuder,</l>
+                <l xml:id="d001l276" n="274">E ot una tarçe tot indoré.</l>
+                <l xml:id="d001l277" n="275">E Bovo dist: «Frer, quela tarça me doné.»</l>
+                <l xml:id="d001l278" n="276">E del bigordo ot gran volontés.</l>
+                <l xml:id="d001l279" n="277">E quelo li la donà per far luy a gré;</l>
+                <l xml:id="d001l280" n="278">E Bovo lal prende e çeta l'erba al pré.</l>
+                <l xml:id="d001l281" n="279">E per tuta la çostra Bovo sen vien,</l>
+                <l xml:id="d001l282" n="280">E una lança non poit trover;</l>
+                <l xml:id="d001l283" n="281">E davant a una porta vit una stanga afermé;</l>
+                <l xml:id="d001l284" n="282">E Bovo la prende, che n'à gran volonté.</l>
+                <l xml:id="d001l285" n="283">[E] permé la çosta Bovo sen vien,</l>
+                <l xml:id="d001l286" n="284">E deli chavalier de Marchabrun un n'oit incontré;</l>
+                <l xml:id="d001l287" n="285">E permé li scu Bovo lo vait a incontrer,</l>
+                <l xml:id="d001l288" n="286">E atant co la pertega è longa [ç]ó l'abat a li pré.</l>
+                <l xml:id="d001l289" n="287">E Drusiana lo vit, lo li plas asé;</l>
+                <l xml:id="d001l290" n="288">E de vardarlo non se pò sacier.</l>
+                <l xml:id="d001l291" n="289">En la maçor presa Bovo li ber</l>
+                <l xml:id="d001l292" n="290">El sì oit incontrà Marchabrun l'amiré.</l>
+                <l xml:id="d001l293" n="291">E Bovo non li conust, sì le vait a incontrer,</l>
+                <l xml:id="d001l294" n="292">E sì l'oit abatù del corant destri[e]r.</l>
+                <l xml:id="d001l295" n="293">Entorno lì fu plu de mil civalier,</l>
+                <l xml:id="d001l296" n="294">E sì lo mis su li corant destrer.</l>
+                <l xml:id="d001l297" n="295">E Marchabrun sì fe soa çant clamer,</l>
+                <l xml:id="d001l298" n="296">E fe adobar ben §{.c.} cival(er).</l>
+                <l xml:id="d001l299" n="297">E un conseio oit fato clamer:</l>
+                <l xml:id="d001l300" n="298">«[...] E al ferir dele lançe sì l'avrì atuer.</l>
+                <l xml:id="d001l301" n="299">E çascun me le faça trabuçer del destier;</l>
+                <l xml:id="d001l302" n="300">O morto o vivo me le façe alier.»</l>
+                <l xml:id="d001l303" n="301">E la bela Drusiana ali balcon est apuçé,</l>
+                <l xml:id="d001l304" n="302">E vit li conseio de Marchabrun l'inperer;</l>
+                <l xml:id="d001l305" n="303">Amantinente fi le corno soner.</l>
+                <l xml:id="d001l306" n="304">In quela fià si parte l'inperer e Bovo li ber,</l>
+                <l xml:id="d001l307" n="305">E vait a li scuder, la tarça li oit doné,</l>
+                <l xml:id="d001l308" n="306">E mist la stanga a li porter.</l>
+                <l xml:id="d001l309" n="307">Inchià a le stabel Bovo sen vien</l>
+                <l xml:id="d001l310" n="308">Chon una çirlanda in cef.</l>
+                <l xml:id="d001l311" n="309">«Laso», dist Marchabrun l'inperier,</l>
+                <l xml:id="d001l312" n="310">«Cho se die' sta dama de mi innamorer,</l>
+                <l xml:id="d001l313" n="311">Che a le tornier m'abaté un scuder?</l>
+                <l xml:id="d001l314" n="312">A cest mon plu viver non chier.»</l>
+                <l xml:id="d001l315" n="313">E la çentil dama ala stala sen vien,</l>
+                <l xml:id="d001l316" n="314">E Bovo sì sta cun una çirlanda in cef</l>
+                <l xml:id="d001l317" n="315">E si è gità a le pouser.</l>
+                <l xml:id="d001l318" n="316">[Son viso est] plu bel de rosa de pré.</l>
+                <l xml:id="d001l319" n="317">[Dist Drusiana: «Quela çirl]anda me doné,</l>
+                <l xml:id="d001l320" n="318">[C]he per vostro [amo]r la voio porter.»</l>
+                <l xml:id="d001l321" n="319">E Bovo l'intende, sì comença a parlier:</l>
+                <l xml:id="d001l322" n="320">«Dama», dit el, «vu dì torto e vilté,</l>
+                <l xml:id="d001l323" n="321">Quando una tal çirlanda volì porter.</l>
+                <l xml:id="d001l324" n="322">No m'aỳ Dio, non ve la vo' doner.»</l>
+                <l xml:id="d001l325" n="323">«Bovo», dist la dama, «quela çirlanda me doné,</l>
+                <l xml:id="d001l326" n="324">Che per vostro amor la voio porter.»</l>
+                <l xml:id="d001l327" n="325">E Bovo non li responde ninte arier.</l>
+                <l xml:id="d001l328" n="326">E la çentil dama comença a parlier:</l>
+                <l xml:id="d001l329" n="327">«El par ben che fosi fio de pestriner,</l>
+                <l xml:id="d001l330" n="328">Che d'amor de dama non te cal §{.j.} diner!</l>
+                <l xml:id="d001l331" n="329">Se vu no m'averì quela çirlanda doné,</l>
+                <l xml:id="d001l332" n="330">Ça me vedrì mon drapi briser,</l>
+                <l xml:id="d001l333" n="331">E li mon cavel tirar e straçer:</l>
+                <l xml:id="d001l334" n="332">Dirò a mon pier che me volivi sforcer:</l>
+                <l xml:id="d001l335" n="333">El ve farà, gloton, com laro apiçer.»</l>
+                <l xml:id="d001l336" n="334">Quando Bovo l'intende, sì à paura mortel;</l>
+                <l xml:id="d001l337" n="335">De sor son cif oit soa çirlanda pié;</l>
+                <l xml:id="d001l338" n="336">Davant li piè dela dama Bovo l'oit çité;</l>
+                <l xml:id="d001l339" n="337">«Dama», dit el, «or la prendés,</l>
+                <l xml:id="d001l340" n="338">Che altramentre non ve la vo' doner.»</l>
+                <l xml:id="d001l341" n="339">E la çentil dama prist Bovo a garder;</l>
+                <l xml:id="d001l342" n="340">Tanto li plas, non se pò sacier;</l>
+                <l xml:id="d001l343" n="341">De luy basar li vien gran volonté.</l>
+                <l xml:id="d001l344" n="342">«Fiç a putan, Dio te dun ingonbrer!</l>
+                <l xml:id="d001l345" n="343">Se tu quela çirlanda no m'as in cef fermé,</l>
+                <l xml:id="d001l346" n="344">Ça vedrì mon drapi briser.»</l>
+                <l xml:id="d001l347" n="345">E Bovo l'intende, non alsa altro fier:</l>
+                <l xml:id="d001l348" n="346">Con intranbe le man oit la çirlanda pié,</l>
+                <l xml:id="d001l349" n="347">E davanti la dama est inçenoglé</l>
+                <l xml:id="d001l350" n="348">[...].</l>
+                <lb/>
+                <lb/>
+                <lb/>
+                <p xml:id="d001l351" style="font-weight:bold" n="">II</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l352" n="349">[...]</l>
+                <l xml:id="d001l353" n="348" rend="unnumbered">«[P]escier de bon aira», dit Bovo li ber,</l>
+                <l xml:id="d001l354" n="349">«Che tera è questa? Chy mantien la contré?»</l>
+                <l xml:id="d001l355" n="350">«Miser», dit elo, «io vel dirò asé.</l>
+                <l xml:id="d001l356" n="351">El oit nome Monbrando; li roy Marchabrun la mantien.</l>
+                <l xml:id="d001l357" n="352">Anchoy è gran çoia in la mastra contré,</l>
+                <l xml:id="d001l358" n="353">Che li rois Marchabrun sì menà muier</l>
+                <l xml:id="d001l359" n="354">Drusiana, la bela d'Arminia la cité,</l>
+                <l xml:id="d001l360" n="355">La fia de li roy ch'Arminia manten.</l>
+                <l xml:id="d001l361" n="356">E sta çentil dama è stà un ano in sta cité:</l>
+                <l xml:id="d001l362" n="357">E quando li rois Marchabrun la oit mené,</l>
+                <l xml:id="d001l363" n="358">Ela lo fe prender e çurer</l>
+                <l xml:id="d001l364" n="359">Dechià un ano conplì e pasé</l>
+                <l xml:id="d001l365" n="360">[Che e]lo non l'averia a toçer,</l>
+                <l xml:id="d001l366" n="361">[Per amor de Bovo] che la pò tanto amer.</l>
+                <l xml:id="d001l367" n="362">.................................so cité</l>
+                <l xml:id="d001l368" n="363">..................................leçé.»</l>
+                <l xml:id="d001l369" n="364">«Pescier de bona aira», dist Bovo li ber,</l>
+                <l xml:id="d001l370" n="365">«Sula tera sì m'averì çiter;</l>
+                <l xml:id="d001l371" n="366">A quele noçe sì avrò guadagner;</l>
+                <l xml:id="d001l372" n="367">Mior çupler de mi non se pò trover.»</l>
+                <l xml:id="d001l373" n="368">«Marchadant», dist Bovo, «pagé li pescier.»</l>
+                <l xml:id="d001l374" n="369">E li responde: «Voluntier e de grés.</l>
+                <l xml:id="d001l375" n="370">Che ve plas che nu li demo, miser?»</l>
+                <l xml:id="d001l376" n="371">E Bovo li responde: «.xxx. marche d'or clier.»</l>
+                <l xml:id="d001l377" n="372">E Bovo se veste d'arminiun e de çenté;</l>
+                <l xml:id="d001l378" n="373">Entra in le batelo, sula tera sen vien;</l>
+                <l xml:id="d001l379" n="374">E li marchadanti non fo may sì alegré.</l>
+                <l xml:id="d001l380" n="375">E Bovo sì ot la man a un borson chaçé,</l>
+                <l xml:id="d001l381" n="376">E sì trovà §{.v.} besanti d'oro clier,</l>
+                <l xml:id="d001l382" n="377">Li qual Drusiana sì li oit doné</l>
+                <l xml:id="d001l383" n="378">Al primo tenpo, quando era scuder.</l>
+                <l xml:id="d001l384" n="379">«Pescier», dist Bovo, «tolì sti diner.»</l>
+                <l xml:id="d001l385" n="380">E quelo li tole volontier e de gré.</l>
+                <l xml:id="d001l386" n="381">«Pescier», dist Bovo, «si' vu ben pagé?»</l>
+                <l xml:id="d001l387" n="382">Dist li pescier: «Sì, son ben, miser,</l>
+                <l xml:id="d001l388" n="383">Che a tenpo de mia vita non anderò  pescier.»</l>
+                <l xml:id="d001l389" n="384">E li ber Bovo por le lido sen vien.</l>
+                <l xml:id="d001l390" n="385">Infra si comença a parlier:</l>
+                <l xml:id="d001l391" n="386">«Laso», dit el, «como la deço fier?</l>
+                <l xml:id="d001l392" n="387">Io son ben  vestì e tant ben adobé;</l>
+                <l xml:id="d001l393" n="388">E s'io intro Monbrando, in sta fort cité,</l>
+                <l xml:id="d001l394" n="389">E li rois Marchabrun m'avist  incontrier,</l>
+                <l xml:id="d001l395" n="390">El me cognoseria, ch'io l'abatì al pré,</l>
+                <l xml:id="d001l396" n="391">El me farave como un laro apiçer.»</l>
+                <l xml:id="d001l397" n="392">E Bovo davant sì s'oit garder,</l>
+                <l xml:id="d001l398" n="393">E soto un pin vit çasir un palmier.</l>
+                <l xml:id="d001l399" n="394">E Bovo in quela part sen vien.</l>
+                <l xml:id="d001l400" n="395">«Palmier de bona aira, or me intend[és].</l>
+                <l xml:id="d001l401" n="396">Me vos tu doner li to drap..............?</l>
+                <l xml:id="d001l402" n="397">E prendi li mie' che s..................</l>
+                <l xml:id="d001l403" n="398">"[Per] mia fé, d........................»</l>
+                <l xml:id="d001l404" n="399">[...]</l>
+                <lb/>
+                <lb/>
+                <lb/>
+                <p xml:id="d001l405" style="font-weight:bold" n="">III</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l406" n="400">[...]</l>
+                <l xml:id="d001l407" n="399" rend="unnumbered">E su li bordon Bovo est apuçé;</l>
+                <l xml:id="d001l408" n="400">Avrì la bocha, se començà a parlier:</l>
+                <l xml:id="d001l409" n="401">«Fatime ben, pur per l'amor de Dié,</l>
+                <l xml:id="d001l410" n="402">E per [l']anima de Bovo, che fo bon civaler!»</l>
+                <l xml:id="d001l411" n="403">Drusiana l'alde, non pòla plu mançier,</l>
+                <l xml:id="d001l412" n="404">E vien a li palmier, non se volse tardier.</l>
+                <l xml:id="d001l413" n="405">«Palmier», dit ela, «or me intendì, bel frer:</l>
+                <l xml:id="d001l414" n="406">Vedese vu may Bovo in alguna contré?</l>
+                <l xml:id="d001l415" n="407">E como li cognosé vu, che per lu domandé carité?</l>
+                <l xml:id="d001l416" n="408">Vuy non savé lo bando ch'è in sta cité:</l>
+                <l xml:id="d001l417" n="409">Chi mençona Bovo die' eser apiçé.</l>
+                <l xml:id="d001l418" n="410">Palmier», dist la dama, «o'l vedés [v]u, bel frer?»</l>
+                <l xml:id="d001l419" n="411">«Per mia fé», dist Bovo, «io vel dirò asé.</l>
+                <l xml:id="d001l420" n="412">In prison del soldan stesemo incarçeré</l>
+                <l xml:id="d001l421" n="413">Un ano e tre mensi conplì e pasé.»</l>
+                <l xml:id="d001l422" n="414">[...]</l>
+                <l xml:id="d001l423" n="414" rend="unnumbered">Del bon cival ve voio contier,</l>
+                <l xml:id="d001l424" n="415">Ch'el sente l'usta de son sier.</l>
+                <l xml:id="d001l425" n="416">Tal è la brua che mena li destrer,</l>
+                <l xml:id="d001l426" n="417">Che §{.vij.} chadene l'oit tote [d]ebrisé.</l>
+                <l xml:id="d001l427" n="418">El fo deli §{.iiij.} l'un che da Dio fos fadé.</l>
+                <l xml:id="d001l428" n="419">«Sancta Maria», ço dist Bovo, «che à fé'l destrier?»</l>
+                <l xml:id="d001l429" n="420">«Per mia fé, dist la dama, io vel dirò asé.</l>
+                <l xml:id="d001l430" n="421">Quel è li bon cival che à Bovo doné;</l>
+                <l xml:id="d001l431" n="422">E tuti le so arme con moi ò porté,</l>
+                <l xml:id="d001l432" n="423">Ceto Clarença, li bon brando d'acel.</l>
+                <l xml:id="d001l433" n="424">Ça fo tenpo che Bovo fo mio scuder,</l>
+                <l xml:id="d001l434" n="425">Che mon pier li comprà por diner,</l>
+                <l xml:id="d001l435" n="426">Ch'elo disea che l'iera fio d'un pestriner.</l>
+                <l xml:id="d001l436" n="427">Bovo fo fio d'un dux honoré,</l>
+                <l xml:id="d001l437" n="428">Ço fo Guidon che Antona mantien.</l>
+                <l xml:id="d001l438" n="429">E poi fo tenpo che pain pasà la mier,</l>
+                <l xml:id="d001l439" n="430">Li soldan de Sandonia, Lucafer soa rité,</l>
+                <l xml:id="d001l440" n="431">A .c.m. de pain d'oltra mier;</l>
+                <l xml:id="d001l441" n="432">E prist mon pier e Marchabrun l'amiré.</l>
+                <l xml:id="d001l442" n="433">E io, topina, sì le fi cavalier.</l>
+                <l xml:id="d001l443" n="434">Alora sap'io ch'el fo fio de Guidon li fier.</l>
+                <l xml:id="d001l444" n="435">Elo alcis Lucafer l'amiré,</l>
+                <l xml:id="d001l445" n="436">E an plu de .m. di oltri civaler,</l>
+                <l xml:id="d001l446" n="437">E prest lo pré sì l'ave afrancier.</l>
+                <l xml:id="d001l447" n="438">E in quela note el sì avea alier;</l>
+                <l xml:id="d001l448" n="439">E io, topina, non so là che aves aler!</l>
+                <l xml:id="d001l449" n="440">Da quel çorno in avanti nol viti unchamé.</l>
+                <l xml:id="d001l450" n="441">El vene Marchabrun, domandàme a mon pier,</l>
+                <l xml:id="d001l451" n="442">E mon pier sì mel donò a muier:</l>
+                <l xml:id="d001l452" n="443">Dio sa be chel non fo mia volontié!</l>
+                <l xml:id="d001l453" n="444">Da quel'ora in avan no satio de plurer</l>
+                <l xml:id="d001l454" n="445">Per amor de quel Bovo ch'io poso tant amier.</l>
+                <l xml:id="d001l455" n="446">Elo amava ben mi suso la verité</l>
+                <l xml:id="d001l456" n="447">...........................................»</l>
+                <l xml:id="d001l457" n="448">[...]</l>
+            </div1>
+        </body>
+        <back>
+            <div type="edizione">
+                Edizione precedente: Pio Rajna, &lt;i&gt;Frammenti di redazioni italiane del Buovo d’Antona, I. Nuovi frammenti franco-italiani&lt;/i&gt;, “Zeitschrift für romanische Philologie”, 11 (1887), 153-184.
+            </div>
+            <div type="apparato"><p>Note e apparato &lt;br/&gt;&lt;br/&gt;a cura di Francesca Gambino (ultimo aggiornamento: 17 novembre 2016)&lt;br/&gt;&lt;br/&gt;Apparato&lt;br/&gt;&lt;br/&gt;1
+                Enchià] ormai illeggibile &lt;br/&gt;&lt;br/&gt;43 vist] dist &lt;br/&gt;&lt;br/&gt;44 ve levé] ueleue leue &lt;br/&gt;&lt;br/&gt;49 che la]
+                così suddiviso nel codice &lt;br/&gt;&lt;br/&gt;68 Bovo] scritto nella forma abbreviata B., come anche in molti altri
+                punti del testo &lt;br/&gt;&lt;br/&gt;69 quatuor] .IIII. con or sovrascritto &lt;br/&gt;&lt;br/&gt;84 rayse d’erba] rayse derba
+                rayse &lt;br/&gt;&lt;br/&gt;96 per Dié] քք die &lt;br/&gt;&lt;br/&gt;125 smeré] ssmeré &lt;br/&gt;&lt;br/&gt;126 braç] brac &lt;br/&gt;&lt;br/&gt;127
+                forcadura] frontadura &lt;br/&gt;&lt;br/&gt;133 lo] la 154 scodere] con -ere ripassato con inchiostro più scuro &lt;br/&gt;&lt;br/&gt;195
+                Io o fato un corer de done ben .LX. &lt;br/&gt;&lt;br/&gt;197 vostre] ure, senza il segno dell’abbreviazione &lt;br/&gt;&lt;br/&gt;201
+                vostre] ure, senza il segno dell’abbreviazione &lt;br/&gt;&lt;br/&gt;215 oit] ōit &lt;br/&gt;&lt;br/&gt;234 E] il copista volta
+                il foglio e per errore evidenzia all’inizio di c. 5r la letterina di inizio verso come se fosse la capitale
+                di inizio lassa, analogamente a quanto già fatto con l’ultimo verso di c. 4v. La capitale del v. 234 ha
+                le dimensioni di due righe e pare riferirsi anche al v. 235 &lt;br/&gt;&lt;br/&gt;235 inçenoglé] con inçe ormai illeggibile
+                &lt;br/&gt;&lt;br/&gt;240 ve plas] vel plas &lt;br/&gt;&lt;br/&gt;267 dama non] evanescente a causa di una macchia di umidità
+                &lt;br/&gt;&lt;br/&gt;268 far un corno] il testo è di difficile lettura a causa di una macchia di umidità &lt;br/&gt;&lt;br/&gt;279
+                per tuta] քduta &lt;br/&gt;&lt;br/&gt;284 E] non rilevato nel margine sinistro &lt;br/&gt;&lt;br/&gt;329 doné] doner 330 briser]
+                brisir, corretto in briser &lt;br/&gt;&lt;br/&gt;332 volivi] volĭ 350 dit elo] ditela &lt;br/&gt;&lt;br/&gt;335 piè] ferme piè
+                342 fermé] fermier &lt;br/&gt;&lt;br/&gt;358 lo fe] so fe &lt;br/&gt;&lt;br/&gt;360 Le lacune sono dovute a una lacerazione della
+                carta &lt;br/&gt;&lt;br/&gt;367 de mi] su di un precedente de B. (de Bovo) &lt;br/&gt;&lt;br/&gt;374 marchadanti non] marchadanti
+                sula non &lt;br/&gt;&lt;br/&gt;377 Drusiana] drū. &lt;br/&gt;&lt;br/&gt;387 adobé] adolé &lt;br/&gt;&lt;br/&gt;396 Ritornano gli effetti della
+                lacerazione della carta segnalata al v. 360 &lt;br/&gt;&lt;br/&gt;418 fos fadé] fo sfadé&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Note&lt;br/&gt;&lt;br/&gt;3
+                Albrigo: è il fratello di Dodone, inviato come messaggero da Blondoia.&lt;br/&gt;&lt;br/&gt;7-8 Il messaggero di Dodone
+                riporta letteralmente le parole del suo signore. Quest’ultimo ha sognato Bovo che, una volta divenuto
+                adulto, si arma e lo uccide per vendicare il tradimento del padre, cfr. BovoLaur 302-304 «che in questa
+                note me insonià | che Bovo podeva arme portar, | sì me partiva lo cor e lo figà»; Buovo 1480, III, 8 «Parea
+                che in man havesse un coltello | e parveli lo suo cor ferire, | e trarlo fuora e darlo ad un uccello».&lt;br/&gt;&lt;br/&gt;12
+                La madre di Bovo rifiuta di inviare il figlio a Dodone, perché preferisce ucciderlo lei stessa, con amaro
+                paradosso «Per amor de son pier».&lt;br/&gt;&lt;br/&gt;20 transiier: Rajna 1887 legge transuer, ma le astine della
+                presunta -u- sono diverse da quelle che formano la -u- di atuer 13 poco sopra e mi sembrano più simili
+                a due i. In questo contesto, inoltre, una -u- è difficile da spiegare, mentre nella mia lettura la prima
+                -i- è quella della radice del verbo (&lt; TRANSITARE), la seconda forma il solito dittongo franco-italiano
+                ipercaratterizzante -ier (cfr. § 4.2.1).&lt;br/&gt;&lt;br/&gt;36 raxon: ‘beni, eredità’, cfr. anche il v. 52.&lt;br/&gt;&lt;br/&gt;44-53
+                Le parole della donzella sono quasi identiche nel BovoLaur 314-22.&lt;br/&gt;&lt;br/&gt;50 arecorder: rispetto alla
+                possibile alternativa se avea a recorder, ho preferito optare per la forma prefissata, qui attestata anche
+                in arecordé 34r.&lt;br/&gt;&lt;br/&gt;97 ano: per la forma, cfr. 4.5.2 di Gambino 2016.&lt;br/&gt;&lt;br/&gt;127 forcadura: nel
+                ms. frontadura, inteso forse come front à dura. Cfr. FEW III, 819a frons2; TL III, 2304 44, GDC front;
+                DMF front; TLF front; TLIO fronte; GDLI VI, 383b fronte; Holtus 1979: 331. L’aggettivo dura e la sintassi,
+                con tre attributi che si susseguono asindeticamente («dura, grande, ben staria in destrier») risultano
+                però nel complesso anomali e inducono a preferire la congettura di Rajna 1887 basata sul sostantivo inforcadura
+                del Bovo laurenziano 396, non troppo onerosa da un punto di vista paleografico (metatesi di -r-,presenza
+                di un titulus indebito per la nasale, banale scambio tra lettere simili, c/t).&lt;br/&gt;Qualche dubbio tuttavia
+                rimane. Come l’inguine, anche la fronte ampia è segno di bellezza, motivo topico ricorrente nella descrizione
+                del cavaliere. Nella forma fisica si rispecchiano aspetti caratteriali anche in un trattato di fisionomia
+                in antico francese, dove si apprende tra «Li ensaignemens dou front» che «Qui a le front large et estendu,
+                si est conbateur et amme meslées», poi tradotto nel Trecento in toscano «Chi ha la fronte larga e distesa,
+                si è combattitore ed ama mischia» (Fisiognomia, cap. VI, p. 30). L’aggettivo abbinato a front in tali
+                contesti è di solito plenier, che spesso però compare in dittologia sinonimica con grant (cfr. TL III,
+                2304 44 frons; TL VII 1137, 4 plenier «breit, weit, groβ, gewaltig, mächtig»: «Troïlus … Chiere ot rïant,
+                fece vermeille, Cler vis apert, le front plenier» Troie 5395, ecc.). L’autore della variante ha dunque
+                pensato che front à dura, grande potesse essere un’espressione congrua, interpretando probabilmente il
+                seguito «ben staria in destrier» come ‘(una fronte tanto ampia) come quella che potrebbe avere un destriero’.
+                Un’altra ipotesi sulla stessa linea interpretativa potrebbe essere quella di scorgere nella lezione manoscritta
+                un sostantivo frontadura ‘fronte’, termine non altrimenti attestato, ma per analoghi suffissi cfr. frontaus
+                ‘fronte’ in Niccolò da Verona, Prise Pampelune, 2143r; fronteira ‘fronte’ LR III, 401 n° 2; frontada DCVB
+                VI, 65a 1 «Front ample», e la serie produttiva in italiano acconciatura, statura, portadura, ecc.&lt;br/&gt;&lt;br/&gt;129
+                marchadanty: è stato notato che nella tradizione peninsulare del Buovo i mercanti hanno una importante
+                funzione narrativa, ignota ai paralleli francesi, e sono spesso caratterizzati da tratti positivi, il
+                che sarebbe un riflesso della realtà italiana (Delcorno 1989: 298). Due volte Buovo si salva grazie a
+                loro, quando fugge bambino da Antona e quando fugge dalla prigione del Soldano, e sono sempre loro a raccogliere
+                Drusiana in fuga con i figlioletti nei Reali.&lt;br/&gt;&lt;br/&gt;133 lo vy: accolgo la correzione di Rajna 1887.
+                Nel manoscritto si legge la vy, che potrebbe essere interpretato come l’avy ‘l’ebbi’, ma nessuno finora
+                ha avuto Bovo. Nel Bovo laurenziano 400 si legge inoltre «in prima lo guardà’».&lt;br/&gt;&lt;br/&gt;240 ve plas:
+                vel del manoscritto sarà un improprio anticipo della seconda occorrenza del sintagma situata nello stesso
+                verso (vel dirò).&lt;br/&gt;&lt;br/&gt;261 [prender]: un’alternativa possibile avrebbe potuto essere tor, che però
+                non compare nel Bovo udinese, mentre prender figura al v. 358. Nella Geste francor è possibile rinvenire
+                alcune occorrenze dei sintagmi prender por muler, prender a muler, prender muler, tor per muler. Nel Bovo
+                udinese compare anche il sinonimo pier ‘pigliare’, che tuttavia nel RIALFrI non rinvengo costruito in
+                sintagmi analoghi.&lt;br/&gt;&lt;br/&gt;262 dè çostrâ: la forma prefissate deçostra non mi risulta attestata altrove
+                e preferisco dunque valorizzare l’ipotesi formulata da Rajna 1887: 176 in nota, ‘devono giostrare’, con
+                III pers. sing. dè ‘deve’ per III pers. pl. In alternativa si potrebbe pensare a un de aggiunto indebitamente
+                dal copista per sovrapposizione della costruzione *per amor de lei all’attestata per so amor.&lt;br/&gt;&lt;br/&gt;269
+                [des]armer: la possibile integrazione è indicata da Rajna 1887 nella nota al verso e si impone per il
+                senso della frase. Cfr. infatti il Buovo 1480, IV 34-35: «e quando a lei la festa rencresesse, | che non
+                volesse che più se facesse, | ch’abia ardimento che un corno sonasse. | Audito el son ciascun barone |
+                subitamente indietro tornasse | e dismontasse ciascadun de l’arzone | poi al palazo ciascadun balasse».&lt;br/&gt;&lt;br/&gt;281
+                stanga: ‘pertica’; cfr. anche ivi 306; cfr. inoltre Gestfranc, Chevalerie Bovo stange 4477, Gestfranc,
+                Orlandino stanga 11192.&lt;br/&gt;&lt;br/&gt;298 Prima di questo verso doveva essercene un altro, cfr. BovLaur 492-496
+                «E Marcabrun la soa çente clamà | e a .c. chavalieri elo sì comandà; | a un streto conseio eli sta: |
+                “Or fé tanto che quelo ch’abatudo m’à | o morto o inavrado del destrer lo roversà”».&lt;br/&gt;&lt;br/&gt;307 stabel:
+                la stalla nella tradizione italiana del Buovo d’Antona e, in particolare, nella seconda redazione del
+                romanzo, è un luogo deputato ad alcuni snodi importanti dell’azione, spesso in contrapposizione alle sale
+                e ai giardini come luogo dell’investitura cavalleresca, della rivelazione e dell’effusione amorosa, cfr.
+                Delcorno 2008: 23-24.&lt;br/&gt;&lt;br/&gt;316 [Son viso est]: Rajna integra qui [Li fant est] sulla base del verso
+                precedente «Li fant vien plu belo de rosa de pré» 124 (BovLaur «Lo fant è plù belo de roxa de prà» 393),
+                ma il verso corrispondente a questo passo del BovLaur 512 «lo color de so vixo plù belo de flor de prà»
+                suggerisce un’integrazione diversa.&lt;br/&gt;&lt;br/&gt;329 averì … doné: il copista ha aggiunto una -r di troppo
+                condizionato dalle altre parole rima; per formare il futuro anteriore è infatti necessario il participio
+                passato.&lt;br/&gt;&lt;br/&gt;332 volivi: la resa della lezione manoscritta volĭ non è scontata, ma cfr. BovLaur «dirò
+                a mio pare che me volivi sforçar».&lt;br/&gt;&lt;br/&gt;335 pié: nel ms. si legge ferme pie, con fermé da cassare,
+                cfr. fermé al v. 343.&lt;br/&gt;
+            </p></div>
+            <div type="modifiche all'edizione"><p>Modifiche all’edizione del &lt;i&gt;Bovo d’Antona udinese&lt;/i&gt; di Pio Rajna, &lt;i&gt;Frammenti di
+                redazioni italiane del Buovo d’Antona, I. Nuovi frammenti franco-italiani&lt;/i&gt;, “Zeitschrift für
+                romanische Philologie”, 11 (1887), 153-184.&lt;br/&gt;&lt;br/&gt;a cura di Francesca Gambino (ultimo aggiornamento:
+                16 novembre 2016)&lt;br/&gt;&lt;br/&gt;Tra parentesi quadre sono indicate le integrazioni; tra parentesi tonde lo
+                scioglimento di alcune abbreviazioni (che Rajna segna invece in corsivo).&lt;br/&gt;&lt;br/&gt;verso ed. Rajna 1887]
+                modifica&lt;br/&gt;&lt;br/&gt;1&lt;br/&gt;Enchia] Enchià&lt;br/&gt;&lt;br/&gt;2&lt;br/&gt;La chel] Là ch’el&lt;br/&gt;&lt;br/&gt;7&lt;br/&gt;“Che in questa]
+                - Che in questa&lt;br/&gt;&lt;br/&gt;8&lt;br/&gt;li bier”] li bier -,&lt;br/&gt;&lt;br/&gt;9&lt;br/&gt;fiçé.] fiçé.»&lt;br/&gt;&lt;br/&gt;10&lt;br/&gt;comença]
+                començà&lt;br/&gt;&lt;br/&gt;14&lt;br/&gt;torna] tornà&lt;br/&gt;&lt;br/&gt;17&lt;br/&gt;di] dì&lt;br/&gt;&lt;br/&gt;18&lt;br/&gt;comença] començà&lt;br/&gt;&lt;br/&gt;19&lt;br/&gt;fa]
+                fa’&lt;br/&gt;&lt;br/&gt;20&lt;br/&gt;fa, transuer] fa’, transiier.&lt;br/&gt;&lt;br/&gt;22&lt;br/&gt;costé] costé,&lt;br/&gt;&lt;br/&gt;24&lt;br/&gt;po] pò&lt;br/&gt;&lt;br/&gt;28,
+                54&lt;br/&gt;altro tiel]altrotiel&lt;br/&gt;&lt;br/&gt;32&lt;br/&gt;osa] osà&lt;br/&gt;&lt;br/&gt;33&lt;br/&gt;de la] dela&lt;br/&gt;&lt;br/&gt;35&lt;br/&gt;cresuto]
+                cresù&lt;br/&gt;&lt;br/&gt;39&lt;br/&gt;altre tiel] altretiel&lt;br/&gt;&lt;br/&gt;40&lt;br/&gt;dre] drè&lt;br/&gt;&lt;br/&gt;41&lt;br/&gt;B. (ecc.)] Bovo (ecc.)&lt;br/&gt;&lt;br/&gt;43&lt;br/&gt;comença]
+                començà&lt;br/&gt;&lt;br/&gt;49&lt;br/&gt;che la, pier,] ch’ela, pier&lt;br/&gt;&lt;br/&gt;54&lt;br/&gt;altro tiel] altrotiel&lt;br/&gt;&lt;br/&gt;55&lt;br/&gt;po,
+                varder] pò, vardere&lt;br/&gt;&lt;br/&gt;56&lt;br/&gt;de la] dela&lt;br/&gt;&lt;br/&gt;57&lt;br/&gt;inpensier.] inpensier:&lt;br/&gt;&lt;br/&gt;58&lt;br/&gt;cors
+                e re] cor serè&lt;br/&gt;&lt;br/&gt;59&lt;br/&gt;pot] pò&lt;br/&gt;&lt;br/&gt;60&lt;br/&gt;Dio] Dio,&lt;br/&gt;&lt;br/&gt;61&lt;br/&gt;ber.] ber:&lt;br/&gt;&lt;br/&gt;63&lt;br/&gt;davanti]
+                davanty&lt;br/&gt;&lt;br/&gt;66&lt;br/&gt;fe] fé&lt;br/&gt;&lt;br/&gt;69&lt;br/&gt;de lo, .iiii.or] delo, quatuor&lt;br/&gt;&lt;br/&gt;70&lt;br/&gt;a dié li]
+                à diéli&lt;br/&gt;&lt;br/&gt;78&lt;br/&gt;maistra] mastra&lt;br/&gt;&lt;br/&gt;82&lt;br/&gt;Se l’è] S’el è&lt;br/&gt;&lt;br/&gt;83&lt;br/&gt;troval] trov’al&lt;br/&gt;&lt;br/&gt;86&lt;br/&gt;che
+                l’è] ch’el è&lt;br/&gt;&lt;br/&gt;89&lt;br/&gt;in drié] indriè&lt;br/&gt;&lt;br/&gt;90&lt;br/&gt;dame] dàme&lt;br/&gt;&lt;br/&gt;92&lt;br/&gt;po] pò&lt;br/&gt;&lt;br/&gt;93&lt;br/&gt;de
+                li] deli&lt;br/&gt;&lt;br/&gt;95&lt;br/&gt;si] sì&lt;br/&gt;&lt;br/&gt;97&lt;br/&gt;ani] ano&lt;br/&gt;&lt;br/&gt;99&lt;br/&gt;non] no&lt;br/&gt;&lt;br/&gt;100&lt;br/&gt;enfant]
+                efant&lt;br/&gt;&lt;br/&gt;102&lt;br/&gt;se l’è] s’el è&lt;br/&gt;&lt;br/&gt;107&lt;br/&gt;de la] dela&lt;br/&gt;&lt;br/&gt;108&lt;br/&gt;se-vu] sé vu&lt;br/&gt;&lt;br/&gt;109&lt;br/&gt;Se-vu]
+                sé vu&lt;br/&gt;&lt;br/&gt;110&lt;br/&gt;crestiens] (cris)tia(n)s&lt;br/&gt;&lt;br/&gt;111&lt;br/&gt;fu] fu’&lt;br/&gt;&lt;br/&gt;115&lt;br/&gt;bevì] bevi&lt;br/&gt;&lt;br/&gt;116&lt;br/&gt;Feme,
+                poco] Féme, poço&lt;br/&gt;&lt;br/&gt;120&lt;br/&gt;mer] mar&lt;br/&gt;&lt;br/&gt;121&lt;br/&gt;.xxx.] .xx[x].&lt;br/&gt;&lt;br/&gt;122&lt;br/&gt;De] [D]e&lt;br/&gt;&lt;br/&gt;123&lt;br/&gt;a
+                (ecc.)] à (ecc.)&lt;br/&gt;&lt;br/&gt;124&lt;br/&gt;pre (ecc.)] pré (ecc.)&lt;br/&gt;&lt;br/&gt;125&lt;br/&gt;abondi] à b[l]ondi&lt;br/&gt;&lt;br/&gt;139&lt;br/&gt;del’altro]
+                de l’altro&lt;br/&gt;&lt;br/&gt;140&lt;br/&gt;fè] fé&lt;br/&gt;&lt;br/&gt;144&lt;br/&gt;parlier.] parlier,&lt;br/&gt;&lt;br/&gt;146&lt;br/&gt;La proda] [A]
+                la proda&lt;br/&gt;&lt;br/&gt;150&lt;br/&gt;varda] vardà&lt;br/&gt;&lt;br/&gt;154&lt;br/&gt;fus-tù, scoder] fus tu, scodere&lt;br/&gt;&lt;br/&gt;156&lt;br/&gt;Li
+                marinar, armiçé,] E li marinar, armiçé.&lt;br/&gt;&lt;br/&gt;157&lt;br/&gt;indré.] indrè;&lt;br/&gt;&lt;br/&gt;160&lt;br/&gt;varda] vardà&lt;br/&gt;&lt;br/&gt;163&lt;br/&gt;fè]
+                fé&lt;br/&gt;&lt;br/&gt;165&lt;br/&gt;respose] re[s]pose&lt;br/&gt;&lt;br/&gt;166&lt;br/&gt;trovàsemo, mar] trovasemo, mer&lt;br/&gt;&lt;br/&gt;168&lt;br/&gt;fè,
+                ecc.] fé, ecc.&lt;br/&gt;&lt;br/&gt;175&lt;br/&gt;si] sì&lt;br/&gt;&lt;br/&gt;180&lt;br/&gt;si] sì&lt;br/&gt;&lt;br/&gt;183&lt;br/&gt;si] sì&lt;br/&gt;&lt;br/&gt;184&lt;br/&gt;fo]
+                [fo]&lt;br/&gt;&lt;br/&gt;185&lt;br/&gt;che Arminia] ch’Arminia&lt;br/&gt;&lt;br/&gt;190&lt;br/&gt;lie] lié&lt;br/&gt;&lt;br/&gt;191&lt;br/&gt;driça] drica&lt;br/&gt;&lt;br/&gt;199&lt;br/&gt;de
+                li] deli&lt;br/&gt;&lt;br/&gt;200&lt;br/&gt;Dechia] Dechià&lt;br/&gt;&lt;br/&gt;204&lt;br/&gt;si] si’&lt;br/&gt;&lt;br/&gt;206&lt;br/&gt;De cuardar, po] De
+                vardar, pò&lt;br/&gt;&lt;br/&gt;209&lt;br/&gt;atrencer] a trencer&lt;br/&gt;&lt;br/&gt;212&lt;br/&gt;pleyé] plegé&lt;br/&gt;&lt;br/&gt;214&lt;br/&gt;canter]
+                cantere&lt;br/&gt;&lt;br/&gt;218&lt;br/&gt;çentil] centil&lt;br/&gt;&lt;br/&gt;219&lt;br/&gt;po] pò si&lt;br/&gt;&lt;br/&gt;221&lt;br/&gt;conçé] concé&lt;br/&gt;&lt;br/&gt;228&lt;br/&gt;asiso]
+                [s’est] asiso&lt;br/&gt;&lt;br/&gt;229&lt;br/&gt;che lo] ch’elo&lt;br/&gt;&lt;br/&gt;240&lt;br/&gt;chel] ch’el&lt;br/&gt;&lt;br/&gt;261&lt;br/&gt;per Drusiana]
+                per [prender] Drusiana&lt;br/&gt;&lt;br/&gt;262&lt;br/&gt;deçostra] dè çostrâ&lt;br/&gt;&lt;br/&gt;263&lt;br/&gt;Roy] li roy&lt;br/&gt;&lt;br/&gt;265&lt;br/&gt;diè
+                (ecc.)] die’ (ecc.)&lt;br/&gt;&lt;br/&gt;267&lt;br/&gt;jentil] ientil&lt;br/&gt;&lt;br/&gt;269&lt;br/&gt;armer] [des]armer&lt;br/&gt;&lt;br/&gt;270&lt;br/&gt;plaça]
+                placa&lt;br/&gt;&lt;br/&gt;271&lt;br/&gt;de li] deli&lt;br/&gt;&lt;br/&gt;277&lt;br/&gt;gre (ecc.)] gré (ecc.)&lt;br/&gt;&lt;br/&gt;280&lt;br/&gt;lança] lanca&lt;br/&gt;&lt;br/&gt;283&lt;br/&gt;E]
+                [E]&lt;br/&gt;&lt;br/&gt;284&lt;br/&gt;de li] deli&lt;br/&gt;&lt;br/&gt;286&lt;br/&gt;ço, pre] [ç]ó, pré&lt;br/&gt;&lt;br/&gt;288&lt;br/&gt;po] pò&lt;br/&gt;&lt;br/&gt;292&lt;br/&gt;destrier]
+                destri[e]r&lt;br/&gt;&lt;br/&gt;293&lt;br/&gt;entorno li] entorno lì&lt;br/&gt;&lt;br/&gt;296&lt;br/&gt;adober] adobar&lt;br/&gt;&lt;br/&gt;298&lt;br/&gt;E
+                al ferir] «[...] E al ferir&lt;br/&gt;&lt;br/&gt;302&lt;br/&gt;inpèrer] inperer&lt;br/&gt;&lt;br/&gt;304&lt;br/&gt;fiâ] fià&lt;br/&gt;&lt;br/&gt;307&lt;br/&gt;Inchia]
+                Inchià&lt;br/&gt;&lt;br/&gt;315&lt;br/&gt;çitá] gità&lt;br/&gt;&lt;br/&gt;316&lt;br/&gt;[Li fant est], pre] [Son viso est], pré&lt;br/&gt;&lt;br/&gt;317&lt;br/&gt;[Dist
+                Drus]iana: «Quela çirlanda] [Dist Drusiana: «Quela çirl]anda&lt;br/&gt;&lt;br/&gt;322&lt;br/&gt;vo] vo’&lt;br/&gt;&lt;br/&gt;324&lt;br/&gt;amor
+                [eo] la] amor la&lt;br/&gt;&lt;br/&gt;329&lt;br/&gt;averè, doner] averì, doné&lt;br/&gt;&lt;br/&gt;338&lt;br/&gt;altra mentre, vo] altramentre,
+                vo’&lt;br/&gt;&lt;br/&gt;340&lt;br/&gt;po] pò&lt;br/&gt;&lt;br/&gt;343&lt;br/&gt;fermier] fermé&lt;br/&gt;&lt;br/&gt;348&lt;br/&gt;Pescier] [P]eschier&lt;br/&gt;&lt;br/&gt;354&lt;br/&gt;Drusiana]
+                Drusiana,&lt;br/&gt;&lt;br/&gt;356&lt;br/&gt;çentil, stâ] centil, stà&lt;br/&gt;&lt;br/&gt;358&lt;br/&gt;plevir] prender&lt;br/&gt;&lt;br/&gt;359&lt;br/&gt;Dechia]
+                Dechià&lt;br/&gt;&lt;br/&gt;361&lt;br/&gt;po] pò&lt;br/&gt;&lt;br/&gt;363&lt;br/&gt;legé] leçé&lt;br/&gt;&lt;br/&gt;365&lt;br/&gt;çiter] citer&lt;br/&gt;&lt;br/&gt;366&lt;br/&gt;noçe]
+                noce&lt;br/&gt;&lt;br/&gt;367&lt;br/&gt;po] pò&lt;br/&gt;&lt;br/&gt;369&lt;br/&gt;Eli, gres] E li, grés&lt;br/&gt;&lt;br/&gt;372&lt;br/&gt;çenté] centé&lt;br/&gt;&lt;br/&gt;377&lt;br/&gt;Dru.]
+                Dru(siana)&lt;br/&gt;&lt;br/&gt;390&lt;br/&gt;at pre] al pré&lt;br/&gt;&lt;br/&gt;391&lt;br/&gt;E-l] El&lt;br/&gt;&lt;br/&gt;393&lt;br/&gt;sot] soto&lt;br/&gt;&lt;br/&gt;395&lt;br/&gt;intendés]
+                intend[és]&lt;br/&gt;&lt;br/&gt;396&lt;br/&gt;vos-tu] vos tu&lt;br/&gt;&lt;br/&gt;397&lt;br/&gt;mié] mie’&lt;br/&gt;&lt;br/&gt;398&lt;br/&gt;fè] fé&lt;br/&gt;&lt;br/&gt;400&lt;br/&gt;comença]
+                començà&lt;br/&gt;&lt;br/&gt;402&lt;br/&gt;l’anima] [l’]anima&lt;br/&gt;&lt;br/&gt;403&lt;br/&gt;pola] pòla&lt;br/&gt;&lt;br/&gt;406&lt;br/&gt;vedésevu] vedese
+                vu&lt;br/&gt;&lt;br/&gt;407&lt;br/&gt;cognosévu] cognosé vu&lt;br/&gt;&lt;br/&gt;409&lt;br/&gt;apiçe] apicé&lt;br/&gt;&lt;br/&gt;410&lt;br/&gt;o el vedésevu]
+                o’l vedés [v]u&lt;br/&gt;&lt;br/&gt;411&lt;br/&gt;fè] fé&lt;br/&gt;&lt;br/&gt;412&lt;br/&gt;stésemo] stesemo&lt;br/&gt;&lt;br/&gt;413-14&lt;br/&gt;pasé.” |
+                Del] pasé.» | [...] | Del&lt;br/&gt;&lt;br/&gt;415&lt;br/&gt;Che’l] Ch’el&lt;br/&gt;&lt;br/&gt;417&lt;br/&gt;debrisé] [d]ebrisé&lt;br/&gt;&lt;br/&gt;418&lt;br/&gt;de
+                li] deli&lt;br/&gt;&lt;br/&gt;419&lt;br/&gt;che af el] che à fé ’l&lt;br/&gt;&lt;br/&gt;420&lt;br/&gt;fè] fé&lt;br/&gt;&lt;br/&gt;422&lt;br/&gt;aporté] ò porté&lt;br/&gt;&lt;br/&gt;423&lt;br/&gt;Clarença]
+                Clarenca&lt;br/&gt;&lt;br/&gt;430&lt;br/&gt;Lucafer] Lucafer,&lt;br/&gt;&lt;br/&gt;433&lt;br/&gt;cavalier:] cavalier.&lt;br/&gt;&lt;br/&gt;434&lt;br/&gt;chel]
+                ch’el&lt;br/&gt;&lt;br/&gt;443&lt;br/&gt;sabe] sa be&lt;br/&gt;&lt;br/&gt;446&lt;br/&gt;mi, .... la verité] mi suso la verité&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
+            </p></div>
+        </back>
+    </text>
+</TEI>

@@ -1,0 +1,1692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="EPISTRESDAMESGRECE-epistresDamesGrece">Les Epistres des dames de Grèce</title>
+                <title type="short">Les Epistres des dames de Grèce</title>
+                <title type="sub">ante 1330, Italia settentrionale</title>
+                <author xml:id="EPISTRESDAMESGRECE" n="069.000">
+                    <persName type="main"></persName>
+                    <persName type="short"></persName>
+                </author>
+                <principal>Serena Modena</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale</resp>
+                    <name>Luigi Tessarolo</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><emph style="font-style:italic">Le epistole delle dame di Grecia nel "Roman de Troie" in prosa. La prima traduzione francese delle "Eroidi" di Ovidio</emph>, Edizione critica a cura di Luca Barbieri, Tübingen-Bâle, A. Francke Verlag, 2005 («Romanica Helvetica», 123).</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t1"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <div2 xml:id="d001c001" n="I">
+                    <head>I. Penolopé a Ulixés</head>
+                    <p xml:id="d001l1" n="tit.">(Her. I: Penelope Ulixi)<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l2" n="1" rend="numbered">Ceste epistre manda Penolopé a Ulixés.</p>
+                    <lb/>
+                    <p xml:id="d001l3" n="2" rend="numbered">A toy Ulixés, lens et de revenir tardis a ton ostel, Penolopé ta fame envoie ceste epistre,
+                    et si te mande que tu ne me mandes mie autres paroles par autres letres, mes revien
+                    t'en sans autre achoison devant metre. Ja est la cité de Troies destruite, que tant
+                    heent les puceles de Grece. Comment a esté Priamus de si grant pris, que il pout avoir
+                    esmeü si les puceles de Grece a haïne vers lui. Ha, l'eure soit maudite et honnie que
+                    li leres avoutrez de Troies passa nostre mer qu'il ne fu noiés. Je ne me jeüsse mie
+                    froide et seule en mon lit, ne si lonc jour ne me fussent mie ennuieus, ne je ne me
+                    travaillasse mie a filer ne a fere toilles.</p>
+                    <lb/>
+                    <p xml:id="d001l4" n="3" rend="numbered">Quant je voi la douceur du printemps, que toute creature doit estre en joie, que je
+                    soloie estre a seür et en grant deduit, or sui en paine et en grant paour de ton cors.
+                    Pour la [f. 183b] grant paour que je ai de toi, or est ma penssee au cruel pueple de
+                    Troie. Et quant il me souvient de Hector le cruel de Troies, tout le sanc me fuioit
+                    du vis et devenoie pale et floible; et quant je ooie raconter comme Hector out vaincu
+                    Antilogum, j'avoie tel douleur que j e ne pooie durer. Si pourroie avoir paour de mesaventure
+                    et pleuroie. Et quant je ooie dire comme li fils au roy de Liche avoit occis Tritholomum,
+                    si me renouveloit ma douleur. Et a brief mos, toutes les fois que je ooie dire que aucun
+                    des Gregiois estoit occis, je avoie le piz plus froit que glace.</p>
+                    <lb/>
+                    <p xml:id="d001l5" n="4" rend="numbered">Mes de ce m'ont li dieu bien secourue pour ce que je a loialment amé, quant li dieu
+                    ont otroié que Troie est prise et arse, et mes bons sires est sains et haliegres. Li
+                    prince de Grece sont retourné. Or fument les autels et si sont encensé; et les dames
+                    font belles offrendes pour leurs maris qui sont sain rapairié; et li autre chantent
+                    comme Troies estoit prise. Si se merveillent li vieil et li jone des merveilles qui
+                    en sont dites, et les dames et les damoiseles se pendent as bouches leur maris et de
+                    leur amis qui leur racontent les grans merveilles qui i furent faites. Et aucins sont
+                    [f. 183c] qui aprés les tables racontent leur batailles, et aucuns sont qui depaignent
+                    o leur dois les cruels fes et les forteresces de Troies, et pourtraient o leur dois
+                    sus la table: «Par ci cuert li fleuve qui est appellés Symois et ici est la terre de
+                    Sigee et ci siet la roiau meson du roi Priant; ci sont les tentes Achillés, ici sont
+                    les tentes de Ulixés».</p>
+                    <lb/>
+                    <p xml:id="d001l6" n="5" rend="numbered">Nestor li viels et Doolum conterent trestot a ton fils que l'en i fesoit et il me raconta
+                    tout de mot a mot, et si nous fu dit et raconté comme Resus fu seurpris en dormant.
+                    O Ulixés, qui trop a mis en grant oubli ta fame et tes ami, bien nous a esté raconté
+                    comment tu as esté trop hardis contre les herberges as Troïens et comment tu osas tous
+                    seuls, fors l'aide d'un compagnon, faire si grant occision de gent par ton sens et par
+                    ton enging. Lors, quant estoies si preus, estoies tu remembrable de moi? Alas, tout
+                    li cuers me trembloit el ventre quant tu vainquerres chevauchoies parmi tes amis jusques
+                    a tes anemis.</p>
+                    <lb/>
+                    <p xml:id="d001l7" n="6" rend="numbered">Lasse chetive, et que me vaut se vous per vos forces avés confondu Ylyon? Autele sui
+                    je comme je estoie quant Troies estoit en estant. Ausi sui je sans mari comme je estoie
+                    et si m'est avis [f. 183d] que je n'arai jamais mari. Les autres gens dient que Troie
+                    est destruite, mes a moi ne semble mie que la cité soit destruite, mes a moi ne semble
+                    mie que la cité soit destruite, quant l'en conchïe ore .j. chetif [buef]. Il a ja blé
+                    la ou fu Troies, et la terre est encraissïe du sanc des Troïens, et les charrues revolvent
+                    les os des mors, et la vert herbe cuevre les maisons trebuchïes. Et tu, vainquerres,
+                    ou es tu? Je ne puis savoir ou tu, qui as le cuer plus dur que fer, pues demorer.</p>
+                    <lb/>
+                    <p xml:id="d001l8" n="7" rend="numbered">Je demans noveles de toi a toutes les nés qui arrivent a nostre port, et ausitost comme
+                    il i arrivent se partent, et ja nouveles ne m'en diront. Et cils qui te baille ceste
+                    epistre, se il te puet avoir en nul lieu, ce saches que il les a receties de mes mains
+                    et que &lt;je&gt; les escris. Lasse, nous avons envoié a Philo pour enquerre noveles
+                    de toi et es illes de Neley et a Esparte, et nulle novele n'oïsmes en quelle terre tu
+                    habites. Il me fust plus profitable chose, et ensi le vouldroie, que Troie et ses forteresces
+                    fussent en estant.</p>
+                    <lb/>
+                    <p xml:id="d001l9" n="8" rend="numbered">Lasse, je pensse tant de diversses penssees que je me hé, quant je ne me puis tenir
+                    a une. Se tu fusses encore devant Troies, je seüsse bien que tu te combatisses, et je
+                    ne [f. 184a] redoutasse fors que les batailles, et toutes mes complaintes fussent en
+                    une. Je crains tout comme fame dervee, car je craing les perils de mer et de terre et
+                    la longue demoree, et quant je me pourpens comme folle de vostre grant lecherie; et
+                    par aventure aucune fame estrange vous retient et vous li ditis que vous avés vilaine
+                    fame qui ne sceit fere que laine carpir. Ha, que di je! ja ce n'aviegne! je ne cuit
+                    mie que, se vous peüssiés revenir, que vous plus targissiés.</p>
+                    <lb/>
+                    <p xml:id="d001l10" n="9" rend="numbered">Hycarus, mes peres, me semont d'aller avec lui et de laisier mon lit dont je sui veuve,
+                    et si me blasme trop de demorer; il blasme et maudit moi et toi pour ce que je ne sui
+                    ta fame, car il me met seiire que tu as trouvé chose en moi par quoi tu hés ma compagnie
+                    et de ce ne m'en chaut: tousjours di je que je sui toe, et tousjours le dira. Toutesvoies,
+                    a il pitié de moi pour mes belles paroles et pour ma chast&lt;e&gt;é.</p>
+                    <lb/>
+                    <p xml:id="d001l11" n="10" rend="numbered">Les princes et les barons de Diluce, de Sauni et de Jacincte ne me laissent en pais
+                    et me requerent vilennie, et si sont en tes sales et degastent tes biens et tes richesces;
+                    la quelle chose me fet grant mal au cuer. Pour quoi je te nommerai Pillandre, Pellopés
+                    et Medincta, fors larrons [f. 184b] et traïtres, et Herimachés et Antoinez qui tes
+                    biens te gastent que tu as conquis a grant paine? Et cil qui prennent mains de tes
+                    biens et de tes bestes c'est Yrus et Melancius, nos bouchier et nos cuisinier, et ce
+                    est mont grant honte que tels gens te font domage.</p>
+                    <lb/>
+                    <p xml:id="d001l12" n="11" rend="numbered">Tu nous as laisiés .iij. qui ne poons bataillier ne ne nous poons deffendre: je qui
+                    sui ta fame, qui n'ai ne force ne vertu, et li viel Lahertés ton pere, et Thelemachus
+                    ton petit fils. Halas, par poi que il ne m'a esté emblés par trahison et par esgait,
+                    car il voult aler maugré moy et tous tes amis sus le chatel de Pylon. A Dieu proier
+                    que il peüst plus vivre de moy et de toi, et que il eüst bone vie et longue, et que
+                    il nous clöe les oils a moi et a toi; et aussi comme j'en prie, en prie nostre bouvier,
+                    nostre pourchier et la nourrice. Lahertés ne nous puet aidier ne deffendre contre nos
+                    ennemis; Thelemachus, se il vit par la grace as diex, il sera preus et hardis, mes
+                    ore, comme il est si joenes et si tendres, deüst il estre gardés et deffendus par son
+                    pere.</p>
+                    <lb/>
+                    <p xml:id="d001l13" n="12" rend="numbered">Je n'ai force de quoi je puisse chascier nos ennemis lis hors de nostres maisons, dont
+                    est il mestier que tu t'en viegnes, qui es et dois estre gouvernerres des tiens. [f.
+                    184c] Lasse, je ai un enfant, que &lt;li&gt; dieu me puissent garder, que tu deüsses
+                    entroduire es ars paternez et en tes sens et en tes engins; mes icis Lahertés, de cui
+                    il estoit destiné qu'il te clorroit les yex, il est ores, se les diex n'en ont pitié,
+                    a la fin de sa vie. Et si saches certainement que je que estoie belle et jone quant
+                    tu te partis de moi, jamais si tost ne savras revenir que tu me trouveras vielle et
+                    foible, pour la grant mesaise de cuer que je ai puis eue que tu te departis de moi.
+                    Et saches que ceste epistre fu escrite en l'isle de Yschiachy, el chastel de Laito,
+                    en pleurs eten lermes; et li diex te soient favorable.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c002" n="II">
+                    <head>II. Philis a Demofon</head>
+                    <p xml:id="d001l14" n="tit.">(Her. II: Phyllis Demophoonti) <lb/></p>
+                    <lb/>
+                    <p xml:id="d001l15" n="1" rend="numbered">Ceste epystre envoia Philis a Demofon, son ami, a Troies. [f. 84d]</p>
+                    <lb/>
+                    <p xml:id="d001l16" n="2" rend="numbered">Tu Demophon, je Philis, ta bonne ostesse, me complaing que tu demeures outre le temps
+                    que tu m'avoies promis. Je muse et reguarde assiduement toutes les fois que la lune
+                    est renouvelee a nostre port, pour savoir se je verroie ta nef arriver, mes je me desconforte
+                    que li quatre mois entier son ja passa que tu devoies revenir et si n'es mie revenus.
+                    Ha, las! Onques puis ne pou oïr noveles de toi, ne encore n'est pas retournee ta nef.
+                    Et se tu voloies bien conter les jours si com fins amans les doit conter, je ne me
+                    sui mie trop tost complainte.</p>
+                    <lb/>
+                    <p xml:id="d001l17" n="3" rend="numbered">A tart m'est venue l'esperance qui ore me grieve, car je deüsse pieça avoir penssé
+                    ce que je pensse ores; c'est que tu ne revendras mie. mout ai fait en moi ymaginations
+                    de toi, car je me disoie en mon cuer une fois: «Or vient», autre fois: «Or venist si
+                    peüst, mes li vens li est contraires. Si vendra si tost com il pourra». Et maintes
+                    fois ai je maudit Teseüs, ton pere, pensant que il ne te laissast venir, mes je croi
+                    que il ne t'en destourba onques. Et aucune fois ai je eu paour, conme folle, lasse,
+                    quan tu allas vers le flun d'Ebri, que ta nef ne fust perie. Maintes prieres et maintes
+                    offrende ai je fet a&lt;s&gt; diex que il [f. 85a] te ramenassent tost. Et puis pensoi
+                    en moi meismes: «Il vient, se il n'a grief essoigne».</p>
+                    <lb/>
+                    <p xml:id="d001l18" n="4" rend="numbered">Mes bone amour loiaus me fet souvent &lt;pensser&gt; toutes diversses causes d'essoigne
+                    qui te puissent empeechier a venir, et si ai esté bien soutive et engingneuse a diversses
+                    choses pourpensser, mes or puis je savoir, de verité, que riens ne te retient fors
+                    p[are]sce, ne les seremens que tu m'as fais ne te muevent a retourner, ne ne te recordes
+                    de la bone amour de moi. O Demofon, tu as mis tout au vent: tes veles et tes paroles.</p>
+                    <lb/>
+                    <p xml:id="d001l19" n="5" rend="numbered">A lasse, di moi: que je ai fet, se non que j'ai folement amé? Certes sans plus par
+                    ma folie: te pelisse je avoir deservi! Je ne fis onques mauvestié ne folie fors une,
+                    c'est que je te reçu felon traitre, sans foi et sans loiaulté. Et iceste folie et ceste
+                    mauvestié deüst avoir tele resemblance que je t'eüsse deservi. Ou sont ore les seremens
+                    et les fiances et les plevines des diex des noces, que tu me donnas en plaige que tu
+                    m'espouseroies?</p>
+                    <lb/>
+                    <p xml:id="d001l20" n="6" rend="numbered">Te membre il quant tu juras par la mer, par les vens, et par le&lt;s&gt; [voies] ou
+                    tu avoies souvent alé, et par ou devoies aler, que mau tourment te peüst prendre avant
+                    que tu fusses en ton païs, et par Neptonnum ton aiol, le dieu des eaux, et par Palas
+                    et [f. 85b] par Juno et par la sainte deese des noce et par Cerés que tu revendroies
+                    a moi? Et se chascun de ces diex et de ces deesses vousist prendre vengemens du parjure
+                    que tu as fet, ton seul cors ne pouroit mie soufire a souffrir tant de paines.</p>
+                    <lb/>
+                    <p xml:id="d001l21" n="7" rend="numbered">A lasse chetive, je fis ta nef appareillier, qui estoit despecïe; et si te donnai garnemens
+                    a tes nés, par les quels tu t'en es fui de moi. A las, je sui plaié et navré de mes
+                    dars meismes! Mes je, comme fole, cru tes paroles et si me fïoie en ton lignage, que
+                    tu juroies, et a tes beles promesses et a tes lermes fauses que tu sceis faire par
+                    ton fort art; car quant tu veuls, tu pleures. Assés poi estre prise et deceüe par un
+                    seul de tes ars.</p>
+                    <lb/>
+                    <p xml:id="d001l22" n="8" rend="numbered">Et si ne me poise mie, biau sire, de ce que je vos reçu a mon port et en mon ostel,
+                    car tant me devés vous greignor guerredon; mes de tant me poise que je vous reçu en
+                    mon lit, comme fole, pour ce que vous m'eüstes en couvenant que vous m'espouserié&lt;s&gt;
+                    et si ne le feïstes mie. Lasse, je amasse miels que je fusse morte la nuit devant que
+                    il me fust onques avenu; mes ce me fist ma bone esperance, car je te cuidai avoir deservi.
+                    Mes il m'en est mesavenu et si ne l'ai pas deservi.</p>
+                    <lb/>
+                    <p xml:id="d001l23" n="9" rend="numbered">Et, certes, ce n'est pas mout grant proësce ne mout grant gloire [f. 85c] d'avoir deceüe
+                    une simple pucele, ne ce ne fu mie grant merveille se je te cru, et je, fame et amant,
+                    sui deceüe par tes paroles. Je prie as diex que tu n'aies ja glore ne loënge plus en
+                    cestui siecle. Et ton ymage soit mis en mi la cité d'Athaines, et l'ymage ton pere
+                    et de tes parens soit entour. Lors si avroit ton pere grant gioire et grant leesce
+                    de ta proësce et en seroit enneurés et seigneuris pour tes biaus fes. Et quant on liroit
+                    l'epitaphe Cyron et de Prochistes et de Seni et de Minotauri et comment Tebes fu conquise
+                    et du Centour vaincu et comment fu assaillis &lt;enfers&gt;, aprés iceuls qui ceste
+                    merveille firent, vousise je que ton ymage fust assise et li title escris: "Ci est
+                    cils qui barata sa bonne hostesce, qui l'amoit de fine amour".</p>
+                    <lb/>
+                    <p xml:id="d001l24" n="10" rend="numbered">Entre toutes les choses et le proësces desus dites, me deüst bien estre sovenu de ton
+                    pere, de la trahison que il fist quant il amenoit Adrienne, que il avoit traite de
+                    son païs, car il la laissa comme faus desloiaus en une ysle de mer; et ce sans plus
+                    qui li povoit estre tourné en reprueche et en blasme, icele chose tiens tu [a] bone
+                    par semblant, quant tu fais autele trahison. Icele damoise Adriane, si com je ai oï
+                    dire, et je n'en ai nulle envie, si a orendroit meilleur mari [f. 85d] et si siet ores
+                    el haut curres as diex quel es tygres grans traient et mainent. Mes ore saches que
+                    cil de Trace se sont de moi departi pour ce que refusai leur mariage, et ore me repruechent
+                    que je amoie miels un estrange qui m'a baratee et deceüe et si en dient par gabois
+                    et par reproche: «Or aille, madame Philis, entre les sages d'Athenes et une autre bone
+                    dame sera dame de la chevalerie de Trace». A la fin connoist on le bon oevre. Ja Dieu
+                    ne ville que tous les maus que l'en en dit soient voirs! He Dieus, se tu revenoies,
+                    je diroie bien que je avroie sagement ovré sans consoil d'autri. A las, voirement ne
+                    m'en conseillai je onques.</p>
+                    <lb/>
+                    <p xml:id="d001l25" n="11" rend="numbered">A las, encore m'est il avis que voie ta nef ausi comme elle se parti du port. Mes tu
+                    osses faire grans demorances, tu qui m'osoies baisier et acoler, et ploroies avec moi
+                    et m[e]lloies tes lermes o les moies, et tu ne demandoies en ton corage se non bon
+                    vent. Et comment m'osoies tu dire, quant tu te partis de moi, a clere vois: «O Philis,
+                    ma douce amie, atendés moy, Demofon, comme vostre que je sui»? Je atendrai! Lasse,
+                    tu t'en alas sans penser jamais de moi revooir. Ha, encore [f. 86a] atens je que tu
+                    reviegnes. Combien que tu aies esté tardif de revenir, et ja soit ce que tu soies ja
+                    parjures et foimentie, toutevoies voillent li dieu que tu reviegnes.</p>
+                    <lb/>
+                    <p xml:id="d001l26" n="12" rend="numbered">Ha las, et que pri je? Ja te retient une autre fame, et par aventure as tu mis en une
+                    autre la fause amour desloiaus que tu m'avoies otroïe; mes itant sai je bien de voir
+                    que, puis lis que tu te departis de moi, que tu ne veïs nulle Philis, c'est a dire
+                    nulle ausint loial comme je sui, mes je croi bien que Philis ne te revint puis en remembrance
+                    et ne seis mais qui je sui.</p>
+                    <lb/>
+                    <p xml:id="d001l27" n="13" rend="numbered">He las, je sui cele qui recui en mon ostel ta persone, aprés les grans paines que tu
+                    avoies souffertes en mer. Je sui cele qui t'aidai quant mestier t'en fu, et qui ses
+                    richesces te mist en ton bandon, et te donnai mout de biaus dons quant tu en estoies
+                    besoigneus et mout t'en donroie encore se tu voloies. Je sui cele qui mis en ton bandon
+                    le grant roiaume Ligurgus, mon pere, et en ta subjection; li quels regnes est si biaus
+                    et si grans que je, pour ce que je sui fame, ne sui pas digne de le governer, ne il
+                    n'est mie drois que si haut regne soit gouvernez par fame sans plus. Il dure de la
+                    montaigne d'Europe jusques a la montaigne d'Ebrun, la ou [f. 86b] Ebrun met les .iij.
+                    flueves. Je sui cele qui t'abandonnai ma virginité, que je avoie longuement gardee
+                    nete et pure. Si [vausist] miels que je l'eüsse abandonnee as osiaus du ciel a devorer.</p>
+                    <lb/>
+                    <p xml:id="d001l28" n="14" rend="numbered">De maleure et de male fortune assemblasmes ensemble, Tesipolla ulla en nostre chambre
+                    et li hubos i chanta le triste chant au jour et a la nuit, et en icele heure droit
+                    que nous assemblasmes ensemble et si i fu Acletha o sa teste colo&lt;v&gt;rine et les
+                    mortels chandeles i ardirent, et non mie les brandons Ymenei, et li luminaires qui
+                    lors fu e&lt;n&gt; ma chambre ne senefia se mortalité non.</p>
+                    <lb/>
+                    <p xml:id="d001l29" n="15" rend="numbered">Et si triste comme je sui, ne fine d'aler sus les roches et sus les montaignes et sus
+                    les rivages, et si regarde amont et aval et a tous les pors a toutes les heures du
+                    jour et de la nuit: au point du jour et endroit mienuit as estoiles regarde je continuelment
+                    et a toutes les autres heures du jour reguarde je quel vent vente. Et si tost comme
+                    je voi aucune voile tout li cuers me sautele. Et quant plus s'aprochent les nés de
+                    moi, de tant sui plus dolente. Et quant je voi que ce n'est ta nef je chié pasmé entre
+                    les bras de mes pucele.</p>
+                    <lb/>
+                    <p xml:id="d001l30" n="16" rend="numbered">Et se tu, faus Demofon, [f. 86c] savoies coment je sui en grant tourment pour toi!
+                    Car je pensse souvent et pourpose que je me face metre en .i. grant tomble de fust
+                    et puis jeter moi en la haute mer, si que je puisse arriver a ton port pour ce que
+                    je m'aperçoif que tu m'as deceüe. Et se tu me veoies en tel maniere, ja soit ce que
+                    tu aies le cuer plus dur que fer, si te prendroit il aucune pitié de moi, mes non mie
+                    telle que tu vousisses estre ausi pour moi.</p>
+                    <lb/>
+                    <p xml:id="d001l31" n="17" rend="numbered">Je pensse maintes fois de boire venin por moi fere mourir, et souvent pense que je
+                    m'occie. Souvent pensse de moi pendre, et si feroie par tens, et tu seras conneùs et
+                    mau renommés entre les barons de Grece, la ou tu es avec euls devant la cité de Troies,
+                    ou par ceste epistre ici ou par le titre qui sera mis sus mon tombel qui sera itels:
+                    "Ci gist Philis la bone ostesse, qui Demofon reçut en son ostel et tant l'ama que elle
+                    s'occist pour lui o ses mains". Or prie je les diex que Hector te puist occire de ses
+                    mains comme je me sui occise per les miennes meismes.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="III">
+                    <head>III. Briseïs a Achillés</head>
+                    <p xml:id="d001l32" n="tit.">(Her. III: Briseis Achilli) <lb/></p>
+                    <lb/>
+                    <p xml:id="d001l33" n="1" rend="numbered">Ceste epystre envoia Briseïs a Achillés.</p>
+                    <lb/>
+                    <p xml:id="d001l34" n="2" rend="numbered">Tu, quiconques liras ou lis ceste presente letre, saches que elle ist de la main Briseïs
+                    la ravie; et pour ce que je sui barbarine, a paine les puis je avoir bien escrites
+                    en grec. Et [f. 118d] tu qui les lis, saches que toutes les conchieüres que tu y verras
+                    ont fet les lermes, et par droit elles devraient miels valoir que note de letre. Et
+                    se je m'osoie complaindre un petit de toi, mon seigneur et mon ami, je me complendroie:
+                    et si ferai je. Est ce ore ta coulpe et ton mesfet que je ai esté si tost baillïe san&lt;s&gt;
+                    contredit au roi qui me demandoit? Certes oïl, car ausi tost comme Ulibacés et Tatilibitis
+                    ses compains me requistrent, ausi tost leur fu je livree, et commença l'un de euls
+                    a regarder l'autre, et demandoient qui estoit mon ami.</p>
+                    <lb/>
+                    <p xml:id="d001l35" n="3" rend="numbered">L'en me peüst bien avoir retargïe! Alas, mout m'eüst pleü se je fusse demoree. Halas,
+                    tantes fois te baisai je au departir et derompooie mes cheveuls. Halas, je te di que
+                    il m'est avis que je sui une autre fois ravie ausi comme tu me ravis. Certes je pensai
+                    maintes fois, quant il m'emmenoient, que je les baratasse et deceüsse et puis m'en
+                    retournasse a toi, mes une chose m'en a destorbee: c'est que aucun des fils au roi
+                    Priant, qui sont vostre ennemi, ne m'en portassent; ou se aucuns autres Troïens m'eüst
+                    prise et ne m'espousast, si fusse seur mon pois brus au rois de Troies. Mes je sui
+                    donnee car je estoie a donner. Halas, [f. 119a] tantes fois sui je sans toi, et tu
+                    ne me mandes ne ne me requiers ne ne t'en chaut; car tu as la remembrance de moi trespassee.
+                    Li roi Patroclus me dist en l'oreille, quant je me departi: «Brisaïda, ma suer, ne
+                    pleurés mie, car vous ne demourrés guares la ou vos alés».</p>
+                    <lb/>
+                    <p xml:id="d001l36" n="4" rend="numbered">Et si n'est pas petite chose de moi ravoir? He, Achillés, ne te combatras tu pas pour
+                    moi ravoir? Fai si que tu aies le nom et la renommee de loial amant. He, Achillés,
+                    il n'i couvendroit mie grant paine; de legier me pourroies avoir, se tant t'en estoit.
+                    Ne t'amembre mais comme Thalamon Aïax et Fenix, des quels li uns estoit tes cousins
+                    germains et l'autre tes compains, et li rois Ulixés te prierent par douces paroles
+                    et par biaux dons que tu me rendisses a euls? Et t'en vouloient donner .xx. pailles
+                    tous a or batus et .xx. [peilles] d'argent dorés et .vij. trés de soie dorés, dont
+                    autant valoit l'or comme la soie, et .xx. mils besans d'or et .xij. chevaus de pris
+                    esprouvés. Et en voloient doner .iij. pucele, les queles furent amenee de l'isle de
+                    Lesbon quant elle fu destruite. Mes tu n'avoies mestier de fame, qui refusoies toz
+                    ces dons, et si m'as rendue a Agamenon pour une de ces .iij. Et se tu me vousisses
+                    avoir ren[f. 119b]due pour valeur et pur pris tu n'eüsses mie si mal fait; mes tu as
+                    refusé l'offre et la raençon que tu deüsses avoir fet pour moi. He, Achillés, pour
+                    quel coulpe me tiens tu ville? Ou est alé la grant amour et la douce compagnie d'entre
+                    moi et toi? Souvent constraint fortune les chetis, mes je sui tousjours en une meisme
+                    paine.</p>
+                    <lb/>
+                    <p xml:id="d001l37" n="5" rend="numbered">Tu destruisis par ta force les murs de Lernes, et c'estoit la greigneur partie de ma
+                    terre, et estoie toute dame de cel païs. Je vi mes trois freres qui furent compagnon
+                    de lignage et de mort, car il furent ensemble occis; et vi mon mari qui se toouilloit
+                    en son sanc quant la mort le destrengnoit. Et de toutes ces aventures me reconfortooie
+                    je pour ton amour: tu estoies mes sires, mes freres et mes maris. Tu m'avoies juré
+                    par madame Thetis, la deesse de eaus, que de bone heure avoie je esté ravie, car c'estoit
+                    mon profit. Alas, est ce la bonne aventure que je en arai, quant tu me refuses? Et
+                    se aloie a toi, tu t'en iroies?</p>
+                    <lb/>
+                    <p xml:id="d001l38" n="6" rend="numbered">Et encore ne te soufit mie que tu me refuses avoir en ta compagnie, et se tu appareilles
+                    tes nés sans moi pour t'en aler en ton païs. A lasse chetive, si tost comme la novele
+                    me vint que tu t'en voloies aler, a pou que je ne cha[f. 119c]ï pasmee. Ha, tu t'en
+                    iras et tu, fel et cruel, a cui me laisseras tu dolente et esgaree? Et que chose me
+                    pourra estre confort? Avant me puisse la terre engloutir ou devourer que [je] puisse
+                    veoir ne savoir que tu te partes sans moi. Et se il te plaist tant que tu vuilles aler
+                    en ton païs, sui je donc si pesant que tu ne me pues soffrir en .i. angle de ta nef?</p>
+                    <lb/>
+                    <p xml:id="d001l39" n="7" rend="numbered">Sire, je te suirrai comme chetive, non mie comme dame son seigneur et son loial espous.
+                    Je sarai bien carpir et filer laine et gaagnier ma vie, et ta bele fame sera cointe
+                    et paree entre les autres dames d'Archade. Sire, je ne li puis deveer, car elle est
+                    bien digne d'estre brus Pelei et de estre fame a homme de si haute ligniee. Et je me
+                    maintendrai hublement et petitement, en pleurs et en lermes, et filerai la coloigne
+                    et carpirai la laine. Mes d'une chose vous pri je por Dieu: que vous ne souffrés que
+                    vostre fame me despise, car je sai bien que elle me harra. Et ne souffrés mie que elle
+                    me couppe mes cheveuls devant vos. Ha lasse, je redoute le dangier de vostre fame,
+                    mes l'amour que je ai a vous me fet toute vaincre la paour.</p>
+                    <lb/>
+                    <p xml:id="d001l40" n="8" rend="numbered">E, biau sire, et que attendés vos que vous ne [f. 119d] me prenés or recevés? Agamenon
+                    se repent ja que je alai avec lui, car ne le puis servir a gré. Ne me laisse a recevoir
+                    pour nulle folle pensee, car je te jure par la foi que je ai a toi que li rois Agamenon
+                    ne toucha ma char par vilennie, ne n'oi puis compagnie d'omme que je me parti de vous.
+                    Mes autretel serement ne pooués vos pas sauvement fere, que vous n'aiés puis eüe compagnie
+                    a autre fame que a moi depuis que vous me laissastes.</p>
+                    <lb/>
+                    <p xml:id="d001l41" n="9" rend="numbered">He, Achillés, chiers amis, reguarde comment Briseïs ta chiere amie est esmeüe pour
+                    toi, car tu la fais languir par longue demoree. Et se ensint est que tu n'aies plus
+                    que faire de m'amour, et que tu en soies ennoiés, fai so me morir a force de glaive
+                    ançois que tu me faces vivre sans toi. Ha lassa, il ne me couvient guares plus languir
+                    car je sui assés occise. Je n'ai ne sanc ne couleur, et toutesvoies l'amour que je
+                    ai en toi soustient en vie mon chetif cors; et se tu icelle me tolloies, je iroie aprés
+                    mes freres et mes parens et mon mari; et se tu la me tolloies, ce ne serait mie grant
+                    honneur a toi se une chetive fame foible moroit pour toi.</p>
+                    <lb/>
+                    <p xml:id="d001l42" n="10" rend="numbered">Et si me ple[f. 120a]roit mout que morusse a ta volenté, de ton glaive. Biaus dous
+                    amis debonnaires, pour les diex occi moi! Et je vouroie que le glaive de quoi tu eüses
+                    tué Agamenon fu aprés bouté par mon cors. Et saches que ma vie et ma soustenance est
+                    en toi, et que je ne vif se par toi non; et te rens graces et mercis de ce que tu me
+                    sueffres a avoir, et que tu me donnes ce que tu donnas a Thelepho ton ennemi. Se il
+                    te plaist, ti ne me destruiras pas; tu as assés autre chose a destruire ou tu aras
+                    plus honneur. Ce sont li mur de Troie que tu destruiras, se Diex plaist. Et se tu veuls
+                    que je vive, si nen t'en va mie sans moi, ou autrement tu m'ociras et seras homicide
+                    de moi.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c004" n="IV">
+                    <head>IV. Phedra a Ypolite</head>
+                    <p xml:id="d001l43" n="tit.">(Her. IV: Phaedra Hippolyto) <lb/></p>
+                    <lb/>
+                    <p xml:id="d001l44" n="1" rend="numbered">Ceste epystre envoia Phedra a Ypolite son ami.</p>
+                    <lb/>
+                    <p xml:id="d001l45" n="2" rend="numbered">Tu, Ypolite, la pucele de Crethe en ces letres te mande salu, la quelle ne le puet
+                    a[f. 103b]voir se tu ne li donnes. Lis les, se il te plaist, queles que elles soient.
+                    Que te pourra nuire se tu les lis? Par aventure i a aucune chose qui te porroit valoir.
+                    Tels mandemens si vont par mer et par terre: li uns anemis reçoit et lit les letres
+                    de l'autre.</p>
+                    <lb/>
+                    <p xml:id="d001l46" n="3" rend="numbered">Je me sui .iij. [fois] e&lt;n&gt;vaïe de toi parler, et .iij. fois me failli la langue,
+                    et .iij. fois retrais ma vois. Et ja soit ce que honte me fust de dire ce que voloie
+                    dire, toutesvoies Amour me commande de le dire; que Amour me fet escrire ce que ma
+                    bouche n'ose dire. Il n'est pas seüre chose de contredire ce que amor commande: amour
+                    regne entre les seigneur et est seigneur des autre seigneurs et commande as damediex.
+                    Il me dist au commencement, quant redoutoie escrire: «Escrif escrif, car je le vuil.
+                    Se il estoit plus dur que fer, si ferai je tant qu'il t'aourera a mains jointes et
+                    fera toute ta volenté». Ensi&lt;n&gt;t puist estre, et ausint te puist Amor tourmenter
+                    comme il font moi. Je ne me mesferai ja tant comme je vive envers toi; je voudroie
+                    que tu seüsses comme je sui tormentee d'Amours. Amours me tourmente plus que se eusse
+                    apris a amer, mes je ne soi onques que fu li mau d'amour, et de tant queAmours m'a
+                    plus tart assaillie de tant me tourmente elle plus, [f. 103c] et trop m'est grief fais
+                    en mon corage. Ceuls qui ont autres fois amé ament artilleusement et sagement, mes
+                    qui ne connut onques amour il aime nicement.</p>
+                    <lb/>
+                    <p xml:id="d001l47" n="4" rend="numbered">Tu aras la premiere fleur de ma chasteé, que je ai lonc temps gardee, et si nous entrebaiserons
+                    au premier assemblement; mout est belle choses de cuillir pomes el pomier dont onques
+                    pome ne fu cuillie, ausi grant chose est de cuillir la premiere fleur de mon tendre
+                    cors. Mes ore sui je tout a temps seurprise de bien digne amor, car je aim bel home;
+                    il doit estre assés plus grant vergoigne quant elle a let ami, que de ce que elle aime.
+                    Se je savoie meismes que li dieu me vousissent amer par tel maniere que je laissasse
+                    Ypolite, je prendroie avant Ypolite que le cors dieu; et chose que a paine tu croiroies,
+                    pour ce que tu es veneeur, je sui devenue veneresse, l'une fois a pié et l'autre a
+                    cheval; et si me travaille volentiers a chascier, pour ce que quant je me repose tantost
+                    m'assaut Amour.</p>
+                    <lb/>
+                    <p xml:id="d001l48" n="5" rend="numbered">Et si me merveille mout dont ce me puet venir, mes je cuit que il me vient de nature
+                    et de lignage, et que ma dame Venus requiert le treü de tout mon lignage. Europa, que
+                    Jupiter ama premierement, fu la racine de toute ma lignie, et il la deçut en fourme
+                    de torel; [f. 103d] et Pasiphés, qui conçut et enfanta le Minutaure, qui se coucha
+                    o le torel, estoit ma mere, et Adriana fu ma suer par qui Teseüs s'en issi de la maison
+                    Dedalus. Et por ce que on ne cuide que je isse fors de lignie, et que on ne cuide que
+                    je soie tout vraiement fille au roi Minos, je fais ausi comme fist ma lignie. Et ceste
+                    chose nous est destinee. Ta biauté m'a seurpris, de la biauté ton pere fu ma suer seurprise:
+                    forment plaisent a nos deuls le gens d'un meismes ostel. Li peres et li fils ont les
+                    .ij. suers seurprises.</p>
+                    <lb/>
+                    <p xml:id="d001l49" n="6" rend="numbered">Par ma volenté je ne fusse ja issue de Crete! Car lors que je i estoie, je ne t'avoie
+                    onques amé. Quant je te vi vestu de blanche vesteüre, et tes chevex restrains d'un
+                    biau chapelet de fleurs, et ta belle fache vermeille que les fames disoient qui estoit
+                    dure et rude. Fij, je ne pris riens cels jouvenciaus qui sont pigniés et fardés comme
+                    fames: fourme de viguereus home ne doit estre cointiee. Quant je te voi huruppé et
+                    empoudré, a merveilles me plaist. Ha, dous amis, tu es li plus biaus que onques Diex
+                    formast ne nature. Je vouldroie que li emfant qui de mon cors propre seront né fussent
+                    detrenchié devant moi avant que il te peüssent de riens nuire. [f. 104a] Or va dont
+                    seürement avant en la besoigne et ne doute mie a aler, et entre el lit ton pere, qui
+                    mal a deservi que tu doies redouter de entrer en son lit, et qui m'a deguerpie et toi
+                    ausi; et si li fais contre tels fais tels guerredons, ne n'aies ja paour de ce faire.</p>
+                    <lb/>
+                    <p xml:id="d001l50" n="7" rend="numbered">Por ce, se je sui dicte [ta] marrastre c'est .i. nom vain et faus et une vaine renommee,
+                    qui bien doit remaindre; ne ne fu mie cortoisie endroit Saturnus qui l'establi et qui
+                    tint le regne de ceuls, ains fu vilanie et outrage. Saturnus et se drois et ses lois
+                    sont toute peries et obliees, qui commanda ces lois, et li mondes est maintenant sous
+                    Jupiter a gouverner, qui est meilleur dieu que ne fu son pere Saturnus; et pour ce
+                    dois tu ensu&lt;i&gt;rre les lois et les oevres de Jupiter. Icis Jupiter, nostre bon
+                    dieus, dist et commanda que tout fust bon a faire a home et a feme ce qui leur plaisoit
+                    et qui bon leur sembleroit; et encore i pert quant de ce dona exemple, car il espousa
+                    ma dame Juno sa sereur. Toutes iceles choses sont bones et adroit, et par bone raison
+                    et o droituriere chaene conjointes ensemble, que ma dame Venus conjoint et assemble.</p>
+                    <lb/>
+                    <p xml:id="d001l51" n="8" rend="numbered">Et si n'est mie grant [f. 104b] paine de cele&lt;r&gt; nos amour, et bien le poon[s]
+                    faire sous le nom de parentage: se aucuns nous voit baisier et acoler, nous en serons
+                    loé embedeus, et dira l'en que je sui vaillant et bone, qui si sui feal a mon fillastre.
+                    Il ne couvendra mie que tu viegnes par nuit et par temps obscur desfermer engigneusement
+                    les us et les fenestres paternels, et ne couvendra decevoir les portiers ne leur fere
+                    dons ne promesses. Aussi com nous soulions baissier et acoler, ausi ferons nous encore.
+                    Tu seras toudis seürement avec moi, et si seras loé de ce que tu me feras, car on cuidera
+                    que le faces pour bien; fai donques tost, si acomplis ma joie que je desir.</p>
+                    <lb/>
+                    <p xml:id="d001l52" n="9" rend="numbered">Ausi voudroie que tu fusses destrois et angoisseus d'amours comme je sui, mes que ce
+                    fust de moi. Je ne me desdaigne pas de vos prier et requer&lt;re&gt; hublement: en
+                    moi n'a orgoil ne grosses paroles. Je me cuidai bien longuement deffendre d'Amors et
+                    garder moi de metre en sa justice, et bien en cuidai estre certaine, mes contre Amours
+                    n'est riens certain. Je te pri comme cele que Amour a vaincue, et si tens mes roiaus
+                    bras avec mes jenouls; et si ne t'en merveille mie, car fins [f. 104c] amans n'a honte
+                    de nulle chose, et pour ce ai je honte perdue.</p>
+                    <lb/>
+                    <p xml:id="d001l53" n="10" rend="numbered">Que me vaut ne que me pourroit valoir mon pere Minos, qui est si grans sires en mer,
+                    et mon aiol Jupiter se il me venoient reconforter, ne misire Phebus li cler, qui enlumine
+                    les biaus jours? Toute ma noblece ne la force da ma ligniee ne me pourroit d'Amour
+                    deffendre. Sous amours sui je mise et sougiete, et se tu n'as pitié de moi, au mains
+                    te prengne pitié de la noble lignie dont je sui. Je tieng en douaire toute l'ille de
+                    Crete, de quoi je te ferai seigneur; or soies donques debonnares. Ma mere out tant
+                    de poesté que converti a faire sa volenté le fier corage d'un tourau, et se je ne te
+                    puis flechir a faire ma volenté, dont seras tu plus cruel que nulle autre beste ne
+                    que li fier toreau.</p>
+                    <lb/>
+                    <p xml:id="d001l54" n="11" rend="numbered">Pour ma dame Venus, je te pri, aies pitié de moi par iceles amours qui angoiseusement
+                    destraingnent; puisse je prier a la haute deesse d'amours que se tu ne me veuls amer,
+                    que ne puisses amer fame qui te puisse despire. Et celles oroisons puisse je faire
+                    a madame Venus et tous les autres diex que il te soient debonnaires. Amis dous, je
+                    vous fais a savoir en la fin de ceste epistre, car [f. 104d] avec ceste proiere sont
+                    mes lermes habundantes et angoissoises, et ce poise moi que vous ne les veés, car ja
+                    si dur ne fussiés que vous n'en eüssiés grant pitié.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c005" n="V">
+                    <head>V. Cenona a Paris</head>
+                    <p xml:id="d001l55" n="tit.">(Her. V: Oenone Paridi) <lb/></p>
+                    <lb/>
+                    <p xml:id="d001l56" n="1" rend="numbered">La novele s'espandi par toutes les terres et les païs de Troie que Paris out espousé
+                    dame Helaine; si que Cenona l'oï, si en fu mout dolente, si li en&lt;v&gt;oia ceste
+                    epistre.</p>
+                    <lb/>
+                    <p xml:id="d001l57" n="2" rend="numbered">Ceste epistre envoia Cenona a Paris son ami. [f. 53d]</p>
+                    <lb/>
+                    <p xml:id="d001l58" n="3" rend="numbered">Tu, amis, a cui ceste epistre presente est envoie, je sai bien que tu la parleüsses
+                    volentiers, se ta novele fame madame Helaine ne la te deveast a lire; mes hardiement
+                    la poes lire, car elle ne fu mie escrite de main greque. Je, Cenoine, me plaing de
+                    toi – mien, se tu le sueffres – de ce que sans moi estre grevee, dont tu m'as lassïe
+                    et guerpie es bois et es forés de Troie. Que&lt;l&gt; diex et quela fortune, quela
+                    diverse aventure s'est mise entre moi et toi pour nos .ij. cuers desevrer et pour nos
+                    amour departir? et quel pechié et quel blasme et quele malaventure me fist que je ne
+                    soie toe? Je doi bien souffrir en gré tous les maus que tu me fais, car je les ai bien
+                    deservis, et si me vienent de ma droite merite: l'en se doit plus doloir et plus a
+                    enuis recevoir, que l'en n'a mie deservi.</p>
+                    <lb/>
+                    <p xml:id="d001l59" n="4" rend="numbered">Il ne te remembre mie que tu n'estoies mie si grant sires ne de si grant auctorité,
+                    quant je nymphe issi du flueve de Pegasi; et ne redouterai ja a dire la verité: tu
+                    qui es ore appelés fils de roi, estoies lors sers, et je nimphe me souffri marier a
+                    serf. Maintes fois nos reposames moi et toi sous .i. meisme arbre entre les brebis
+                    et les vaches et facions lit d'erbetes et de vertes foilles, et par maintes [f. 54a]
+                    matinees chaï la blanche rosee sus nostre petite logete dedens la quele nous gesions
+                    en .i. lit d'erbes vert et de foilles.</p>
+                    <lb/>
+                    <p xml:id="d001l60" n="5" rend="numbered">Qui te moustroit lors et ensengnoit les tours et les voies de vener et de chascier?
+                    et qui t'ensengnoit ou les bestes sauvages avoient leur repaire es hautes roches? Je,
+                    qui lors estoie ta compaigne, t'ai maintes fois aidé a tendre les rois et les roisiax
+                    as passages des bestes, et maintes fois avec toi ai mené les chiens par les hautes
+                    bruieres, et encore i sont en pluseurs lieus defors du bois mon nom que tu cscrivoies
+                    o ton coutel, et sui iluec nommee Cenoine.</p>
+                    <lb/>
+                    <p xml:id="d001l61" n="6" rend="numbered">Et si me souvient et remembre que il a .i. arbre qui est appelés pueplier sus le ruisel
+                    d'une fontaine qui est appellee Xan[t]a, et en cel arbre si a escript .i. charme et
+                    une carathe qui dit en tel maniere: "O tu pueplier, li dieu si vuelent que tu dures
+                    et croisses lo&lt;n&gt;guement, et si soies tesmoig que Paris vuelt et otroie que il
+                    ne se puisse departir de Cenoine devant que cels cleres eax de cest missel de Xante
+                    retournent arriere par euls meismes en la fontaine dont il descendent".</p>
+                    <lb/>
+                    <p xml:id="d001l62" n="7" rend="numbered">Or puis crier et moi complaindre: o vous, eaus de Xande, arrestés [f. 54b] arrestés
+                    vous, et non mie sans plus arrestés vos, mes retournés, car Paris a laissié Cenoine».
+                    Icele journee me fu pesme et doulereuse, quant Juno et Pallas et Venus vindrent a toi
+                    au jugement pour la poume d'or. Onques, puis que tu le m'eüs dit, ne fui aise ne n'oi
+                    bon cuer, et ausi tost commençai a trembler, et a bon droit: ce ne fu mie pour noient,
+                    car grant mesaventure et longue m'estoit a avenir. Lors furent trenchié li sapin dont
+                    la nef fu faite a t'en aler, et lors ploras tu a la departie; iceste chose ne pues
+                    tu pas denier: c'est la chose de quoi tu devroies avoir grant duel, que tu pleuras
+                    et me veïs pleurer.</p>
+                    <lb/>
+                    <p xml:id="d001l63" n="8" rend="numbered">Ha, par quantes fois tu me baisas et rebaisas a la departie, et a grant paine pout
+                    ta langue au departir dire adieu. Et quant tu fus montés en la mer, et li vens se fu
+                    mis en tes voilles, et ta nef fu acheminee, je fole maleuré suivoie o mes oilz la blancheur
+                    de tes voiles, et si moilloie tout le rivage de mes lermes, et prioie a jointes mains
+                    les diex et les deesces qui te feïssent a joie retourner.</p>
+                    <lb/>
+                    <p xml:id="d001l64" n="9" rend="numbered">Ha lasse, issi com je le prié, ensint t'avint il, mes ce ne fu mie a mon preu. Lasse,
+                    il i a une montaigne grant [f. 54c] en mon païs qui est en longue veiie de la mer:
+                    la reguardoie je cescun jour pour oïr noveles et por veoir ta nef venant. Et si comme
+                    j'estoie illec, je vi la premiere veiie de ta voille, et par poi que je ne courroie
+                    dedens la mer de joie. Et tant comme je avoie les oils ver stoi, et vi resplendir pourpre
+                    en ta nef, si oi grant paour, car je soi bien que ce n'estoit pas tas vesteüre ne ton
+                    habit.</p>
+                    <lb/>
+                    <p xml:id="d001l65" n="10" rend="numbered">Quant a pou si vint la nef plus pres, lors vin je o cuer tremblant le visage de la
+                    fame, alas! et puis i vin je, maleureuse qui mon duel esgardoie: cele que tu avoies
+                    a tort se gisoit en ton giron; lors despeçai je mes vesteüres, et rompi mes cheveuls,
+                    et esgratinai mon vis comme forsenee, et faisoie tout le bois retentir de mes cris.</p>
+                    <lb/>
+                    <p xml:id="d001l66" n="11" rend="numbered">O itele douleur et o tels pleurs me parti d'iluec a cele male aventure, et aussi froide
+                    departie et aussi angoisseuse puisse estre dame Helaine de ses amours - ce prié je
+                    as damesdieus - comme je sui, et aussi froide et doulereuse angoisse li viegne au cuer
+                    comme elle a mis au mien. Or sont avec toi tels choses venues, dont la fort fiance
+                    te couvendra souffrir, qui fames d'autrui mari as amené par mer d'autrui regne.</p>
+                    <lb/>
+                    <p xml:id="d001l67" n="12" rend="numbered">Mes quant [f. 54d] tu estoies povres pasteur qui gardoies les bestes les moi, tu povre
+                    chetif n'avoies fame fors la povre Cenona. Je ne sui mie esmeüe pour tes richesces
+                    ne pour tes sales, ne ne m'esbahis mie d'estre dite brus de Priant, et sai bien que
+                    Priamus ne le refuseroit mie, ne la roïne Ecuba. Je en sui bien dignes et grant volenté
+                    en ai d'estre la preude fame a .i. haut home et puissant: je ai bien mains beles et
+                    vaillans a porter .i. noble septre. Ne me despis pas pour ce, se je me soloie couchier
+                    avec toi en .i. lit d'erbetes sous la foille du fou: je sui plus convenable en lit
+                    de pourpre ou de soie, et la chose qui miels vaut si est que m'amour est bone et seüre,
+                    et bien seür me fait amer. Ja pour moi ne seront a mon ami guerres ne batailles esmeues,
+                    ne ne sivra l'en mie mon ami a navies et a armeüres par mi la mer: mes ma dame Helaine
+                    sera et est requise o navies et o force d'armes. Icele dame orgoilleuse, sire, sage
+                    home, avés vous mis en vostre chambre!</p>
+                    <lb/>
+                    <p xml:id="d001l68" n="13" rend="numbered">Or demandés a Pollidamas et a Hector et a Deiphebus et as vos freres se il seroit sens
+                    et raison que elle fust rendue as grex. Guardés quel consoil li wiel Antenor et li
+                    fors rois Priant en prendront et que les antiens sortisseeurs en distrent de toi. Et
+                    si [f. 55a] est folie de fere une dame estrange mestresse de tout le païs, et de la
+                    metre devant les autres: la honte et le blasme en est tien et Menelaus son mari merra
+                    la guerre a bon droit contre vous. Or poues veoir et esgarder quele fiance tu pues
+                    avoir en cele dame que tu prises tant, que par si petite achoison a laisi&lt;é&gt;
+                    si haut home Menelaüs son mari, qui ore se tient a deceu des ses amors. Aussi t'en
+                    plaindras tu et ne le porras amender, ne ja n'en seras plains, car tu vois ja bien
+                    et sés sa fauseté et sa mauvese foi, et a ja sa loiauté et sa cha&lt;s&gt;teé faussee.</p>
+                    <lb/>
+                    <p xml:id="d001l69" n="14" rend="numbered">Elle t'aime, orendroit; aussi ama elle jadis Menelaüs que elle a ore laissié froit
+                    et veuve courroucié en son lit. Mes je t'eusse esté fine et loiaus ausi comme Andromaca
+                    a esté a Hector ton frere, mes tu es ausi legier comme la foille du tremble que li
+                    vens demaine a sa guise; tu ne pues en .i. lieu estre ne en .i. point; en toi n'a nulle
+                    fermece. Il me souvient bien que Cassandra ta suer, la bonne devineresse, me soloit
+                    dire et preeschier, et disoit: «O tu, Cenoine, pour quoi semes tu et coutives ci en
+                    vain le rivage, que ja fruit n'en cuilliras? Ce fais tu en Paris amant: une pucele
+                    vendra de Grece qui destruira toi et nostre maisnie et tout nostre pais. A, diex, de
+                    icels desfent nous! Ha lasse doulereuse, tant du sanc et de la mort de [f. 55b] Troie
+                    icele nef porte!».</p>
+                    <lb/>
+                    <p xml:id="d001l70" n="15" rend="numbered">Ha lasse, elle me fu trop bonne devineresse: icele mescheance que elle me sortissoit
+                    est ja venue. Et ja soit chose que elle soit belle de visage, si est elle avoutre et
+                    desloiaus; elle a laissié tous ses bons amis pour Paris qui estoit estranges; et si
+                    sceit on bien que Thesëus la ravi autrefois, et si dient aucun que il la rendi pucele,
+                    mes il fet ore bien a croire que joene jouvencel et chaut rendist bele damoisele pucele,
+                    quant il la tenist en sa poesté? Ice ne croirai je ja, car je sai que amour montent
+                    quant les .ij. partie sont d'un acort, et sai bien que puet monter.</p>
+                    <lb/>
+                    <p xml:id="d001l71" n="16" rend="numbered">Et se tu dis: elle n'en pout mes se l'en li fist force, je te respont: une se contregarde
+                    d'estre ravie; et ceste est sovent ravie, pour quoi nos poons savoir que elle se fet
+                    ravir de sa volenté. Mes Cenoine est bone et chaste dame, et ses maris est faus trichierres
+                    et avoutres, et si te deiist aussi trahir et decevoir corne tu as faite lié.</p>
+                    <lb/>
+                    <p xml:id="d001l72" n="17" rend="numbered">mout de fois [m'ont] chasciee et demenee li satiraus, et si ne &lt;me&gt; pout onques
+                    nuls avoir; et Phebus meismes, li grant dieu qui guarnist Troie, si m'ama par amours,
+                    et si me despucela, et si me deffendi je bien contre lui et li derompi les cheveuls
+                    et li visage o les ongles, ne ne li en demandai [f. 55c] onques ne or ne pierres pretieuses
+                    ne li demandai, comme font les autres fausses fames. Il me donna bon guerredon: il
+                    m'aprist l'art de medecine et me bailla les bones herbes et me dist leur poesté, si
+                    qu'il n'a bonne herbe el monde que je ne connoisse et que je ne sache sa vertu. Ha
+                    lasse chetive! Je connois toutes les herbes et si ne connois nulle qui me puisse valoir
+                    a ce que je me puisse tenir de toi amer et que je puisse faire que tu m'amasses. Lasse,
+                    a ce ne me puet valoir herbe ne force de racine.</p>
+                    <lb/>
+                    <p xml:id="d001l73" n="18" rend="numbered">Icil qui trouva la science fu pastors, et si savoit a soi et as autres donner consoil
+                    de toutes maladies; et si fu malades de nostre maladie, onques consoil ne se pout donner
+                    ne reconfort. Ha, biaus amis, tu seuls me pues donner ce que Phebus li diex ne herbe
+                    ne medecine ne me pourraient donner, ce est santé et aide et confort; et tu le pues
+                    faire et je l'ai deservi. Aies pitié de moi, se j'en sui digne! Je ne port mie sanglantes
+                    armeüres ovec les Gregiois contre toi, mes je sui certes toute toue, et ai esté tous
+                    les jours de ma vie dés enfance; si te pri que je soie toe tant comme i a a vivre,
+                    pour ce que je ai esté toe tousjour tant comme je ai vescu.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c006" n="VI">
+                    <head>VI. Références à l§épître d'Hypsipyle à Jason</head>
+                    <p xml:id="d001l74" n="tit.">(Her. VI: Hypsipyle à Iasoni) <lb/></p>
+                    <lb/>
+                    <p xml:id="d001l75" n="1" rend="numbered">[f. 30d] Atant entrerent en mer et siglerent, car il orent bon vent. Mes quant il furent
+                    en haute mer, une fortune les prist qui mout les greva; car li oragez et la tempeste
+                    lor descousi la nef si que par force de temps arriverent en l'ille de Lepnes. Et là
+                    trouva il la roïne Ysiphylés, qui maintes fois avoit oï parler de sa biauté et de sa
+                    valeur, si le reçut a grant honnor. Et quant elle le vit, si s'entrefirent grant joie
+                    ense&lt;m&gt;ble, et la dame s'enamora forment de lui, et li dist l'achoison pour quoi
+                    il estoit parti de son païs; et demora tant avec la roïne que il out de lui .ij. enfans.
+                    Et l'iver fu passez et li printemps fu revenus, et la nef fu rappareilliee. Jason et
+                    si compagnon se vouldrent partir pour aler a Colcos, et au partir jura et plevi a la
+                    dame que il retourneroit par lui et l'espouseroit, et l'amenroit en son pais.</p>
+                    <lb/>
+                    <p xml:id="d001l76" n="2" rend="numbered">[f. 34a] Puis nagierent tant que il vindrent en Grece; et quant il furent a rive si
+                    furent receü a grant honneur. Et tost fu la novele espandue par tot [f. 34b] le païs
+                    que Jason estoit retournez, et que il avoit conquise la toison et avoit amenee la fille
+                    au roi du païs qui estoit Medea appellee, et qui estoit mout sage en l'art de nigromance.
+                    Peleüs meismes le reçut mout honorablement, combien que il en fust au cuer dolent.
+                    Isifilés meismes en oï la novele que Jason estoit en son païs retournés et avoit la
+                    toison conquestee, et avoit espousee Medea, la fille au roi Oetes. Lors li manda la
+                    roïne Isifilés une epistre qui contenoit que mout se merveilloit pourquoi il l'avoit
+                    ensint sa foi menue envers lié, et l'avoit ensint laissïe, lui et ses .ij. enfans que
+                    il avoit engendré de sa char. Puis le maudist et pria les diex que il li mandassent
+                    tel maladie en la char que home vivant ne l'en peüst aidier. Puis maudist Medea que
+                    ausint peüst elle estre veuve de Jason, et ses enfans peiissent morir de male mort,
+                    et elle meïsmes alast sus terre vagabunda et furtive. Et en tel maniere leur en avint
+                    il en la fin.<lb/></p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c007" n="VII">
+                    <head>VII. Herminé a Horesté</head>
+                    <p xml:id="d001l77" n="tit.">(Her. VIII: Hermione Oresti) <lb/></p>
+                    <lb/>
+                    <p xml:id="d001l78" n="1" rend="numbered">Ceste epistre envoia Herminé a Horesté.</p>
+                    <lb/>
+                    <p xml:id="d001l79" n="2" rend="numbered">Tu, Horestés, saches que je sui enclose et prise par force; et saches que li fils Achillés,
+                    fors et hardis resemblant a son pere, me tient outre ma volenté. Je me deffendi contre
+                    lui tant comme je poi, ne ne me pourent retenir toutes les fames et toutes les matrones
+                    qui avec lui es[f. 187c]toient. Si crioie a haute vois: «Orestés Horestés»; mes tu
+                    ne me pooies pas oïr; et li disoie que je avoie bon deffendeeur qui avoit nom Horestés.
+                    Et quant je fu en sa maison, je m'esraçoi tous mes cheveuls.</p>
+                    <lb/>
+                    <p xml:id="d001l80" n="3" rend="numbered">Tres douls amis chier et maris, si com tu m'as chiere met la mains as armes et me rescous.
+                    Il n'est nul si vil a cui l'en tollist buef ou vache de son estable, qui ne se combatist
+                    pour le ravoir; et tu seras plus lens et tardis quant ta fame te sera ravie? Certes
+                    tu devroies appareillier .m. nés a voille pour moi, et autant gent comment ont onques
+                    Dardanus, et mouvoir forte bataille. Ce n'est pas vergoigne de fer forte guerre pour
+                    sa fame: ne te membre que Pelopeüs est ton besaol? Et se tu ne vels dire que tu soies
+                    mon mari, si ne pues tu dire que tu ne soies mon mari, si ne pues tu dire que tu ne
+                    soies mon parent bien pres; et si ne pues tu noier ne l'un ne l'autre. Et puis que
+                    tu es mon parent et mon mari, me dois tu requerre et deffendre par double raison.</p>
+                    <lb/>
+                    <p xml:id="d001l81" n="4" rend="numbered">Mon pere me voult donner a fame a Eachidé, mes il ne savoit pas que tu me vousisses
+                    avoir. Certes quant tu me preïs a fame, tu ne feïs nuisance [f. 187d] a nullui; mes
+                    se je sui a Pyrrus laissiee, je sui certaine que tu en seras dolent et courrouciés.
+                    Et que dira Menelaüs mon pere quant il sara ceste novele, qui sceit l'amour qui est
+                    entre moy et toi? Bien pourra dire que li dieu sont courroucié vers son linage. Je
+                    sai bien que il prendra ses armes et me delivrera, et sera grant exemple a toute dames
+                    qui ont leur maris.</p>
+                    <lb/>
+                    <p xml:id="d001l82" n="5" rend="numbered">Et tu, qui es de grant lignage, ne fu Pelopeüs ton besaol? Et encore se tu savoies
+                    bien conter, es tu en la quinte lignie du dieu Jupiter; et si es fort et viguereus,
+                    et si as armes bones et noble qui furent de ton pere. Certes je vouldroie que elles
+                    fussent meilleur que elles ne sont, et si devraient il ore estre. Et vois et sceis
+                    certainement que Pirrus a mors tes parens et ravie ta fame; certes Eacidés l'en blasma
+                    forment, mes il n'en laissa riens a fere pour lui.</p>
+                    <lb/>
+                    <p xml:id="d001l83" n="6" rend="numbered">Or sui je enclose et desire ma char et mon visage, et le cuer et le corage m'enfle
+                    si fort dedens le cors que il me semble que toutes mes entrailles me doivent ardoir
+                    en ma poitrine de la grant ardeur de l'ire que je ai pour toi. Car se je eüsse espee
+                    ou coutel autre chose de quoi je me pourroie occire, je m'occiroie. Je pleure [f. 188a]
+                    et ai bien achoison de pleurer, et espandant l'ire de mon cuer espans mes lermes par
+                    mon sain. Tousjours pleure et tousjours cuerent mes lermes par mon visage, que il taingnent
+                    mes joës. Et je croi que ceste destinee est a nostre lignage. Je ne te vuil pas raconter
+                    les ystoires de Cinus, qui fu mué en oisel de lac et d'estan; ne cele de Castor ne
+                    de Polus; que je ne soie muee en diversse semblance, et que je n'ensuie autre nature
+                    que la mie. Mes je ensui les destinees des dames de Grece qui ont esté ravies; mes
+                    la doulor qui me tient ne m'en laisse ramembrer.</p>
+                    <lb/>
+                    <p xml:id="d001l84" n="7" rend="numbered">Il n'a persone en l'oste&lt;l&gt; qui pour moi ne soit courroucié: la vielle ploroit,
+                    sa suer ploroit, les .ij. petis enfans pleuroient quant il me virent taillier mes cheveuls,
+                    et je criooie: «Laise moi, laise moi». Sa mere n'i estoit pas, ne sa fame, ne Pelopia;
+                    se sa mere i eüst esté, elle eüst bien reprise l'iniquité de son fils. Et si sai je
+                    bien que se Achillés i eüst esté, il n'eüst pas soffert ceste injure; ne pour l'outrage
+                    de son fils eüst pleuré le mari pour sa fame qui li eüst ostee par force outre sa volenté,
+                    ne que les yres des dieus fussent esmeües. Pour ce te pri je, aies merci de moi ou
+                    je me puis [f. 188b] plaindre de la vertu des planetes.</p>
+                    <lb/>
+                    <p xml:id="d001l85" n="8" rend="numbered">Je estoie petite et jonete quant je n'avoie ne pere ne mere; et combien que il fussent
+                    tous deuls vif, si estoie je veuve de l'un et de l'autre. Quant je estoie petite et
+                    jonete pucele, je ne te prioie pas d'amer par amours, ne ne metoie pas mes bras a ton
+                    col, ne ne me seoie pas en ton giron, ne ne penssoie de riens a toi prendre pour mari
+                    quant je entrai es chambres. Certes quant je te vi premierement, je ne te connoissoie,
+                    mes tu cuidoies que fusse Heleine et deïs: «Je croi que ceste est la plus belle fame
+                    du monde». Je te fu livree et fui avec toi; et ores m'a Pyrrus ravie, et dit que ceste
+                    part veult pour soi. Ceste avons nous pour la destruction de Troies.</p>
+                    <lb/>
+                    <p xml:id="d001l86" n="9" rend="numbered">Mes encore me semble que nulle roïne n'est si doulereuse com je sui; car quant vient
+                    la nuit, que il me couvient couchier en cel lit triste et doulereus, je i pleure quant
+                    je i doi dormir, et fui celui aussi comme ennemi mortel. Aucune fois est que il ne
+                    me recorde la ou je sui ne en quel lit, et je estens mes bras et le touche, et sens
+                    sa char et ses bras, et tantost je me trais arriere; et me semble que mes mains en
+                    sont toutes conciliees.</p>
+                    <lb/>
+                    <p xml:id="d001l87" n="10" rend="numbered">Je pri, qui sui malaventureuse, tous mes parens et les tiens, ou [f. 188c] que il soient,
+                    en mer ou en terre, en leur roiaumes ou en autrui. Et pri et requier les os de mes
+                    parens, de mon oncle et de mon aiol, que forment sont enfermé en leur sepulture, ou
+                    que il me doingnent la mort, ou que il me delivrent de la ou je sui.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c008" n="VIII">
+                    <head>VIII. Adriane a Theseo</head>
+                    <p xml:id="d001l88" n="tit.">(Her. X: Ariadne Theseo) <lb/></p>
+                    <lb/>
+                    <p xml:id="d001l89" n="1" rend="numbered">Ceste epistre manda Adriane a Theseo.</p>
+                    <lb/>
+                    <p xml:id="d001l90" n="2" rend="numbered">A toi, Theseu, mande je en priant que tu lises ceste letre, et saches que il me semble
+                    que je t'ai trové plus sauvage et plus estrange que nule maniere de beste qui soit
+                    au bois, et si me merveil mout comment ta nef t'en pout emporter sans moi: par toi
+                    est perdu le dormir et le reposer, et par ta cruaulté le repos.</p>
+                    <lb/>
+                    <p xml:id="d001l91" n="3" rend="numbered">Je vi le temps que les arbres estoient foillu et li oisillon chantoient sus par desous
+                    les umbres des foilles, et nous jesions desous et tu si me touchoies de tes mains au
+                    resveillier. Or sui je en mon lit la nuit toute seule, et tourne et estens mes bras
+                    de ça et de la, et ne trueve riens, adont me retourne et ai paour; et lors me lieve
+                    de mon lit sans compagnie comme veuve, puis bat et fier ma poitrine de mes mains et
+                    esrache les chevels de ma teste.</p>
+                    <lb/>
+                    <p xml:id="d001l92" n="4" rend="numbered">Et quant la lune raie et li temps est cler, je ne fais autre se non reguarder en la
+                    mer, [f. 81a] mes ce que me vaut? car autre chose ne voi se non l'eau. Puis quant li
+                    jours est venus, je cour et racor de ça et de la par le sablon de la mer, qui m'empeeche
+                    les piés, et crie a haute vois «Theseu Theseu», et tant de fois com je te clame tante
+                    fois te appellent la concavité des valees, et me semble qu'il ont pitié de moi chetive,
+                    car il me vuellent aidier a toi clamer. Puis monte sus les montaignes et crie a vois
+                    lasse et enröee, mes les eaus ne me respondent riens. Puis me complains as vens de
+                    leur cruauté, et cuide que je doie tousjours veoir nés venans; et tant demeure la que
+                    je sui toute engelee, mes le desir de toi seurmonte la douleur. Aprés m'escrie: «Ou
+                    fuis tu Theseu? pour quoi t'en fuis tu Theseu? retorne ta nef en ça, car elle n'a pas
+                    son droit vent». Tout ce ne me vaut riens, lors pleure et crie et bat ma poitrine.
+                    Au mains se tu ne me pues oïr et tu me pues veoir si me fai signe de tes mains.</p>
+                    <lb/>
+                    <p xml:id="d001l93" n="5" rend="numbered">Puis met une bianche couverture devant mes oils pour veoir plus loins, et j'avoie ja
+                    perdue la veüe de toi, lors commencai a bagnier mes joies de mes lermes. Et quel autre
+                    chose pooient fere mes oils se non pleurer, quant je avoie perdu la veüe de tes voilles?
+                    Lors couru comme dervee, et [f . 81b] ne savoie ou je estoie, et montai sus une pierre
+                    pour regarder plus loins en la mer, et ausi froide et ausi müe estoit la soiant comme
+                    le siege.</p>
+                    <lb/>
+                    <p xml:id="d001l94" n="6" rend="numbered">Lasse, quant je me tourne en mon lit, ou nous soulions estre tous deuls ensemble, et
+                    je m'i truis toute seule, et je sercne pour toi pour moi eschaufer et soulacier avec
+                    toi, et je ne sai la ou tu es, tout mon lit baigne de lermes et di: «Lasse, pour quoi
+                    est ce lit departi? nous venismes ci tous .ij. ensemble, pour quoi ne nous partismes
+                    nous tous deuls ensemble? or est la greigneur partie de ce lit toute vuide». Lasse,
+                    ou irai je toute seule? En ceste ysle me semble que je ne voi autre se non labour de
+                    bués. Ce païs est tout avironné de mer, ne nulle nef n'i puet arriver; ne n'est marinier
+                    si hardi qui se osse metre a venir pour la voie douteuse. O Ëolus, abaise les vens
+                    et assouage le temps, que je puisse suirre les estraches desireuses. Mes a moi semble
+                    que la terre paternel le contredit.</p>
+                    <lb/>
+                    <p xml:id="d001l95" n="7" rend="numbered">Je te pri que tu me mandes nef et compagni&lt;e&gt; par quoi je puisse aler la ou je
+                    desire. Et ensint sera enguenné mon lignage par moi et par mon fet, quant je passerai
+                    cent cités en Crete pour toi. Et ne te recorde que tu me disoies, quant nos estions
+                    nous .ij. sous une couver[f. 81c]ture? Tu me disoies et juroies par tous les perils
+                    qui pueent avenir que je seroie toue et que je iroie avec toi, se je le te voloie prometre.
+                    Or es de la et je sui de ça, ne tu n'es mien ne je ne sui tue, et si croi que je mourrai
+                    pour ta fausse promesse; miels me fust avenu se mon frere m'eüst tuee que tu eüsses
+                    rompue ta foi envers mi.</p>
+                    <lb/>
+                    <p xml:id="d001l96" n="8" rend="numbered">Je ne pensse mie tant seulement a ce que je doi souffrir, ains pensse a tout ce que
+                    puet soff&lt;r&gt;ir fame qui a son mari perdu. .M. ymaginations et .m. penssees me
+                    vienent le jour, qui m'amainent volenté de perir, et pis me fet la 70 demoree de la
+                    mort que la mort meismes. Et je, qui fu fille du roy Minos et fille de Phebus, pensse
+                    que mils me seroit que les leus me devorassent; et par aventure en cel païs a tygres
+                    et lyon, ou en la mer balaines et grans poissons. Et qui me contredit que je ne me
+                    face devorer as bestes ou as poissons? ou qui me tient que je ne me bote .i. glaive
+                    par mi le cors? Mendre paine me seroit d'estre liee en une chaene en une obscure prison,
+                    ou que je russe menee serve: toutes ces choses me seroient plus legieres a souffrir
+                    que recorder les couvenances que tu m'eüs en convenant.</p>
+                    <lb/>
+                    <p xml:id="d001l97" n="9" rend="numbered">La [f. 81d] mer et la terra me donnent achoison de paour; le ciel meismes me menace
+                    et les diex qui sont desus; et les homes qui habitent en ce pais ne sont pas par aventure
+                    de bone foi, et si redoute mout la seignorie des gens d'estrange contree. Pleüst a
+                    Dieu que Androgeüs mon frere, qui estoit demi honme et demi buef, que tu ne l'eüsses
+                    pas tué, ne que je ne t'eüsse donné le fil que je avoie filé de mes mains, qui te moustra
+                    ta retournee. Je ne me merveille pas se victoire te suit, quant les comes de Androgeüs
+                    ne te firent mal.</p>
+                    <lb/>
+                    <p xml:id="d001l98" n="10" rend="numbered">Or es alés a Troies combatre pour estranges amour. Quant il me recorde del bon dormir
+                    et del douls repos, bien puis ore dire que il me sont cruel, qui m'ont donné perpetuels
+                    tourmens. Tu me juras par la foi tue et par les diex des vens que tu me tendroies foi
+                    et loiauté, mes je sui certaine que je serai enguennee par toi; car je ne verrai ja
+                    la mort de ma mere, ne ne sera persone a ma mort qui bien me vuille &lt;clore les oils&gt;,
+                    quant mon esperit istra foleable par diversses regions de l'air; ne ne serai ensevelie
+                    par main de ami ne de parent, et remaindra ma char sus terre viande as oisiaus, et
+                    mes os seront souster[f. 82a]rés en la rive de la mer dedens le sablon par le deboutement
+                    de eaus, et de tel sepulture sont mes os dignes.</p>
+                    <lb/>
+                    <p xml:id="d001l99" n="11" rend="numbered">Tu iras par aventure par les pors de Troie et tu raconteras tes fes en la compagnie
+                    des haus et des nobles homes, et raconteras la mort du Minotaure mon frere; et la mort
+                    de moi pour quoi celeras tu, qui m'as laissïe seule sans esperance? Se les diex vousissent
+                    que tu me veïsses ains que la mort, et que je doulereuse et triste eusse veü ta figure
+                    ançois que je morisse, tout mon esperit en serait reconforté. Mes combien que je ne
+                    la puisse veoir des oils de mon chief, si est elle tousdis devant les oils de ma pensee.</p>
+                    <lb/>
+                    <p xml:id="d001l100" n="12" rend="numbered">Quant je vais sus la rive de la mer et je regarde les eaus que le vent deboute, et
+                    je regarde mon chief, de quoi je ai mes chevels esrachiés, et ma robe pesant et honnie
+                    de mes termes, lors ne t'aoure je, ne ne te desire pour ton bienfet, ne ne vuil que
+                    tu me saches gré de ta promesse, mes je saroie volentiers pour quoi tu es cause de
+                    ma mort. Et ceste epistte t'envoie je en plorant, requerant que tu vuilles tost retourner
+                    avant que je m'ocie pour ta longue demoree. [f. 82b]</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c009" n="IX">
+                    <head>IX. Ciriaché a Machareo</head>
+                    <p xml:id="d001l101" n="tit.">(Her. XI: Canace Macareo) <lb/></p>
+                    <lb/>
+                    <p xml:id="d001l102" n="1" rend="numbered">Ceste epistre envoia Ciriaché a son frere Machareo. [f. 142d]</p>
+                    <lb/>
+                    <p xml:id="d001l103" n="2" rend="numbered">Tu frere, qui liras ceste epistre, regarde la des oils de ton cuer, et si ne te merveille
+                    pas se tu ne la pues bien liere; car quant je l'escrivoie, je tenoie en la destre
+                    main la penne et en l'autre le quenivet, et estoit le s parchemin en mon geron sus
+                    mes genouls, et couroient les lermes par mes joës et chaoient jus si comme tu vois.</p>
+                    <lb/>
+                    <p xml:id="d001l104" n="3" rend="numbered">Quant je regarde ton ymage, il me semble que il est bien semblant a la semblance de
+                    nostre cruel pere. Je voudroie volentiers que il eüst occis et moi et toi, et que
+                    il, par nostre mort, eüst effacié la vergoigne qui est devant nos eyex. Et qui est
+                    cil qui pourroit regarder nostre grant douleur sans pleurer? et que me proufiteroit
+                    de celer nostre honte, ne appeller les diex en nostre aide? Certes je croi que ma
+                    douleur ne pourrait estre plus doulereuse que elle est: mes douleurs sont devant moi
+                    si grandes que je ne le te saroie pronuncier.</p>
+                    <lb/>
+                    <p xml:id="d001l105" n="4" rend="numbered">Ha, Machairé, pour quoi vint celle heure si tost en la quelle tu etis volenté de venir
+                    a mon lit? Halas, pour quoi t'amai je plus que suer? pour quoi te cru je plus que
+                    frere? pour quoi te fis je onques autre chose que suer ne doit fere a frere? pour
+                    quoi m'eschaufa amour avec toi et obliai les diex? Bien en doi avoir au cuer douleur!
+                    La couleur s'est partie de [f. 143a] mon visage; je sui amaigrie et ne puis mengier
+                    se non pou de viande, et encore outre ma volenté. Je ai perdu le somme et ne puis
+                    dormir, et me pert la nuit si longue comme .i. an; et me plaignoie sans douleur que
+                    je eüsse, et ne savoie que je avoie. Ma norrice s'en aperçut premierement et me dist:
+                    «Certes, belle fille, tu aimes par amours»; adont ou je grant honte, et me commença
+                    le vis a rougir et ne li osai respondre.</p>
+                    <lb/>
+                    <p xml:id="d001l106" n="5" rend="numbered">Tost aprés me commença le ventre a enfler et a devenir le cors pesant et grief. Ma
+                    nourrice me fist despouillier toute nue et me mist la main sus le ventre, et senti
+                    bien l'uevre comme elle estoit, et me dist vraiment que je estoie grosse.</p>
+                    <lb/>
+                    <p xml:id="d001l107" n="6" rend="numbered">Quant li novisme mois fu acomplis, si m'assaillirent les douleurs et ne savoie que
+                    je deüsse faire. Je ne me poi tenir de crier, et ma norrice me deffendoit que je ne
+                    criasse et que je ne manifestasse mon pechié par ma noise ne par mon cri, mes je ne
+                    poi tenir que je ne criasse pour la grant douleur que je sentoie. Et la vieille si
+                    m'estoupoit la bouche, et avoie si grant paine que il n'estoit nuls qui le peüst croire;
+                    ne n'osoie crier, car la honte et la norrice le me deffendoient; ne ne pooie autre
+                    faire se non que pour la grant doleur je bevoie les lermes de mes [f. 143b] yex.</p>
+                    <lb/>
+                    <p xml:id="d001l108" n="7" rend="numbered">La mort estoit devant moi, ne nulle voisine ne me voloit aidier; mes ma norrice me
+                    confortoit et me disoit: «Belle fille, conforte toi, et ne laisse perdre .ij. cors
+                    par ta deffaute. Soies certaine que tes freres t'espousera. Aies bonne esperance en
+                    ton enfant, en ton baron et ton frere». Et je meismes pensoie que grant blasme me
+                    serait se je me laissoie perir par ma defaute, et que tu venisses rompre tes cheveus
+                    et ta robe sus mon sepulcre; lors pris vigour et esfantai, et mis hors la charge de
+                    mon ventre. Et cuides que je fusse lïe quant je veooie ton vitupere et le mien el
+                    milieu de la sale? Et si l'esmouchasse as branches d'olivier, et la vielle nourrice
+                    li chantoit ses chançons pour endormir.</p>
+                    <lb/>
+                    <p xml:id="d001l109" n="8" rend="numbered">Lors que ces choses se faisoient ensint, le jour que je avoie enfanté vint Eloüs mon
+                    pere et entra en la sale, et commença fort a crier ma vergoigne a haute vois devant
+                    toutes gens. Puis prist .i. baston et me bati tant la char que il la fist toute noire,
+                    et me laissa pour morte en mi la maison; et la vielle li crioit merci que il ne creüst
+                    pas as mauvaises paroles. Adont prist il l'enfant et le fist porter au bois pour devorer
+                    as bestes sauvages; et si tost com il fu parti de la chambre si i entra mon oncle,
+                    et m'aporta une espee, et me [f. 143c] dist que mon pere la me mandoit et que je n'aroie
+                    autre douare de lui; et je lui respondi que je ne vuil combatre contre ma poitrine.
+                    Et si entendi bien que ce senefioit, et me commanda que je ississe hors de la maison
+                    mon pere ou il me geteroit en .i. feu.</p>
+                    <lb/>
+                    <p xml:id="d001l110" n="9" rend="numbered">Et pour ce vous prie je toutes, sorelles et amies, que vous aiés exemple de moy, et
+                    que vous praigniés mari avant que vous faciés semblable folie comme je ai fete, et
+                    que il ne vous en aviegne comme il est fait a moi, qui ai perdu mon enfant et l'a
+                    son aol geté as lous et as bestes sauvages, qui n'estoit pas encore bien nez. Et comment
+                    pout avoir mort deservie qui jamais ne fist ne ne penssa iniquité? Ha fils, quel douleur
+                    es tu a ta mere triste et dolente. Pour quoi es devoré des bestes sauvages? Comme
+                    triste aliance d'amour sera demoree par toi. Ce jour t'est premier et derrenier.</p>
+                    <lb/>
+                    <p xml:id="d001l111" n="10" rend="numbered">Ha lasse, quel cruauté est ceste que li dieu n'ont pas voulu que je pleurasse sus
+                    ton sepulcre, ne que je m'eschevelasse sus ton cors. Les bestes ont devoré tes entrailles;
+                    certes aussi devor&lt;er&gt;ont elles les mies. Je m'en irai tant par le bois que
+                    je trouverai les os de mon enfant et sercherai tant que je les trouverai; et les bestes
+                    meismes qui l'ont [f. 143d] devoré, qui me devoreront avec lui; car veuve ne mere
+                    doulereuse ne vul je estre clamee.</p>
+                    <lb/>
+                    <p xml:id="d001l112" n="11" rend="numbered">Or te pri je hublement que tu vuilles recuillir les membres de ton fils et de ta suer
+                    et metre ensemble en .i. sepulcre, et si te ramembre de nous. Et misericordieuse et
+                    piteuse chose est quant l'amant reçoit les membres de s'amie et leur donne sepulture.
+                    Et soit ma fin et ma douleur exemple a toutes autres fames a tous temps a venir.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c010" n="X">
+                    <head>X. Laodania a Protheselao</head>
+                    <p xml:id="d001l113" n="tit.">(Her. XIII: Laodamia Protesilao) <lb/></p>
+                    <lb/>
+                    <p xml:id="d001l114" n="1" rend="numbered">Tandis que li prince estoient ensint, envoia Laodania ceste epistre a Troies a Protheselao
+                    son mari.</p>
+                    <lb/>
+                    <p xml:id="d001l115" n="2" rend="numbered">Ausint com vraie amour requiert, a toi Protheselao je Leodonia salus et toute [ma]
+                    pensee. Mon chier amé, je pense chascun jour quel vent et quel contraire puet estre
+                    cause de ta demoree. Je penssoie, quant tu te partis de [f. 64c] moi, que tu deüsses
+                    tost retourner. Pleüst a Dieu que li vens t'eüst esté contraire et que il ne t'eüst
+                    laissié esloignier de moi; mout fist a celle heure Neptunus de moi et de toi dure
+                    departie. Quantes fois me baisas tu a la departie et je toi, et quantes choses t'eüsse
+                    je dites que je te diroie volentiers. Certes, li nautonnier qui t'emmenerent n'orent
+                    mie tel vent comme je desiroie; il fu bon pour euls, mes il fu cruel et angoisseus
+                    pour moi. Et quant tu te partis de moi, tu me laissas si courroucie que a paine te
+                    pou je dire adieu.</p>
+                    <lb/>
+                    <p xml:id="d001l116" n="3" rend="numbered">Tant te reguardai et tu moi comme nous nous peusmes entreveoir; et quant je ne te
+                    pou plus veoir, si reguardai je les velles si longuement que je ne vi riens fors la
+                    mer. Et quant je fu retournee a l'ostel, si me pasmoi que a paine Phidius mon suegre
+                    me pout a paine faire retourner en ma memoire avec eau benoiete.</p>
+                    <lb/>
+                    <p xml:id="d001l117" n="4" rend="numbered">Mes ce que me valut? Quant le sens et la memoire me furent retournés et ma doleur,
+                    onques puis ne pignai mes cheveus, ne ne vesti robe precieuse, ne ne fu ma poitrine
+                    paree; mes tousdis puis ai portee ma teste couverte de un gros drap depeuls de unicorne.
+                    Et ne vest autre robe se non cele qui est toute abevré et destainte des lermes de
+                    mes oils; et vais ça et la comme [f. 64d] forsenee, la ou fureur et ire me conduient.
+                    Les dames et les voisines s'assemblent entour moi pour moi reconforter; l'une me dit:
+                    «Bele fille, ostes ceste robe soillié de lermes et de pieurs et vestes autre robe
+                    precieuse et alons a la feste». Et je, lasse, comment vestirai je robe precieuse et
+                    mon ami ara vestu hauberc gros et pesant? et comment aournerai je ma teste et mon
+                    ami avra le heaume grief et pesant entour la teste? et comment pourroie je estre en
+                    joie ne em baudor n'en repos quant je sai que tu es en paine? Certes, tout ensint
+                    vuil je ma vie mener en tristece et en pleur, comme je sai que tu uses la toue en
+                    paine et en travail.</p>
+                    <lb/>
+                    <p xml:id="d001l118" n="5" rend="numbered">Ha, Priant, comme la biauté de ton fils Paris m'est cause de grant douleur et a toi
+                    de grant domage. Pour quoi doit estre Protheselaus vengeeur d'autrui mesfet? Et ensint
+                    prie les diex que, ausint comme il te donnerent volenté d'aler, que il te doi&lt;n&gt;sent
+                    achoison de retourner. Certes je ai grant paour que maintes lermes n'en soient encore
+                    pleurees d'autres que de moi; et encore en seront veuves maintes dames pour ceste
+                    achoison.</p>
+                    <lb/>
+                    <p xml:id="d001l119" n="6" rend="numbered">Chiers amis, se tu vas en bataille je te pri que tu te gardes d'encontrer a Ector
+                    ne a Paris. Dous amis, si com tu m'as chiere, garde toi de [f. 65a] euls; se tu te
+                    guardes de euls .ij., tu seras seür de tous; et se tu ne le fais, avec toi me convendra
+                    a grant douleur mourir. Ha, quantes dames en remaindront dolentes, mes je croi que
+                    nulle ne sera pareil a moi [en ire] et en douleur. Chier ami, remembre toi de ma priere:
+                    garde toi! car se tu te gardes, tu me gardes, et mon sauvement est el tien.</p>
+                    <lb/>
+                    <p xml:id="d001l120" n="7" rend="numbered">Laisse combatte Menelaüs contre ses ennemis. Et que apartient a toi se Paris li a
+                    fait tort et injure? Laise requerre le mari sa fame; ta cause et la sue ne sont pas
+                    per, car a toi n'apartient de combatre pour autrui amie, car tu l'as bone. Et encore,
+                    te pri je, entre tous les Dardaniens garde toi de un que de un que je t'ai nommé,
+                    car se il espant ton sanc il gaste ma vie. Quel raison ou quel forsenerie te muet
+                    de fere metre fer agu encontre ta poitrine ou de metre [lai] a autrui pour la fame
+                    Menelaüs? Laisse combatre les amans pour leur amies, car plus viguereusement se combat
+                    qui pour amors se combat. Je vuil que li autre se combatent pour leur amors, mes je
+                    desire que Protheselaus aint.</p>
+                    <lb/>
+                    <p xml:id="d001l121" n="8" rend="numbered">Quant tu issis de ta cité pour aler a Troie, tu te blechas au pié a l'issue de la
+                    porte de ta cité. [f. 65b] Certes, quant je le vi, je en fu mout dolente au cuer;
+                    mes je pri les diex que ce fust signe de tost retourner. Mes li auscupices et li sortisseeur
+                    me distrent que ce estoit mauvés signe et perilleus, et pour ce te recorde je que
+                    tu te gardes, car je ne sai a quel chief cel signe te pourra venir; et se tu fais
+                    ce que je prie, tu seras hors de tous perils. Je pri les diex que tes voilles soient
+                    derrenieres au port, et si te pri que de mil nés la toue soit la derreniere et que
+                    tu isses le derrenier, car celle terre ou tu vas n'est pas de tes parens, ains est
+                    de tes ennemis. Tien toi derrieres, et n'aies pas hastes de descendre.</p>
+                    <lb/>
+                    <p xml:id="d001l122" n="9" rend="numbered">Toutes les fois que il me souvient de toi, soit au matin ou au soir, si me renouvelent
+                    mes douleurs: de jour, que je ne te voi; de nuit, que je ne te trais delés moi. Et
+                    pis me fait et plus dolente sui la nuit que le jour, car de tant com li solas est
+                    plus pres est il plus delectables. Et quant je sui seule en mon lit et je dors, en
+                    dormant pensse je a toi, et me retourne et retourne, et me semble que je te tien embracié,
+                    et ensint me delitent les fauses joies, quant les vraies ne puis avoir. Je ne sai
+                    pour quoi [f. 65c] la representation de ton ymage me vienent si souvent devant les
+                    yex de mon cuer, et pour quoi tant de complaintes de toi me vienent en dormant.</p>
+                    <lb/>
+                    <p xml:id="d001l123" n="10" rend="numbered">Certes por ce fais chascun jour sacrefices d'e&lt;n&gt;cens et de precieuses fumigations;
+                    et je meismes arrouse tout l'autel de mes lermes, et prie les diex devotement que
+                    il te vuillent tost ramener et me vuilles dire et raconter en ton lit bras a bras
+                    les fes de ta prouesce. He Diex, quant poura ce estre? Cil dous secours trop mi tarde
+                    a venir. Mes je ai la paour si grant que toute l'esperance s'en fuit; puis me semble
+                    que li vens et les eaus soient contraire a ta retornee ne ne te laissent retourner
+                    de ça.</p>
+                    <lb/>
+                    <p xml:id="d001l124" n="11" rend="numbered">Alas, que je ai grant envie des dames de Troie novelement mariees, qui armeront leur
+                    maris et, au heaume metre, et si s'entrebaisent doucement. He Diex, com delecteus
+                    office est celui. Bien doit tels hons combatre viguereusement qui a les noveles prieres
+                    de s'amie et voit sa maison devant soi et se combat pour la deffendre, et au retourner
+                    se repose entre les dous bras s'amie. Mes je sui tousjours en doute, et me muet paour
+                    a penser toutes choses qui peuent avenir que tu pues faire. Et qui [f. 65d] te reçoit
+                    en estrange païs, quant tu es lassés? Puis reguarde l'ymage de ta figure que je ai
+                    fait et fourmé en cire; si l'embrace et le baise, et parle a lui ausi comme s'il fust
+                    mes vrais maris. A la derreniere proiere de m'epistre, te requier, ou en demorant
+                    la, ou en venant ça, que tu te guardes et aies cure de toi pour moi.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c011" n="XI">
+                    <head>XI. Paris a Turidaridi</head>
+                    <p xml:id="d001l125" n="tit.">(Her. XVI: Paris Helenae) <lb/></p>
+                    <lb/>
+                    <p xml:id="d001l126" n="1" rend="numbered">Ceste epistre envoia Paris a Turidaridi s'amie.</p>
+                    <lb/>
+                    <p xml:id="d001l127" n="2" rend="numbered">A toi Ledea, je Paris, fils du noble roy Priant de Troie, salus tels comme desirent
+                    Solas et Joie. Je parlle et di mon salu par grant desir de cuer, mes dolent sui de
+                    ce que cele que je aime est si loins de moi. Mes li feus qui est cler ardant sus la
+                    mon[f. 91b]taigne ne se puet pas bien micier, et se tu n'entens ausi mon epistre com
+                    je meismes l'entens, mors sui et desconfit; mes biens la pues entendre par mes paroles,
+                    que tu as autrefois entendues. Je te pri que tu la parluises de bone volenté et ententifment,
+                    non mie selonc la duresce de ton cuef, mes selont ta debonnaireté et ta grant biauté;
+                    car ce que je te prie et requier m'as tu pieça promis et otroié, et ce que tu as promis
+                    doit estre ferme et certain.</p>
+                    <lb/>
+                    <p xml:id="d001l128" n="3" rend="numbered">Et a ce demander m'amonneste la deesse Venus et m'en moustre la voie, et a ce fere
+                    m'amonnestent les diex. Certes je requier et demande grans dons et nobles, mes nonpourquant
+                    il me sont deü, car tu les me promeïs en mon lit. Helas, pour quoi fu li vens contraires
+                    qui me mena si loing? et pour quoi me detient l'iver? Je te pri et requier les convenances
+                    que tu me feïs en nostre lit, et de ce requier je en tesmoignage la deesse Venus.
+                    Je t'amai ançois que je te conneüsse; je te vi ançois des oils de ma penssee que des
+                    oils de ma teste. Le premier message que je oï de toi si fu la renommee de ta biauté;
+                    et tu pues bien savoir et pensser que ton delit n'est pas parfet ne vrai sans compagnie
+                    de vrai ami.</p>
+                    <lb/>
+                    <p xml:id="d001l129" n="4" rend="numbered">Et si me semble que ta biauté est merveilleuse, car je trouvai en toi assés plus grant
+                    biauté que je [f. 91c] ne cuidoie trouver ne que la renommee disoit. Certes Teseüs
+                    fu meus justement quant il te ravi et mout fu de ce a loër; mes je ai grant merveille
+                    que il te voult rendre, car ce n'estoit pas proie de laissier. Et se t'eüsse eüe en
+                    ma poesté, ançois eüsse perdue la vie que je t'eüsse laïsie aler ne mener a autrui.
+                    Certes mes mains ne te pourroient laisier, ne ne voudroie que tu partisses d'entre
+                    mes bras. Et combien que la deesse Venus le me commandast, si ne te rendroie je jamais,
+                    sauve seulement se tu fusses virge; et encore vouldroie je avoir de toi quanque avoir
+                    s'en pourroit sauve la virginité. Si te pri que tu me tiegnes ce que tu m'as empromis.</p>
+                    <lb/>
+                    <p xml:id="d001l130" n="5" rend="numbered">En la valee d'Ide vindrent a moi les deesses Juno, Venus et Palas, et sousmistrent
+                    leur cors a mon jugement; et je t'ai plus essaucïe et desiree que fame qui soit en
+                    nul roiaume. Se la deesse Palas m'otroiast tant par sa grace que je te peüsse metre
+                    mes bras au col, toute ma vertu en serait contente. Je ne me doi pas repentir se je
+                    t'ai esleüe devant toutes autres fames. Ma penssee est tousjour ferme en ceste volenté;
+                    plaise toi que ceste esperance ne soit sans effet. Je ne desir pas que li mariages
+                    de moi et toi soit ennormale ne vicieus, ne ne dois pas penser [f. 91d] que je te
+                    vuille maintenir autrement que dame honneste.</p>
+                    <lb/>
+                    <p xml:id="d001l131" n="6" rend="numbered">Si te plaist a enquerre la noblece de nostre lignage, tu trouveras bien Jupiter el
+                    numbre de nos parens; des antiens pues tu bien pensser la dignité. Les confines de
+                    nostre païs sont si loins estendues que a paines le te saroie je dire, et avons cité
+                    adournees de palais et de temples et de hautes sales couvertes a or. Tu trouveras
+                    en la grant cité de Traies [le] noble palais de Ylyon, clos et avironé de haus murs
+                    et de noble toureles, et ouvré par art et par l'ensengnement des diex. Et que te pourroie
+                    je raconter du grant pueple qui est sougiet a nostre haute seignorie? Saches que il
+                    est si grant que a paine le puet la terre soustenir. Quant tu enterras en la noble
+                    cité, quantes dames nobles et ahornees te vendront a l'encontre; et verras en chascune
+                    maison grans avoirs et grans richesces.</p>
+                    <lb/>
+                    <p xml:id="d001l132" n="7" rend="numbered">Ha, quantes fois diras tu que Achaie ton pais est povre et chetif au regart du nostre,
+                    et despiras quanque tu as laissié la ou tu es nee, et diras que tu es beneüree quant
+                    par l'ordenance des diex es digne d'abiter en si noble lieu. A la fourme de cestui
+                    n'est nul autre semblable de grandeur, de noblece et de richesce. Il a plus dedens
+                    de de[f. 92a]lices et de soulas que tes oils ne pourraient regarder. Quant tu verras
+                    les riches sacrefices et les assemblees de nobles hommes et les dames de haut parage
+                    obeissans a ton commandement, je croi que tu ne me refuseras mie, ne ne seras pas
+                    dolente de ce mariage.</p>
+                    <lb/>
+                    <p xml:id="d001l133" n="8" rend="numbered">Quans parens verras tu dignes d'estre mis el nombre des diex; bien sai que Frigus
+                    fu le chief de nostre lignage, qui ore boit et mengiue ovec les diex souverains; Fris
+                    fu sa fille, que les diex ravirent de nuit. Ne n'aies pas paour que tu soies requise
+                    de mes mains ausi comme Menelaüs requert ore folement dame Helaine a force d'armes;
+                    de qui pues tu douter se tu es en la compagnie du fils Priant, qui est estrait de
+                    si noble lignie?</p>
+                    <lb/>
+                    <p xml:id="d001l134" n="9" rend="numbered">Je ai grant duel, quant vilain home te metra ses bras a ton col, et je te desire forment.
+                    Certes quant je pensse tel chose grant douleur m'en vient a cuer, ne chose que je
+                    menjue ne me fet prou. Souvent souspire de cuer quant je ymagine ta grant biauté,
+                    et a paine me pourrait autre chose reconforter. Aucune fois m'en sui voulu retraire,
+                    et de tant comme je m'en penssoie esloignier, je m'en trouvoie plus pres; quant je
+                    voloie mon cuer donner a autre pensee, adont ai je ta forme et ta biauté plus ymaginee
+                    en mon [f. 92b] courage. Pleüst as diex que tu sentisses les douleurs que je sens
+                    et que tu seüsses le desir de mon courrage.</p>
+                    <lb/>
+                    <p xml:id="d001l135" n="10" rend="numbered">Quant il me recorde de la belle compagnie que nous avons eü ensemble, tout mon sens
+                    et mon penser se muet a forsenerie; ne je ne te voudroie avoir par tel maniere comme
+                    out Cessus Eneida, que il out par force d'erbes, ne comme Synus out Ypodamia, qui
+                    fu mué en oisel. Nos forces et nos hardiesces se pourraient estendre a plus grans
+                    choses, mes par autre maniere ne te voudroie avoir, se non par hubles proieres et
+                    par ta debonnaireté; et si m'en voldroie encliner jusques a tes piés. Tu es honneur
+                    et gloire a tes freres, et seroies digne d'avoir Jupiter a mari, se tu ne fusses sa
+                    fille. Et se ta volenté est de moi refuser, je pri la terre que elle me vuille recoivre
+                    et couvrir. Les douleurs que je sens pour toi ne sont mie semblables a autres douleurs,
+                    ne douleur de plaie de glaive ne de saietes ne sont pas semblables a la moie; car
+                    ma douleur est en mon cuer, couverte de ma poitrine, et se par toi ne sont guaries
+                    les douleur que les diex celestiax m'ont mandee, je croi vraiement que ma suer est
+                    vraie devineresse.</p>
+                    <lb/>
+                    <p xml:id="d001l136" n="11" rend="numbered">Je te pri que de Helaine n'aies cure ne penser, ne que&lt;l&gt; chose [f. 92c] les
+                    diex aient ordena pour sa biauté; mes pensse a toi, et regarde comment les diex te
+                    pourront estre favorable. Assés de choses te pourroie je requerre, mes je ne desir
+                    autre se non d'estre avec toi bras a bras, ma poitrine contre la toue, par nuit, en
+                    ton lit. Ou par aventure tu te vergoignes, ou par aventure tu ne voudroies pas courroucier
+                    Helaine, ne vituperer par ta coscience loial mariage. Certes, Helaine est simple et
+                    ydiote, ne de li ne dois tu fere raison ne cure, ne de lié ne te vuil je autre vilanie
+                    mander, et je pri les diex que il te vuillent muer ta biauté ou te facent favorable
+                    a mes prieres. [12] Ta biauté est si grant que toute l'ymagination de ma penssee est
+                    en toi. Certes entre biauté et chasteé a grant discorde. Jupiter et Venus s'esjoïssent
+                    de tels fes, comme je te pri et requier; et aux meismes ne pueent blasmer autrui,
+                    car il ont fait volentiers semillantement. Mes quant tu seras a Troies, je vuil que
+                    tout le blasme de ta che&lt;ü&gt;e soit seur moi. Regarde et pren exemple des autres
+                    dames qui ont refusé mari, conment les diex ont ordené leur destinees; et nos par
+                    raison devons croire par exemple des autres, ne plus dous chastiement ne puet nuls
+                    recevoir. Je ne te pri pas que tu que croies du tot [f. 92d] a mes prieres, ne que
+                    mon amor te mueve de vrai entendement: ou tu cuides folement, ou le temps que tu atens
+                    t'enguennera.</p>
+                    <lb/>
+                    <p xml:id="d001l137" n="13" rend="numbered">Tu es toute seule la nuit en ton lit, et uses ton temps comme veuve chetive. Et je
+                    meismes puis bien dire semillantement, car je giés tout seuls ne autre compagnie ne
+                    m'atalente se non la toue, si que la compagnie devisee par cors est conjointe par
+                    corage; quant l'un et l'autre sunt ensemble, si est la joie parfete. Et la nuit que
+                    nous arons nos delis ensemble semblera a moi et a toi plus clere que jour. Et si te
+                    jure par les diex de l'enfer que je ne ferai jamais chose contre ta volenté, et te
+                    ferai roïne de quanque apartient a ma seignorie. Se tu te vergoignes ou as paour de
+                    venir a moi, je croi vraiement que ce n'est pas par ta coupe, mes par la moie; et
+                    en cel cas pourroie je estre semblable a Egypde ton selourge. Tes .ij. freres meismes
+                    ouvrerent autresint; et se je sui en cel numbre, je serai le quart en l'exemple des
+                    autres.</p>
+                    <lb/>
+                    <p xml:id="d001l138" n="14" rend="numbered">N'aies paour de venir ça, car en tout le monde n'a cité si bien garnie d'ommes et
+                    d'armes comme est la noble cité de Troies. Homes et fames et vilains istront dehors
+                    de la porte Dardanidés pour toi venir a rencontre, et t'emmerront [f. 93a] en la cité
+                    qui est roine des autres roiaumes. Tout li pueples cuidera que tu soies une deesse
+                    et t'aporteront encens et autres sufumigations, et feront sacrefices pour ta venue.
+                    Mon pere te donra grans dons, mi frere te feront grant honeur, ma mere et mes suers
+                    te guarderont; tout li pueple de Troies te fera honneur et profit, et te seront obeissant
+                    a ton commandement.</p>
+                    <lb/>
+                    <p xml:id="d001l139" n="15" rend="numbered">Tu ne dois pas avoir paour que soies ravie de mes mains. Croi moi, et n'aies pas paour;
+                    et soies certaine que tu seras vraiement plus grant dame et plus honoree que je ne
+                    te poroie escrire. Tu ne porroies pas savoir ma valeur ne ma force, ne ne porroies
+                    pensser quel homme tu avras a mari se je t'espouse. De moi ne pourras tu estre tolue
+                    par nulle force, et soies certaine que se je ne t'ai par amour, si t'avrai je par
+                    force, car a moi ne sera pas honte de muevre guerre pour toi. Se tout li monde estoit
+                    pour toi d'une part et nostre force de l'autre, si ne pourroit estre que par nous,
+                    que par la force des diex qui nous sont favorable, que tu ne fusses convertie a nostre
+                    volenté; ou autrement de toi seroit fet exemple a toutes celle qui, de ci en avant,
+                    refuseront mari plus digne d'elles. [f. 93b]</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c012" n="XII">
+                    <head>XII. Lacena a Paris</head>
+                    <p xml:id="d001l140" n="tit.">(Her. XVII: Helena Paridi) <lb/></p>
+                    <lb/>
+                    <p xml:id="d001l141" n="1" rend="numbered">Ceste epistre envoia Lacena a Paris.</p>
+                    <lb/>
+                    <p xml:id="d001l142" n="2" rend="numbered">Tu, Paris, saches et entendes que ton epistre a contaminé nostre veüe et nostre courage.
+                    Ne legiere chose ne brieve ne me semble pas de toi rescrire ne mander respons de ce
+                    que tu demandes; et me merveil par quel raison tu presumes violer legittime mariage.
+                    Et se tu veuls ça venir, tu troveras bien port qui te rechevra et cités fortes et
+                    puissans pour contrester a ta force; car autrement nous seroit grant honte et grant
+                    vergoigne de reçoivre ennemi por hoste. Et combien que il te paire que nostre cause
+                    soit vilane, toutesvoies elle est juste.</p>
+                    <lb/>
+                    <p xml:id="d001l143" n="3" rend="numbered">Saches que je sui chaste, sans nulle concieure, et puis chascun regarder el visage
+                    seürement sans nulle paour de reproche. Voirs est, et publique fame, que je me joue
+                    volentiers avec les homes, mes jamais ribaut ne se pout vanter de moi vilainement;
+                    et me merveil quel cause puet estre qui te muet de voloir moi requerre pour fame,
+                    ne quel entention te miet a venir ça. Voirs est que je [f. 96b] fui une fois ravie,
+                    mes pour tant n'est ce pas juste chose que je soie ravie de rechief. Le blasme fu
+                    plus grant que li pechiés. Se je fu ravie, ce fu contre ma volenté, ne celui qui me
+                    ravi n'out onques fruit de son larrecin, ne je meismes n'i ou onques se non paour,
+                    fors tant seulement que il me besa par force, ne autre chose n'emporta il du mien.
+                    Il me rendi de sa bone volenté sans corruption, et puet bien estre son blasme effaciés
+                    par sa discretion; et pert bien que il se repenti de son pechié.</p>
+                    <lb/>
+                    <p xml:id="d001l144" n="4" rend="numbered">Or veuls tu, Paris, succeder au pechié de son ravisement? Jamais ne me courrouceroie
+                    ne ne me merveilleroie que amis succedast par amour a l'autre, mes par faus semblant
+                    ne doit nulz entrer a conquerre amour de juste fame. Et ne cuides que je soie sans
+                    fiance et sans ferme esperance; souvent sont dames et puceles enguennees par faus
+                    dis, et pour ce ai je pou de fiance et de foi en tes paroles. Les autres fames ont
+                    pechié en leur ravissement, mes je retournai chaste comme je estoie avant; et si ne
+                    puis pas estouper les bouches des mesdisans, mes ja a Diex ne place que l'uevre suive
+                    le nom en ma persone.</p>
+                    <lb/>
+                    <p xml:id="d001l145" n="5" rend="numbered">Tu m'as raconté ton lignage et l'antique lig[f. 96c]nie dont tu issis. Jupiter fu
+                    mon pere, Tantalidés fu mon aiol, Pelopus et Tindareus furent de mon lignage: je sui
+                    estraite du plus noble commencement des homes. Tu es de Laomedon et de Priant, ce
+                    sceit chascun, et se je fusse toute seule si n'aroie paour de tout le pooir de Troie;
+                    et si ne di je mie que le nostre soit meneur du tien.</p>
+                    <lb/>
+                    <p xml:id="d001l146" n="6" rend="numbered">Tu me promés grans dons et grans richesces par ton epistre, ne ja pour quanque tu
+                    me pourroies doner ne gasterai l'onneur de ma chasteé; ou je garderai perpetualment
+                    mon cors sans vergoigne ou je t'ensuirrai et ferai ta volenté plus pour toi que pour
+                    tes promesses. Et si ne les despi je pas, car tousjour sont convenables les promesses
+                    que prometeeur fet; mes plus grans choses sont celes que tu desires, combien que je
+                    soie cause de ta douleur. Et ja soit ce que je me moustre chiere, si n'ai je volenté
+                    d'esprover tes fausetés. A toutes tes promesses et a tos tes dons renonce je; se je
+                    me vousisse otroier a ta requeste, je me humilierai. Et par ce pourrions concorder
+                    ensemble.</p>
+                    <lb/>
+                    <p xml:id="d001l147" n="7" rend="numbered">Ta presence est trop lointaine, et si peut bien estre que pucelle pourrait estre entre
+                    tes bras. Mes encore li serait miels de abstenir soi de blasme que estre en perpetuel
+                    blasme et vergoigne; car je vuil que tu saches que ce est grant ver[f. 96d]tu de se
+                    pooir abstenir des choses qui plaisent, et ensint le fais je, car je me sueffre de
+                    mainte belle chose combien que je la desire. Quans jouvenceaus cuides tu qui desirent
+                    et couvoitent ce que tu demandes? Et par aventure que tu i cuides estre toz seuls.
+                    Tu es le plus presumptieus de tous, et as mains el cuer que en la bouche. Je vouldroie
+                    bien que tu fusses le premier venu et je te eüsse le premier conneü. Je te promet
+                    que tu n'i vendras jamais a tens, car uns autres a ja ce que tu demandes. Je vouldroie
+                    bien estre ta loial moillier a Troies, mes je ne voudroie pas que ce fust ausi comme
+                    la fame Menelaüs.</p>
+                    <lb/>
+                    <p xml:id="d001l148" n="8" rend="numbered">Laisses ester tes proieres et tes dissimulations de paroles, car tu te fains amer
+                    et cuevres ton courage par fausses oppinions. Je te pri que tu ne desires pas priver
+                    moi de ma chasteé. Bien est voir que Venus t'a otroié a avoir la plus belle dame du
+                    monde, et que les .iij. deesses se despoillerent devant toi pour jugier leur biauté:
+                    l'une te promist force, l'autre sens, mes la tierce ne te promist pas que tu deüsses
+                    estre mari de Turidaridis. Et a paine puis je croire que les diex aient commis a ton
+                    jugement d'eslire moy pour la plus belle des autres; et se il est voirs que je soie
+                    la plus belle, l'autre partie [f. 97a] est enguennee. Et si n'ai je pas fiance que
+                    en moi soit si grant biauté. Je sui contente de la biauté que les diex m'ont donnee,
+                    et li home meismes la löent assés; mes de ceste löenge ne sui je pas courroucïe.</p>
+                    <lb/>
+                    <p xml:id="d001l149" n="9" rend="numbered">Et donques se ton premier delit est en moi, et les souveraines promesses des deesses
+                    sont en moi toutes acomplies. Et dont m'as tu avant eslevé sus la biauté et les honneurs
+                    que on dit de Heleine, ne que les promesses de Juno et de Pallas? Dont sui je vertus
+                    et force et noble regne? Bien seroie plus dure que fer s'ensint fust se je ne te daignoie
+                    amer. Certes, de fer ne sui je mie, mes je refuse celui que a paine puis je croire
+                    que il puisse estre mon mari. mout est fol celui qui are le rivage, la ou il ne puet
+                    cuidre fruit.</p>
+                    <lb/>
+                    <p xml:id="d001l150" n="10" rend="numbered">Je sui [rude] a celer le larrecin de madame Venus, et si te promet que tu n'en troveras
+                    nulle loial, de ce me sont les diex en tesmoignance, et ensint enguennons nous les
+                    homes par nostre art. Et ensint ces paroles que te mande ores ont double entendement.
+                    Beneureuses se pueent tenir celles qui ont l'usance du fet, mes je sui ignorante de
+                    tels choses et mi semble la voie dure et aspre. Et cuide que, se je faisoie aucune
+                    chose dehonneste, que chascun me regarderoit et [f. 97b] sai bien que ce serait verités;
+                    car je voi bien que chose ne se puet faire qui ne sceit sceüe communement. Ethra meismes
+                    si m'a dit: «Faing toi se tu ne le veuls laissier. Mes pour quoi le lairas tu quant
+                    te pues faindre? Joe toi et si te soulace, mes toutesvoies celeement».</p>
+                    <lb/>
+                    <p xml:id="d001l151" n="11" rend="numbered">Grant liberté nous est donnee, quant Menelaüs n'est ci presenti il est loing et si
+                    est deffaillant, et ce nous demostre voie de grant hardiesce. Quant je l'entendi,
+                    a paine me pou je tenir de rire et ne li pou respondre autre chose se non: «Ensint
+                    sera». Creten couvri son visage de son cuevrechief et aperçut bien que je me gaboie,
+                    et dist ausint: «N'est pas, mon mari?». En ce païs bien pourroie faire donques de
+                    moi a ma volenté. Plus grant chose est aucune fois le blasme que le fait; chose juste
+                    est avoir doutance de mal faire. Et bien dois savoir que li rois ont grant puissance.
+                    Et que me profite si je ai maintenant grace qui puis me tome a vergoigne et a damage?
+                    Et miels vaut la bone renommee. Et ne te merveille se il m'a laissïe ci avec toi,
+                    car il se fïe en ma loiauté: la bonté et la loiauté le fet seür, et la biauté le fet
+                    douter.</p>
+                    <lb/>
+                    <p xml:id="d001l152" n="12" rend="numbered">Et pour ce di je que nos devons estre chascune contente d'un home, que nos ne perdons
+                    par nous le temps de nostre franchise. Je me doute et [f. 97c] ai raison, et si ai
+                    doutance que nos poitrines ne toucheront ja ensemble. Et je n'ai homme et tu n'as
+                    fame, et ta biauté et la moie seroit bien sous une couverture. Et les nuis sont longues
+                    et nos ne faisons autre se non parler. Ha lasse, je mourrai se toutes choses ne sont
+                    contraires au blasme. Je ne sai pour quoi je m'atarde, si non que je ai paour. Diex
+                    vousist que tu me peüsses constraindre a bien faire, aussint comme tu m'asmonnestes
+                    a mal faire, et que ma vilanie fust rebutee de moi. Aucune fois est l'injure profitable
+                    a ceuls qui la sueffrent, et seroie beneuré se je fusse pourforcïe a bien fere.</p>
+                    <lb/>
+                    <p xml:id="d001l153" n="13" rend="numbered">Et quant l'amour est nouvele si s'i doit hon combatre; et quant li feus est petis
+                    si est il plus legierement estains. Il n'a vraie amor en hoste, car l'amour s'en fuit
+                    avec l'oste, car il s'en fuient quant on les cuide avoir plus certainement. Ce puis
+                    je bien prouver par Ysiphilés et par Minoia la pucele, qui ambedeuls furent enguennees
+                    de leur hostes. Et tu meismes amas Cenoine par pluseurs ans et puis l'as laissïe,
+                    ne tu meismes ne le nies pas. Et nous meismes avons mis grant paine a enquerre tous
+                    tes fais, je ne sai se tu le seis. Fai que tu soi[f. 97d]es fermes et constans en
+                    ce que tu aimes. Mes tes voilles ne le pourroient souffrir, et me larroies toute esbahie,
+                    et ensint s'en irait nos amours avec le vent.</p>
+                    <lb/>
+                    <p xml:id="d001l154" n="14" rend="numbered">Ou se je te sive a Troie et que je soie parente du grant roi Laomedon? Mes je ne sui
+                    pas si movable que je vuille que le païs et diversses contrees soient raemplis de
+                    mes vituperes. Et que pourroient dire les dames d'Esparte et d'Achaïe? et que pourroient
+                    dire les dames de Troie? et que pourroient dire toute la gent de Grece? que pourroit
+                    dire de moi li rois Prians et sa fame? que pourraient dire tes freres, et les nieces
+                    Dardanus? et tu meismes, comme porroies tu pensser que je te fusse loiale, qui par
+                    tes exemples me moustres de fere desloiauté? Et quiconques entrerra el port de Troies
+                    sera cause de ta continuel paour. Quantes fois me clameroies tu ribaude se tu estoies
+                    courroucié, et adont seroies tu feseeur et repreneeur de ce meisme pechié. Ançois
+                    que je le face ne que je m'i consente, je pri la terre que el me puisse englotir,
+                    ne que je vuille avoir ne tenir richesce qui soit en Ylion.</p>
+                    <lb/>
+                    <p xml:id="d001l155" n="15" rend="numbered">Plus noble choses me sont deüs et plus delitable qui me sont promises: je serai riche
+                    d'or et [f. 98a] d'argent, et serai vestue de pourpre. Je te pri que tu me doies pardonner,
+                    et je ne sai ore pour quoi ceste terre me retient. Et qui me pourroit secourra en
+                    la cité de Frigus se je i recevoie vilanie? Et ou pourroie requerra l'aide de mes
+                    parens? Quanque Jason promist a Medea fu deception et engennement. N'estoit pas Oethes
+                    son pere et Casiopé sa tante? Je ai paour que autel ne me viegne et mout le redoute.
+                    Mes Medea n'en out pas paour, et pour ce fu elle enguennee. mout d'exemples pourroie
+                    trouver, mout de choses m'espoantent: et les dis de ta suer, et les divinoisons des
+                    poëtes qui dient que le palais d'Ilyon sera ars et mis en cendre, et durra pou ta
+                    vie. De toutes ces choses ai je paour; et certes je n'ai pas paour ne ne doute pas
+                    que tu ne me deffendisses contre tous a ton povoir. Halas, doi je penser que nos amours
+                    se maintiegnent par armes et par bataille? Car elle est contrare a toute leesce, se
+                    victoire ne s'en suit.</p>
+                    <lb/>
+                    <p xml:id="d001l156" n="16" rend="numbered">Encore me desconforte je de toi quant je te voi si lent et si pereceus contre Menelaum.
+                    Tu parles assés, mes tes fais n'en suient pas tes dis: parle mains, et fai miels.
+                    Et se tu l'eüsses apris et maintenu, [f. 98b] je eüsse ajousté plus grant foi en tes
+                    promesses. Ton cors et ta persone est plus convenable a Venus que a Mars: laisse combatre
+                    en champ les autres, et je te conseille que tu aimes. Prie Hector que il se combate
+                    pour toi, car li dieu l'ont fourmé a ce et les nommes l'en portent tesmoig. Tes fes
+                    ne sont pas digne de bataille et se je peüsse, par force ou par mon sens, je t'en
+                    osteroie du tout, et te donroie office de servir a puceles. Et par aventure, metrai
+                    je tote vergoigne arriere et me rendrai a toi vaincue et vaincrai les forces de tes
+                    mains et te donrai ententif office. Je sai bien que tu demandes et que voudroies parler
+                    avec moi pour acoumplir ton desir, mes tu te hastes trop; encore est ton blé en herbe,
+                    mes peril ne puet avoir en celle demoree.</p>
+                    <lb/>
+                    <p xml:id="d001l157" n="17" rend="numbered">Jusques ici t'ai je mandé l'entention de ma couverte penssee et ai tant escrit que
+                    les dois de mes mains en sont tuit lassé; mes je te vuil mander a pau de paroles le
+                    consoil de mes loiaux compagnes, de Ethra et de Creten, qui m'ont donne consoil d'obbeir
+                    a ta volente, je croi que elles te sont favorables en toutes choses, et volentiers
+                    les creroie, se paour et vergoigne ne le me deveast.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c013" n="XIII">
+                    <head>XIII. Leandre a Hero</head>
+                    <p xml:id="d001l158" n="tit.">(Her. XVIII: Leander Heroni) <lb/></p>
+                    <lb/>
+                    <p xml:id="d001l159" n="1" rend="numbered">Ceste epistre manda Leandre a Hero.</p>
+                    <lb/>
+                    <p xml:id="d001l160" n="2" rend="numbered">A toi pucele de Sesta mande Leander de Abynde saluc. Mes plus volentiers les tes eüsse
+                    portés et dis de ma bouche, se l'ire de la mer et la fortune se fust appasiee; mes
+                    maugré mes oils qui volentiers te verroient, liras tu ceste epistre sans moi. Mes
+                    se li dieu me fussent debonnaire, je feroie mon desir; mes il ne laissent la mer reposer,
+                    ne ne veulent mander vent qui soit convenables. Ce pues tu bien veoir: regarde le
+                    ciel qui est plus noir que pois, chargié de gresil et de pluie; et bien pues veoir
+                    que nulle nef cruese et parfonde ne puet ester droite sus l'eau.</p>
+                    <lb/>
+                    <p xml:id="d001l161" n="3" rend="numbered">Mes je ai trouvé .i. marinier fort et hardi qui voloit aler vers ta cité, et je entrai
+                    dedens sa nef, et regardai en la pope et vi que il i avoit grant foison de baudains
+                    de ma cité; si me vergoignai forment, car bien vi que en nule maniere ne peüsse avoir
+                    celé que il ne fust seü en l'ost et en mon païs que je me seroie partis et laissié
+                    la chevalerie fausement, ne ne peüst estre celee nostre amour que nos avons si longuement
+                    celees ne fus[f. 128d]sent descouvertes, et que nos parens ne le seüssent. Adont escris
+                    ceste epistre et la baillai au marinier, et si li dis: «Va, et si la baille a Hero
+                    en sa propre main». Certes, miels ameroie que tu venisses ca que tu me mandasses response
+                    par escript ausi con je te mande; et je meismes te diroie plus volentiers par boche
+                    que par escript.</p>
+                    <lb/>
+                    <p xml:id="d001l162" n="4" rend="numbered">Chascune semaine me semble plus longue que .i. an. Je atens et me siés chascun jour
+                    sus les montaignes et reguarde tristez et penseus se aucune nef venist ça de ton païs;
+                    et tant demeure en regardant que je m'endors la, et la nuit ne fais autre chose que
+                    pensser a toi; et combien que je ne te soie present, si es tu tousdis presente devant
+                    les oils de ma pensee. Halas, quante fois me sui je repentus que je ne m'en alai avec
+                    le marinier; trois fois me sui puis jeté en la mer, et trois fois me sui despoillié
+                    tout nu pour savoir se je pourroie noër jusques a lui, et trois fois entra l'eau amere
+                    en ma bouche.</p>
+                    <lb/>
+                    <p xml:id="d001l163" n="5" rend="numbered">Li vens et la gelee me sont tousjours contraire; se bise par sa grant froidure m'ocioit
+                    dedens la mer, si remaindroit tousjours entre moi et toi ferme amour et perdurable;
+                    mes nulle froidure ne fu jamais si gelee qui me peüst si refroidier que l'esperance
+                    de la chaleur de t'a[f. 129a]mour ne me reschaufast. Je pri les diex que cel vent
+                    de bise puisse tost cheoir et que Ypocadés retorne tost, mes je sai bien que je requier
+                    vaines choses, et pour ce requier je Jupiter et prie devotement que il me donnast
+                    elle ausi comme Dedalus. Certes, je seroie tost volés jusques a Ycharum, se il estoit
+                    encore plus loing que il n'est; mes puis que ensint est, je soufferrai quanque les
+                    dyex me vouldront mander. Mes puis que li vens et la mer me sont contraire, je penserai
+                    comment je pourrai faire au temps novel larrecin de moi meismes.</p>
+                    <lb/>
+                    <p xml:id="d001l164" n="6" rend="numbered">Quant la nuit retourne, mon delit est a pensser quant issoie hors des portes de la
+                    maison mon pere, puis m'en aloie bagnier en la mer et jetoie ma robe sus la gravele,
+                    puis m'en retournoie a la lumiere de la lune tout seul sans paour, et aloie veoir
+                    m'amie en sa maison, et elle me recevoit doucement, et li disoie que elle retournast
+                    son dous viaire vers moi. Et certes se licite chose me soit dire la verité, quant
+                    je ymagine ton viaire cler et ta facon, il me semble que ta biauté ne vient pas de
+                    terre, ains te fu donnee des diex souverains; car ta fourme et ta semblance est digne
+                    de metre el numbre des vraies deesses, ne plus belle n'i a nul[f. 129b]le fors la
+                    deesse Venus. De ce ne vuil je pas que tu me croies, se tu ne veuls, car bien le pues
+                    veoir en une clere fontaine; car ausint cum li solaus resplent plus que les autres
+                    estoilles, tout ausint resplent plus ta biauté de la biauté des autre ni&lt;m&gt;phes.</p>
+                    <lb/>
+                    <p xml:id="d001l165" n="7" rend="numbered">Et quant j'estoie avec toi en l'eau tous seuls, et nous regardions nos figures a la
+                    clarté de la lune, et puis batoie tant l'eau que mes bras en estoient tout lassé,
+                    et puis me relevoie sus mes piés et si ne me pooi[t] refroidier la froideur du parfont
+                    de l'eau, car la chaleur de l'amour que je avoie en la poitrine me reschaufoit tout;
+                    puis aloie noant par le rivage pour plaire toi plus; puis te prenoie par les bras
+                    et lutions ensemble. Ha, par quantes fois te deffendi ta norrice que tu ne descendisses
+                    jus, et je m'en aloie la pres et tu m'atendoies; ja ne te savoit ta norrice si bien
+                    garder que tu ne fusses la premiere au baing et la premiere despoillïe; puis nous
+                    entrebaisions et nous entrembrachions estroitement. Et qui pourroit plus pretieus
+                    baisiers avoir se il ne fussent des deesses? Et encore est cestui aussi precieus.
+                    Puis si t'embrachoie estroitement et tu baignoies tes cheveus en la rousee; puis nous
+                    en retournions celee[f. 129c]ment, quant l'estoille dÿane estoit levee, et encore
+                    no[s] sembloit celle nuit trop courte por nos deduis demener. Adont t'en retournoies
+                    tu si celeement que nuls ne s'en apercevoit, et de tant estoit nostre deduit meileur
+                    de quant il estoit plus celé.</p>
+                    <lb/>
+                    <p xml:id="d001l166" n="8" rend="numbered">Et qui est celui qui porroit croire que je ne m'en retornasse volentiers? Certes ci
+                    ne demeure je pas de bon gré! ne en ma cité sans toi, ne tu en la toue sans moi. Une
+                    penssee nos tient nous .ij. ensemble tous jours en .i. lieu: ou Sextos ta cité me
+                    tendra avec toi, ou Abyindos la moie te tendra avec moi. Autant aime je toi et ta
+                    cité comme [tu] fais moi et la mie. Toutes les fois que la mer se corrouce, je sui
+                    corrouciés. E ! pour quoi me nuist le vent si forment? ou pour quoi ne puis je noër
+                    comme li poison? La mer de Jurgie ne fu jamais si perilleuse comme est ore la mer
+                    ou nous somes; a paine puet estre la nef seüre dentre le port. Je ai grant envie du
+                    fils Eson, qui ala seurement conquester la toison et sa nef descousi, et pour ce ne
+                    fu il pas peri. Je ne pri pas les vens ne la mer que il me portent sauvement pour
+                    le toison conquester, mes tant seulement pour passer outre. [f. 129d]</p>
+                    <lb/>
+                    <p xml:id="d001l167" n="9" rend="numbered">Sueffre toi, car ore n'est pas temps de nagier par mer; mes si tost comme aucun bon
+                    temps et bon vent sera levé, je me metrai en mer et najerai plus forment que ne fist
+                    onques Anchon ne Argo, par nuit et par jour. Meilleur estoille ne pourroie je avoir
+                    pour moi conduire a bon port que celle de l'amour, car elle ne pourroit estre fausse
+                    demostreresse de droite voie; assés plus clere est elle et plus certaine que n'est
+                    Mars ne Jupiter. Tant najerai que mes bras seront tous lassés, mes quant me souvendra
+                    du guerredon et du delit, que je te metrai mes bras a ton col, je serai tout reposés.
+                    Je celle toi et nos amors, et est bien drois et raison, mes mout me duel que si pau
+                    de eau fet si longue desevree entre moi et toi, et pour ce te pri que tu pries les
+                    diex que il me demoustrent quel voie je doie tenir.</p>
+                    <lb/>
+                    <p xml:id="d001l168" n="10" rend="numbered">Combien que je soie loins de toi, si est ton esperance prochaine de moi; et de tant
+                    comme tu es plus loins, m'eschauffe la chaleur d'amors de plus pres. Certes il me
+                    semble, quant je pensse a ce que je aime, que pou s'en faut que je te touche o la
+                    main; puis estens les bras et oevre la main, et te cuide prendre et ne trueve riens;
+                    lors pleu[f. 130a]re, mes je me reconforte que retournerai a toi briefment. Et quant
+                    je serai la, je te jure que jamais n'entrerai en mer se non ensi comme te plaira,
+                    ne jamais ne me tendra li vens en sa seignorie, ne ne fera departie de moi et de toi;
+                    bien me devra remembrer de ce que li vens et la mer m'ont fait et d'iver et d'esté,
+                    et comment je sai pau de gouvernement de nef.</p>
+                    <lb/>
+                    <p xml:id="d001l169" n="11" rend="numbered">Ne encore ne te puis je prometre certain temps de retourner; mes certainement je te
+                    jure que je me metrai en mer briefment, et de .ij. choses me fera l'une: ou elle me
+                    sera favorable, ou elle me jetera en mer, et ensint sera venue la fin de nos amours.
+                    Et se ensint est, que ja a Dieu ne place, je pri les dieus de la mer que il me vuillent
+                    jeter mort a ton port, et que tu puisses touchier mes membres noiés en la mer; et
+                    diras en plourant: «Ha lasse chetive, je fu cause et achoison de la mort de cestui»;
+                    et courrouceras par ton pleur tes parens et les miens.</p>
+                    <lb/>
+                    <p xml:id="d001l170" n="12" rend="numbered">Et je pri a Dieu que ceste epistre te viegne en tes mains, et que tu [la] lises et
+                    la guardes celeement; et si te pri que quant li temps sera assouagiez, que tu me mandes
+                    l'entention de ton cuer; et saches que si tost comme temps [f. 130b] convenable sera
+                    venu, il n'est nul riens qui me peüst ça tenir; et si te di que il n'a nef au port
+                    si bien appareillïe pour ale&lt;r&gt; comme est la nostre. Et se bon ve[nt] me puet
+                    a toi conduire, je te promet que je demourrai, ne ne retournerai jamais volentiers
+                    en mer; mes li vens et tes bras me tendront si forment, que je ne retournerai plus,
+                    et ensint arai double cause de demoree. Si te pri que ceste epistre soit bien gardee,
+                    et que tu le reguardes souvent; et je te promet que je la suirai tost et irai briement
+                    aprés.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c014" n="XIV">
+                    <head>XIV. Hero a Leandre</head>
+                    <p xml:id="d001l171" n="tit.">(Her. XIX: Hero Leandro) <lb/></p>
+                    <lb/>
+                    <p xml:id="d001l172" n="1" rend="numbered">Ceste epistre envoia Hero a Leandre son ami.</p>
+                    <lb/>
+                    <p xml:id="d001l173" n="2" rend="numbered">A toy, Leander, par tels meismes paroles que tu m'as mandees, te mande je salus, et
+                    si te di par cel meismes salus: vien, trop fais longue demouree. Je croi vraiement
+                    que tout vent [f. 136d] empeeche ton voiage. Aies pitié et compassion de moi, qui
+                    grant paine sueffre en toi atendant. Et sui ausi certaine que tu as grans pitié et
+                    grant douleur de moi pour ta demouree, mes la douleur n'est pas per entre moi et toi;
+                    car plus fort est la substance de vertu es malles que es femeles, et espetialment
+                    es puceles qui ont le cuer humble et la substance tendre et poi de vie. Ma vie deffaudra
+                    du tout se tu demeures longuement. [3] Ha, se tu fusses maintenant de ça nous irions
+                    aucune fois chascier au bois, aucune fois laborer es chans, aucune fois irions as
+                    festes et aucune fois as grans assemblees des gens; aucune fois irions oiseler et
+                    aucune fois irions peschier au fleuve nous deuls ensemble. De toutes ces chouses sui
+                    je privee et esloignïe, et tant plus en sui loing et de plus pres me reschaufe l'amour
+                    qui est entre moi et toi. Autre chose ne sai que je face, fors que continuelment aime,
+                    ne autre chose ne sai que faire. Et si t'aime ore de cuer plus parfetement que je
+                    ne petisse avant croire; certes plus te desire a veoir que ne fet ta vraie nourrice.</p>
+                    <lb/>
+                    <p xml:id="d001l174" n="4" rend="numbered">Tousjours regarde la mer et pensse quel cause puet estre celle de ta demoree, et me
+                    [f. 137a] complains a lui et le maudis por ce que elle te detient, et pleure de cuer
+                    parfont, et essuie mon visage de mes mains tremblable. La escoute je la noise que
+                    la mer fet en la gravele, et cuide tousjours que aucun venist de la ou tu es a cui
+                    je peüsse demander de toi; ou se aucuns alast la ou tu es, qui te portast mes letres
+                    et te disist le desirier de mon cuer. Puis si pleure, et puis m'en retourne a l'ostel,
+                    et quant la nuit est venue je fais metre les lumieres en la tour pour signe, si comme
+                    je ai acoustumé que se tu venisses que tu le reconneüsses.</p>
+                    <lb/>
+                    <p xml:id="d001l175" n="5" rend="numbered">Puis nos en entrons es chambres et filons grant partie de la nuit, esperant continuelment
+                    que tu doies venir; chascune parle, mes autre nom n'est en ma bouche se non Leandre.
+                    Ma norrice s'en ist de la chambre et cuide que je me doie aler couchier; je m'en retourne
+                    pour aler reguarder en la mer, esperant que tu doies tousjours venir, et elle m'atendoit
+                    que je filasse tousjours, et je ne feissoie autre que regarder en la mer, et prioie
+                    as diex que il te mandassent bon vent pour retourner. Et escoute, et cuide a chascune
+                    noise que ce soit ta venue, et ensi passe grant partie de la nuit dolente et enguennee.
+                    Puis m'assaut le sommeil et je m'en vais coiement dormir, mes [f. 137b] ma nourrice
+                    s'aperçoit bien au matin que je ai pau fillé la nuit.</p>
+                    <lb/>
+                    <p xml:id="d001l176" n="6" rend="numbered">Et puis me semble en dormant que nos faisons ausi com nous solions faire, et que nos
+                    somes bras a bras, l'une poitrine nue encontre l'autre, et nous faisons maintes choses
+                    de quoi je me vergoigne du dire, mes mout me delite du fait quant il m'en souvient.
+                    Puis me resveille et ne trueve riens delés moi, adont prie je les diex que celle esperance
+                    puisse briement estre convertie en vrai delit et que tost puisses retourner. Et pensse
+                    en moi meismes pour quoi tu me laisses passer tantes froides nuis toute seule; car
+                    je voi bien que la mer n'est pas bone pour nagier, mes je croi, se tu te meïsses a
+                    la voie, que la mer se rappaiseroit; ou se tu veïsses bon tens tost pourroies estre
+                    ça, se tu t'esforçoies de nagier.</p>
+                    <lb/>
+                    <p xml:id="d001l177" n="7" rend="numbered">Et quant tu seras ça avec moi et nous serons ensemble, mout serai lïe quant je orrai
+                    fortune et grant vent et perilleus pour nagier; et quant je orrai la mer tempester,
+                    je desirerai forment que ensint soit tosjours. Pour quoi crains tu plus la mer ores
+                    que tu ne soloies? Je voudroie ore que tu fusses hardi de en entrer en mer, mes quant
+                    tu seras deça je voldroie que tu n'en eüsses jamais talent; car se tu i entroies de
+                    rechief, plus grant seroit la do[f. 137c]leur dereine que ne fu la premiere. Et ausi
+                    ai je grant doute que ton peril ne fust plus grant que ne fu li premiers, et que le
+                    nostre amour ne fust telle comme elle a esté. Ne encore ne doute je pas tant les vens
+                    ne la mer comme je douteroie que nos amours ne fussent mises en oubliance et que tu
+                    ne m'oubliasses, et aroie perdue toute la paine que je ai mis en toi amer.</p>
+                    <lb/>
+                    <p xml:id="d001l178" n="8" rend="numbered">Aucune fois ai je grant paour que je ne te perde du tout et que je ne remaigne seule
+                    sans ami, et que les dames ne me dient: «Dame, ore avés perdu vostre ami». Halas,
+                    et que feroie je se je savoie que autre fame meïst ses bras a ton col et noveles amours
+                    feïssent fin de nos vielles amours? Ançois puisse je morir que a mon cuer viegne tel
+                    douleur, ne que je m'en aperçoive, ne que nouvele m'en viegne. De toutes ces choses
+                    doit avoir paour cuer qui aime loiaument. De bonne heure est nee celle qui a tousjors
+                    son ami delez lié, mes je qui l'ai lointain pensse a toutes les choses contraires
+                    qui me peuent avenir.</p>
+                    <lb/>
+                    <p xml:id="d001l179" n="9" rend="numbered">Or vousist Diex que tu venisses maintenant ou que il te mandassent vent pour tost
+                    venir; car se je savoie que fame te detenist, certa[f. 137d]inement je mouroie a douleur;
+                    mes je sui certaine que tu ne feras ja si grant pechié, car je sai bien que l'iver
+                    et le mau tens ne te laissent du port partir. Quantes fois ai je pleuré quant je veoie
+                    le temps obscur et noir, pour tout ce que penssoie bien que ton cuer n'estoit a aise.
+                    Par aventure est venue Hellés au rivage de la mer qui trouble le fons et ne te laisse
+                    passer. Onques amours ne furent si empeechiés par vent comment sont les nostres.</p>
+                    <lb/>
+                    <p xml:id="d001l180" n="10" rend="numbered">Ha Neptonne, qui es diex des vens et sire de la mer, qui tant as esprové les fes d'amors,
+                    tu es cil de qui les poëtes parlent tant. Tu amas par amours Archincé, et si amas
+                    Aminonem et la belle Cercem et la fille Daneoen, et si amas tu la belle Meduse, et
+                    Laudicé au viaire cler qui fu ravie au ciel, et autres pluseurs. Et puis que tu as
+                    tantes fois senti les douceurs et les griés maus d'amours, pour quoi nous es tu si
+                    cruel? pour quoi nous clos tu la voie de nos amours? Je te pri, aies merci de nous,
+                    refraing ta cruauté vers nous, fai ta bataille el haut pelage de la mer et i met ta
+                    fureur. Certes, laide chose me semble au dieu de la mer de retenir .i. joene amant
+                    et em[f. 138a]peechier son voiage par mer. A toi apartient de faire grans choses et
+                    grans fais, et de geter les grans nés par la mer. Li miens amis Leandres est nobles
+                    hons. He, sire diex, garde le moi! Car toute ma vie et m'esperance est en lui; mon
+                    cuer et ma pensee sont toutes enserrees en la prison de son cuer.</p>
+                    <lb/>
+                    <p xml:id="d001l181" n="11" rend="numbered">He, dous amis, vien seiirement; et n'aies paour, car la deesse Venus t'appareillera
+                    ta voie. Et se tu l'en pries, elle ne t'en escondira ja. Certes je iroie volentiers
+                    a toi, mes tu crains et doutes de venir et je doi encore plus redouter de l'aler,
+                    car tousjours est mer plus cruelle et plus contraire as fames que as malles; et ce
+                    pues tu bien veoir clerement par Frisus et par Ellés. Et se je me metoie en mer pour
+                    aler a toi, par aventure je te encontreroie en la mer et nous entrebaiserions tant
+                    seulement, et aroies double paine au retourner pour moi et pour toi. Certes, ce seroit
+                    pou de chose, mes encore seroit miels que noient: mes ce seroit vergoigne a moi et
+                    a toi et manifesterions la fureur et l'outrageuse ardeur de nostre amour. Et ensint
+                    est mon cuer en grant bataille, car ardeur se combat a vergoigne et ne sai auquel
+                    je [f. 138b] me tiegne; car li uns est raisonnables et honnestes, et li autres profitable
+                    et delicteus.</p>
+                    <lb/>
+                    <p xml:id="d001l182" n="12" rend="numbered">Halas, un ribaut de Lacedemoine passa la mer et entra en Colcos, et tantost en retourna
+                    avec sa proie. Et tu, qui as si grant desir d'avoir ce que tu aimes, as paour d'entrer
+                    en ta nef? Aucunes nés sont peries par defaute d'aide, mes met itant d'avirons que
+                    tu puisses eschaper la fortune. Mes je t'amonneste a fere ce que je doute; tu seras
+                    toutevoies plus fors et plus ententis pour mes prieres, et quant tu seras retour&lt;nés&gt;,
+                    tu porras repose[r] tes bras avec les miens. Ha, se tu seüsses le grant froit que
+                    je ai en la poitrine; pour ce que quant je ai toute la nuit veillié pour regarder
+                    en la mer et le sommeil me prent a l'aube du jour, si met ma teste sus .i. coisin
+                    et je songe ce que je ai l'autre nuit songié, et ensint me semble plus voir. Certes
+                    ce est signe que tu tourneras tost.</p>
+                    <lb/>
+                    <p xml:id="d001l183" n="13" rend="numbered">Je te pri, quant tu liras ceste epistre, que tu ne ries pas pour mes songes; et si
+                    te pri que se tu n'as pitié de toi, que tu aies merci de moi, qui onques ne cesse
+                    de toi desirer et veoir lié et joiant. En toi est tote m'esperance; et se cele esperance
+                    me faut, ceste vie sera finee en grant douleur. Et se tu ne pu[f. 138c]es venir en
+                    nulle guise, que Dieu ne place, remande moi par cel meisme marinier la certaineté
+                    de ton corage.</p>
+                    <lb/>
+                    <lb/>
+                    <lb/>
+                    <lb/>
+                </div2>
+            </div1>
+        </body>
+        <back>
+            <div type="modifiche all'edizione"><p>Nel testo dell’edizione Barbieri 2005 sono stati accolti gli emendamenti proposti da Anne Rochebouet,
+                Recensione di &lt;i&gt;Le «epistole delle dame di Grecia» nel Roman de Troie in prosa. La prima traduzione
+                francese delle Eroidi di Ovidio&gt;&lt;/i&gt;. Edizione critica a cura di Luca Barbieri, Tübingen-Bâle,
+                A. Francke Verlag, 2005, in «Romania», 505-506, 2009, pp. 237-251: 247-248.&lt;br/&gt;&lt;br/&gt;Epistola  ed. Barbieri
+                2005   Rochebouet 2009&lt;br/&gt;I.1  haine     haïne &lt;br/&gt;I.10  traitres    traïtres &lt;br/&gt;II.3 e passim mult
+                    mout&lt;br/&gt;IV.9  fis amans    fins amans&lt;br/&gt;V.3  perleüsses    parleüsses&lt;br/&gt;
+            </p></div>
+        </back>
+    </text>
+</TEI>

@@ -1,0 +1,1327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="GESTEFRANCOR_7-gesteFrancor_7">La Geste Francor, Orlandino</title>
+                <title type="alt">Geste Francor, Orlandino</title>
+                <title type="short">La Geste francor, Orlandino</title>
+                <title type="sub">prima metà XIV s., Nord-Est (ed.&amp;nbsp;Zarker&amp;nbsp;Morgan)</title>
+                <author xml:id="GESTEFRANCOR_7" n="099.000">
+                    <persName type="main"></persName>
+                    <persName type="short"></persName>
+                </author>
+                <principal>Leslie Zarker Morgan</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata</resp>
+                    <name>Leslie Zarker Morgan</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale</resp>
+                    <name>Luigi Tessarolo</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Traduzione</resp>
+                    <name>Elisa Caselli</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><emph style="font-style:italic">La Geste Francor</emph>, Édition of the Chansons de Geste of. MS. Marc. Fr. XIII (=256), with glossary, introduction and notes by Leslie Zarker Morgan, Tempe (Arizona), Arizona Center for Medieval and Renaissance Studies, 2009 («Medieval and Renaissance Texts and Studies», 348).</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t3"/>
+                <keywords>
+                    <term type="form">poetry</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <p xml:id="d001l1" style="font-weight:bold" n="">{{Rubric 318}}</p>
+                <lb/>
+                <p xml:id="d001l2" n="">Qui conta de Karlo.*</p>
+                <p xml:id="d001l3" style="font-weight:bold" n="">{{Laisse 319}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l4" n="10896">Segnur baron, de ço siés certan,</l>
+                <l xml:id="d001l5" n="10897">Le milor rois de França e de Norman,</l>
+                <l xml:id="d001l6" n="10898">Colu si fu l'inperer Karlo el man.</l>
+                <l xml:id="d001l7" n="10899">E colu qe plu durò e pena e torman,</l>
+                <l xml:id="d001l8" n="10900">Trosqua el fo petit enfan, (1405)</l>
+                <l xml:id="d001l9" n="10901">Si fo caçé for de son rian</l>
+                <l xml:id="d001l10" n="10902">E si fu alevés cun Turs e con Persan.</l>
+                <l xml:id="d001l11" n="10903">E quant cuitoit avoir in çoja tuta quan,</l>
+                <l xml:id="d001l12" n="10904">Si le fo morto Oliver e Rolan,</l>
+                <l xml:id="d001l13" n="10905">Por G(ain)elun qi fe li traiman.* (1410)</l>
+                <l xml:id="d001l14" n="10906">Gran fu la çoja qe fait li Norman,*</l>
+                <l xml:id="d001l15" n="10907">E l'inperer çiva(l)ça ardieman*</l>
+                <l xml:id="d001l16" n="10908">Con ses çivaler e petit e gran.</l>
+                <l xml:id="d001l17" n="10909">A·l Bachanel pasent q'è li camin sovran;</l>
+                <l xml:id="d001l18" n="10910">Trosque a Sotrio non fe arestaman;</l>
+                <l xml:id="d001l19" n="10911">E ilec fo ostalé .XV. jor en avan, (5)</l>
+                <l xml:id="d001l20" n="10912">Por li ses çivaler c'oit duré grant achan.</l>
+                <l xml:id="d001l21" n="10913">Por aler e venir no furent ben san;</l>
+                <l xml:id="d001l22" n="10914">Ilec seçornent qe non vait plus avan.</l>
+                <l xml:id="d001l23" n="10915">E l'inperer li maino Karlo el man*</l>
+                <l xml:id="d001l24" n="10916">Par tot Sotrio fe criar un ban (10)</l>
+                <l xml:id="d001l25" n="10917">Q'el non romagna burgois ni castelan,</l>
+                <l xml:id="d001l26" n="10918">Vada a veoir la cort de li rois Karlo el man,*</l>
+                <l xml:id="d001l27" n="10919">Qe asa averont pan, vino e provan;</l>
+                <l xml:id="d001l28" n="10920">Çascun li vait, a cui li atalan.</l>
+                <l xml:id="d001l29" n="10921">Rolandin l'olde dire, qe estoit cun altri enfan; (15)</l>
+                <l xml:id="d001l30" n="10922">Quant li oldì, no·l tene a nian;</l>
+                <l xml:id="d001l31" n="10923">En conpagnie se leve cun plus de tran;*</l>
+                <l xml:id="d001l32" n="10924">A la cort s'en vait, tuti legri e çojan.</l>
+                <l xml:id="d001l33" n="10925">Ma Rolandin senpre andava avan,</l>
+                <l xml:id="d001l34" n="10926">Come el fust un soe capitan; (20)</l>
+                <l xml:id="d001l35" n="10927">Non finent pais trois a li palés gran.*</l>
+                <lb/>
+                <p xml:id="d001l36" style="font-weight:bold" n="">{{Rubric 319}}</p>
+                <lb/>
+                <p xml:id="d001l37" n="">Coment Rolant monta a·l palés.</p>
+                <p xml:id="d001l38" style="font-weight:bold" n="">{{Laisse 320}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l39" n="10928">Rolandin fu a·l palés cun altri baçaler;</l>
+                <l xml:id="d001l40" n="10929">Nesun no olsa davanti Rolandin aler.*</l>
+                <l xml:id="d001l41" n="10930">Rolandin guarde et avant et arer,*</l>
+                <l xml:id="d001l42" n="10931">Da tot part vide li çivaler (25)</l>
+                <l xml:id="d001l43" n="10932">Qe sont asis a tables a mançer.</l>
+                <l xml:id="d001l44" n="10933">Rolandin guarde e vide l'inperer,</l>
+                <l xml:id="d001l45" n="10934">Qe major de li altri avoit li taler.*</l>
+                <l xml:id="d001l46" n="10935">Rolandin, quant le vi, priste le a covoter;*</l>
+                <l xml:id="d001l47" n="10936">El no volse mie longament demorer; (30)</l>
+                <l xml:id="d001l48" n="10937">Dever li rois el se mis ad aler.</l>
+                <l xml:id="d001l49" n="10938">Quant qui serventi li vait a incontrer*</l>
+                <l xml:id="d001l50" n="10939">E si le volse far indreo çeser.*</l>
+                <l xml:id="d001l51" n="10940">Quan Rolandin se fa si dur e fer,</l>
+                <l xml:id="d001l52" n="10941">Q'el ne fe un a tera trabuçer. (35)</l>
+                <l xml:id="d001l53" n="10942">Li rois le vi, si s'en prist a gaber,</l>
+                <l xml:id="d001l54" n="10943">E si oit dito contra Naimes de Bavier,</l>
+                <l xml:id="d001l55" n="10944">"Qi vide mai un si pro baçaler?"</l>
+                <l xml:id="d001l56" n="10945">E pois si dist a li serventi uçer,*</l>
+                <l xml:id="d001l57" n="10946">"Lasés·le venir, no le fate engonbrer." (40)</l>
+                <l xml:id="d001l58" n="10947">E cil le font, quant li rois li requer.</l>
+                <l xml:id="d001l59" n="10948">E Rolandin si fo molto liçer;*</l>
+                <l xml:id="d001l60" n="10949">El non va mie a li altri tajer,*</l>
+                <l xml:id="d001l61" n="10950">Se no a quelo de Karlo l'inperer,</l>
+                <l xml:id="d001l62" n="10951">Qe de çarne le vi tuto plener. (45)</l>
+                <l xml:id="d001l63" n="10952">Quando le fu q'el se le pote aprosmer,</l>
+                <l xml:id="d001l64" n="10953">Jamais non fu ni bracho ni levrer</l>
+                <l xml:id="d001l65" n="10954">Cun Rolandin pris la carne a mançer;</l>
+                <l xml:id="d001l66" n="10955">Molto li guarda dux Naimes de Baiver.</l>
+                <l xml:id="d001l67" n="10956">Qe vos deie li plais alonçer?* (50)</l>
+                <l xml:id="d001l68" n="10957">No se poroit un arpant aler,</l>
+                <l xml:id="d001l69" n="10958">Qe Rolandin oit livro quel tajer.*</l>
+                <l xml:id="d001l70" n="10959">Quant li rois le vide si mançer,</l>
+                <l xml:id="d001l71" n="10960">Una carega el ge fe aporter;</l>
+                <l xml:id="d001l72" n="10961">Si fe l'infante ilec aseter. (55)</l>
+                <l xml:id="d001l73" n="10962">E quando fo livro tuto quel tajer,</l>
+                <l xml:id="d001l74" n="10963">Li rois le fi un altro aporter.</l>
+                <l xml:id="d001l75" n="10964">E li baron le prendent a guarder,</l>
+                <l xml:id="d001l76" n="10965">Qe se prendea de lui a merviler.</l>
+                <l xml:id="d001l77" n="10966">Ma Rolandin non avea quel penser, (60)</l>
+                <l xml:id="d001l78" n="10967">Ne se guardava avanti ni arer,</l>
+                <l xml:id="d001l79" n="10968">Ma senprefois el guardoit li tajer.</l>
+                <l xml:id="d001l80" n="10969">Quando fo ben pasu, qe plus non poit mançer,*</l>
+                <l xml:id="d001l81" n="10970">De quela carne qe li parse avançer,</l>
+                <l xml:id="d001l82" n="10971">El s'à pris en seno a covoter;* (65)</l>
+                <l xml:id="d001l83" n="10972">E de·l pan q'el poit anbler.</l>
+                <l xml:id="d001l84" n="10973">Karlo le vi si·l prist a reguarder,</l>
+                <l xml:id="d001l85" n="10974">E pois le prist por rason demander,</l>
+                <l xml:id="d001l86" n="10975">"Dì mo, damisel, guarda, no me·l çeler,</l>
+                <l xml:id="d001l87" n="10976">No à tu au asa da boir e da mançer?* (70)</l>
+                <l xml:id="d001l88" n="10977">Que vo·tu far de quel qe tu voi furer?*</l>
+                <l xml:id="d001l89" n="10978">La çarne e li pan e te voi acovoter."</l>
+                <l xml:id="d001l90" n="10979">Dist Rolandin, "No v'aça merveler;</l>
+                <l xml:id="d001l91" n="10980">Qe eo la togo por portar a ma mer,*</l>
+                <l xml:id="d001l92" n="10981">Et avec le un qe est mon per." (75)</l>
+                <l xml:id="d001l93" n="10982">Li rois l'oì, demanda son canbrer;</l>
+                <l xml:id="d001l94" n="10983">Una toagia blança el (f)e aporter,*</l>
+                <l xml:id="d001l95" n="10984">De carne e de pan la fa tota raser,</l>
+                <l xml:id="d001l96" n="10985">E pois a li col li fait avoluper.</l>
+                <l xml:id="d001l97" n="10986">E dist, "Bel filz, questo averì porter (80)</l>
+                <l xml:id="d001l98" n="10987">A vestre pere et a la vestra mer;</l>
+                <l xml:id="d001l99" n="10988">E si vos di, si vos vojo comander,</l>
+                <l xml:id="d001l100" n="10989">Qe deman venés ça a mançer."</l>
+                <l xml:id="d001l101" n="10990">Dist Rolandin, "De grez e volunter."</l>
+                <l xml:id="d001l102" n="10991">Cosi cun Rolandin s'en voloit aler, (85)</l>
+                <l xml:id="d001l103" n="10992">E l'inperer prist dos donçé a 'peler:</l>
+                <l xml:id="d001l104" n="10993">"Segnur," dist il, "or li alez arer,</l>
+                <l xml:id="d001l105" n="10994">E si saçés qi è·l pere e la mer."*</l>
+                <l xml:id="d001l106" n="10995">E cil le dist, "De grez e volunter."</l>
+                <lb/>
+                <p xml:id="d001l107" style="font-weight:bold" n="">{{Rubric 320}}</p>
+                <lb/>
+                <p xml:id="d001l108" n="">Coment Rolant s'en retorne.*</p>
+                <p xml:id="d001l109" style="font-weight:bold" n="">{{Laisse 321}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l110" n="10996">Va s'en Rolandin, non fo ma si çojant; (90)</l>
+                <l xml:id="d001l111" n="10997">Quant el fu ços de·l palés, el se mis en avant;</l>
+                <l xml:id="d001l112" n="10998">No l'atenderoit un levrer ben corant;*</l>
+                <l xml:id="d001l113" n="10999">El sa le r(u)e, le petit e li grant.</l>
+                <l xml:id="d001l114" n="11000">Non est alé delunçi dos arpant,</l>
+                <l xml:id="d001l115" n="11001">A qui qi le voit darer, li è desparu davant;* (95)</l>
+                <l xml:id="d001l116" n="11002">Non poit veoir de lui ni ovra ni senblant.</l>
+                <l xml:id="d001l117" n="11003">I torna a Karlo, si le dist comant</l>
+                <l xml:id="d001l118" n="11004">Li damisel li è de(s)paru davant.</l>
+                <l xml:id="d001l119" n="11005">Dist li rois, "Malvasii seduant!</l>
+                <l xml:id="d001l120" n="11006">Par un petit qe je ne vos apant. (100)</l>
+                <l xml:id="d001l121" n="11007">Ma deman, se non virà l'infant</l>
+                <l xml:id="d001l122" n="11008">A la cort non mançarà ne petit ni grant."</l>
+                <l xml:id="d001l123" n="11009">E Rolandin s'en va, legro e çojant;*</l>
+                <l xml:id="d001l124" n="11010">Por le çamin el s'en vait çantant;</l>
+                <l xml:id="d001l125" n="11011">Non fo si legro en tuto son vivant. (105)</l>
+                <l xml:id="d001l126" n="11012">Quant vi sa mer, q'elo li fo davant,</l>
+                <l xml:id="d001l127" n="11013">Elo li dona li pan e la provant.</l>
+                <l xml:id="d001l128" n="11014">Quant ela·l vi, molto ne fo dolant,</l>
+                <l xml:id="d001l129" n="11015">E dist, "Bel filz, qi vos dè sta provant?"*</l>
+                <l xml:id="d001l130" n="11016">"Mere," fait il, "un signor bel e çant, (110)</l>
+                <l xml:id="d001l131" n="11017">Si m'à da da mançer a tot li me comant."</l>
+                <l xml:id="d001l132" n="11018">Donde la dame si se va porpensant:</l>
+                <l xml:id="d001l133" n="11019">"Quest'è mon frer donde me ven li presant."</l>
+                <l xml:id="d001l134" n="11020">E Rolandin si le dist en riant,</l>
+                <l xml:id="d001l135" n="11021">"Mançé, mere, fa·ve legra e çojant! (115)</l>
+                <l xml:id="d001l136" n="11022">Deman nu n'averon altretant.</l>
+                <l xml:id="d001l137" n="11023">Quel segnor me·l dise, qe me dè la provant."*</l>
+                <l xml:id="d001l138" n="11024">Atanto ecote vos Milon erant;</l>
+                <l xml:id="d001l139" n="11025">Quando vi quela colse, molto se fe çojant,</l>
+                <l xml:id="d001l140" n="11026">Qe uso non ert de mançer tel provant. (120)</l>
+                <l xml:id="d001l141" n="11027">"Bel filz," dist Berte, "farì li mon comant.</l>
+                <l xml:id="d001l142" n="11028">No le alé plu par nule ren vivant."</l>
+                <l xml:id="d001l143" n="11029">Dist Rolandin, "Farò li ves comant."</l>
+                <l xml:id="d001l144" n="11030">Elo le dise cun boche, mais no l'à en talant.*</l>
+                <l xml:id="d001l145" n="11031">E Berta parle a Milon planemant: (125)</l>
+                <l xml:id="d001l146" n="11032">"Milon," fait ella, "el nos va malemant.</l>
+                <l xml:id="d001l147" n="11033">Quest'è mon frer onde en ven Rolant;*</l>
+                <l xml:id="d001l148" n="11034">A la toaile conosco li senblant.</l>
+                <l xml:id="d001l149" n="11035">Non è sença cason quant li dà la provant;</l>
+                <l xml:id="d001l150" n="11036">Si ne po aconoscere, tot l'or qe fu anc* (130)</l>
+                <l xml:id="d001l151" n="11037">Nen scanparoit mort non fumes entranb;*</l>
+                <l xml:id="d001l152" n="11038">Vu apendu a le forches pendant,</l>
+                <l xml:id="d001l153" n="11039">Et eo arse a li fogo ardant."</l>
+                <l xml:id="d001l154" n="11040">Milon, quan l'olde, si fo de maltalant;*</l>
+                <l xml:id="d001l155" n="11041">Anbidos plurent, planeto tendremant. (135)</l>
+                <l xml:id="d001l156" n="11042">Tot quel çorno stete Milon manant,*</l>
+                <l xml:id="d001l157" n="11043">Qe da mançer oit a·l convenant.</l>
+                <l xml:id="d001l158" n="11044">De Rolandin el non cura niant,</l>
+                <l xml:id="d001l159" n="11045">Ma la dame si le fa altramant:</l>
+                <l xml:id="d001l160" n="11046">De son frer conoit sa ire e maltalant. (140)</l>
+                <l xml:id="d001l161" n="11047">A l'altro çorno ela retene l'infant;*</l>
+                <l xml:id="d001l162" n="11048">No le lasa aler arer ni avant,</l>
+                <l xml:id="d001l163" n="11049">Si fo l'ora trapasé tuta quant</l>
+                <l xml:id="d001l164" n="11050">Qe la cort sole mançer en avant.</l>
+                <l xml:id="d001l165" n="11051">E Rolandin aloit pur guischisant, (145)</l>
+                <l xml:id="d001l166" n="11052">Tantqe a sa mere el desparì davant.</l>
+                <l xml:id="d001l167" n="11053">Qui da la cort stava tuti en ojant;</l>
+                <l xml:id="d001l168" n="11054">No le fo nul, ne petit ni grant,</l>
+                <l xml:id="d001l169" n="11055">Qe olsase mançer se no venia l'infant.</l>
+                <l xml:id="d001l170" n="11056">Quando le vi venir, tuti se fa çojant; (150)</l>
+                <l xml:id="d001l171" n="11057">I se lavent si se vont asetant.</l>
+                <l xml:id="d001l172" n="11058">E saçés por voir, pres era nona pasant,</l>
+                <l xml:id="d001l173" n="11059">Avantqe fust venu quel enfant.</l>
+                <l xml:id="d001l174" n="11060">Asa li po sa mer querir darer e davant,*</l>
+                <l xml:id="d001l175" n="11061">Qe a la cort est a mançer primemant.* (155)</l>
+                <lb/>
+                <p xml:id="d001l176" style="font-weight:bold" n="">{{Rubric 321}}</p>
+                <lb/>
+                <p xml:id="d001l177" n="">Coment Rolant vene a la cort.</p>
+                <p xml:id="d001l178" style="font-weight:bold" n="">{{Laisse 322}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l179" n="11062">Quant Rolandin fo a la cort venu,</l>
+                <l xml:id="d001l180" n="11063">Gran çoja en fait li grandi e li menu,</l>
+                <l xml:id="d001l181" n="11064">Por li bando qi estoit metu.</l>
+                <l xml:id="d001l182" n="11065">Davant Karlo senpre Rolandin fu;</l>
+                <l xml:id="d001l183" n="11066">Ilec manue a força e a vertu.* (160)</l>
+                <l xml:id="d001l184" n="11067">Naimes apelle, dan Karlo li menbru;</l>
+                <l xml:id="d001l185" n="11068">"Enperer, sire, ne sì vu aperçeu,*</l>
+                <l xml:id="d001l186" n="11069">Quest'è miracolo de li rois Jesu,</l>
+                <l xml:id="d001l187" n="11070">Ça ces enfant no è de vilan nasu.</l>
+                <l xml:id="d001l188" n="11071">A·l reguarder el par de fera vertu; (165)</l>
+                <l xml:id="d001l189" n="11072">E creço q'el est filz d'un qualqe deçeu,</l>
+                <l xml:id="d001l190" n="11073">D'un çivaler q'è in poverté cau."</l>
+                <l xml:id="d001l191" n="11074">Ancora li rois comandò a qui du</l>
+                <l xml:id="d001l192" n="11075">Qe a·l departir lo fant soja persegu,</l>
+                <l xml:id="d001l193" n="11076">De·l per e de la mer soja li vor sau. (170)</l>
+                <l xml:id="d001l194" n="11077">E qui le dient, "Or non parlez plu.</l>
+                <l xml:id="d001l195" n="11078">Arer li aliron, non serà pais foçu."</l>
+                <lb/>
+                <p xml:id="d001l196" style="font-weight:bold" n="">{{Rubric 322}}</p>
+                <lb/>
+                <p xml:id="d001l197" n="">Coment Rolant fo davant Karlo.*</p>
+                <p xml:id="d001l198" style="font-weight:bold" n="">{{Laisse 323}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l199" n="11079">Davant Karlo s'estoit Rolandin,</l>
+                <l xml:id="d001l200" n="11080">O il manue cun faroit un mastin.</l>
+                <l xml:id="d001l201" n="11081">Avant ni arer non guarda le fantin, (175)</l>
+                <l xml:id="d001l202" n="11082">Se no a la çarne et a·(l) pan et a·l vin.*</l>
+                <l xml:id="d001l203" n="11083">Gran çoja n'oit qui q'erent vesin;</l>
+                <l xml:id="d001l204" n="11084">Naimes parole ver Karlo, filz Pepin,</l>
+                <l xml:id="d001l205" n="11085">"Costu non est filz de barbarin:</l>
+                <l xml:id="d001l206" n="11086">Pur il est filz d'omo d'alto lin, (180)</l>
+                <l xml:id="d001l207" n="11087">De qualqe çivaler, conte o palatin.</l>
+                <l xml:id="d001l208" n="11088">Veez como est belo? La fame li fa hain.*</l>
+                <l xml:id="d001l209" n="11089">A·l reguarder q'el fait, e ne sonto devin.</l>
+                <l xml:id="d001l210" n="11090">S'el ait vite ançiq'el prenda la fin,</l>
+                <l xml:id="d001l211" n="11091">Dolent farà pais pajan e Sarasin. (185)</l>
+                <l xml:id="d001l212" n="11092">Questo qe digo, no digo ad inçin;</l>
+                <l xml:id="d001l213" n="11093">Le cor me·l manefesta a·l guarder de·l fantin.</l>
+                <l xml:id="d001l214" n="11094">Non veés vos cun ten li ocli enchin?</l>
+                <l xml:id="d001l215" n="11095">Ma quant leva la teste se le serés vesin,</l>
+                <l xml:id="d001l216" n="11096">Un lion senble o dragon marin, (190)</l>
+                <l xml:id="d001l217" n="11097">O un falcon qe soja pelegrin."</l>
+                <lb/>
+                <p xml:id="d001l218" style="font-weight:bold" n="">{{Rubric 323}}</p>
+                <lb/>
+                <p xml:id="d001l219" n="">Coment Naimes parle a Karlo.*</p>
+                <p xml:id="d001l220" style="font-weight:bold" n="">{{Laisse 324}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l221" n="11098">"Bon rois," dist Naimes, "entendés ma rason;</l>
+                <l xml:id="d001l222" n="11099">Questo damisel, q'est petit guarçon,</l>
+                <l xml:id="d001l223" n="11100">A moi non resenble eser filz de poltron.</l>
+                <l xml:id="d001l224" n="11101">Le reguarder oit como un lion; (195)</l>
+                <l xml:id="d001l225" n="11102">Faites·li ben qe n'avrés gujerdon,*</l>
+                <l xml:id="d001l226" n="11103">Quant vu savrì de soa nasion.</l>
+                <l xml:id="d001l227" n="11104">Se son per è povero et elo nos le don,</l>
+                <l xml:id="d001l228" n="11105">Avec nos li menés a Lion.</l>
+                <l xml:id="d001l229" n="11106">En vestra cort non aça si ben non; (200)</l>
+                <l xml:id="d001l230" n="11107">S'el averà da mançer, serà un canpion."</l>
+                <l xml:id="d001l231" n="11108">Dist li rois, "E nu ben li faron."</l>
+                <l xml:id="d001l232" n="11109">E Rolandin manue avec li rois Karlon;</l>
+                <l xml:id="d001l233" n="11110">Quant oit mançé, non dist ne si ne non.</l>
+                <l xml:id="d001l234" n="11111">La toaile fu parilée, cun le enbandison, (205)</l>
+                <l xml:id="d001l235" n="11112">Cun pan e carne e groso capon,</l>
+                <l xml:id="d001l236" n="11113">E questo fe fare li bon dux Naimon.</l>
+                <l xml:id="d001l237" n="11114">La tojala li baile, via va li garçon</l>
+                <l xml:id="d001l238" n="11115">E darer li va li du conpagnon.</l>
+                <l xml:id="d001l239" n="11116">Mo no li vale la monta d'un boton, (210)</l>
+                <l xml:id="d001l240" n="11117">Qe ili posa savoir o il vada o non.*</l>
+                <l xml:id="d001l241" n="11118">Tel dol li rois oit, par poi q'il non fon;</l>
+                <l xml:id="d001l242" n="11119">"Mo ben çuré l'ò a Deo, qe sofrì pasion,*</l>
+                <l xml:id="d001l243" n="11120">Non mançarà la cort s'el non ven li garçon!"</l>
+                <l xml:id="d001l244" n="11121">"Bon rois," dist Naimes, "nu altrament faron. (215)</l>
+                <l xml:id="d001l245" n="11122">De cil enfant lasés moi la rason;</l>
+                <l xml:id="d001l246" n="11123">Eo e Teris rer lui aliron,</l>
+                <l xml:id="d001l247" n="11124">A palafroi o a bon ronçon.</l>
+                <l xml:id="d001l248" n="11125">El non porà scanper par nul ren de·l mon,</l>
+                <l xml:id="d001l249" n="11126">Qe nu no·l seguamo trosqu'a soa mason." (220)</l>
+                <l xml:id="d001l250" n="11127">Dist li rois, "A Deo beneçion."</l>
+                <l xml:id="d001l251" n="11128">E Rolandin s'en vait, çantando una cançon;</l>
+                <l xml:id="d001l252" n="11129">"Nen plançi, mere, e·vos du bon capon,*</l>
+                <l xml:id="d001l253" n="11130">E de·l pan blanço, no de quel qe uson,</l>
+                <l xml:id="d001l254" n="11131">Q'est noiro com est li carbon." (225)</l>
+                <l xml:id="d001l255" n="11132">La dama plure, ma no pais Millon,</l>
+                <l xml:id="d001l256" n="11133">Qe volunter manue de celle enbandison.</l>
+                <lb/>
+                <p xml:id="d001l257" style="font-weight:bold" n="">{{Rubric 324}}</p>
+                <lb/>
+                <p xml:id="d001l258" n="">Coment Berta parole a Rolant.</p>
+                <p xml:id="d001l259" style="font-weight:bold" n="">{{Laisse 325}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l260" n="11134">Berta vi Rolandin, si oit pris a plurer;</l>
+                <l xml:id="d001l261" n="11135">En braçe el prist, si·l comença a baser.</l>
+                <l xml:id="d001l262" n="11136">"Bel filz," fait ela, "eo te vojo en projer, (230)</l>
+                <l xml:id="d001l263" n="11137">Qe a quela cort non diçi plu aler."</l>
+                <l xml:id="d001l264" n="11138">"Mere," fait il, "porqe vos ert enojer?*</l>
+                <l xml:id="d001l265" n="11139">No ve aporte asai da mançer?</l>
+                <l xml:id="d001l266" n="11140">Mal verò l'ore q'i s'en avrà sevrer;</l>
+                <l xml:id="d001l267" n="11141">S'el non fose por vos, eo li aleria rer. (235)</l>
+                <l xml:id="d001l268" n="11142">Da mançer me dà de grez e volunter;</l>
+                <l xml:id="d001l269" n="11143">Quant è livro un tajer, l'altro fa aporter,</l>
+                <l xml:id="d001l270" n="11144">E de tel colse non potì ma mançer.</l>
+                <l xml:id="d001l271" n="11145">E prego Deo, qe me faites orer,</l>
+                <l xml:id="d001l272" n="11146">Qe mai no se diça de quilo sevrer." (240)</l>
+                <l xml:id="d001l273" n="11147">"Bel filz," dist ela, "vu me l'avrì çurer,</l>
+                <l xml:id="d001l274" n="11148">Qe a quela cort non averì plu aler."</l>
+                <l xml:id="d001l275" n="11149">Dist Rolandin, anch'el fust baçaler,</l>
+                <l xml:id="d001l276" n="11150">"Mere," fait il, "dur è li otrier;</l>
+                <l xml:id="d001l277" n="11151">Colsa qi no me poit valoir ni çoer. (245)</l>
+                <l xml:id="d001l278" n="11152">Vu me faites in çes bois converser.</l>
+                <l xml:id="d001l279" n="11153">E a quel palés si sta plu çivaler,</l>
+                <l xml:id="d001l280" n="11154">E vu me faites qui de fame raçer.</l>
+                <l xml:id="d001l281" n="11155">Daqe vos plas, là no ò plu aler;</l>
+                <l xml:id="d001l282" n="11156">Ma por nul ren no ve l'averò çurer." (250)</l>
+                <l xml:id="d001l283" n="11157">Adoncha Berte si le lasa aler;</l>
+                <l xml:id="d001l284" n="11158">Ma tutafois ela li sta darer,</l>
+                <l xml:id="d001l285" n="11159">Q'elo non posa ni fuir ni scanper,</l>
+                <l xml:id="d001l286" n="11160">Ne por nul ren a la cort aler.</l>
+                <l xml:id="d001l287" n="11161">Tantqe a none se parse aprosmer, (255)</l>
+                <l xml:id="d001l288" n="11162">Quant Rolandin vi li termen paser</l>
+                <l xml:id="d001l289" n="11163">Q'elo soloit a la cort aler,</l>
+                <l xml:id="d001l290" n="11164">Ne·l sape sa mer si setilment guarder</l>
+                <l xml:id="d001l291" n="11165">Q'elo no s'en fuçe fora por un senter.</l>
+                <l xml:id="d001l292" n="11166">Quant a la cort se vait a 'prosmer (260)</l>
+                <l xml:id="d001l293" n="11167">Çascun escrie, "Eco li baçaler!"</l>
+                <l xml:id="d001l294" n="11168">Adoncha li baron fu asis a·l mancer;</l>
+                <l xml:id="d001l295" n="11169">E Rolandin no·l mis en oblier.</l>
+                <l xml:id="d001l296" n="11170">Cosi manue como fi da primer;</l>
+                <l xml:id="d001l297" n="11171">Quant oit mançé, q'il s'en voit aler,* (265)</l>
+                <l xml:id="d001l298" n="11172">Li rois le fi la toaila aporter,</l>
+                <l xml:id="d001l299" n="11173">E de pane e de çarne tot quanta raser.</l>
+                <l xml:id="d001l300" n="11174">Avantqe de·l palés aust a desmonter,</l>
+                <l xml:id="d001l301" n="11175">Naimes e Teris montò sens entarder;</l>
+                <l xml:id="d001l302" n="11176">Quant li fant va avanti, et i le vont arer. (270)</l>
+                <lb/>
+                <p xml:id="d001l303" style="font-weight:bold" n="">{{Rubric 325}}</p>
+                <lb/>
+                <p xml:id="d001l304" n="">Coment Naimes va rer Rolan(din).*</p>
+                <p xml:id="d001l305" style="font-weight:bold" n="">{{Laisse 326}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l306" n="11177">Via va Rolandin, por le çamin erant,</l>
+                <l xml:id="d001l307" n="11178">Naimes e Teris vait rer lui planemant.</l>
+                <l xml:id="d001l308" n="11179">Quant s'aprosment a la cha de l'infant,</l>
+                <l xml:id="d001l309" n="11180">Sa mer li ven encontra, tenerament plurant,</l>
+                <l xml:id="d001l310" n="11181">Atant ecote Naimes e Teris ensemant; (275)</l>
+                <l xml:id="d001l311" n="11182">En la mason vi la dama avant.</l>
+                <l xml:id="d001l312" n="11183">Quando Berta le vi, si ne fo molto dolant;</l>
+                <l xml:id="d001l313" n="11184">De paura q'el oit, tuta vait trenblant.</l>
+                <l xml:id="d001l314" n="11185">E si le dist, "Segnur, qe alez demandant?</l>
+                <l xml:id="d001l315" n="11186">E no son quella qe vos alez querant." (280)</l>
+                <l xml:id="d001l316" n="11187">E Naimes la reguarda, tot li color li soprant;*</l>
+                <l xml:id="d001l317" n="11188">Figuré l'oit a·l viso et a le senblant.</l>
+                <l xml:id="d001l318" n="11189">I s'ençenocle davant lei a·l presant;</l>
+                <l xml:id="d001l319" n="11190">"Dama," fait il, "ne vos doté niant;</l>
+                <l xml:id="d001l320" n="11191">Vu non poez avoir nesun enojamant." (285)</l>
+                <l xml:id="d001l321" n="11192">Rolandin quan le vi, una stanga il prant;</l>
+                <l xml:id="d001l322" n="11193">Feru n'averoit Naimes, por li çevo davant,</l>
+                <l xml:id="d001l323" n="11194">Quant soa mer de nient no li consant.</l>
+                <l xml:id="d001l324" n="11195">Atant ecote Milon da celle boscho grant,</l>
+                <l xml:id="d001l325" n="11196">Cun una torse de legne molto pesant. (290)</l>
+                <l xml:id="d001l326" n="11197">Quant vi çele jent, oit paure grant;</l>
+                <l xml:id="d001l327" n="11198">A tera la bute, por si fer maltalant,</l>
+                <l xml:id="d001l328" n="11199">La tera treme e darere e davant;</l>
+                <l xml:id="d001l329" n="11200">Quant à ço fato, si se mis en fujant,</l>
+                <l xml:id="d001l330" n="11201">Quant le dux Naimes pais no li consant. (295)</l>
+                <l xml:id="d001l331" n="11202">Elo li escrie, "No aler plu avant!"</l>
+                <l xml:id="d001l332" n="11203">Torner le fa oltra so maltalant.</l>
+                <lb/>
+                <p xml:id="d001l333" style="font-weight:bold" n="">{{Rubric 326}}</p>
+                <lb/>
+                <p xml:id="d001l334" n="">Coment Naimes parole.</p>
+                <p xml:id="d001l335" style="font-weight:bold" n="">{{Laisse 327}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l336" n="11204">Naimes parole, qe fo saço e doté,</l>
+                <l xml:id="d001l337" n="11205">"Segnur," fait il, "pais ne vos doté;</l>
+                <l xml:id="d001l338" n="11206">De nula ren nen serez engonbré. (300)</l>
+                <l xml:id="d001l339" n="11207">E vu, Teris, demanes vos alé,</l>
+                <l xml:id="d001l340" n="11208">Demantenant dentro de la cité</l>
+                <l xml:id="d001l341" n="11209">E faites faire robe como el se convé,</l>
+                <l xml:id="d001l342" n="11210">A raine e a conte privé;</l>
+                <l xml:id="d001l343" n="11211">E a questo damisel, un vesti a quarté."* (305)</l>
+                <l xml:id="d001l344" n="11212">Dist Teris, "Ben serà otrié."</l>
+                <l xml:id="d001l345" n="11213">Elo s'en vait dentro da la cité;</l>
+                <l xml:id="d001l346" n="11214">Tuti li sarti qe il oit trové,</l>
+                <l xml:id="d001l347" n="11215">A cosir quel robe li oit otrié;</l>
+                <l xml:id="d001l348" n="11216">Si le oit pagé a soa volunté; (310)</l>
+                <l xml:id="d001l349" n="11217">Quando fo fati, si s'en retorna aré.</l>
+                <l xml:id="d001l350" n="11218">Quant fu a Naimes si le oit delivré,</l>
+                <l xml:id="d001l351" n="11219">Milon e Berta fo vesti e cançé.</l>
+                <l xml:id="d001l352" n="11220">E Rolandin non fo pais oblié;</l>
+                <l xml:id="d001l353" n="11221">Soa vestitura si fo fata et ovré* (315)</l>
+                <l xml:id="d001l354" n="11222">Ad un quarter q'elo fo destiné,</l>
+                <l xml:id="d001l355" n="11223">Qe quela ensegne portò en soa vivité.</l>
+                <l xml:id="d001l356" n="11224">Quant Rolandin se vi si parilé,</l>
+                <l xml:id="d001l357" n="11225">Gran çoja elo n'oit amené.</l>
+                <l xml:id="d001l358" n="11226">Comunalment i sonto aroté; (320)</l>
+                <l xml:id="d001l359" n="11227">Tuti ensenbre enverso la cité.*</l>
+                <l xml:id="d001l360" n="11228">Avantq'i fose a li palés monté,</l>
+                <l xml:id="d001l361" n="11229">E li dux Naimes si fu davant alé,</l>
+                <l xml:id="d001l362" n="11230">Davant a Karlo si fu apresenté.</l>
+                <l xml:id="d001l363" n="11231">Li rois le vi, si l'oit ademandé: (325)</l>
+                <l xml:id="d001l364" n="11232">"De le enfant, como avez ovré?"</l>
+                <l xml:id="d001l365" n="11233">E cil le dist, "Vu le savrì asé;*</l>
+                <l xml:id="d001l366" n="11234">Vu si m'avrez un don otrié,*</l>
+                <l xml:id="d001l367" n="11235">A me voloir et a ma volunté."</l>
+                <l xml:id="d001l368" n="11236">Dist li rois, "De ço è verité." (330)</l>
+                <l xml:id="d001l369" n="11237">E Naimes dist, "Ora si le veé;</l>
+                <l xml:id="d001l370" n="11238">Quest'è li don qe vos è demandé:*</l>
+                <l xml:id="d001l371" n="11239">Milon e Berta, qe avés sbanojé."</l>
+                <l xml:id="d001l372" n="11240">Adoncha li furent davant lui presenté.</l>
+                <l xml:id="d001l373" n="11241">Li rois le vi, tuto fo trapensé; (335)</l>
+                <l xml:id="d001l374" n="11242">En man el tent un coltel amolé;</l>
+                <l xml:id="d001l375" n="11243">Ça li aust por li çevo buté,</l>
+                <l xml:id="d001l376" n="11244">Quant Rolandin fu avant alé.</l>
+                <l xml:id="d001l377" n="11245">Por me la man elo l'oit gobré,*</l>
+                <l xml:id="d001l378" n="11246">Una tel streta li oit en la man doné,* (340)</l>
+                <l xml:id="d001l379" n="11247">Qe por le ongues ne fo le sangue volé.</l>
+                <l xml:id="d001l380" n="11248">Li rois le vi; qi le aust doné</l>
+                <l xml:id="d001l381" n="11249">Tot li mondo davant e daré,</l>
+                <l xml:id="d001l382" n="11250">El non seroit si çojant ne lé.</l>
+                <l xml:id="d001l383" n="11251">Enfra de soi oit dito e devisé, (345)</l>
+                <l xml:id="d001l384" n="11252">"Costu serà li falcon de la Crestenté."</l>
+                <l xml:id="d001l385" n="11253">Enlora dist a Naimes, "Li don vos ert doné.</l>
+                <l xml:id="d001l386" n="11254">Por amor de cest enfant, li est perdoné</l>
+                <l xml:id="d001l387" n="11255">L'ira e li voloir e la mala volunté."</l>
+                <l xml:id="d001l388" n="11256">Adoncha Milon se fo ençenoclé, (350)</l>
+                <l xml:id="d001l389" n="11257">Et ensement Berta da l'altro le;*</l>
+                <l xml:id="d001l390" n="11258">E Rolandin por la sala oit guardé,</l>
+                <l xml:id="d001l391" n="11259">Se il veoit le table aparilé.</l>
+                <lb/>
+                <p xml:id="d001l392" style="font-weight:bold" n="">{{Rubric 327}}</p>
+                <lb/>
+                <p xml:id="d001l393" n="">Coment Naimes parole a Karlo.</p>
+                <p xml:id="d001l394" style="font-weight:bold" n="">{{Laisse 328}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l395" n="11260">Davant Karlo estoit le dux Milon,</l>
+                <l xml:id="d001l396" n="11261">E dama Berta a la clera façon. (355)</l>
+                <l xml:id="d001l397" n="11262">A li rois demandent e merçé e perdon;</l>
+                <l xml:id="d001l398" n="11263">Li rois li oldì, si f(ron)çì li gregnon;*</l>
+                <l xml:id="d001l399" n="11264">Ni ben ni mal elo no li respon.</l>
+                <l xml:id="d001l400" n="11265">Ma Damenedé, por soa redencion,*</l>
+                <l xml:id="d001l401" n="11266">Donò a Rolandin, q'era petit garçon, (360)</l>
+                <l xml:id="d001l402" n="11267">Entro son cor tant descrecion: . . . *</l>
+                <l xml:id="d001l403" n="11268">"Vu, çentil homo, qe me donesi li capon,</l>
+                <l xml:id="d001l404" n="11269">Se a mon per ni ma mer faites nul mespreson,</l>
+                <l xml:id="d001l405" n="11270">Tel vos donarò de·l pugno por li menton, (365)</l>
+                <l xml:id="d001l406" n="11271">Qe mal me veistes unqa nasu a·l mon."*</l>
+                <l xml:id="d001l407" n="11272">Quant quela parola oit oldu Naimon,</l>
+                <l xml:id="d001l408" n="11273">Elo dist en riando a Karlon,</l>
+                <l xml:id="d001l409" n="11274">"Guardé·ve ben da ste petit guarçon,</l>
+                <l xml:id="d001l410" n="11275">Qe a sa mer non faça se ben non." (370)</l>
+                <l xml:id="d001l411" n="11276">Li rois le prist atraverso li galon;</l>
+                <l xml:id="d001l412" n="11277">El ge basa (l)a bocha, le viso e la fron;</l>
+                <l xml:id="d001l413" n="11278">E si ge·l dist, "Bel filz, e no ve·l çelaron;*</l>
+                <l xml:id="d001l414" n="11279">Por filo vos tirò como faço Çarlon."</l>
+                <l xml:id="d001l415" n="11280">Molto li agrea a le dux Milon, (375)</l>
+                <l xml:id="d001l416" n="11281">Et ensement a·l duc Naimon.</l>
+                <l xml:id="d001l417" n="11282">"Mon segnor," dist Naimes, "porqe le çelaron?</l>
+                <l xml:id="d001l418" n="11283">Dapoqe vu avés doneo li perdon,</l>
+                <l xml:id="d001l419" n="11284">Faites·li far une colse qi savrà a ogn'on bon:*</l>
+                <l xml:id="d001l420" n="11285">Faites qe Berte si prenda li fançon,* (380)</l>
+                <l xml:id="d001l421" n="11286">E entro ses braçes tanto le tenon,</l>
+                <l xml:id="d001l422" n="11287">Qe davanti vos si la sposi Milon</l>
+                <l xml:id="d001l423" n="11288">Siqe la veça çivaler e peon."</l>
+                <l xml:id="d001l424" n="11289">E dist Karlo, "Questo conseil è bon,</l>
+                <l xml:id="d001l425" n="11290">Qe ma l'enfant non olda si ben non." (385)</l>
+                <l xml:id="d001l426" n="11291">E dist Naimes, "Non farés se ben non;</l>
+                <l xml:id="d001l427" n="11292">Vu n'averés lojal gujerdon."</l>
+                <l xml:id="d001l428" n="11293">Oez, mon sire, un petit ma rason,</l>
+                <l xml:id="d001l429" n="11294">Ço qe le dist li vailan Milon,</l>
+                <l xml:id="d001l430" n="11295">"Vestra marçi, doné m'avì perdon; (390)</l>
+                <l xml:id="d001l431" n="11296">Ma e vos dirò de ma entention.</l>
+                <l xml:id="d001l432" n="11297">Non est homo ni veilart ni garçon</l>
+                <l xml:id="d001l433" n="11298">Qe poust dir in verso ni cançon,</l>
+                <l xml:id="d001l434" n="11299">La gran poine q'e ò sotenu e·l mon</l>
+                <l xml:id="d001l435" n="11300">Por alever ste petit garçon. (395)</l>
+                <l xml:id="d001l436" n="11301">De çivaler eo deveni poltron,</l>
+                <l xml:id="d001l437" n="11302">E aler a li boscho a durer pasion."*</l>
+                <lb/>
+                <p xml:id="d001l438" style="font-weight:bold" n="">{{Rubric 328}}</p>
+                <lb/>
+                <p xml:id="d001l439" n="">Coment Milon parole a·l rois.</p>
+                <p xml:id="d001l440" style="font-weight:bold" n="">{{Laisse 329}}</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l441" n="11303">"Entendés moi, çentil enperer,</l>
+                <l xml:id="d001l442" n="11304">Dapoisqe de França eo m'avì sevrer,</l>
+                <l xml:id="d001l443" n="11305">E son esté en le bois converser, (400)</l>
+                <l xml:id="d001l444" n="11306">A tajer legne e gran torse porter,</l>
+                <l xml:id="d001l445" n="11307">Por no(r)ir cest enfant e ma çentil muler.*</l>
+                <l xml:id="d001l446" n="11308">E cun tuto ço e no vos quer nojer,</l>
+                <l xml:id="d001l447" n="11309">A gran poine ò au da mançer.</l>
+                <l xml:id="d001l448" n="11310">Vestra merçi, si como eo sper,* (405)</l>
+                <l xml:id="d001l449" n="11311">Vu m'avrés trato de quel penser.*</l>
+                <l xml:id="d001l450" n="11312">Omais me conven penser d'altro mester,</l>
+                <l xml:id="d001l451" n="11313">Dever pain conbatre e çostrer."*</l>
+                <l xml:id="d001l452" n="11314">Adonc Berta vait son filz a gobrer,*</l>
+                <l xml:id="d001l453" n="11315">Entro ses braçe Rolandin lever. (410)</l>
+                <l xml:id="d001l454" n="11316">A l'onor Deo, li vor justisier,</l>
+                <l xml:id="d001l455" n="11317">De dos ané qe li donò l'inperer,*</l>
+                <l xml:id="d001l456" n="11318">Milon vait la dama a sposer,</l>
+                <l xml:id="d001l457" n="11319">Veçando la cort e tot li berner.</l>
+                <l xml:id="d001l458" n="11320">Gran corte fo e davant e darer, (415)</l>
+                <l xml:id="d001l459" n="11321">E l'inperer, qe tant se fi loer,</l>
+                <l xml:id="d001l460" n="11322">Quella ovre non volse oblier;</l>
+                <l xml:id="d001l461" n="11323">Segondo li conseil de Naimes de Baiver,</l>
+                <l xml:id="d001l462" n="11324">Elo fe Milon çivaler</l>
+                <l xml:id="d001l463" n="11325">E de les autres qi volse arme bailer. (420)</l>
+                <l xml:id="d001l464" n="11326">Qi donc veist Rolandin aler</l>
+                <l xml:id="d001l465" n="11327">Por me la sale et avant et arer.</l>
+                <l xml:id="d001l466" n="11328">Vestu estoit d'un pano a quarter;</l>
+                <l xml:id="d001l467" n="11329">Çascun qe le voit, le prent a loer:</l>
+                <l xml:id="d001l468" n="11330">"Costu serà li meltre çivaler (425)</l>
+                <l xml:id="d001l469" n="11331">Qe se trovase en tot le Batister.</l>
+                <l xml:id="d001l470" n="11332">Por mal l'à vezu nasere Sarasin et Escler.</l>
+                <l xml:id="d001l471" n="11333">El serà colu qe serà avoer,</l>
+                <l xml:id="d001l472" n="11334">De tota Françe e serà guerojer,</l>
+                <l xml:id="d001l473" n="11335">Contra Pain e Turs et Escler."* (430)</l>
+            </div1>
+        </body>
+        <back>
+            <div type="criteri di edizione"><p>&lt;i&gt;Divisione delle parole&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Preposizione e congiunzione sono scritti di seguito
+                secondo l’uso italiano (per es., &lt;i&gt;Porqe&lt;/i&gt;). Preposizione e articolo determinativo sono
+                scritti di seguito con il punto in alto (per es., &lt;i&gt;de·l canp&lt;/i&gt;) prima di consonante, ma
+                separatamente e con l’apostrofo prima di vocale (per es., &lt;i&gt;a l’ami&lt;/i&gt;).&lt;br/&gt;&lt;i&gt;Au&lt;/i&gt;,
+                la forma velarizzata di &lt;i&gt;a&lt;/i&gt; e &lt;i&gt;l&lt;/i&gt;, nel verso 9424, unica occorrenza
+                di questa forma, è scritta a sua volta con il punto in alto, &lt;i&gt;a·u&lt;/i&gt;. &lt;br/&gt;&lt;i&gt;Qele&lt;/i&gt;
+                e &lt;i&gt;dele&lt;/i&gt;, congiunzione o preposizione seguita da pronome femminile, sono scritti &lt;i&gt;Qe
+                le&lt;/i&gt; e &lt;i&gt;De le&lt;/i&gt;, di nuovo secondo la forma italiana (invece del francese &lt;i&gt;Q’ele&lt;/i&gt;
+                o &lt;i&gt;D’ele&lt;/i&gt;, che sarebbero pure possibili). &lt;br/&gt;Vocale palatale dopo consonante e prima
+                di &lt;i&gt;s&lt;/i&gt; impura (per es., &lt;i&gt;sestoit&lt;/i&gt;) è scritta &lt;i&gt;se stoit&lt;/i&gt;
+                (invece di &lt;i&gt;s’estoit&lt;/i&gt;; cf. &lt;i&gt;a esperon&lt;/i&gt; vs. &lt;i&gt;Le speron&lt;/i&gt;)
+                dove c’è solo una vocale.&lt;br/&gt;Per &lt;i&gt;aler&lt;/i&gt;, &lt;i&gt;andar(e)&lt;/i&gt;, &lt;i&gt;venir(e)&lt;/i&gt;
+                e le loro forme, quando vi è la presenza di una &lt;i&gt;a&lt;/i&gt; dopo la forma verbale, la si interpreta
+                come &lt;i&gt;a&lt;/i&gt; preposizionale prima dell’infinito dipendente (per es., &lt;i&gt;aloit a prender&lt;/i&gt;).
+                &lt;br/&gt;Per i nomi di luogo che iniziano in &lt;i&gt;A&lt;/i&gt;, o per i verbi con &lt;i&gt;a-&lt;/i&gt;
+                iniziale, si interpreta l’eventuale mancanza dopo la preposizione &lt;i&gt;a&lt;/i&gt; come un’elisione,
+                e si rappresenta il fenomeno con l’apostrofo (per es., &lt;i&gt;a ’Ntone&lt;/i&gt; = “a Antone”; &lt;i&gt;a
+                ’Leris&lt;/i&gt; = “a Aleris”; &lt;i&gt;a ’coler&lt;/i&gt; = &lt;i&gt;a acoler&lt;/i&gt;). &lt;br/&gt;&lt;i&gt;di&lt;/i&gt;:
+                dove la &lt;i&gt;i&lt;/i&gt; potrebbe essere l’articolo determinativo, si inserisce il punto in alto (&lt;i&gt;d·i
+                enfant&lt;/i&gt; (v. 633) = “dei bambini”); altrimenti, le due lettere non si separano. &lt;br/&gt;&lt;br/&gt;&lt;i&gt;Abbreviazioni&lt;/i&gt;&lt;br/&gt;(&lt;i&gt;per
+                chiarezza, le forme sciolte delle abbreviazioni in mezzo alle parole o in mezzo ad una frase qui sono
+                scritte tra parentesi quadre, ma nel testo sono in corsivo&lt;/i&gt;) &lt;br/&gt;&lt;br/&gt;&lt;b&gt;7:&lt;/b&gt;
+                È scritta &lt;i&gt;et&lt;/i&gt;, con tre eccezioni (verso 17, e due volte in 15041) dove &lt;i&gt;e&lt;/i&gt;
+                permette una sillaba di meno nel verso, per mantenere il conto di dieci sillabe: il verso 17 si legge
+                &lt;i&gt;Morto l’abate, sença nosa [e] tencon&lt;/i&gt;; e il verso 15041, &lt;i&gt;Cun li çivaler vait
+                [e] arer [e] avant&lt;/i&gt;. &lt;br/&gt;&lt;b&gt;titulus&lt;/b&gt;: Il titulus segnala la mancanza della nasale.
+                Si segue la forma più comune trovata dove non c’è abbreviazione, cioè, &lt;i&gt;n&lt;/i&gt;.&lt;br/&gt;&lt;b&gt;&lt;i&gt;[r]&lt;/i&gt;&lt;/b&gt;:
+                Si segue la forma più comune altrove nel testo. Esempi: &lt;i&gt;m[er]&lt;/i&gt;, &lt;i&gt;m[er]velos&lt;/i&gt;,
+                &lt;i&gt;P[er]sant&lt;/i&gt;, &lt;i&gt;p[re]sant&lt;/i&gt;, &lt;i&gt;p[ri]mer&lt;/i&gt;, &lt;i&gt;p[ri]memant&lt;/i&gt;,
+                &lt;i&gt;p[ri]nçer&lt;/i&gt;, &lt;i&gt;p[ri]s&lt;/i&gt;, &lt;i&gt;p[ri]sé&lt;/i&gt;, &lt;i&gt;s[er]pant&lt;/i&gt;,
+                &lt;i&gt;v[er]gognie&lt;/i&gt;. &lt;br/&gt;&lt;b&gt;&#275;:&lt;/b&gt; Per &lt;i&gt;e[st]&lt;/i&gt; 8 volte nei
+                versi 640, 14102, 14126, 16344, 16671, 16713, 16732, e 16818.&lt;br/&gt;&lt;b&gt;&lt;i&gt;Jesu &#967;&#865;&#961;&#963;&lt;/i&gt;&lt;/b&gt;
+                appare una volta (v. 9390), per &lt;i&gt;Jesu [Christ]o&lt;/i&gt;.&lt;br/&gt;&lt;b&gt;&lt;i&gt;s&#865;te&lt;/i&gt;&lt;/b&gt;
+                appare una volta (v. 6187), per &lt;i&gt;s[an]te&lt;/i&gt;. &lt;br/&gt;I &lt;b&gt;nomi propri&lt;/b&gt; si abbreviano
+                in generale solo per i protagonisti più frequenti. &lt;br/&gt;&lt;b&gt;.K.&lt;/b&gt; si usa per Carlo Magno.
+                Ci sono otto varianti tra le 88 forme scritte senza abbreviazioni: &lt;i&gt;Karle&lt;/i&gt;, &lt;i&gt;Karloete&lt;/i&gt;,
+                e &lt;i&gt;Karo&lt;/i&gt; (nelle rubriche); &lt;i&gt;Karles&lt;/i&gt; e &lt;i&gt;Karloto&lt;/i&gt; nel
+                testo; &lt;i&gt;Karleto&lt;/i&gt; 64 volte, nella sezione di &lt;i&gt;Karleto&lt;/i&gt;; &lt;i&gt;Karlon&lt;/i&gt;,
+                sempre in rima; &lt;i&gt;Karlo&lt;/i&gt;, all’inizio e nel verso. Nel &lt;i&gt;Karleto&lt;/i&gt; (vv.
+                5491-9026), dunque, la forma abbreviata è sciolta &lt;i&gt;K[arleto]&lt;/i&gt; con l’eccezione delle forme
+                in rima dov’è necessario &lt;i&gt;K[arlon]&lt;/i&gt;. Altrove, si è optato per &lt;i&gt;K[arlo]&lt;/i&gt;,
+                a meno che la rima non richieda &lt;i&gt;K[arlon]&lt;/i&gt;. &lt;br/&gt;&lt;b&gt;.N.&lt;/b&gt; per &lt;i&gt;Naimes&lt;/i&gt;
+                è frequente. Seguendo le forme scritte per esteso, in rima si dà &lt;i&gt;N[aymon]&lt;/i&gt;; altrove
+                appare &lt;i&gt;N[aimes]&lt;/i&gt;. &lt;br/&gt;&lt;b&gt;.R.&lt;/b&gt; (&lt;b&gt;&lt;i&gt;.Ro&lt;/i&gt;&lt;/b&gt;.,
+                Rubriche 530, 580, 581, 585, 617) per Orlando. Nel testo appaiono &lt;i&gt;Rolan&lt;/i&gt; (in rima);
+                &lt;i&gt;Rolandin&lt;/i&gt;; &lt;i&gt;Rolando&lt;/i&gt;; e &lt;i&gt;Rolant&lt;/i&gt;. Nel testo di &lt;i&gt;Orlandino&lt;/i&gt;,
+                &lt;i&gt;Rolandin&lt;/i&gt; è la forma preferita, e dunque è questo lo scioglimento usato, a meno che
+                la rima non richieda un’altra forma. Prima e dopo, secondo il numero di sillabe richieste e l’età del
+                personaggio si risolve: prima di &lt;i&gt;Orlandino&lt;/i&gt; (vv. 9393, 9480 e 9498) per il bambino e
+                tre sillabe, &lt;i&gt;R[olandin]&lt;/i&gt;. Dopo l’&lt;i&gt;Orlandino&lt;/i&gt;, però, si usa &lt;i&gt;R[olando]&lt;/i&gt;
+                per tre sillabe, &lt;i&gt;R[olant]&lt;/i&gt; per due sillabe e nelle rubriche, dove non sono in rima.&lt;br/&gt;&lt;b&gt;.B.&lt;/b&gt;
+                per &lt;i&gt;B[erte]&lt;/i&gt; (Rubrica 40).&lt;br/&gt;&lt;b&gt;.B.&lt;/b&gt; per &lt;i&gt;B[ra]er&lt;/i&gt;
+                (Rubrica 363, dopo v. 12649).&lt;br/&gt;&lt;b&gt;.G.&lt;/b&gt; per &lt;i&gt;G[uier]&lt;/i&gt; (Rubrica 112,
+                dopo v. 4272).&lt;br/&gt;&lt;b&gt;.M.&lt;/b&gt; per &lt;i&gt;Macario&lt;/i&gt; (Rubriche 411 e 413).&lt;br/&gt;&lt;b&gt;.O.&lt;/b&gt;
+                per &lt;i&gt;O[liver]&lt;/i&gt; (Rubrica 631). &lt;br/&gt;&lt;br/&gt;&lt;i&gt;Emendazioni&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Le aggiunte
+                editoriali, emendazioni e cancellature sono tra parentesi tonde ( ); le spiegazioni si trovano nelle note
+                alla fine nel testo stampato. Le parentesi ad angolo &lt; &gt; indicano le letture di altri editori che
+                non sono chiare ma che sono ragionevoli (spiegazioni nelle note stampate). &lt;br/&gt;&lt;br/&gt;&lt;i&gt;Gli accenti
+                scritti&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;a. &lt;b&gt;la c con cediglia&lt;/b&gt; &lt;i&gt;Ç&lt;/i&gt; si lascia tale
+                e quale nell’originale. L’uso non è coerente prima di palatale e dunque l’emendazione sembra illogica.
+                Per distinguere tra certe forme, però, è stata aggiunta o tolta la cediglia 12 volte: le forme di &lt;i&gt;çuçer&lt;/i&gt;
+                (&lt; JUDICARE) e lessemi imparentati, nei versi 2824 (&lt;i&gt;(çu(ç)ement&lt;/i&gt;), Rubrica 121 (&lt;i&gt;(ç)uçé&lt;/i&gt;),
+                11652 (&lt;i&gt;(ç)uçé&lt;/i&gt;), 14730 (&lt;i&gt;(ç)u(ç)ement&lt;/i&gt;), 15345 (&lt;i&gt;çu(ç)ement&lt;/i&gt;);
+                inoltre, nel verso 4824 &lt;i&gt;(ç)onto&lt;/i&gt; (Ital. “giunto”) (&lt; lat. JUNGERE); &lt;i&gt;(ç)u(b)ler&lt;/i&gt;
+                (830, per correggere la metatesi dove nel manoscritto si legge &lt;i&gt;bulçer&lt;/i&gt;); &lt;i&gt;(ç)ura&lt;/i&gt;,
+                v. 4560 (&lt;JURARE per distinzione da &lt;i&gt;curer&lt;/i&gt; &lt; CURARE); &lt;i&gt;(ço)strer&lt;/i&gt;
+                (v. 897) e &lt;i&gt;(ç)ostraren&lt;/i&gt; (v. 13117) per seguire altre forme di &lt;i&gt;çostrer&lt;/i&gt;;
+                &lt;i&gt;(ç)ant&lt;/i&gt;, Rubrica 451, dopo v. 16011 (per seguire le altre forme &lt; GENTE(M)). Una
+                cediglia in più si toglie da &lt;i&gt;(c)oment&lt;/i&gt; (Rubrica 388, dopo v. 3677).&lt;br/&gt;Accenti editoriali
+                aggiunti:&lt;br/&gt;b. &lt;b&gt;l’accento acuto&lt;/b&gt; si aggiunge solo su &lt;i&gt;-e&lt;/i&gt;. &lt;br/&gt;i.
+                Per i participi passati (riflessi di, o analoghi a, i riflessi di participi passati della prima coniugazione
+                latina in -ARE), per distinguerli dalla terza persona singolare o plurale del tempo presente dov’è possibile;
+                dove non è possibile la distinzione, non c’è accento scritto. &lt;br/&gt;ii. L’acuto si usa anche alla seconda
+                persona plurale indicativo o imperativo per la prima coniugazione come &lt;i&gt;alé&lt;/i&gt; e &lt;i&gt;alés&lt;/i&gt;,
+                ma non in &lt;i&gt;-ez/-eç&lt;/i&gt;. &lt;br/&gt;iii. Similmente, le parole con la sillaba tonica che hanno
+                la stessa struttura: &lt;i&gt;malvés&lt;/i&gt;; &lt;i&gt;jamés&lt;/i&gt;; &lt;i&gt;aprés&lt;/i&gt;; &lt;i&gt;palés&lt;/i&gt;.
+                Però, dove la tonica non è chiara, come &lt;i&gt;demanes&lt;/i&gt;, non c’è accento scritto (italiano
+                &lt;i&gt;dománi&lt;/i&gt; o antico francese &lt;i&gt;demanois&lt;/i&gt;?).&lt;br/&gt;iv. Alcune parole di una
+                sillaba si scrivono con l’accento acuto per distinguerli da altre parole di significato diverso &lt;i&gt;Dé&lt;/i&gt;
+                (&lt;DEUM, come &lt;i&gt;Damnedé&lt;/i&gt; [&lt;DOMINUS DEUS]); &lt;i&gt;né&lt;/i&gt; (&lt; NATUM); &lt;i&gt;lé&lt;/i&gt;
+                (ital mod &lt;i&gt;lieto&lt;/i&gt;); &lt;i&gt;mé&lt;/i&gt; (fran mod &lt;i&gt;mais&lt;/i&gt;). Non è possibile
+                evitare ogni doppiatura; per esempio, &lt;i&gt;ne&lt;/i&gt; può essere la particella negativa e la congiunzione
+                equivalente al moderno “né”; &lt;i&gt;le&lt;/i&gt; può significare “largo” e “lei” come pronome. &lt;br/&gt;c.
+                &lt;b&gt;l’accento grave&lt;/b&gt; si aggiunge alle vocali finali &lt;i&gt;a&lt;/i&gt;, &lt;i&gt;e&lt;/i&gt;,
+                &lt;i&gt;i&lt;/i&gt;, &lt;i&gt;o&lt;/i&gt;. &lt;br/&gt;i. Per la terza persona singolare/plurale del passato
+                remoto dei verbi regolari in &lt;i&gt;-o&lt;/i&gt;, riflessi o analoghi alla prima coniugazione latina,
+                in -ARE (per es., &lt;i&gt;trovò&lt;/i&gt;) per distinguerlo dalla prima persona singolare presente. Dove
+                non è chiaro se il verbo è presente o di una radice regolare o irregolare, come &lt;i&gt;pote&lt;/i&gt;,
+                non si usa l’accento. Ci sono due lasse con la rima in &lt;i&gt;a&lt;/i&gt; finale che sono problematiche;
+                il tempo verbale di alcuni verbi così non è evidente.&lt;br/&gt;ii. L’accento grave si usa al futuro: &lt;i&gt;-è&lt;/i&gt;,
+                &lt;i&gt;-ò&lt;/i&gt;, &lt;i&gt;-à&lt;/i&gt; (per es., &lt;i&gt;farà&lt;/i&gt;), secondo l’uso dell’italiano
+                moderno.&lt;br/&gt;iii. Si usa sui nomi ossitoni come &lt;i&gt;verità&lt;/i&gt; (290). &lt;br/&gt;iv. Si usa sull’
+                &lt;i&gt;-i&lt;/i&gt; finale dove vale come desinenza verbale della seconda persona plurale (= &lt;i&gt;és&lt;/i&gt;);
+                per es., &lt;i&gt;condurì&lt;/i&gt;, &lt;i&gt;avì&lt;/i&gt;. Questo include l’imperativo.&lt;br/&gt;v. Inoltre,
+                l’accento distingue tra omonimi e in alcuni casi, tempi verbali: &lt;i&gt;ò&lt;/i&gt; (=ho) vs. &lt;i&gt;o&lt;/i&gt;
+                (=dove); &lt;i&gt;à&lt;/i&gt; (=ha) vs. &lt;i&gt;a&lt;/i&gt; (preposizione); &lt;i&gt;è&lt;/i&gt;, (=è)
+                vs. &lt;i&gt;e&lt;/i&gt; (=e); &lt;i&gt;dè&lt;/i&gt; (diede; deve) vs. &lt;i&gt;de&lt;/i&gt; (preposizione);
+                &lt;i&gt;dà&lt;/i&gt; (dal verbo &lt;i&gt;dare&lt;/i&gt;, dà e l’imperativo, da’) vs. &lt;i&gt;da&lt;/i&gt;
+                (preposizione e participio passato); &lt;i&gt;dì&lt;/i&gt; (verbo, l’imperativo di &lt;i&gt;dire&lt;/i&gt;)
+                vs. &lt;i&gt;di&lt;/i&gt; (preposizione); &lt;i&gt;fà&lt;/i&gt; (imperativo) vs. &lt;i&gt;fa&lt;/i&gt;
+                (indicativo); &lt;i&gt;sì&lt;/i&gt; (sei, siete) vs. &lt;i&gt;si&lt;/i&gt; (se; e; sì); &lt;i&gt;sè&lt;/i&gt;
+                (dal verbo sapere) vs. &lt;i&gt;se&lt;/i&gt; (pronome e congiunzione); &lt;i&gt;lì&lt;/i&gt;, &lt;i&gt;là&lt;/i&gt;
+                (avverbi) vs. &lt;i&gt;li&lt;/i&gt;, &lt;i&gt;la&lt;/i&gt; (pronomi). &lt;br/&gt;vi. Il grave si usa anche su
+                &lt;i&gt;-e&lt;/i&gt; ed &lt;i&gt;-i&lt;/i&gt; dove sono forme del passato remoto (per es., &lt;i&gt;avì&lt;/i&gt;,
+                &lt;i&gt;trovè&lt;/i&gt;). &lt;br/&gt;c. &lt;b&gt;la dieresi&lt;/b&gt;: non si usa; siccome il conto delle sillabe
+                è tanto variabile, si evita l’uso.&lt;br/&gt;d. &lt;b&gt;l’apostrofo&lt;/b&gt;: rappresenta l’elisione di una
+                vocale. È spesso poco chiaro quale parte di un’espressione abbia subita l’elisione (per es., &lt;i&gt;elo&lt;/i&gt;:
+                sarà &lt;i&gt;e&lt;/i&gt; &lt; EGO + &lt;i&gt;l&lt;/i&gt; &lt; ILLU + &lt;i&gt;o&lt;/i&gt; &lt; HABEO?
+                O sarà &lt;i&gt;el&lt;/i&gt; &lt; ILLU + &lt;i&gt;o&lt;/i&gt; &lt; HABEO?), allora si limita l’uso dell’apostrofo
+                a:&lt;br/&gt;i. congiunzione pronome soggetto: &lt;i&gt;q’il&lt;/i&gt;; &lt;i&gt;s’i&lt;/i&gt;&lt;br/&gt;ii. articolo
+                più aggettivo o nome che inizia con vocale: &lt;i&gt;L’uno&lt;/i&gt;&lt;br/&gt;iii. avverbi negativi seguiti
+                da verbo o pronome oggetto che inizia con vocale: &lt;i&gt;n’en&lt;/i&gt;; &lt;i&gt;n’amo&lt;/i&gt;&lt;br/&gt;iv.
+                pronome oggetto seguito da verbo che inizia con vocale, o seguito da un altro pronome che inizia con vocale:
+                &lt;i&gt;l’à&lt;/i&gt;, &lt;i&gt;s’en&lt;/i&gt;&lt;br/&gt;v. &lt;i&gt;a&lt;/i&gt; prima di lessema che inizia
+                con a; per es., &lt;i&gt;a ’Ntone&lt;/i&gt;, per &lt;i&gt;a [A]ntone&lt;/i&gt;; questo è un esempio particolare,
+                dove alla seconda parola manca la vocale iniziale. C’è un esempio di &lt;i&gt;a&lt;/i&gt; più un’altra
+                vocale (o &lt;i&gt;e&lt;/i&gt; o &lt;i&gt;i&lt;/i&gt;, che è simile, v. 10627: &lt;i&gt;Lasa’n&lt;/i&gt;,
+                dove l’apostrofo sta per la vocale iniziale di &lt;i&gt;en&lt;/i&gt; o &lt;i&gt;in&lt;/i&gt; (tutte e
+                due le forme si trovano nel testo).&lt;br/&gt;e. &lt;b&gt;punto in alto&lt;/b&gt;: si usa per la combinazione
+                di due lessemi dove il secondo inizia in consonante.&lt;br/&gt;i. preposizione + articolo: &lt;i&gt;a·l&lt;/i&gt;,
+                &lt;i&gt;de·l&lt;/i&gt;; l’eccezione qui è &lt;i&gt;a·u&lt;/i&gt;, che appare una volta sola (v. 9424);
+                &lt;br/&gt;ii. verbo + pronome atono che segue: &lt;i&gt;Fa·la&lt;/i&gt;, &lt;i&gt;à·l&lt;/i&gt;, ecc. A causa
+                della legge Tobler-Mussafia nella lingua antica (i pronomi oggetto non precedono un verbo all’inizio di
+                verso o di frase) (Rohlfs, &lt;i&gt;Grammatica storica&lt;/i&gt;, 170-72 [&amp; 469]), è piuttosto frequente.
+                Il punto in alto si usa anche con gli imperativi, infinitivi, e il futuro ossitono. I pronomi tonici non
+                sono inclusi (&lt;i&gt;moi&lt;/i&gt;, &lt;i&gt;nos&lt;/i&gt;, &lt;i&gt;vos&lt;/i&gt;);&lt;br/&gt;iii. pronome
+                soggetto + pronome oggetto: per es., &lt;i&gt;ela·l&lt;/i&gt;, &lt;i&gt;ele·l&lt;/i&gt;, &lt;i&gt;ge·l&lt;/i&gt;
+                per il moderno “lei lo” or “lei la,” “glielo” or “gliela”;&lt;br/&gt;iv. congiunzione + pronome oggetto: &lt;i&gt;qi·l&lt;/i&gt;,
+                &lt;i&gt;si·l&lt;/i&gt; per il moderno “che lo,” “se lo”;&lt;br/&gt;v. in pochi casi, il verbo e il soggetto
+                che segue che inizia in consonante: &lt;i&gt;è·lo&lt;/i&gt;, &lt;i&gt;è·la&lt;/i&gt;, &lt;i&gt;fo·lo&lt;/i&gt;,
+                ecc.;&lt;br/&gt;vi. in casi di assimilazione: una nasale finale con una parola seguente che inizia in nasale;
+                per esempio, &lt;i&gt;i·me&lt;/i&gt; per &lt;i&gt;in&lt;/i&gt; + &lt;i&gt;me&lt;/i&gt;, “in mezzo a” (v.
+                10447); &lt;i&gt;co·la&lt;/i&gt;, per &lt;i&gt;con&lt;/i&gt; + &lt;i&gt;la&lt;/i&gt; (v. 10877); una congiunzione
+                a un pronome soggetto che segue, &lt;i&gt;e·l&lt;/i&gt;, “et il” (per es., v. 10690), &lt;i&gt;e·s&lt;/i&gt;,
+                “et les” (v. 16344), ecc.; e similmente, l’avverbio negativo più pronome oggetto che segue, dove la nasale
+                finale si assimila a &lt;i&gt;l&lt;/i&gt;: &lt;i&gt;no·l&lt;/i&gt;, moderno “non lo.”&lt;br/&gt;&lt;br/&gt;&lt;i&gt;Semivocali&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Il
+                manoscritto usa &lt;i&gt;u&lt;/i&gt; per &lt;i&gt;u&lt;/i&gt; e per &lt;i&gt;v&lt;/i&gt;, &lt;i&gt;i&lt;/i&gt;
+                per &lt;i&gt;i&lt;/i&gt; e &lt;i&gt;j/y&lt;/i&gt;. Convenzionalmente, si usa &lt;i&gt;j&lt;/i&gt; come
+                la seconda dei due “i” &lt;i&gt;i&lt;/i&gt; al plurale (per es., &lt;i&gt;palij&lt;/i&gt;) e nei numeri
+                (per es., &lt;i&gt;xij&lt;/i&gt;). “&lt;i&gt;j&lt;/i&gt;” si associa con tanti fonemi nelle tradizioni
+                delle due zone. Contrariamente ad alcuni editori, in questa edizione si trasforma la “i” in “j” in ogni
+                posizione della parola, non solo all’inizio. &lt;br/&gt;&lt;i&gt;J&lt;/i&gt; è scritta:&lt;br/&gt;i. dove rappresenta
+                il /&#676;/ nell’italiano moderno, /&#658;/ nel francese moderno: per es., &lt;i&gt;jent&lt;/i&gt;, &lt;i&gt;jant&lt;/i&gt;,
+                &lt;i&gt;jorno&lt;/i&gt;, &lt;i&gt;je&lt;/i&gt; (= “gente / gens, giorno / jour, -/je”)&lt;br/&gt;ii. dove rappresenta
+                /j/: per es., &lt;i&gt;çoja&lt;/i&gt;, &lt;i&gt;nojer&lt;/i&gt; (= “gioia, noia”)&lt;br/&gt;iii. dove rappresenta
+                /&#955;/ nell’italiano moderno: per es., &lt;i&gt;mujer&lt;/i&gt; (= riflesso di “moglie”)&lt;br/&gt;-&lt;i&gt;ij&lt;/i&gt;
+                (&lt;i&gt;sij&lt;/i&gt;, &lt;i&gt;malvasij&lt;/i&gt;) come convenzione è scritta &lt;i&gt;-ii&lt;/i&gt;
+                secondo le pratiche moderne.&lt;br/&gt;&lt;i&gt;v&lt;/i&gt; appare:&lt;br/&gt;i. nei numeri cardinali (romani) nel
+                manoscritto.&lt;br/&gt;ii. &lt;i&gt;savrà&lt;/i&gt; e &lt;i&gt;avrà&lt;/i&gt; perché le forme con la semivocale
+                predominano.&lt;br/&gt;iii. altrove, si segue l’uso moderno: per es., &lt;i&gt;salver/saluer&lt;/i&gt;, che
+                significano “salvare” e “salutare.”&lt;br/&gt;&lt;br/&gt;&lt;i&gt;I maiuscoli&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Si usa il maiuscolo
+                secondo le norme delle lingue romanze moderne. Nel manoscritto, si trova di solito un trattino rosso attraverso
+                i nomi di persona, raramente un maiuscolo se non all’inizio di verso. Si scrivono qui anche con il maiuscolo
+                i luoghi d’origine e gli epiteti usati come nomi (per es., &lt;i&gt;Çudé&lt;/i&gt;, &lt;i&gt;Apostoile&lt;/i&gt;,
+                &lt;i&gt;Ascler&lt;/i&gt;).&lt;br/&gt;&lt;br/&gt;Per più dettagli, si rimanda al volume 1 dell’edizione, pp. 289-304,
+                da cui è tratta questa presentazione abbreviata. &lt;br/&gt;
+            </p></div>
+            <div type="traduzione"><p>&lt;table bgcolor="#ffffff" cellspacing="0" cellpadding="0"&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_t"&gt;Rubrica 318&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Che racconta di Carlo&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_t"&gt;Lassa 319&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="blank" colspan="2"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Signori baroni, siatene certi,&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;il migliore re di Francia e di
+                Normandia&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;fu
+                l’imperatore Carlo Magno.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;E colui che patì più pene e tormenti,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;10900&lt;/td&gt;&lt;td
+                class="c_r"&gt;fin da quando era un bambino,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;fu cacciato fuori dal suo regno&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;e fu allevato con i Turchi e i Persiani.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;E quando credeva di aver trovato la felicità,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Rolando e Oliviero furono uccisi&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;10905&lt;/td&gt;&lt;td
+                class="c_r"&gt; da Gano, che li tradì.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Grande fu la gioia dei Normanni,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;quando l’imperatore cavalcò arditamente&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;con i suoi cavalieri piccoli e grandi.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Attraversarono la valle di Baccano, che è il cammino principale,&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;10910&lt;/td&gt;&lt;td class="c_r"&gt; finché si fermarono a Sutri&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;e vi alloggiarono per 15 giorni,&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;perché  i cavalieri avevano faticato
+                molto.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Non
+                erano in grado di spostarsi,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;soggiornarono in quel luogo senza procedere.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;10915&lt;/td&gt;&lt;td
+                class="c_r"&gt; E l’imperatore, il grande Carlo Magno,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;fece proclamare per tutta Sutri un bando&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;affinché ogni borghese o castellano&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;andasse a vedere la corte del re,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;dove avrebbe ricevuto molto pane, vino e provvigioni.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;10920&lt;/td&gt;&lt;td class="c_r"&gt; Vi si recarono tutti quelli che lo desideravano.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Rolandino sentì il bando mentre
+                era con altri bambini.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Quando lo udì, niente lo trattenne,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;si alzò con più di trenta compagni&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;e se ne andarono a corte tutti allegri e contenti.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;10925&lt;/td&gt;&lt;td class="c_r"&gt;Ma Rolandino andava sempre avanti,&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;come fosse un loro capitano.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Non si fermarono fino al palazzo
+                reale.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="blank" colspan="2"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_t"&gt;Rubrica 319&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Come Rolando sale al palazzo&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_t"&gt;Lassa 320&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="blank" colspan="2"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Rolandino arrivò al palazzo con gli altri ragazzi&lt;span class="sigla" onmouseover="tooltip_show('_1');"
+                onmouseout="tooltip_hide('_1');"&gt;&lt;img src="immagini/nota.gif" alt="(1)" hspace="1px" border="0"/&gt;&lt;/span&gt;,&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;nessuno osava andargli davanti.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;10930&lt;/td&gt;&lt;td class="c_r"&gt; Rolandino guardò avanti e indietro,&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;da tutte le parti vide dei cavalieri&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;seduti a tavola a mangiare.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Rolandino guardò e vide l’imperatore&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;che aveva il tagliere più grande
+                degli altri.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;10935&lt;/td&gt;&lt;td class="c_r"&gt;
+                Quando lo vide cominciò a desiderarlo&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;e non volle restare fermo più a lungo;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;si mise ad andare verso il re.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Allora i servitori gli andarono incontro,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;volevano subito farlo tornare indietro.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;10940&lt;/td&gt;&lt;td
+                class="c_r"&gt; A quel punto Rolandino divenne tanto ostinato e audace&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;che ne fece cadere uno per terra.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Il re lo vide, cominciò a ridere,&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;e disse a Naimes di Baviera:&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;“Chi vide mai un ragazzo così
+                prode?”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;10945&lt;/td&gt;&lt;td class="c_r"&gt; E poi
+                disse alle guardie:&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;“Lasciatelo
+                venire, non intralciatelo.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;E quelli fecero quanto il re chiese loro.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;E Rolandino fu molto furbo,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;non andava ad altri taglieri&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;10950&lt;/td&gt;&lt;td
+                class="c_r"&gt; se non a quello dell’imperatore Carlo,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;che vedeva tutto pieno di carne.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Nessun bracco né levriero fu mai&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;come Rolandino quando riuscì ad avvicinarsi&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;e cominciò a mangiare la carne.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;10955&lt;/td&gt;&lt;td
+                class="c_r"&gt; Il duca Naimes di Baviera lo osservò a lungo.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Devo allungarvi di più il racconto&lt;span class="sigla" onmouseover="tooltip_show('_2');"
+                onmouseout="tooltip_hide('_2');"&gt;&lt;img src="immagini/nota.gif" alt="(2)" hspace="1px" border="0"/&gt;&lt;/span&gt;?&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Non si sarebbe potuto avanzare
+                di un passo&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;senza
+                che Rolandino avesse prima svuotato quel tagliere.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Quando il re lo vide mangiare così,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;10960&lt;/td&gt;&lt;td
+                class="c_r"&gt; fece portare una sedia&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;per farvi sedere il bambino.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;E quando quel tagliere fu tutto vuotato&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;il re ne fece portare un altro.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;E i baroni si misero a osservarlo,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;10965&lt;/td&gt;&lt;td
+                class="c_r"&gt; perché si meravigliavano molto di lui.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Ma Rolandino non se ne preoccupava,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;non si guardava né avanti né indietro,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;ma fissava sempre il tagliere.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Quando fu ben sazio, che non poteva più mangiare,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;10970&lt;/td&gt;&lt;td class="c_r"&gt; cominciò a desiderare ardentemente&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;quella carne che gli sembrava
+                avanzare&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;e
+                il pane che poteva rubare.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Carlo se ne accorse, cominciò a osservarlo&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;e poi gli chiese una spiegazione:&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;10975&lt;/td&gt;&lt;td
+                class="c_r"&gt; “Dimmi, ragazzo, bada bene, non nascondermelo,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;non hai avuto abbastanza da mangiare e da bere?&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Cosa vuoi fare di quello che
+                vuoi rubare?&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Ti
+                vedo nascondere la carne e il pane.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Rolandino disse: “Non dovete meravigliarvi,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;10980&lt;/td&gt;&lt;td
+                class="c_r"&gt; li prendo per portarli a mia madre&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;e con lei a uno che è mio padre.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Il re lo sentì, fece chiamare il suo cameriere.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Gli fece portare una tovaglia bianca,&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;la fece riempire fino all’orlo
+                di carne e di pane&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;10985&lt;/td&gt;&lt;td class="c_r"&gt;
+                e poi gliela fece avvolgere intorno al collo.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;E disse: “Figliolo, questo dovrete portarlo&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;a vostro padre e a vostra madre.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;E così vi dico, così vi voglio comandare&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Che domani veniate qua a mangiare.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;10990&lt;/td&gt;&lt;td
+                class="c_r"&gt; Rolandino disse: “Di buon grado e volentieri.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Così quando Rolandino voleva andarsene,&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;l’imperatore prese a chiamare
+                due valletti:&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;“Signori
+                - disse loro – ora andategli dietro,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;così saprete chi sono il padre e la madre.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;10995&lt;/td&gt;&lt;td
+                class="c_r"&gt; E quelli gli dissero: “Di buon grado e volentieri.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="blank" colspan="2"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_t"&gt;Rubrica 320&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Come ritorna Rolando&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_t"&gt;Lassa 321&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="blank" colspan="2"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Rolandino se ne andò, non fu
+                mai così contento.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Quando
+                scese dal palazzo si mise in cammino.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Un levriero veloce non sarebbe riuscito a raggiungerlo.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Conosceva le strade, piccole e grandi.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;11000&lt;/td&gt;&lt;td class="c_r"&gt; Non era andato avanti più di due
+                arpenti&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;quando
+                sparì davanti agli inseguitori,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;che non riuscivano più a vederlo.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Tornarono da Carlo, così gli dissero di come&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;il ragazzo era loro sparito davanti.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11005&lt;/td&gt;&lt;td
+                class="c_r"&gt; Il re disse: “Maledetti servitori!&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Ci manca poco che vi faccia impiccare!&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Ma domani, se il ragazzo non verrà,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;alla corte non mangerà nessuno.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;E Rolandino se ne andava allegro e contento,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11010&lt;/td&gt;&lt;td
+                class="c_r"&gt; cantando lungo la strada.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Non fu così allegro in tutta la sua vita.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Quando arrivò davanti a sua madre,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;le donò il pane e il resto del cibo.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Quando lei lo vide, si rattristò molto&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11015&lt;/td&gt;&lt;td
+                class="c_r"&gt; e disse “Figliolo, chi vi ha dato questo cibo?”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;“Madre – rispose – un nobile signore&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;mi ha dato da mangiare tutto
+                quello che gli ho chiesto.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Per cui la dama cominciò a pensare:&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;“È da mio fratello che mi viene il regalo.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11020&lt;/td&gt;&lt;td
+                class="c_r"&gt; E Rolandino le disse ridendo:&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;“Mangiate, madre, siate allegra e contenta!&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Domani ne avremo altrettanto.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Me lo disse quel signore che mi ha dato da mangiare.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Intanto ecco Milone che entra.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;11025&lt;/td&gt;&lt;td class="c_r"&gt; Quando vide quel dono si rallegrò
+                molto,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;perché
+                non era solito mangiare tutto quel cibo.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;“Figliolo – disse Berta –“farete ciò che vi ordino.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Non andateci più per nessuna ragione al mondo.”&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Rolandino disse: “Farò ciò che
+                mi comandate.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11030&lt;/td&gt;&lt;td class="c_r"&gt;
+                Lo disse a parole, ma non lo pensava davvero.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;E Berta parlò chiaramente a Milone:&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;“Milone – gli disse -ci va male.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;È da mio fratello che ritorna Rolando,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;lo riconosco dalla tovaglia.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11035&lt;/td&gt;&lt;td
+                class="c_r"&gt; Non è senza motivo che gli ha dato il cibo.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Se ci riconoscesse, entrambi non scamperemmo&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;alla morte per tutto l’oro del mondo:&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;voi pendereste impiccato alla forca&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;e io sarei arsa sul fuoco ardente.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11040&lt;/td&gt;&lt;td
+                class="c_r"&gt; Milone, quando sentì ciò, si rattristò.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Entrambi piansero teneramente di nascosto.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Milone rimase in casa tutto quel giorno&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;perché aveva il necessario per sfamarsi.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Non si curava di Rolandino,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11045&lt;/td&gt;&lt;td
+                class="c_r"&gt; ma la dama si comportava diversamente.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Conosceva l’ira e la collera di suo fratello.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Trattenne il bambino per tutto il giorno,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;non lo lasciò andare né avanti né indietro,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;così passò completamente l’ora&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11050&lt;/td&gt;&lt;td
+                class="c_r"&gt; in cui la corte era solita mangiare in precedenza.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;E Rolandino sgusciò via,&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;tanto che sparì davanti a sua
+                madre.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Quelli
+                della corte stavano tutti in ascolto.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Non ci fu nessuno, né grande né piccolo&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11055&lt;/td&gt;&lt;td
+                class="c_r"&gt; che osasse mangiare prima dell’arrivo del bambino.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Quando lo videro venire si rallegrano tutti,&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;si lavarono e si andarono a sedere.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;E sappiate, era quasi passata
+                l’ora nona&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;prima
+                che arrivasse quel bambino.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11060&lt;/td&gt;&lt;td
+                class="c_r"&gt; Sua madre lo poteva cercare in lungo e in largo,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;che si trovava alla corte a mangiare.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="blank" colspan="2"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_t"&gt;Rubrica 321&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Come Rolando arriva alla corte&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_t"&gt;Lassa 322&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="blank" colspan="2"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Quando Rolandino arrivò a corte&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;i grandi e i piccoli fecero gran
+                festa&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;a
+                causa del bando che era stato messo.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11065&lt;/td&gt;&lt;td
+                class="c_r"&gt; Rolandino fu sempre davanti a Carlo,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;dove mangiò a più non posso.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Naimes richiamò Carlo il nerboruto:&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;“Imperatore, sire, non ve ne siete accorto?&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Questo è un miracolo del re Gesù,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11070&lt;/td&gt;&lt;td
+                class="c_r"&gt; questo bambino non è nato da un villano.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;A guardarlo sembra di fiera virtù,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;e credo che sia figlio di qualche decaduto,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;di un cavaliere che è caduto in povertà.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Il re comandò ancora a quei due&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11075&lt;/td&gt;&lt;td
+                class="c_r"&gt; che il ragazzo fosse seguito alla sua partenza&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;e che fosse saputo il vero su suo padre e sua
+                madre.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;E
+                quelli gli dissero “Ora non parlate più.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Gli andremo dietro, non fuggirà.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="blank"
+                colspan="2"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_t"&gt;Rubrica 322&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Come Rolando fu davanti a Carlo&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_t"&gt;Lassa 323&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="blank" colspan="2"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Rolandino si trovava davanti
+                a Carlo,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11080&lt;/td&gt;&lt;td class="c_r"&gt; dove
+                mangiò come farebbe un mastino.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Il ragazzo non guardava né avanti né indietro,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;ma solo la carne, il pane e il vino.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Quelli che erano vicini ne ebbero grande gioia.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Naimes parlò a Carlo, figlio di Pipino:&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;11085&lt;/td&gt;&lt;td class="c_r"&gt; “Costui non è figlio di un barbaro,&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;anzi è figlio di un uomo di alto
+                lignaggio,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;di
+                qualche cavaliere, conte o paladino.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Vedete com’è bello? La fame gli fa torto.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Sono vinto dal suo sguardo.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11090&lt;/td&gt;&lt;td
+                class="c_r"&gt; Se avrà una lunga vita, prima della fine&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;farà soffrire i paesi pagani e i Saraceni.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Questo che dico non lo dico per un inganno,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;me lo dimostra il cuore davanti allo sguardo del bambino.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Non vedete come tiene gli occhi chini?&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;11095&lt;/td&gt;&lt;td class="c_r"&gt; Ma quando alza la testa, se gli sarete
+                vicino&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;sembrerà
+                un leone o un drago marino&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;o un falco pellegrino.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="blank" colspan="2"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_t"&gt;Rubrica 323&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Come Naimes parla a Carlo&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_t"&gt;Lassa 324&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="blank" colspan="2"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;“Buon re- disse Naimes- ascoltate la mia ragione.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Questo donzello, che è un piccolo ragazzo&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;11100&lt;/td&gt;&lt;td class="c_r"&gt; non mi sembra essere figlio di un
+                poltrone.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Ha
+                lo sguardo come un leone.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Fategli del bene che ne avrete un premio&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;quando saprete della sua nascita.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Se suo padre è povero e ce lo affida&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11105&lt;/td&gt;&lt;td
+                class="c_r"&gt; lo porteremo con noi a Lione.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Nella vostra corte non avrà altro che bene,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;se avrà da mangiare, sarà un campione”.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Il re disse: “Lo faremo.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;E Rolandino mangiò con il re Carlo.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11110&lt;/td&gt;&lt;td
+                class="c_r"&gt; Quando ebbe mangiato non disse una parola.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;La tovaglia fu apparecchiata con le imbandigioni,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;con pane, carne e un grosso cappone.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Il buon duca Naimes fece fare
+                tutto questo.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Donatagli
+                la tovaglia, il ragazzo andò via&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11115&lt;/td&gt;&lt;td
+                class="c_r"&gt; e i due compagni lo seguirono.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Ma non servì loro a niente,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;non riuscirono a sapere dove andava.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Il re si addolorò per il poco che avevano scoperto:&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;“Adesso lo giuro a Dio, che soffrì la passione:&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;11120&lt;/td&gt;&lt;td class="c_r"&gt; se non viene il ragazzo la corte
+                non mangerà!”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;“Buon
+                re - disse Naimes - faremo in un altro modo.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Lasciate a me il pensiero di quel bambino.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Io e Teris gli andremo dietro&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;con un palafreno o un buon ronzino.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11125&lt;/td&gt;&lt;td
+                class="c_r"&gt; Non potrà scappare per niente al mondo,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;lo seguiremo fino a casa sua.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Il re disse: “Dio vi benedica.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;E Rolandino se ne andò cantando una canzone:&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;“Non piangete madre, eccovi del buon cappone&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11130&lt;/td&gt;&lt;td
+                class="c_r"&gt; e del pane bianco, non di quello solito,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;che è nero come il carbone.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;La dama pianse, ma non Milone,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;che mangiò volentieri quel cibo.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="blank" colspan="2"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_t"&gt;Rubrica 324&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Come Berta parlò a Rolando&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_t"&gt;Lassa 325&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="blank" colspan="2"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Berta vide Rolandino, così cominciò a piangere,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;11135&lt;/td&gt;&lt;td class="c_r"&gt; lo prese in braccio, cominciò a baciarlo.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;“Figliolo – disse - ti prego,&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;non devi più andare a quella
+                corte.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;“Madre
+                – disse lui - perché vi darebbe fastidio?&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Non vi porto molto da mangiare?&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11140&lt;/td&gt;&lt;td
+                class="c_r"&gt; Sarò triste nel momento in cui dovrò separarmene.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Se non fosse per voi lo seguirei.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Mi dà da mangiare di grado e
+                volentieri,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;quando
+                un tagliere è vuoto ne fa portare un altro&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;e non può mai mancare niente di queste cose.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11145&lt;/td&gt;&lt;td
+                class="c_r"&gt; Prego Dio, che mi facciate pregare,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;che mai ci si debba separare da lui.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;“Figliolo –disse lei- me lo dovrete giurare&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;che non andrete più a quella corte.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Rolandino, anche se era un ragazzo, disse:&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11150&lt;/td&gt;&lt;td
+                class="c_r"&gt; “Madre, è difficile acconsentire&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;a ciò che non mi può servire né rallegrare.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Mi fate rimanere in questo bosco,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;e in quel palazzo si trovano molti cavalieri,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;e voi mi fate morire qui di fame.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11155&lt;/td&gt;&lt;td
+                class="c_r"&gt; Poiché volete così, non ci andrò più,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;ma non ve lo giurerò per nulla al mondo.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Dunque Berta lo lasciò andare,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;ma gli stava sempre dietro,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;così che lui non potesse né fuggire, né scappare,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;11160&lt;/td&gt;&lt;td class="c_r"&gt; né andare alla corte per nessun motivo.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Ma quando si avvicinò l’ora nona&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;e Rolandino vide passare il momento&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;in cui soleva andare alla corte,&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;sua madre non lo seppe guardare
+                con attenzione,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11165&lt;/td&gt;&lt;td class="c_r"&gt;
+                e lui fuggì fuori per un sentiero.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Quando si stava avvicinando alla corte&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;tutti gridarono: “Ecco il ragazzo!”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Dunque i baroni si sedettero a mangiare,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;e Rolandino fece altrettanto.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11170&lt;/td&gt;&lt;td
+                class="c_r"&gt; Così mangiò come fece in precedenza.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Quando ebbe finito di mangiare e volle andarsene,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;il re fece portare la tovaglia&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;e la fece riempire di pane e
+                di carne.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Prima
+                che fosse sceso dal palazzo,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11175&lt;/td&gt;&lt;td
+                class="c_r"&gt; Naimes e Teris montarono in sella senza tardare.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Quando il ragazzo si mise in marcia, gli andarono
+                dietro.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="blank" colspan="2"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_t"&gt;Rubrica 325&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Come Naimes va dietro a Roland(ino)&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_t"&gt;Lassa 326&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="blank" colspan="2"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Rolandino andò via lungo la strada,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Naimes e Teris gli erano immediatamente dietro.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Quando si avvicinarono alla casa del bambino,&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;11180&lt;/td&gt;&lt;td class="c_r"&gt; sua madre gli andò incontro, piangendo
+                teneramente.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Intanto
+                eccoti Naimes e Teris insieme.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Videro la dama davanti alla casa.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Quando Berta li vide ne fu molto addolorata,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;tremava tutta per la paura che aveva&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11185&lt;/td&gt;&lt;td
+                class="c_r"&gt; e disse loro: “Signori, che cosa volete?&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Io non sono colei che state cercando.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;E Naimes la guardò, fu colpito dal suo aspetto.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;La riconobbe dal viso e dalla figura.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Subito si inginocchiarono davanti
+                a lei.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11190&lt;/td&gt;&lt;td class="c_r"&gt; “Dama-
+                fece lui- non abbiate paura di nulla,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;non potete avere alcun fastidio”.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Rolandino quando li vide prese un bastone.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Avrebbe ferito Naimes sulla fronte,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;se sua madre non glielo avesse impedito.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11195&lt;/td&gt;&lt;td
+                class="c_r"&gt; Intanto eccoti Milone che esce da quel grande bosco&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;con un fascio di legna molto pesante.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Quando vide quella gente, ebbe
+                molta paura.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Lo
+                gettò a terra dalla rabbia,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;la terra tremò tutt’intorno.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11200&lt;/td&gt;&lt;td
+                class="c_r"&gt; Quando ebbe fatto ciò si mise a fuggire,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;ma il duca Naimes non glielo consentì.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Gli gridò: “Non andare più avanti!”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;e lo fece tornare nonostante la sua collera.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="blank"
+                colspan="2"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_t"&gt;Rubrica 326&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Come parla Naimes&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_t"&gt;Lassa 327&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="blank" colspan="2"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Naimes, che era saggio e dotato,
+                disse:&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11205&lt;/td&gt;&lt;td class="c_r"&gt; “Signore,
+                non temete,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;non
+                sarete fatti prigionieri.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;E voi, Teris, andate subito,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;immediatamente, in città&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;e fate fare dei vestiti come si conviene&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11210&lt;/td&gt;&lt;td
+                class="c_r"&gt; a una regina e a un conte privato,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;e a questo ragazzo un vestito in quattro parti&lt;span class="sigla" onmouseover="tooltip_show('_3');"
+                onmouseout="tooltip_hide('_3');"&gt;&lt;img src="immagini/nota.gif" alt="(3)" hspace="1px" border="0"/&gt;&lt;/span&gt;”.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Teris disse: “Sarà fatto.”&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Se ne andò in città.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Riuscì ad ottenere che tutti
+                i sarti&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11215&lt;/td&gt;&lt;td class="c_r"&gt; che
+                aveva trovato facessero quei vestiti&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;e li pagò secondo la loro volontà.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Quando furono finiti, tornò indietro.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Quando fu da Naimes, Milone e Berta,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Che erano stati liberati, furono vestiti e cambiati,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;11220&lt;/td&gt;&lt;td class="c_r"&gt; E Rolandino non fu dimenticato.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Il suo vestito era stato fatto
+                e cucito&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;in
+                un tessuto diviso in quattro, che gli era stato destinato,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;e portò quel tipo di abbigliamento per tutta la vita.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Quando Rolandino si vide vestito in quel modo&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;11225&lt;/td&gt;&lt;td class="c_r"&gt; ne ebbe grande gioia.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Si misero in cammino insieme,&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;tutti insieme verso la città.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Prima che fossero saliti nel
+                palazzo&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;il
+                duca Naimes andò avanti.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11230&lt;/td&gt;&lt;td class="c_r"&gt;
+                Si presentò davanti a Carlo.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Il re lo vide e gli chiese:&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;“Con il bambino, cosa avete fatto?”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;E quello gli disse: “Lo saprete subito,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;appena mi avrete concesso un dono&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11235&lt;/td&gt;&lt;td
+                class="c_r"&gt; a mia scelta e secondo la mia volontà.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Il re disse: “È giusto.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;E Naimes disse: “Eccolo qui&lt;span class="sigla" onmouseover="tooltip_show('_4');" onmouseout="tooltip_hide('_4');"&gt;&lt;img
+                src="immagini/nota.gif" alt="(4)" hspace="1px" border="0"/&gt;&lt;/span&gt;,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;questo è il dono che vi è chiesto:&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Milone e Berta, che avete bandito.”&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;11240&lt;/td&gt;&lt;td class="c_r"&gt; Dunque gli furono presentati davanti.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Il re li vide, fu tutto pensieroso.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Teneva in mano un coltello affilato;&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;lo aveva già alzato sopra la
+                testa,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;quando
+                Rolandino andò avanti.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11245&lt;/td&gt;&lt;td class="c_r"&gt;
+                Lo prese per la mano,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;gli diede una tal stretta con la mano&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;che fece uscire del sangue con le unghie.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Il re lo vide. Se uno gli avesse dato&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;tutto il mondo intero&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11250&lt;/td&gt;&lt;td
+                class="c_r"&gt; egli non sarebbe stato così contento e lieto.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Dentro di sé disse e decise:&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;“Costui sarà il falcone della Cristianità.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Allora disse a Naimes: “Il dono vi sarà concesso.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Per amore di questo bambino sono loro perdonati&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;11255&lt;/td&gt;&lt;td class="c_r"&gt; l’ira, il volere e la cattiva volontà.”&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Dunque Milone si inginocchiò,&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;e allo stesso modo Berta dall’altro
+                lato.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;E
+                Rolandino cercò di vedere&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;se nella sala c’era la tavola apparecchiata.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="blank"
+                colspan="2"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_t"&gt;Rubrica 327&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Come Naimes parla a Carlo&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_t"&gt;Lassa 328&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="blank" colspan="2"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;11260&lt;/td&gt;&lt;td class="c_r"&gt; Davanti a Carlo stavano il duca Milone&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;e madama Berta dal volto splendente.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Chiesero al re pietà e perdono.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Il re li sentì, arricciò i baffi,&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;non rispose né bene né male.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;11265&lt;/td&gt;&lt;td class="c_r"&gt; Ma Domineddio, per la sua redenzione,&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;diede a Rolandino, che era solo
+                un ragazzo,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;tanta
+                capacità di giudizio nel cuore:…&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;“Voi, nobiluomo che mi deste il cappone,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;se farete una qualche ingiustizia verso mio padre o mia madre,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;11270&lt;/td&gt;&lt;td class="c_r"&gt; vi darò un tal pugno sul mento&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;che maledirete il giorno in cui
+                sono nato.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Quando
+                Naimes sentì quel discorso&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;disse ridendo a Carlo:&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;“Guardatevi bene da questo ragazzino,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11275&lt;/td&gt;&lt;td
+                class="c_r"&gt; che a sua madre non si faccia altro che bene.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Il re lo prese per il fianco,&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;gli baciò la bocca, il viso e
+                la fronte&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;e
+                gli disse: “Figliolo, non ve lo nasconderò,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;vi alleverò come un figlio, come faccio con Carlone.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;11280&lt;/td&gt;&lt;td class="c_r"&gt; Al duca Milone piacque molto,&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;e allo stesso modo al duca Naimes.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;“Mio signore- disse Naimes- perché
+                nasconderlo?&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Visto
+                che avete concesso il perdono,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;fategli fare una cosa che sapranno tutti.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11285&lt;/td&gt;&lt;td
+                class="c_r"&gt; Fate che Berta prenda il bambino&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;e lo tenga tra le sue braccia&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;mentre davanti a voi Milone la sposa,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;così che la vedano cavalieri e soldati di fanteria.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;E Carlo disse: “Questo è un buon consiglio,&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;11290&lt;/td&gt;&lt;td class="c_r"&gt; che il bambino non ne senta mai uno
+                migliore.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;E
+                Naimes disse: “Non farà altro che bene,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;ne avrete una degna ricompensa.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Ascoltate, mio signore, un po’ le mie ragioni,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;ciò che disse il valente Milone:&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11295&lt;/td&gt;&lt;td
+                class="c_r"&gt; “Di grazia, mi avete concesso il perdono.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Io vi dirò delle mie intenzioni.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Non c’è uomo né vecchio né giovane&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;che possa narrare in un verso o in una canzone&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;la grande pena che ho avuto al mondo&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11300&lt;/td&gt;&lt;td
+                class="c_r"&gt; per allevare questo ragazzino.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Da cavaliere divenni umile e povero&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;e dovetti andare nel bosco a faticare.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="blank"
+                colspan="2"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_t"&gt;Rubrica 328&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Come Milone parla al re&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_t"&gt;Lassa 329&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="blank" colspan="2"&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;“Ascoltatemi, nobile imperatore,&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;da quando mi sono allontanato
+                dalla Francia,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11305&lt;/td&gt;&lt;td class="c_r"&gt;
+                sono dovuto rimanere nel bosco&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;a tagliare legna e a portare grandi fasci&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;per nutrire questo bambino e la mia nobile moglie.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;E con tutto ciò, non voglio annoiarvi,&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;a malapena ho avuto da mangiare.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;11310&lt;/td&gt;&lt;td class="c_r"&gt; Per vostra grazia, così come spero,&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;voi mi avete tratto da quel pensiero.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Ormai mi conviene pensare a un
+                altro mestiere,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;combattere
+                contro i pagani e giostrare.”&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Dunque Berta andò a prendere suo figlio,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11315&lt;/td&gt;&lt;td
+                class="c_r"&gt; ad alzare Rolandino tra le sue braccia.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Per onore di Dio, il vero giustiziere,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;con i due anelli che gli diede l’imperatore,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Milone sposò la dama&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;alla presenza di tutta la corte e dei baroni.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11320&lt;/td&gt;&lt;td
+                class="c_r"&gt; Ci fu una gran festa in ogni luogo&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;e l’imperatore, che si fece tanto lodare,&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;non volle dimenticare nulla.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Secondo il consiglio di Naimes di Baviera&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;nominò cavaliere Milone&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11325&lt;/td&gt;&lt;td
+                class="c_r"&gt; e tutti gli altri che vollero prendere le armi.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Qui dunque si vide Rolandino andare&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;avanti e indietro per la sala.&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Era vestito con un panno diviso
+                in quattro parti.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Chiunque
+                lo vide cominciò a lodarlo:&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11330&lt;/td&gt;&lt;td
+                class="c_r"&gt; “Costui sarà il miglior cavaliere&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;che si trovi in tutta la Cristianità.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td
+                class="c_r"&gt;Per malasorte l’hanno visto nascere i Saraceni e gli Slavi.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td
+                class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;Sarà colui che sarà il difensore&lt;/td&gt;&lt;/tr&gt;
+                &lt;tr&gt;&lt;td class="n"&gt;&amp;nbsp;&lt;/td&gt;&lt;td class="c_r"&gt;di tutta la Francia e sarà il
+                suo guerriero&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td class="n"&gt;11335&lt;/td&gt;&lt;td class="c_r"&gt;
+                contro i Pagani, i Turchi e gli Slavi.”&lt;/td&gt;&lt;/tr&gt; &lt;/table&gt; &lt;div id="_1" class="tooltip"&gt;
+                Il termine tecnico &lt;i&gt;baccelliere&lt;/i&gt; ‘giovane nobile che aspira a diventare cavaliere’  è
+                qui desemantizzato e indica semplicemente una persona giovane. &lt;/div&gt; &lt;div id="_2" class="tooltip"&gt;
+                Desemantizzazione del termine tecnico &lt;i&gt;plais&lt;/i&gt; ‘disputa, solitamente in ambito legale’,
+                qui semplicemente ‘racconto, discorso’.  &lt;/div&gt; &lt;div id="_3" class="tooltip"&gt; Si tratta di
+                un termine araldico, nella nota 11221-11222 di Zarker Morgan 2009 si legge: «[…] Divided into four parts
+                would make sense as a heraldic term, since Roland is the nephew of the king.  When two houses joined,
+                their child’s arms would be quartered. […]». &lt;/div&gt; &lt;div id="_4" class="tooltip"&gt; Corrisponde
+                al francese &lt;i&gt;le voilà&lt;/i&gt;. &lt;/div&gt;
+            </p></div>
+            <div type="glossario"><p>https://www.rialfri.eu/rialfriPHP/public/testi/gesteFrancor_7.pdf
+            </p></div>
+        </back>
+    </text>
+</TEI>

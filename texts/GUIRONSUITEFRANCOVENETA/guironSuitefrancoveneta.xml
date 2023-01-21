@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="GUIRONSUITEFRANCOVENETA-guironSuitefrancoveneta">Suite franco-veneta della "Continuazione del Roman de Guiron" (ms. X)</title>
+                <title type="alt">Guiron, Suite franco-veneta</title>
+                <title type="short">Suite franco-veneta del "Guiron" (ms. X)</title>
+                <title type="sub">seconda metà XIV sec., Veneto</title>
+                <author xml:id="GUIRONSUITEFRANCOVENETA" n="109.000">
+                    <persName type="main"></persName>
+                    <persName type="short"></persName>
+                </author>
+                <principal>Claudio Lagomarsini</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata</resp>
+                    <name>Claudio Lagomarsini</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale e messa in linea</resp>
+                    <name>Francesca Gambino</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Claudio Lagomarsini, <emph style="font-style:italic">La suite franco-veneta di X</emph>, in Lino Leonardi, Claudio Lagomarsini, Ilaria Molteni, Nicola Morato, <emph style="font-style:italic">Immagini di un testimone scomparso, Il manoscritto Rothschild (X) del ‘Guiron le Courtois’</emph>, in <emph style="font-style:italic">Narrazioni e strategie dell’illustrazione. Codici e romanzi cavallereschi nell’Italia del Nord (secc. XIV-XVI)</emph>, Atti del Convegno (Lausanne, 22-23 febbraio 2013), a cura di Annalisa Izzo e Ilaria Molteni, Roma, Viella, 2014, pp. 55-104. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t2"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <div2 xml:id="d001c001" n="I">
+                    <head>I</head>
+                    <lb/>
+                    <p xml:id="d001l1" n="1" rend="numbered">[E]n tel maniere come je vos cont, dapois che la dame de Malohat avè fait tan de honor
+                    a monsegnor le roy Artus quant elle plu poit, le roy Artus […………..] molt nobelmant.</p>
+                    <p xml:id="d001l2" n="2" rend="numbered">E pous ofere a la dame che inn-og[n]y part o le roy fus, el voloit eser so chivaliers;
+                    e quand la çentil dame intés la gran proferta de-lle bon roy Artus, muolt le merçia,
+                    tan quant ella plu pot.</p>
+                    <p xml:id="d001l3" n="3" rend="numbered">Estant le roy Artus in çest parllemant con le dame de Malohat chome je vos dit, a le
+                    roy fu chonté commant Danain le Rox, segnor de Malohat, tenoyt in soe prixion le bon
+                    chivaliers, le vallant, le pros, le saçes, che Lach est apellé.</p>
+                    <p xml:id="d001l4" n="4" rend="numbered">E si voie che vos saçés, segnors, che çest chivaliers si est çel chivaliers da-lle Ixole
+                    Noire che rechollit monsegnor le roy Artus in so hostel tant nobelment quant je vos
+                    ay conté per mie libre, e saçiés ch'el è lo bon chivaliers che port l'eschu d'arçant
+                    e le got d'or.</p>
+                    <p xml:id="d001l5" n="5" rend="numbered">E le Bon Chivaliers senç Paor l'aloyt cerchant per tuta la Gran Bertagna, che çà aveva
+                    sapù ch'el era paxé da le Ysolle Nere in la Gran Bertagna per repayré a la feste de-lle
+                    Pentechost a Chamellot, chomant l'aveva profert a le bon roy Artus.</p>
+                    <p xml:id="d001l6" n="6" rend="numbered">Ora, sapiant le roy Artus che le bon chivaliers che Lac est apellé demoroie in la prixion
+                    de Mallohat, el oit gran joie de tel aventure chomant a retrové le bon chivaliers in
+                    tel bexogne e ben dix ch'el è aventurox roy quant che per soe vegnue deliberaroyt le
+                    bon chivaliers de celle prixion.</p>
+                    <p xml:id="d001l7" n="7" rend="numbered">Estant le roy Artus in parolla con la dame de Malohat com je v'ò conté, atant le roy
+                    demande chomant est ch'ela n'avoit abù novelle de Danain le Rox so segnor e in [ch]e
+                    pays el le faxa.</p>
+                    <p xml:id="d001l8" n="8" rend="numbered">Quand la dame intéx lo roy Artus, tute le chors li se formis e-lle larme li vien intre
+                    li os. E quant la dame put parlier, elle dis: "Monsegnor, je ve diray tute la verité,
+                    dapué che vo saver lo vollé.</p>
+                    <p xml:id="d001l9" n="9" rend="numbered">Or saçéx de ver ch'ell-è ormay plu[ç] de mie an che je me son travallé, demand[an]t
+                    le cerchant per tote parte on chivaliers arant repayra se inper nulle maniere del mont
+                    je podessi aver novelle de luy, e may io non n'ò abue nulle novelle se no ma novellemant
+                    per uno scudier de Danain che çest [76va] maix repayra a moyt."</p>
+                    <p xml:id="d001l10" n="10" rend="numbered">Alora comença la dame a conter a le roy Artus a mot a mot chomant aveva la divixion
+                    tra Danain so signor e le bon chivaliers che por[t] l'eschu a or e chomant li do bon
+                    chivaliers conb[a]té insenbre a la fontayna, e çest dis che […]dia avien per una damiçella
+                    che le bon chivaliers a l'eschu a or, che Guron se fayt apelé, portoit in so condut.</p>
+                    <p xml:id="d001l11" n="11" rend="numbered">E aprés li conta comant miser Guron fu de maçor força d[e] Danain e ben l'avese condut
+                    a morte s[e] […] luy fu plaxut, mo b[…………………….]thexie e çeste fu per la […………….]toyt
+                    a Danain mo[……………………..]segnor che da le ma[………………] batalla fu çamay la[………………………]le
+                    de Danain le Rox. […………………] le gran corros de la [……………………….] fo molt pensis e a c[………………...]
+                    la dame:</p>
+                    <p xml:id="d001l12" n="12" rend="numbered">"Dame, per ma f[…………………..] pexe molt duramant e grant [dam]age [se]rayt de-lle cors
+                    de do' si bon chivaliers chom est Danain e lo bon chivaliers che porte l'eschu a or.</p>
+                    <p xml:id="d001l13" n="13" rend="numbered">Et çest creant [j]e loialment che, se Dieus me done aventure che je troves le do chivaliers,
+                    je metray tot mon poer de metre pas infra do' si bon chivaliers e chonpax".</p>
+                    <p xml:id="d001l14" n="14" rend="numbered">E oldand cest parole, la dame dis a le roy Artus: "Sire roy, mille marçé a votre gran
+                    cortexie".</p>
+                    <p xml:id="d001l15" n="15" rend="numbered">Estant le roy Artus in cest parlament, le roy met a raxion la dame de Malohat e dise:</p>
+                    <p xml:id="d001l16" n="16" rend="numbered">"Dama, je vo pri per celle coxe che vu' plu amé in cest monde che vos mi dite comant
+                    le votre segnor tien en sa prixion le bon chivalier che Lach est apellé et per che
+                    caxion e chomant elo le pris e in qual leut".</p>
+                    <p xml:id="d001l17" n="17" rend="numbered">Quant la dame intés le roy Artus, ela devien tuta sbaïde e pensa una gran piexe de-lle
+                    gran miervelle ch'ella avoyt, e a chie[f] de peçe ela respos a le roy e dis:</p>
+                    <p xml:id="d001l18" n="18" rend="numbered">"Comant, roy Artus, savé vu' che le bon chivalier che Lach est apellé demora in [n]ostre
+                    prixion?".</p>
+                    <p xml:id="d001l19" n="19" rend="numbered">E lo Roy Artus chomens a sonrire e dise: "Dame, je le saie ben, la Dio mercé, ma je
+                    vo pri per molt amor che vos mi conté chomant le bon chivalier fo pris".</p>
+                    <p xml:id="d001l20" n="20" rend="numbered">Atant la dame se més en cont con le roy Artus e dise: "El è ben vero che le bon chivalier
+                    che Lach est apellé repaira mant fie in cest contrà, e çest fu perché luy m'amoit de
+                    tut el so chuor e mant fie el me vegnie a veoir in cest païs.</p>
+                    <p xml:id="d001l21" n="21" rend="numbered">Estant le chivalier in cest amor, a Danain fo dit che le bon chivalier da-lle Ysole
+                    Nera m'amoit de folle amor e repayre in cest contré per mollt jor, donde Danain fu
+                    molt corroçé de tal ventura e ben dis, con celle chivalier repayre a-lle fontane che
+                    est prochant de çy a tres liga inglés, ch'elo conbatera co· luy.</p>
+                    <p xml:id="d001l22" n="22" rend="numbered">Estant cest choçe in tel maniera chom io vos die, un jorn avien che lo bon chivalier
+                    se repoxioit a le fontayne per mi veoir, et amantinant fu denuncié a Danain mon segnor
+                    comant le chivalier che Lach estoit apellé se reposoyt a la [76vb] fontane.</p>
+                    <p xml:id="d001l23" n="23" rend="numbered">Quant Danain intés cest novelle, amantinant domande ses armes a so scudier, e adés
+                    li foyt aporter.</p>
+                    <p xml:id="d001l24" n="24" rend="numbered">Quant el fu armét, el monte a chival in conpagnie d'un scudier solamant che li porta
+                    so scu e so glave.</p>
+                    <p xml:id="d001l25" n="25" rend="numbered">Atant avien che Danain se conbaté con lo chivalier in tal maniera che Danain l'avense
+                    per forsa d'arme e lo condus in soa prexion.</p>
+                    <p xml:id="d001l26" n="26" rend="numbered">E d'alora in avant comanda Danain che le chivalier fose ben guardé [d]omentre ch'ello
+                    retornoyt d'une inquest [c]h'el avoit prese in conpagnie de le bon chivalier a [l']eschu
+                    d'or.</p>
+                    <p xml:id="d001l27" n="27" rend="numbered">Ora v'ò je conté a mot a mot tut comant le chivalier che Lach est apellé fu prés per
+                    mio amor, e sacés, sire roy, dixe la dame, che de me volunté non sta le bon chivalier
+                    in prixion".</p>
+                    <p xml:id="d001l28" n="28" rend="numbered">Alora la dame taxe e non dis plu in quelle fie.</p>
+                    <p xml:id="d001l29" n="29" rend="numbered">Quant lo roy Artus intés la dame de Malohat comant avene la desventure tras le bon
+                    chivalier che Lach est apellé e Danain le Rox, remas tut esbaït.</p>
+                    <p xml:id="d001l30" n="30" rend="numbered">Estant [in tal maniere per] una grant piés, le roy Artus dise a la dame de Malohat:</p>
+                    <p xml:id="d001l31" n="31" rend="numbered">"Madame, je vo pris e si ve comant in pene de le mie gracie che adés vuy chavé de votre
+                    prixion le bon chivalier e rendé-llo a moy".</p>
+                    <p xml:id="d001l32" n="32" rend="numbered">Quant la dame intés le comandament del roy Artus, si fu tant alegra quant plu ella
+                    può e dise a le roy: "Je so' aparelhé de far tute vostre comandamant."</p>
+                    <p xml:id="d001l33" n="33" rend="numbered">E adés comanda la dame a so scudier che chava d'esta prixion cel bon chivalier, e fo
+                    feyt adés le so comandament.</p>
+                    <p xml:id="d001l34" n="34" rend="numbered">Trat de prexion le bon chivalier, le scudier lo remene in la salla davant monsegnor
+                    le roy Artus.</p>
+                    <p xml:id="d001l35" n="35" rend="numbered">Quant le roy le vet vegnir, si se dreçe incontra lo bon chivalier e si lo salue.</p>
+                    <p xml:id="d001l36" n="36" rend="numbered">Quant le bon chivalier vet lo roy Artus adés si l'afiguroit e si lo encline perfont,
+                    pensand adés che le roy l'avoyt fat eschavé de prixion de Danain.</p>
+                    <p xml:id="d001l37" n="37" rend="numbered">Grande fu le fest e la çoie che le bon chivalier fayt a lo roy Artus e le roy Artus
+                    fayt a lo chivalier.</p>
+                    <p xml:id="d001l38" n="38" rend="numbered">Le rey pris le chivalier per la man destra e si lo fay sentier aprés soie, e la dame
+                    de Malohat da l'altra part.</p>
+                    <p xml:id="d001l39" n="39" rend="numbered">Quant li fo asis in tel maniere chom io v'ò contà, le roy Artus parolle allo bon chivalier
+                    e dis:</p>
+                    <p xml:id="d001l40" n="40" rend="numbered">"Sire, je vo pris per honor de chavallarie che vo m'acreanté che jamay voy non renderé
+                    a Danain, lo sire de cest chastel, mal pro mal de cel ch'el vos v'a tegnue in so prixion".</p>
+                    <p xml:id="d001l41" n="41" rend="numbered">Quant le bon chivalier intés lo roy Artus, si dis: "Sire, e je ve creante chome lial
+                    chivalier che io no renderay a Danain lo Rox mal de-lle prixion ch'el m'a mis".</p>
+                    <p xml:id="d001l42" n="42" rend="numbered">Alora la dame de Malohat fu molt çoiosa da ceste aventure, tant le roy Artus domande
+                    le bon chivalier chomant l'è repayré in ‘ste contré e comant [el] fu mis in ceste prixion.</p>
+                    <p xml:id="d001l43" n="43" rend="numbered">Quant le bon chivalier intés le roy Artus, si pense un petit e aprés dise: "Monsegnor
+                    le roy, je diray a voy tute le convinant ch'è intre moy e cest dame.</p>
+                    <p xml:id="d001l44" n="44" rend="numbered">Or sacés, syre, che in mon pays je oldì contier de-lla mervilhosa beuté da ceste dame,
+                    donde je me mis e· mon cor de vegnir in ceste contré per veoir la verité de soa belté,
+                    e così io me [77ra] mis in aventure d'amors.</p>
+                    <p xml:id="d001l45" n="45" rend="numbered">E atan avien che me conbati con Danain so segnor.</p>
+                    <p xml:id="d001l46" n="46" rend="numbered">E chome avien per aventure che le men posan perde e-llo plu varlan vençe, cosy avene
+                    a moy, che io, men posant, perdie e fu mené in ceste prixion".</p>
+                    <p xml:id="d001l47" n="47" rend="numbered">Alora le roy Artus comensa a sorire e dis a le chivalier: "Sira, je vos che vux me
+                    creanté loialmentre che a jor de vostre vie vos non amera cesta dame".</p>
+                    <p xml:id="d001l48" n="48" rend="numbered">Quant lo bon chivalier intés le comandamant de lo roy Artus, si li creanta de may a
+                    jorn de soa vie de n'amer la dame de fole amor.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c002" n="II">
+                    <head>II</head>
+                    <lb/>
+                    <p xml:id="d001l49" n="1" rend="numbered">Ora dis le conte che mesire Galvan e masire Bleobaris demenavat grande festa e solas
+                    de çhesta aventure e grande fest fevano a le bon chivalier che Lach est apellé.</p>
+                    <p xml:id="d001l50" n="2" rend="numbered">Quant le roy Artus fu reposé .VIII. jors, el prese conçié da le dame de Malohat e da
+                    so conpagnie, puo' prés le armes e monta a chival luy e tute so conpagnia.</p>
+                    <p xml:id="d001l51" n="3" rend="numbered">Quant le roy Artus se fu parti de Malohat el se més a le vie a lo plu droyt çamin ch'el
+                    poit per çir a le tor de Challinas, e le bon chivalier a l'eschu d'or demoroyt in prixion
+                    com io v'ò conté.</p>
+                    <p xml:id="d001l52" n="4" rend="numbered">E chivalcant in tel maniera com io v'ò conté, atan in l'ora de meydi le roy fu çont
+                    a le fontane o Danain le Rox pris le bon chivalier che portes l'eschu d'arçant e le
+                    got d'or che Lach est apellé.</p>
+                    <p xml:id="d001l53" n="5" rend="numbered">Qhant li conpagnon fu a le fontane, eli vit uno chivalier armét de totes armes che
+                    se reposava a celle fontane in conpagnie de una damosella e da do' scuder.</p>
+                    <p xml:id="d001l54" n="6" rend="numbered">Mo chi m'oit demandé chi est lo chivalier, je diray ch'el [est]oit le Bon Chivalier
+                    sens Paor, che repayra in cest contré por trar de prexion le bon chivalier che Lach
+                    est apellé, che ç[à] aveva sapù per celle damiçelle de le mexaventure de Lach le bon
+                    chivalier, chomant Danain le roy le tenoyt in soa prixion, ond le Bon Chivalier s'aveva
+                    méx in aventure de luy sechorer et aveva prés consil domandent la damixelle a Malohat
+                    per mexariera.</p>
+                    <p xml:id="d001l55" n="7" rend="numbered">Ora dis le cont che quant monsegnor Galvan vit le damixelle, adés parla a monsegnor
+                    le roy Artus e dis: "Sire, je vo pris che vuy me lasé aquisté celle damiçelle per mener
+                    la in mie condus –</p>
+                    <p xml:id="d001l56" n="8" rend="numbered">Galvan, dis lo roy, guardé vos che le chivalier non vo face anchuo' onte e vergogne,
+                    perché de gran forçe me par lo chivalier. –</p>
+                    <p xml:id="d001l57" n="9" rend="numbered">Sire, dis monsegnor Galvan, avegname quel che me può avegnir, che je pur me metray
+                    en aventure de conquis celle damiçelle."</p>
+                    <p xml:id="d001l58" n="10" rend="numbered">Atant mo[n]segnor Galvan si més avant e dis a le chivalier: "Sire chivalier, je prend
+                    celle damaxelle in mio condut segondo l'orde de chavallaria."</p>
+                    <p xml:id="d001l59" n="11" rend="numbered">Quant le Bon Chivalier senç Paor intés misire Galvan, adés comensa a sorire e dis:
+                    "Dan chivalier, ces damiçelle vuy no podé aver si liçieramant cho· voy pensà, ançy
+                    ve convien aquistarla per forsa d'armes."</p>
+                    <p xml:id="d001l60" n="12" rend="numbered">Atant vien [che] Galvan se més plus avant e dise: "Vasal, je son aparelhé de la çostra:
+                    or parra chomant vuy la faré."</p>
+                    <p xml:id="d001l61" n="13" rend="numbered">Di[se] le Bon Chivalier sens Paor: "Sire vasal, je la faray [com]me [77rb] je poray."</p>
+                    <p xml:id="d001l62" n="14" rend="numbered">Antant le Bon Chivalier monte a çival e prés so schu e so glaive e fu aparellé della
+                    çostra, e sapié, segnor, che le Bon Chivalier senç Paor avoy covert le lor schu de
+                    una lonça vermelle, dont le roy Artus nin lor conpanx non le pot conoxer.</p>
+                    <p xml:id="d001l63" n="15" rend="numbered">Quant le chivalier fu aparellé de la çostra, eli si deslongueran l'un de l'autre e
+                    puo' se vene a ferir de tute lur forsa.</p>
+                    <p xml:id="d001l64" n="16" rend="numbered">Mo chomo avien che le men posant perde e lo plu poxan avençe, chosì avien a monsire
+                    Galvan molt fellonosemant, donde el fu de quel chaçer molt rot.</p>
+                    <p xml:id="d001l65" n="17" rend="numbered">Quand Bleobarix vet mesyre Galvan a terra, el oyt grant ira e adés prese so schu e
+                    so glaive e vene a la çostre.</p>
+                    <p xml:id="d001l66" n="18" rend="numbered">Mo che ne voie far longe cont? Bleobaris fu abatu molt fellonoxamant e aprés fu abatut
+                    misire Sagremor le Deseré.</p>
+                    <p xml:id="d001l67" n="19" rend="numbered">Quant misire Lach vet monsignor Galvan a terra e mesyra Bleobaris e Sagremor le De[se]ré,
+                    si fo molt corociez e mantinant pré so schu e so glaive e vene a le çostre chon le
+                    Bon Chivalier senç Paor, e le Bon Chivalier repayra da l'altre part, aparellé molt
+                    nobelmant.</p>
+                    <p xml:id="d001l68" n="20" rend="numbered">E quant ly do' bon chivalier fu aparellé chom'io v'ò conté, lor urtes lor chivaus de
+                    lor spiron: ora vien l'un ver l'autre chome se-lle frondre [l']inchauçaxe.</p>
+                    <p xml:id="d001l69" n="21" rend="numbered">E quant vien a çonter de lor lança, le lançe vollano in pexe e li chivalier de grignor
+                    força si urtano chorp permé chorp si aspramant che anby vollano a terra molt fellonoxamant.</p>
+                    <p xml:id="d001l70" n="22" rend="numbered">Ora avien, chomant [a] volte fa fortune, che, al chaçer che fano anby li chivalier
+                    a terra, l'eschu de le Bon Chivalier senç Paor i volle de bras e urta in terra de tal
+                    maniere che la onçe [che] co[v]riva l'eschu se averse in do' part, si che l'eschu remas
+                    descovert, on le roy Artus adés chognoxe le Bon Chivalier per tel aventure.</p>
+                    <p xml:id="d001l71" n="23" rend="numbered">Adés saute de son chival a terra e chors in celle parte on le Bon Chivalier stoit,
+                    che çà se relevoyt del chaÿr ch'el aveva fayt.</p>
+                    <p xml:id="d001l72" n="24" rend="numbered">Le roy le chor abracier e dis: "A!, sire,vos soyt le trasbien vegnu!"</p>
+                    <p xml:id="d001l73" n="25" rend="numbered">Quant le Bon Chivalier se vet abracier, el romas tot sbaÿt, mo quant el vit le so schu
+                    deschovert, amantinant cognoxe che lo chivalier saveva so nom, e dis: "Dan chivalier,
+                    chi est vos? Dete-lle a moy, s'i vo playt!"</p>
+                    <p xml:id="d001l74" n="26" rend="numbered">Alora le roy dis: "Syre chivalier, ch'io son adés le saveré!"</p>
+                    <p xml:id="d001l75" n="27" rend="numbered">Alora se deslasa le so elme e l'eschufia de fer.</p>
+                    <p xml:id="d001l76" n="28" rend="numbered">Quant le Bon Chivalier senç Paor vit le roy Artus, adés [lo] cognose e amantinant se
+                    més in çenoglon e vose-ly baçier li pyé, ma le roy Artus non le soferta, an[ç] le pris
+                    per la man e lo leva sus.</p>
+                    <p xml:id="d001l77" n="29" rend="numbered">Quant le conpagno de la Table Reonde cognoyse le Bon Chivalier senç Paor, tut li chorrent
+                    a l'encontre e si li fayt gran feste e çoia. Gran fu le feste e le solas che demene
+                    le chivalier insenbre.</p>
+                    <p xml:id="d001l78" n="30" rend="numbered">E le Bon Chivalier senç Paor chomense a reconté a le roy Artus chomant l'è paxà in
+                    cest pays per trar de [la] prixion de Danain le Rox le bon chivalier che Lach es apellé,
+                    che çà l'aveva sapù per celle damicelle ch'el avoyt in so conpagnie, che celle domiçelle
+                    se trova eser in Malohat quant Danain mis in soa prixion [77va] celle bon chivalier.</p>
+                    <p xml:id="d001l79" n="31" rend="numbered">E per la Deus mercé l'avoit trové [e] le libera e san e aintin.</p>
+                    <p xml:id="d001l80" n="32" rend="numbered">Gran fest se fons le Bon Chivalier sens Paor e le bon chivalier che Lach se fa clamé
+                    insembres.</p>
+                    <p xml:id="d001l81" n="33" rend="numbered">E aprés cest parllé, lo rey Artus conte a le Bon Chivalier sens Paor chomant Chalinas,
+                    le falses, le deslials, tenoyt in soa prexion le bon chivalier che misire Guron le
+                    Cortoys se fa clamé, che porte l'eschu d'or, e chomant monsegnor Guron conbat per luy
+                    con un ja[ia]nt e comant li més a mort per soa bona chavallaria.</p>
+                    <p xml:id="d001l82" n="34" rend="numbered">E aprés li conta tot a mot a mot l'aventura de misire Guron le Cortois.</p>
+                    <p xml:id="d001l83" n="35" rend="numbered">Quant le Bon Chivalier sens Paor entés l'aventura de lo chivalier a l'eschu a or, fu
+                    molt johos e pria le roy Artus che non demora pas a celle fontane, anç chivalce prestemant
+                    a la terra de le malvays Challinans per trare de soa prixion le Bon Chivalier a l'eschu
+                    d'or, perché molt lo desira de veder che anchor non l'aveva veçù.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="III">
+                    <head>III</head>
+                    <lb/>
+                    <p xml:id="d001l84" n="1" rend="numbered">Atant lo roy Artus si mont a chival e aprés luy fayt tut li chivalier [monter], e puo'
+                    prés le chamin inver l'encontre de Challinas.</p>
+                    <p xml:id="d001l85" n="2" rend="numbered">E tant chavalca per lor çorné senç trover aventure che sia da ment[r]e in chont che
+                    le roy ariva aprés le çastaut de le malvays Challinas.</p>
+                    <p xml:id="d001l86" n="3" rend="numbered">E lo roy si desmonte a una fontayna per luy repoxier, e aprés si clama monsegnor Galvan
+                    e dis:</p>
+                    <p xml:id="d001l87" n="4" rend="numbered">"Bel nievo, je vos pris che vo chivalché a chivals in conpagnia solamant de do' schudier
+                    e si-lle salue da moie pars e di-lli che je su vegnu en so contré per avoire cel ch'el
+                    m'a promis, çiò de donarme liberamant le bon chivalier che port l'eschu a or de soa
+                    prixion.</p>
+                    <p xml:id="d001l88" n="5" rend="numbered">E se cel deslial no me-lle mant prestemant, je lo deffy c'amantinant me metray a darder
+                    tute so ville e maxion."</p>
+                    <p xml:id="d001l89" n="6" rend="numbered">Quant mesyre Galvan intende le roy so ongles, elle se part amantinant in conpagnie
+                    solamant de do' schudier.</p>
+                    <p xml:id="d001l90" n="7" rend="numbered">E tant çivalç mesire Galvan [che] fo çont al castel.</p>
+                    <p xml:id="d001l91" n="8" rend="numbered">Adés desmonte da chival e vene a Challinas per sponer soa enbaxé che le roy Artus so
+                    ongle l'avoyt inchargé, mo quant Callinas le vit si lo coneu amaintinant che çest iera
+                    mesire Galvan, lo nief le roy Artus.</p>
+                    <p xml:id="d001l92" n="9" rend="numbered">Atant mesire Galvan se més avant e dise: "Challinas, monsegnor le roy Artus te mand
+                    salu, e saces ch'el est in conpagnia de le Bon Chivalier sens Paor e delle bon chivalier
+                    che Lac est clamé, et ancor a in so conpagnia mant bon chivalier di conpagnon de la
+                    Tabla Reonda."</p>
+                    <p xml:id="d001l93" n="10" rend="numbered">E aprés si li conta tot l'anbaxié e lo comandamant che le roy Artus li fasoyt e li
+                    mande per luy e chomant lo roy l'antendoy a le fontane del verçier.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c004" n="IV">
+                    <head>IV</head>
+                    <lb/>
+                    <p xml:id="d001l94" n="1" rend="numbered">In cest partie dis le cont che quant Challinas intés mesire Galvan che li fasoie le
+                    comandamant per lo roy Artus e aprés vet che le roy iera çont in so contré con tan
+                    de bon chivalier quant l'avoy mené, el fu molt a malaixe e molt li t[r]emble le cors
+                    de grande engoxie.</p>
+                    <p xml:id="d001l95" n="2" rend="numbered">Estand in tal maniere per un gran pieçe, el respos a mesire Galvan e dis: "Mesire Galvan,
+                    je son aparelhé de far tut le comandamant de monsegnhor le roy Artus.</p>
+                    <p xml:id="d001l96" n="3" rend="numbered">E apré [77vb] je vos pris che vuy torné a monsegnor e dite-li da moyt part che je li
+                    doin le moy tor e le bon chivalier e apré tot mon poyr, e apré je lo prie ch'elo intre
+                    a repoxier in le tor che io ten per so amor."</p>
+                    <p xml:id="d001l97" n="4" rend="numbered">E oldand çest parole, misire Galvan adés retorna a le roy Artus.</p>
+                    <p xml:id="d001l98" n="5" rend="numbered">Mo ora lasa le conte a parlier de mesire Galvan e torna a Challinas, le traït, le malvax,
+                    le fas, le ribaut, chomant el se pense de inganier le bon chivalier a l'eschu a or.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c005" n="V">
+                    <head>V</head>
+                    <lb/>
+                    <p xml:id="d001l99" n="1" rend="numbered">Quant mesire Galvan se fu parti de Challinas le traït, Challinas si desis a le prixion
+                    de monsegnor Guron le Cortoys e si lo més per raxion in ceste partie che le fayt creantier
+                    loialmant che, quan a luy plaxera, per mant tenpore a luy plas ch'ele retorne in soa
+                    prixion, ma non li dis mie che le roy Artus repayra in celle contré.</p>
+                    <p xml:id="d001l100" n="2" rend="numbered">Quand mesire Guron intés Challinas, si fo mot joios e si li conte tute çelle cose
+                    che luy li demande in celle fie.</p>
+                    <p xml:id="d001l101" n="3" rend="numbered">Allora Chalinas [fo] molt joios, si fé trar de so prixion monsegnor Guron e si li
+                    fé apparellé molt nobelmant.</p>
+                    <p xml:id="d001l102" n="4" rend="numbered">E sacés, segnor, che Chalinas fé creantar Guron che jamay a nula persone non dira
+                    lo convinant che es tra lor do, e chosy li fayt.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c006" n="VI">
+                    <head>VI</head>
+                    <lb/>
+                    <p xml:id="d001l103" n="1" rend="numbered">Çont mesire Galvan a lo rey Artus e a so bona conpagnia, lo rey lo desmande chomant
+                    luy l'a fat, e mesire Galvan li conta tot a mot a mot chomo Chalinas li aveva respos
+                    e chomant l'iera aparellé de luy honorés in tuto lur poir.</p>
+                    <p xml:id="d001l104" n="2" rend="numbered">Quant le roy Artus intés so nevos Galvan, si fo molt aliegre e de bona volunté.</p>
+                    <p xml:id="d001l105" n="3" rend="numbered">E amantinent monta a chival in conpagnie de tan bon chivalier quant luy avoyt e mete-se
+                    al chamin a chival, quant in tal maniera el avien per aventure che luy scontra Chalinas
+                    che, in conpagnie de monsegnor Guron e de mant chivalier, se li feva incontre per
+                    recollir lo rey Artus tant nobelmant quant luy plu pot.</p>
+                    <p xml:id="d001l106" n="4" rend="numbered">Grande fo la fest e le joie e le baudor che se fano insembre li bon chivalier, e maormentre
+                    se fano le roy Artus e lo bon chivalier che porta l'eschu a or.</p>
+                    <p xml:id="d001l107" n="5" rend="numbered">Apré se mexe al camin insembre ave[….] a la tor de Chalinar, la onde li fo reçevù
+                    molt richamant.</p>
+                    <p xml:id="d001l108" n="6" rend="numbered">Ora desmonte li bon chivalier in le piaçe del chastel e monte in palés.</p>
+                    <p xml:id="d001l109" n="7" rend="numbered">Alora Chalinar comande che le tole fuse messe e fo fat le so comandamant.</p>
+                    <p xml:id="d001l110" n="8" rend="numbered">Aprés Chalinas fa donar l'aygue a li chivalier e po li fa sedir a le table segondo
+                    lo condiçion, la onde li fu servir molt richamant.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c007" n="VII">
+                    <head>VII</head>
+                    <lb/>
+                    <p xml:id="d001l111" n="1" rend="numbered">La on le roy Artus seoit a tables in tel guise cho' je vos conte, el ne savoyt algun
+                    ren de le convinant che est tra Chalinar e mesire Guron li Cortoys.</p>
+                    <p xml:id="d001l112" n="2" rend="numbered">Atant monsegnor le roy Artus mete in parole le bon chivalier a l'eschu a or comant
+                    Chalinas l'a chavé de so prixion e con que acort.</p>
+                    <p xml:id="d001l113" n="3" rend="numbered">Alora mesire Guron dis a lo roy che sensa pat e acort Chalinas l'a trat de soa prexion,
+                    e queste parole dis misire Guron per non ronper lo sagramant che Chalinas li aveva
+                    fato far.</p>
+                    <p xml:id="d001l114" n="4" rend="numbered">Estant in tal maniera como v'ò [78ra] conté a table, raxionando de mant aventure,
+                    tant echo vegnir davant le roy Artus la belle fie de Chalinas, laqual aportoit in
+                    soa man una arpe fata a reverentia a le roy Artus.</p>
+                    <p xml:id="d001l115" n="5" rend="numbered">La damixelle arpoyt molt meraveioçamant e chantoyt una chanson nova che la damixela
+                    aveva fayt per amor de monsegnor Guron.</p>
+                    <p xml:id="d001l116" n="6" rend="numbered">E quant la damixelle a chantiét e arpoyt quant a li è pars, elle encline a le roy
+                    perfon e aprés inclina a tut li chivalier e puo' mete en parole le chivalier in ceste
+                    formes:</p>
+                    <p xml:id="d001l117" n="7" rend="numbered">"Segnors, disse la damaselle, je vos demant un don che molt pitet vos chostera."</p>
+                    <p xml:id="d001l118" n="8" rend="numbered">Alora li chivalier tuty se achorda de doner a la damiselle celle don.</p>
+                    <p xml:id="d001l119" n="9" rend="numbered">E la damiselle parle in cest forme: "Segnor chivalier, qual de voy me promet lialmant
+                    de moie mener in so condut fine a Chamelot honestmant e leoialmant chome chivalier?"</p>
+                    <p xml:id="d001l120" n="10" rend="numbered">Quant le chivalier entés la damixella, tut reman molt sbaït e l'un revarde l'altre
+                    e moto n'on rasonà.</p>
+                    <p xml:id="d001l121" n="11" rend="numbered">Estando le roy Artus en penxier une pi[t]ete pece el dixe a le damixelle:</p>
+                    <p xml:id="d001l122" n="12" rend="numbered">"Damixelle, je son tot aparellé de voy condir loialmant infine in mon païs purché
+                    votre piere ve-lle consent.</p>
+                    <p xml:id="d001l123" n="13" rend="numbered">– Monseg[n]hor, dise la damixelle, mon piere si me le consente per votre amor.</p>
+                    <p xml:id="d001l124" n="14" rend="numbered">E sacés, sire roy, che mon piere non me balasse se no in condut de do' de vos solamentre."</p>
+                    <p xml:id="d001l125" n="15" rend="numbered">E lo roy dis a le damixelle: "Di-me, damixelle, e qual de nos du' ve baylle votre
+                    piere? Dite-le a may s'el vos plas."</p>
+                    <p xml:id="d001l126" n="16" rend="numbered">Alora dise la domixelle: "Monsegnor, e vel diray dapuay che vos so' desirés de savoyre.</p>
+                    <p xml:id="d001l127" n="17" rend="numbered">Or sapié che mon pyere m'a baylé solament a voy e a le bon chivalier che Guron se
+                    fa clamé."</p>
+                    <p xml:id="d001l128" n="18" rend="numbered">Quant misire Guron s'oldì anomier a la damyselle, el achomense a penser molt fort.</p>
+                    <p xml:id="d001l129" n="19" rend="numbered">Quant le roy Artus le vet, pensa si adeso che la damixelle le fayt solamant per misire
+                    Guron e quest est per grande amor ch'ela li portoyt.</p>
+                    <p xml:id="d001l130" n="20" rend="numbered">E puy parolle a monsignor Guron e dise: "Mesire Guron, je vos pria tan quant je pot
+                    che per amor de ceste damixelle e moyt vos le prendé in vostre condut infine in Chamelot."</p>
+                    <p xml:id="d001l131" n="21" rend="numbered">Alora misire Guron per comandamant de lo roy Artus prexe la domiselle in so condut
+                    e creantay lialmant de condur-lla honestmant domentre ch'eli arivaxe in Chamelot e
+                    promete de varentar-la da tut chivalier arant che la demandasse, e quest creanta monsegnor
+                    Guron a la damixelle fia de Challinas.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c008" n="VIII">
+                    <head>VIII</head>
+                    <lb/>
+                    <p xml:id="d001l132" n="1" rend="numbered">A l'altre çorn, che fu belle e clier, le roy Artus fé chantier una messe de Sperit
+                    Sant.</p>
+                    <p xml:id="d001l133" n="2" rend="numbered">E, chantié la messe, le roy mont a chival con tute so conpagnie e recomande Chalinas
+                    a Deus.</p>
+                    <p xml:id="d001l134" n="3" rend="numbered">3lor le bon chivalier a l'eschu a or prende la damixelle in so condut, e chavalchant
+                    li chivalier in tel maniere, parlant de molte belle aventure com io v'ò conté, eli
+                    arivano quella sera a una maxion de religios, la onde eli fo ben recevu, molt honorevelmant
+                    inpersoché chivalier arant li senble.</p>
+                    <p xml:id="d001l135" n="4" rend="numbered">Ora che ve voio far tant long conte? Le roy Artus chivalca do' jorn intrieg sen trover
+                    [78rb] aventure che sia da meter in chont.</p>
+                    <p xml:id="d001l136" n="5" rend="numbered">Al tiers jors su l'ora de meidy el avien ch'el incontre un chivalier armés de tute
+                    arme che menoyt in sue conpagnie do' scudier solament.</p>
+                    <p xml:id="d001l137" n="6" rend="numbered">E che m'oit demandé qui è le chivalier, je diray ch'ell è monsegnor Chiex, le senoschaux
+                    de-lle roy Artus.</p>
+                    <p xml:id="d001l138" n="7" rend="numbered">Quant misire Chiex vit li chivalier e la damixelle tan belle e tant avinent quant
+                    damixelle plus pò esser, adés li chaçe in chors de aver celle damixelle in so condut.
+                    Atant mesire Chiés se trà avant e dise:</p>
+                    <p xml:id="d001l139" n="8" rend="numbered">"Segnor chivalier, je demant celle damixelle segonde l'orde de chivalier arant."</p>
+                    <p xml:id="d001l140" n="9" rend="numbered">Atant se met avant mesira Guron le Cortoys e disse: "Sire chivalier, je defent ceste
+                    damixelle dementre che je poray ferir de spex. –</p>
+                    <p xml:id="d001l141" n="10" rend="numbered">A non Dio, dise misire Chiex, ora para choma vuy le faré."</p>
+                    <p xml:id="d001l142" n="">&gt;\ Dise misire Guron: "sire, je le faray al meio che io poray!"</p>
+                    <p xml:id="d001l143" n="12" rend="numbered">E parlant li do' chivalier in tal maniere, e lo roy Artus cognoys monsegnor Chiés
+                    a l'espié ch'el avoyt çent, che de quelle brant le roy le fé civallier.</p>
+                    <p xml:id="d001l144" n="13" rend="numbered">Alora le roy comense a sorire e puo' disse: "Molt aut sire Chiés, alés a vostre chamin
+                    e lasé a noy cest damixelle, che vo non le podé aver in votre condut."</p>
+                    <p xml:id="d001l145" n="14" rend="numbered">Quant mesire Chiés s'oldì anomar, tut remas sbaÿt e puo' vene in celle part o le roy
+                    demoroyt e dis:</p>
+                    <p xml:id="d001l146" n="15" rend="numbered">"Sire chivalier, je vo pris per celle chauxe che vo plu ammé in ceste monde che vos
+                    mon dit le vostre non, che vos me cognosé si apertemant."</p>
+                    <p xml:id="d001l147" n="16" rend="numbered">Atant le roy Artus comense a sorire e dist: "Chiés, Chiés, vuy lo saverés amantinant
+                    ch[i] je soie."</p>
+                    <p xml:id="d001l148" n="17" rend="numbered">Alora si deslassa so elme e sa cufie, e misire Chiés guarda e afigura monsegnor lo
+                    roy Artus.</p>
+                    <p xml:id="d001l149" n="18" rend="numbered">Quant Chiés vit le roy Artus adés saute de so chival e desese a terra e mese-se in
+                    çonoglon davant lo roy Artus.</p>
+                    <p xml:id="d001l150" n="19" rend="numbered">Alora le roy Artus le fait suslevier e remonte su son chival.</p>
+                    <p xml:id="d001l151" n="20" rend="numbered">E atant le roy Artus demanda mesire Chiés s'el savoyt nulle aventure de nul chivalier
+                    arant.</p>
+                    <p xml:id="d001l152" n="21" rend="numbered">"Monsegnor, dise Chiés, je say una mervilloxa aventure che fu yer matin a celle fontaine
+                    che sè a l'entrier de çest deserte.</p>
+                    <p xml:id="d001l153" n="22" rend="numbered">Or sapié, sire roy, che yer matin je me chivachiey in conpagnie d'esti mie do' scudier,
+                    e su l'ora de mydi je trovay aprés celle fontane le roy Melliadus de-lLeonix in conpagnie
+                    de une damixelle e de do' scudier.</p>
+                    <p xml:id="d001l154" n="23" rend="numbered">E aprés je trovay un chivalier arant che se conbaté con le roy Melliadus, e aprés
+                    je me stallay por voyr qual di chivalier aveva el millor della batailla.</p>
+                    <p xml:id="d001l155" n="24" rend="numbered">E quant je vi ceste bataylle si mortaus, je demande la damixelle chi è li do' chivalier
+                    e per que caxion i[l] se conbate insenbre.</p>
+                    <p xml:id="d001l156" n="25" rend="numbered">La damixelle si conta amantinant a moy tuta la verité e si me dis: "Sire chivalier,
+                    quest do' bon chivalier si se conbat sollamant per moy aver in so condut, e saciés,
+                    syre, che io son [in] condut de cel signor chivalier che adés a le mior de la batalle".</p>
+                    <p xml:id="d001l157" n="26" rend="numbered">E quant io intés la damicelle, io la demanday chomant aveva nome le so chivalier.</p>
+                    <p xml:id="d001l158" n="27" rend="numbered">Ella me respos: "Sire, el è le roy Melliadus de-lLeonix, elqual chivalcha in mie conpagnie
+                    [78va] per trover le bon chivalier a l'eschu d'or ch'è in prixon de le fal, le traït,
+                    Challinas".</p>
+                    <p xml:id="d001l159" n="28" rend="numbered">E aprés, quant je intis che cest iera le bon roy Melliadus, je dis a la damixelle:
+                    "Damixelle, se Deus vos done bone aventure, dite-mi chi es le chivalier che conbat
+                    o le roy Melliadus. –</p>
+                    <p xml:id="d001l160" n="29" rend="numbered">Sire, dise la damiselle, je le vos diray puo' ch'el ve plas: ora sapié ch'el se fa
+                    anomar Phebus, le bon chivalier, le fort, che fu fiol de Galiot lo Brun, lo sire de
+                    Luntane Ixle".</p>
+                    <p xml:id="d001l161" n="30" rend="numbered">Quant je intés la damixelle, adés je mi part di lie e me mis a vegnir a li chivalier
+                    per re[ç]tar lor de celle mortel batalle.</p>
+                    <p xml:id="d001l162" n="31" rend="numbered">E avant ch'eo desmontas de mon chival, je vit che Phebuy chaÿt revés in terra chomo
+                    hom che avoyt molt perdu del sangue e chome hom feru mortalment.</p>
+                    <p xml:id="d001l163" n="32" rend="numbered">Estant in tel maniere chom io ve cont, l'arme de Phebur se partiy del cors e mory
+                    de celle bataille.</p>
+                    <p xml:id="d001l164" n="33" rend="numbered">E quant le roy Melliadus vit mort le chivalier, adés remés so brant in le f[ui]re
+                    e desarme le chivalier.</p>
+                    <p xml:id="d001l165" n="34" rend="numbered">E quant je vit cest fayt je desmontay e vint a le roy, asì le salue e le roy me rendoi
+                    le mon salu e dise a moy:</p>
+                    <p xml:id="d001l166" n="35" rend="numbered">"Sire chivalier, gran dalmage est de la morte de cest chivalier, e Deus le sayt che
+                    je ne ay colpe de ceste mortel bataille, ma tot le colpe fu de cel chivalier".</p>
+                    <p xml:id="d001l167" n="36" rend="numbered">Alora le roy me conta come le chivalier che Phebus stoyt apellé prés per force la
+                    damixelle e la voloyt meiner, ma dunt le roy la defés e chosì adevien la bataylla
+                    infra le do' bon chivalier."</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c009" n="IX">
+                    <head>IX</head>
+                    <lb/>
+                    <p xml:id="d001l168" n="1" rend="numbered">Quant le roy Artus intés monsegnor Chiés, tot le cor le formie d'ire e de angoxie,
+                    e ben dis infra si mediesme che gran dalmage est de la mort de Phebus, le bon chivalier,
+                    le fort, le verays.</p>
+                    <p xml:id="d001l169" n="2" rend="numbered">E cest parole dis tut li chivalier ch'è in conpagnie de le roy Artus.</p>
+                    <p xml:id="d001l170" n="3" rend="numbered">Ma le bon chivalier che Lach est apellé, chomanç a plorar molt teneramant per Phebur
+                    ch'estoyt so signhor.</p>
+                    <p xml:id="d001l171" n="4" rend="numbered">E saçés, signor, che Lach tegnia in so governo un petit damixel che fo fio de cest
+                    Phebus, elqual fu clamé Galleot le Brun, che fu al tenp de Lançalot e de mosire Tristan.</p>
+                    <p xml:id="d001l172" n="5" rend="numbered">Gran duol e ira ha misire Lac de ceste aventure.</p>
+                    <p xml:id="d001l173" n="6" rend="numbered">Atan le roy Artus domande monsegnor Chiés:</p>
+                    <p xml:id="d001l174" n="7" rend="numbered">"E chomant romas le roy Melliadus, sire?"</p>
+                    <p xml:id="d001l175" n="8" rend="numbered">Dis Chiés: "Ora sacés ch'el è romas molt fery de asé plait, unde de'-ll'aconpagnar
+                    a uno chastel ch'è pres de ci a un ligue inglés e non plus."</p>
+                    <p xml:id="d001l176" n="9" rend="numbered">Atan le roy se mete al chamin e chivalcha in conpagnie de tan bon chivalier quant
+                    l'avoit.</p>
+                    <p xml:id="d001l177" n="10" rend="numbered">E tan ala che el arive a lo chastel aprés sera.</p>
+                    <p xml:id="d001l178" n="11" rend="numbered">Quant le roy Artus fo intrés in lo chastel, el fa demandé in che part le chivalier
+                    arant fery se reposoyt, e adés fu dit a le roy in che ostel le chivalier demoroyt.</p>
+                    <p xml:id="d001l179" n="12" rend="numbered">Quant le roy Melliadus sapé che le roy Artus repayra a so hostel per luy veoir, amantinant
+                    si moxe chosy a malayxe chomo lu stoyt e meçe-se a l'encontre.</p>
+                    <p xml:id="d001l180" n="13" rend="numbered">Gran fu lor fest e lor solas che li do' roy se traferent. Aprés gran fest fayt le
+                    Bon Chivalier sens Paor a-lle roy Melliadus e aprés mesyre Galvan e mesire Bleobaris
+                    e Baudemagus e Sagremor. [78vb]</p>
+                    <p xml:id="d001l181" n="14" rend="numbered">Le sera mot grand fest fé misire Guron le Cortoyt de-lle roy Melliadus perque gran
+                    temp l'avoyt desiré de veoy[r], e chosy fait le roy Meliadus a [l]e bon chivalier
+                    che Guron si fa clamé.</p>
+                    <p xml:id="d001l182" n="15" rend="numbered">Mo de monsegnor le chivalier che Lach si fa clamé che diremo?</p>
+                    <p xml:id="d001l183" n="16" rend="numbered">Or sacés che Lach stete de parlier a le roy Melliadus ben tre jorn per la mort de
+                    Febur so signor, mo tant fé le roy Artus e li atri bon chivalier che Lach si s'acorda
+                    o le roy Melliadus, sapiant che la chaxion de la mort de Febus fo per lu medisme.</p>
+                    <p xml:id="d001l184" n="17" rend="numbered">E chosy remas in grande amor li do' chivalier.</p>
+                    <p xml:id="d001l185" n="18" rend="numbered">Quant le roy Artus se fu reposé un moys e demy che le roy Melliadus stoyt a garir
+                    de so plages, e quan le roy fu sane de tut so feride chom io v'ò chont, le roy Artus
+                    prés so armes e mont a chival in conpagnie de tan bon chivalier quant l'avoyt, e prés
+                    so chamin inver le remitage o demoroyt le veth chivalier che Lianor da-lle Montagne
+                    se fa clamé.</p>
+                    <p xml:id="d001l186" n="19" rend="numbered">E çont le roy a la chapelle si trove le bon chivalier che ancor demoroyt in plur per
+                    le fil ch'el avoyt mort mo· novellemant chomo in mon libre le testemonie.</p>
+                    <p xml:id="d001l187" n="20" rend="numbered">Quant le vié chivalier vet le roy Artus e-lle chivalier a l'eschu a or e le roy Melliadus
+                    e tan de bon chivalier in soa conpagnie quant plu poyt eser, e sacés, segnor, che
+                    in tut le monde non è romas tan bon chivalier quant a quel pont le roy Artus avoyt
+                    in so conpagnie.</p>
+                    <p xml:id="d001l188" n="21" rend="numbered">Grant fu le fest e la çoye che fayt le chivalier e le vié chivalier Lianor da le Montagne,
+                    e grignor fest seroit fayt se non fos le choros de le viel chivalier.</p>
+                    <p xml:id="d001l189" n="22" rend="numbered">Alora le roy Artus pria tan le vech chivalier che luy proferce de chivalchar con le
+                    roy a Chamelot.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c0010" n="X">
+                    <head>X</head>
+                    <lb/>
+                    <p xml:id="d001l190" n="1" rend="numbered">Quant l'altre jorn fu repayré, le roy Artus oït le maxe d'Espirit Sant e puo' pris
+                    so armes e monte a chival e cosy fa tut le conpagnon de le roy Artus.</p>
+                    <p xml:id="d001l191" n="2" rend="numbered">Et in conpagnie de le belle damixelle fie de le malvay Chalinar chivalcha tant per
+                    lor çornà sens trover aventure che sie da mentre in conte, e tant alé che una matina
+                    su l'ora de mye terxe le roy con so conpagnie riva a Chamelot.</p>
+                    <p xml:id="d001l192" n="3" rend="numbered">Quant qui' de Chamelot sop che lor liçyr segnor le roy Artus repayre a Chamelot con
+                    tan de bon chivalier quant el menoyt in so conpagnie, tut montes a chival e a pié
+                    e més incontre so signor.</p>
+                    <p xml:id="d001l193" n="4" rend="numbered">E tant fu le fest e-lle bagorde e le torniamant che demenet li chivalier [de] Chamelot
+                    per la vegnua de lor segnor.</p>
+                    <p xml:id="d001l194" n="5" rend="numbered">Mot grant fest e solas fayt le roy Artus de tel conpagnie che mo' l'avoyt mené in
+                    so hostel, e ben dis infra se mediesme che ben se può apellé le roy aventuros quant
+                    l'a en so conpagnie tant bon chivalier.</p>
+                    <p xml:id="d001l195" n="6" rend="numbered">Molt se confort le roy Artus de cest aventure.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c0011" n="XI">
+                    <head>XI</head>
+                    <lb/>
+                    <p xml:id="d001l196" n="1" rend="numbered">Ora dise le cont che dapuo' che lo roy Artus fu tornà a Chamelot in conpagnie de tan
+                    bon chivalier quant je vos conte – e da ly a un moys paxé dapuo' celle retornance
+                    –, le bon chivalier [79ra] che Lianor se fayt apellé, le vech chivalier, Deus l'a
+                    clamà a sy e pasé d'esta mortel vie, dond Dyeus lo recolli in so sancte glorie.</p>
+                    <p xml:id="d001l197" n="2" rend="numbered">E savé, segnor, ch'el avoyt paxé plu de .CXX. ans, dond le roy Artus lo fé soterer
+                    molt oneramant in la chapella de san Stevanie le Martyre.</p>
+                    <p xml:id="d001l198" n="3" rend="numbered">E dapuo' cest chose, le roy Melliadus prés conçé da-lle roy Artus per retorner in
+                    so pays, le riame de Leonis.</p>
+                    <p xml:id="d001l199" n="4" rend="numbered">Quant le roy Artus intés le demande de le roy Melliadus de retorner in so pays, ello
+                    fo molt dolente e mal volentier li dona conçiér, ma puo' li concentì, permetant le
+                    roy Melliadus de retorner al plu tost che lu poyra a demorer in Chamelot con Tristan
+                    so fy.</p>
+                    <p xml:id="d001l200" n="5" rend="numbered">Atant se party le bon roy Melliadus e repayre in so pays, dond lu fu recolly da-lla
+                    so çent molt nobelmant.</p>
+                    <p xml:id="d001l201" n="6" rend="numbered">E saxé, segnor, che dapuo' che le roy Melliadus fo çont in so pays, da-lly a un an
+                    intiers, siant le roy Melliadus a chacier in la foreste de-lLionis in conpagnie de
+                    mant chivalier de so hostel senç armes, le roy de Norhot che tant le guaitoie per
+                    luy olcir, le arsaÿ e si l'ocis, don fo molt gran dalmage de la mort del bon roy Melliadus,
+                    e gran dan de rechollì la çivallaria de-lla mort de si meraveios prinçes.</p>
+                    <p xml:id="d001l202" n="7" rend="numbered">7E sacés, segnor, che Tristan aveva de gaça çerche .IX. ans e no plus.</p>
+                    <p xml:id="d001l203" n="8" rend="numbered">8Dond le damisel pré le armes e, in conpagnie de mant chivalier de so pays e de Gorvernans
+                    so baille, intres in la terra de le roy de Norhot e tuta la mese a fuoc e a flames
+                    e prés le roy de Norhot in conpagnia de molt so baron e mena-lly in Leonis, dond li
+                    mese in so prixion e puo', per comandamant de le roy Artus, li fé morir a malvax mort.</p>
+                    <p xml:id="d001l204" n="9" rend="numbered">9Mo ora lasa le cont a parler de Tristan e de Governaux, che ben li trovara quan mestier
+                    vos avera.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c0012" n="XII">
+                    <head>XII</head>
+                    <lb/>
+                    <p xml:id="d001l205" n="1" rend="numbered">1Ora dis le cont che dapuo' che le bon roy Melliadus se fu party de Chamellot chomo
+                    vos contes, le Bon Chivalier sens Paor prés conçés de le roy Artus e repayra in so
+                    pays, la onde el fu recholly molt nobelmant day so chivalier.</p>
+                    <p xml:id="d001l206" n="2" rend="numbered">2E dapuo' lo partiment de le Bon Chivalier sens Paor, le bon chivalier che Lach se
+                    fa clamé vox repayré in so pays a-lle Ixole Nore.</p>
+                    <p xml:id="d001l207" n="3" rend="numbered">3E le roy Artus le fa aparellé una molto bella navesella per paxier a-lle Ysolle Nore,
+                    e quant la fu aparillé, le Bon Chivalier pré conçé da le roy Artus e da misire Guron
+                    e mena in so conpagnie misire Galvan e misire Bleobaris.</p>
+                    <p xml:id="d001l208" n="4" rend="numbered">4Ora dise che tant aut le naveselle per mar con bon tenp e biaus che li marinier ariva
+                    a le Ysolle Nere, la onde le chivalier fo molt ben recevù chome lor nobel segnor.</p>
+                    <p xml:id="d001l209" n="5" rend="numbered">5E sacés che Lach, le bon chivalier, aveva un fiol in quel tenp, che stoyt molt biaus
+                    damixel e avoyt nome misire Er[e]ch da-lle Ysole Nore.</p>
+                    <p xml:id="d001l210" n="6" rend="numbered">6E sacés che dapuo' fu conpagno de la Tabla Reonda e fé mant bella chavallarie al
+                    temp de monsegnor Lansalot e monsegnor Tristan, comant la soa ystoria le testimonie.</p>
+                    <p xml:id="d001l211" n="7" rend="numbered">Quant misire Lach fu arivé in so pays, adés mande le damisel per Galleoth le Brun
+                    che fu fil de misire Febur le For, [79rb] che le roy Melliadus ocis.</p>
+                    <p xml:id="d001l212" n="8" rend="numbered">E çont le damisel a-lle Ysolle Nore, fo fayt gran piant e lament per la mort de so
+                    piere. Mo ora lasa le conte a parler de le bon chivalier che Lach est apellé e retornes
+                    a le damisel per contier de luy la istoria veraxie. Amen.</p>
+                    <lb/>
+                </div2>
+            </div1>
+        </body>
+        <back>
+            <div type="apparato"><p>APPARATI&lt;br/&gt;&lt;br/&gt;1a FASCIA (AUTO-CORREZIONI DEL COPISTA E PROBLEMI PALEOGRAFICI O MATERIALI DEL MANOSCRITTO)&lt;br/&gt;&lt;br/&gt;1.1
+                &lt;b&gt;E&lt;/b&gt;n] &lt;i&gt;La letterina è stata asportata&lt;/i&gt; ◊ 1.1 Artus … nobelmant: &lt;i&gt;
+                due o tre parole mancanti per asportazione della letterina&lt;/i&gt;  ◊ 1.10 port] &lt;i&gt; illeg. per
+                l'asportazione della letterina sul recto&lt;/i&gt;  ◊ 1.11 &lt;i&gt; lettere illeg. (vd. nota prec.) &lt;/i&gt;
+                 ◊ 1.22 un jorn] vn | ‹un› j. ◊ 1.26 &lt;i&gt; Qui e nelle righe successive alcune lettere illegg. per
+                asportazione della letterina (vd. note prec.) &lt;/i&gt;  ◊ 1.36 adés] ‹adeci› ades ◊ 1.36 eschavé] ‹scanp›
+                eschaue ◊ 1.40 m'acreanté] macre ante (&lt;i&gt; con traatto ondulato sul primo segmento&lt;/i&gt;) ◊
+                1.42 comant el] comant le (&lt;i&gt; forse per influenza di&lt;/i&gt;  chomant le, &lt;i&gt; che precede&lt;/i&gt;)
+                ◊ 1.47 je vos] ie uōs ◊ 2.1 &lt;b&gt;O&lt;/b&gt; ora (&lt;i&gt; letterina ripetuta: altri casi in corrispondenza
+                 § 3, 5-9, 12&lt;/i&gt;) ◊ 2.6 por trar] ‹paor› por trar ◊ 2.9 avegname] ‹sira› a. ◊ 2.12 &lt;i&gt;dopo&lt;/i&gt;
+                 vien &lt;i&gt; una parola cancellata&lt;/i&gt;  ◊ 2.21 chorp … chorp: &lt;i&gt; in entrambi i casi il
+                ms. ha&lt;/i&gt;  chōrp ◊ 2.21 a terra: &lt;i&gt; agg. sul marg. &lt;/i&gt;  ◊ 2.22 i volle] &lt;i&gt;
+                lettura incerta&lt;/i&gt;: molle? uiolle? ◊ 3.4 avoire] ‹auere› auoire ◊ 5.1 creantier] cre antier (&lt;i&gt;
+                tratto ondulato sul primo segmento, cfr. 1.36&lt;/i&gt;) ◊ tenpore] tenpe &lt;i&gt; con tratto ondulato&lt;/i&gt;
+                 ◊ 6.5 &lt;i&gt; dopo&lt;/i&gt;  insembre &lt;i&gt; una parola illeg. &lt;/i&gt; ◊ 6.6 piaçe] &lt;i&gt;
+                lecttura incerta&lt;/i&gt;: plaçe ( ?) ◊ 7.3 acort] acort ‹so prexion› ◊ 7.7 un don che] un don che ‹vos›
+                ◊ 7.8 tuty] &lt;i&gt; confuso&lt;/i&gt;: tucy ( ?) ◊ 7.10 tut] ‹to› tut ◊ 7.21 lialmant] ‹et› l. ◊ 7.21
+                monsegnor] ‹et› monsegnor ◊ 8.6 le senoschaux] &lt;i&gt; problema di 'distinctio' nel ms. &lt;/i&gt;:
+                leseno schaux ◊ 8.21 yer] ‹ie› yer ◊ 8.28 roy] ‹ron› roy ◊ 8.31 ch'eo] &lt;i&gt; confus&lt;/i&gt;: chey
+                (?), cheu ( ?) ◊ 9.18 in conpagnie de] in c. de‹a› ◊ 10.3 su l'ora] ‹so› su lora &lt;br/&gt;&lt;br/&gt;2a FASCIA (LEZIONI
+                DEL MANOSCRITTO EMENDATE DALL'EDITORE)&lt;br/&gt;&lt;br/&gt;1.2 inn-ogny] in noguy ◊ 1.7 che] çe (&lt;i&gt; con cediglia
+                ritoccata dal copista&lt;/i&gt;) ◊ 1.9 pluç] pluc ◊ demandant le] demandit le ◊ 1.10 la dame] la | la
+                d. ◊ 1.13 je] che (forse per anticipo del che successivo) ◊ 1.15 met] metra (&lt;i&gt; probabilmente per
+                anticipp della prima silaba di&lt;/i&gt;  raxion) ◊ 1.17 ch'ella] chella dame ◊ 1.17 chief] chiest ◊ 1.18
+                nostre] uostre ◊ 1.20 vegnie] ueganie ◊ 1.30 &lt;i&gt; Per l'integrazione cfr. infra 4.2&lt;/i&gt;: Estand
+                in tal maniere per un gran pieçe ◊ 1.46 avien] a|auien ◊ 1.47 me creanté] mectrā|te ◊ 2.6 ch'el estoit]
+                cheloit ◊ 2.6 çà aveva] çaueua ◊ 2.13 comme] ame (&lt;i&gt; forse per un fraintendimento di un'abbrev.&lt;/i&gt;
+                9me) ◊ 2.20 l'inchauçaxe] sin chauçaxe ◊ 2.21 de] che de (&lt;i&gt; sintassi inaccettabile&lt;/i&gt;)
+                ◊ 2.13 Dise] dif ( ?), diser (?) ◊ 2.22 la onçe che covriva] la onçe corriua ◊ 2.28 anç] an (cf. anç 2.35)
+                ◊ 2.33 jaiant] iant (&lt;i&gt; probabile aplografia; si possono proporre alternative come&lt;/i&gt; j[i]ant,
+                j[e]ant) ◊ 3.2 mentre] mente (cfr. 10.2: da mentre in conte, con r &lt;i&gt; abbrev. &lt;/i&gt;) ◊ 7.19
+                adeso] sades adeso ◊ 8.22 Melliadus] mel|melliadus ◊ 8.23 il se combate] in s. c. ◊ 8.30 reçtar] rectar
+                ◊ 8.33 fuire] flure (&lt;i&gt; problema di allineamento delle aste&lt;/i&gt;) ◊ 8.35 bataille] batataille
+                ◊ 9.14 de veoyr ] deueoit ◊ a le bon] abe bon ◊ 10.3 qui'] qui (q &lt;i&gt; con asta tagliata&lt;/i&gt;)
+                ◊ 11.8 le damisel] le | le d. ◊ 12.3 una molto bella] ī m. b.&lt;br/&gt;
+            </p></div>
+        </back>
+    </text>
+</TEI>

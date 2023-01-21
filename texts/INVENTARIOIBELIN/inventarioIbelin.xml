@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="INVENTARIOIBELIN-inventarioIbelin">Inventario dei beni di Guy d’Ibelin, vescovo di Limassol</title>
+                <title type="alt">Inventario dei beni di Guy d’Ibelin</title>
+                <title type="short">Inventario dei beni di Guy d’Ibelin</title>
+                <title type="sub">1367, Cipro</title>
+                <author xml:id="INVENTARIOIBELIN" n="116.000">
+                    <persName type="main"></persName>
+                    <persName type="short"></persName>
+                </author>
+                <principal>Serena Modena</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale</resp>
+                    <name>Francesca Gambino</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Jean Richard, <emph style="font-style:italic">Un évêque d'Orient latin au XIVe siècle: Guy d'Ibelin, O.P., évêque de Limassol, et l'inventaire de ses biens (1367) </emph>, in «Bulletin de correspondance hellénique», 74, 1950, pp. 98-133.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t4"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <div2 xml:id="d001c001" n="I">
+                    <head>[I]</head>
+                    <lb/>
+                    <p xml:id="d001l1" n="1" rend="numbered"><lb/>Premiers ou trapas devant la chapelle furent trouvées les chozes ci après nommés,
+                    lesquels sont esté vanduees pour B. 137 d. 10:<lb/>premiers fut trové au trapas devant
+                    la chapelle 3 nates, furent vendues B. 4 den. 21; <lb/>item une banque de fust, vandue
+                    den. 32; <lb/>item un matheras vergat, vandu B. 20 d. 12; <lb/>item un autre matheras
+                    vert et rouge aveuc son traversier, vandu B. 26; <lb/>item une coulcie de plume; <lb/>item
+                    un linsol; <lb/>item dous couvertors blans; <lb/>item une hopelande de drap violet fourée
+                    de gris; <lb/>item 3 arileis de lit; <lb/>item un coussin de lit; <lb/>item 2 coiffes
+                    de teste; <lb/>item un touaillon velut blanc pour la teste; <lb/>item une autre coiffe
+                    - toutes cestes chozes prenierent li prechour quant il emportèrent le cors pour sebelir,
+                    car tel est la coustume du paiis;<lb/>item une tarasse tartereze aveuc pel de lupart,
+                    vandue B. 15 d. 1; <lb/>item une autre tarasse sens pel, vendue B. 10 d. 12;<lb/>item
+                    une autre tarasse de bourdin et de cuir rouge, vendue B. 10 d. 25;<lb/>item un materas
+                    viel de drap rouge, vandu B. 7 1/2;<lb/>item 2 orileis de lit labourés de soie d'Alixandrie,
+                    vandus B. 5 d. 14;<lb/>item 2 coussins labourés de drap, vandus B. 6 d. 1;<lb/>item
+                    autres 2 carels de drap et de cuir, vendus B. 2 d. 33;<lb/>item un banquier de France,
+                    vandu B. 28 d. 27.<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l2" n="2" rend="numbered"><lb/>Item fut trové dedens la chapelle les chozes ci après nommées, lesquels furent
+                    vendues au criage du roy pour B. 13 d. 26:<lb/>item un breviare grant et noté, lequel
+                    est de Saint Thomas des Angles car l'avesque le print à tort; ledit breviare fut donnés
+                    à la main des collectors;<lb/>item une petite campanelle pour l'iglise, randue à l'avesque
+                    qui est au jour;<lb/>item une table où estoit paint Nostre Seignor et Nostre Dame, randu
+                    à l'avesque qui est au jour;<lb/>item un coffre viel ferré, vandu B. 1 d. 15;<lb/>item
+                    2 tapis velus de Turquie, vandus B. 12 d. 11;<lb/>item une pierre pour l'autel, randue
+                    à l'avesque qui est au jour;<lb/>item un autier de fust, randu audit evesque;<lb/>item
+                    un armaire de tables de fust où est un cruxefis, rendu audit evesque;<lb/>item un petit
+                    letrier, randu audit evesque.<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l3" n="3" rend="numbered"><lb/>Item dedens la chambre de parement furent trovées les chozes, ci après nommées,
+                    lesquels furent vandues pour B. 233 d. 35:<lb/>premiers 2 nates, vandues Β. 3 1/2;<lb/>item
+                    2 litières pour un lit de fuste, vandues B. 6 1/2;<lb/>item 4 grans coffres ferrés de
+                    fer, vandus B. 60;<lb/>ce sont li libre qui furent trové à la rote doudit evesque, liquel
+                    furent donné au collectors:<lb/> <lb/><emph style="font-style:italic">{{[Suit la liste
+                    des livres de Guy d'Ibelin]}}</emph><lb/> <lb/>item curasses de Domas 3, vendues B.
+                    32 d. 33;<lb/>item une taraque aveuc pel de lupart, aveuc son traversier, vendue B.
+                    50;<lb/>item une chadière pontificaul, rendue à l'avesque qui est o jour;<lb/>item une
+                    cadière de fer aveuc cuir vermeil, rendue à l'avesque qui est o jour;<lb/>item un coffre
+                    où fut trové les choze ci après nommées, lesquels furent vandues pour B. 35 d. 13:<lb/>premiers
+                    un chapiau de fer aveuc un camail, vandu B. 8 d. 1;<lb/>item un bassinet sens camail,
+                    autrement appelé servelière, vandu deniers 42;<lb/>item une masse de fer, vendue B.
+                    1 d. 39;<lb/>item un fer de glave, vandu B. 1;<lb/>item un rochet de fer, vandu den.
+                    24;<lb/>item un gippon d'armes, vendu B. 5 d. 1;<lb/>item un par d'estivaus sinples,
+                    vendus Β. 5;<lb/>item un autre par d'estivaus garnis de fer, vendus B. 8;<lb/>item ledit
+                    coffre desus dit, vendu Β. 5 d. 2;<lb/>item fut trové un autre coffre ouquel se trevèrent
+                    les chozes ci après escriptes, lesquels furent vandues pour B. 42 d. 43:<lb/>premiers
+                    2 curasses de fer couvertes de velut vermeil, vendues B. 12;<lb/>item un gippon d'armes
+                    garni aveuc manches de mailles, vendu B. 7 d. 12;<lb/>item un par d'avambras de fer,
+                    vendus B. 2 1/2;<lb/>item un par de manches de mailles et une faudes, vendues B. 6 d.
+                    28;<lb/>item un par de soulers de fer, vendus B. 1 den. 13;<lb/>item une dague, vendue
+                    B. 7;<lb/>item 5 douzenes d'aguilletes pour armer, de cuir blanc, vendues B. 1 d. 12;<lb/>item
+                    et le coffre desusdit, vandu Β. 5 d. 2;<lb/>item un coffre ferré, où fut trové les chozes
+                    ci après nommées, lesquels furent vendues B. 2 d. 36:<lb/>premiers un cuiller d'argent
+                    petit qui pesoit 3 pes, vendu B. 1 d. 12;<lb/>item 2 clers de fer, vendues den. 12;<lb/>et
+                    ledit coffre susdit, vendu B. 1 den. 18.<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l4" n="4" rend="numbered"><lb/>Item dedens la seconde chambre furent trovées les chozes ci après nommées, lesquels
+                    furent vandues B. 449 d. 43: <lb/>premiers 3 bouclers fais à l'armineze de fust, vendus
+                    B. 2 d. 23;<lb/>item 2 targetes, vendues B. 5;<lb/>item 2 carcais de cuir aveuc lor
+                    estuch, garnis et plains seetes sens ars, vendus B. 5 d. 4;<lb/>item un charnier de
+                    cuir labouré pour le peigne, vandu B. 1 den. 26;<lb/>item un autre charnier de cuir
+                    aveuc un peigne d'ivoire, vendu B. 2;<lb/>item une pel de lupart, vandue B. 10 den.
+                    16;<lb/>item une sarge vert de pauc de valour, aveuc les armes de l'avesque, vendue
+                    B. 7 d. 13;<lb/>item 2 sarges de Turquie, vendues B. 15 d. 6;<lb/>item un faucon et
+                    une livrière et un gan de cuir, vandus B. 30 1/2;<lb/>item 3 sarges de France aveuc
+                    ymages; vendues B. 70 d. 41;<lb/>item 3 banquiers de France, vendus B. 36 d. 20;<lb/>item
+                    un linsol de telle, vendu B. 4 d. 30;<lb/>item carels de drap labourés et de cuir vermail
+                    5, vendus B. 8 d. 8;<lb/>item un capel negre de l'avesque, vendu B. 4 d. 36;<lb/>item
+                    un chapel blanc, vendu B. 1 d. 4;<lb/>item une santure de cuir et une scarcelle de cuir,
+                    vendue den. 30;<lb/>item une bource de soie aveuc 2 petis bourses, en laquel fut trové
+                    dedens 3 piessetes d'or de la valour de 3 florins;<lb/>item un petit livre qui s'apelle
+                    Jornaul à l'usage des Prechors, vendu B. 4;<lb/>item une malete de cuir aveuc autres
+                    harnès viel de ronsins, vandue B. 1;<lb/>item une petite gizarme, vendue B. 1 d. 3;<lb/>item
+                    un piesse de greve, vendue d. 6;<lb/>item un par d'estriers, sur sire Jaque de Bon,
+                    vendu d. 23;<lb/>item 2 brides, vandues B. 2 d. 13;<lb/>item un mors de bride, vandu
+                    den. 8;<lb/>item une bezasses de cuir aveuc sarure de fer, vendue B. 4 d. 10;<lb/>item
+                    une cote de fer et un par de gantelés, vendus B. 9 1/2;<lb/>item une salle de chevaul
+                    pour armes laquel fut vendue aveuc le chevaul;<lb/>item une aubelestre vielle, vendue
+                    B. 1 d. 26;<lb/>item une selle de malle pour ronsin, vendue B. 6 d. 24;<lb/>item un
+                    par de panels de salle viels, vandus den. 8;<lb/>item une ratière de fer, vandue den.
+                    28;<lb/>item une piesse de plate de fer, vendue den. 4;<lb/>item une piesse de greve
+                    de fer vielle, vendue den. 6;<lb/>item un bassinet de fer aveuc son camailh, lequel
+                    fut rendus à sire Raymon Bezasse car il estoit siens;<lb/>item une cote de mailles de
+                    fer, vandue B. 6 den. 12;<lb/>item une par de gantelés de petite valor, vandus B. 1
+                    den. 13;<lb/>item 3 fais de flèches pour arc, vendus B. 1;<lb/>item 2 fardeles de viratons
+                    pour aubelestre, vendus den. 24;<lb/>item 2 gardemangier de cuir boulli, vendus B. 10
+                    d. 1;<lb/>item un bousiau de cuir boulli, vendu B. 7 den. 28;<lb/>item 2 lanternes de
+                    fer, vandues B. 1 d. 23;<lb/>item 2 bassins de mains viels d'arain, vendus B. 3 den.
+                    38;<lb/>item un canon d'arain pour faire feuc, vendu B. 2 den. 30;<lb/>item un tablier
+                    de fust aveuc eschas et tables, vandu B. 1 d. 1;<lb/>item une petite caisse de Venize
+                    blanche, vendue Β. 2 d. 12;<lb/>item un grant coffre viel, vendu den. 42;<lb/>item un
+                    estuch de mittre de cuir boulli, randu à l'avesque qui est o jour;<lb/>item un couler
+                    de fer, vendu den. 31;<lb/>item une chappe petite armineze, vandue B. 2;<lb/>item un
+                    coffre ferré noir, vendu B. 1 den. 29;<lb/>item un coffre plain de seetes, vandu B.
+                    4;<lb/>item un autre coffre ronput, vandu den. 44;<lb/>item un matheras, aveuc son traversier,
+                    covert de rouge, vandu B. 12 den. 12;<lb/>item un petit lit de plume, vandu B. 4 den.
+                    28;<lb/>item un autre petit matheras viel covert de rouge et de vert, vendu B. 4;<lb/>item
+                    une chaere de fut, vandue B. 1 den. 12;<lb/>item un covressas de fer, covertes de cuir
+                    noir, vendues B. 7;<lb/>item un chapiau de fer, vandu den. 12;<lb/>item un par de brasselés
+                    de fer, vandus B. 4 den. 28;<lb/>item un matheras petit covert de telle jaune et vermeille,
+                    vandu B. 5;<lb/>item un petit chapel couvert de chamelot noir, vendu den. 18;<lb/>item
+                    2 petites jarres d'arain blanches routes, vandues B. 2 den. 8;<lb/>item un scabellum
+                    paint aveuc les arme de l'avesque, randu à l'avesque qui est o jour;<lb/>item un petit
+                    coffre ferré ouquel se trouvat plusors escris, liquel furent donné aus collectors, et
+                    une petite boucle d'argent qui pesat un pes — ledit coffre fut vandus B. 1 den. 22 et
+                    ladite boucle vendue pour den. 18;<lb/>item une grant caisse de Venize vandue B. 13;<lb/>item
+                    une autre caisse en laquel avoit plusors escriptures en papier et la conte de sire Piere
+                    de Lascoutz de l’iglize de Limesson de l'an de LVI, lesquels escriptures furent données
+                    à la main des collectors, et la caisse vandue B. 2 1/2;<lb/>item une autre caisse de
+                    ciprès en laquel se trovat une piesse d'argent, c'est assavoir où l'on tient l'oille
+                    saint et le cresme, avec son covertor de cuir, laquel estoit de l'iglize de Limesson
+                    et fut restituite à ladite yglize ce qui estoit de ladite yglize; li remenant fut vandu
+                    pour B. 92 d. 8;<lb/>item dedens ladite caisse de ciprès 2 petis esmaus d'argent pour
+                    gans pontificals, vendus B. 3 d. 8;<lb/>item un dentillière d'argent à curer les dens
+                    qui peseirent 2 pes, vandus den. 40;<lb/>item un anyau d'argent pour traire l'arc, vandu
+                    B. 4 d. 3;<lb/>item un grant sael pontificaul reont, vandu B. 13 d. 1;<lb/>item un autre
+                    petit sael d'argent, vandu B. 4 d. 34;<lb/>item un anyau petit d'or aveuc ces armes
+                    qui pesat un pes 1/2, vandu Β. 5;<lb/>item une bource de soie vielle, vendue den. 36;<lb/>item
+                    un coutel garni d'argent aveuc mainche de courail vermeil, vendu B. 20;<lb/>item 2 petis
+                    courdons de chapiau viels, vandus den. 30;<lb/>item une petite piesse decourée de soie
+                    et de couton, vendu den. 24;<lb/>item 2 crois des armes de l'avesque, brodées de fil
+                    d'or, vendues B. 8 d. 12;<lb/>item 2 petis touaillons labourés de soie, vandus B. 1
+                    den. 42;<lb/>item une bource de soie vielle, vendue den. 20;<lb/>item un touaillon et
+                    un bandel de teste labouré, vendu B. 1 d. 30;<lb/>item autres 2 bandels labourés aveuc
+                    soie, vandus den. 38;<lb/>item une piessete de drap boucassin labouré de soie et de
+                    couton, vendu B. 1;<lb/>item 2 bras de velut vermeil, vendus B. 4 1/2;<lb/>item 3 piesses
+                    de draps petites labourées de soie et d'or, vendues B. 2 d. 7;<lb/>item le garnement
+                    de gans pontificauls brodés de fil d'or aveuc petites perles, liquel sont de l'iglize
+                    de Limesson et lor fut rendu;<lb/>item une bource de soie vielle, vandue den. 44;<lb/>item
+                    3 coiffes faites aveuc soie, vendues den. 37;<lb/>item 2 mouthenes, vendus den. 30;<lb/>item
+                    autres plusors coiffes vielles et ronpues, vendues den. 43;<lb/>item 8 aguilletes de
+                    soie garnies de couvre, vendues B. 1;<lb/>item 5 laignières de soie, vendues B. 1 d.
+                    1;<lb/>item une petite piesse de telle blanche, vandue B. 4;<lb/>item une scarselle
+                    de cuir, vandue den. 16;<lb/>item une autre scarselle armineze, vandue den. 24;<lb/>item
+                    plusors bieretes de drap vielles, les 3 furent vandues den. 12 et le remenant furent
+                    données à povres prestres pour Dieu;<lb/>item 2 par de laignières de soie, vandus B.
+                    1;<lb/>item une nate, vandue B. 1 den. 14;<lb/>item une litière de fust, vandue B. 6.<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l5" n="5" rend="numbered"><lb/>Item dedens la chambre qui est dariers, où estoit l'astude, furent trovées les
+                    chozes ci après nommées, lesquels furent vandues B. 25 d. 22:<lb/>premiers plusours
+                    escriptures et cartibels, liquel furent donnés au collectors;<lb/>item ledit estude,
+                    demorat à l’ostel de l'avesque;<lb/>item une caisse de noier veude, vendue B. 6;<lb/>item
+                    une autre caisse blanche veude, vendue B. l den. 36;<lb/>item un coffre ferret et veut,
+                    vandu B. 1 den. 5;<lb/>item une petite litière, vandue B. 1 den. 12;<lb/>item dedens
+                    une autre chambre <emph style="font-style:italic">{{(ce mot rayé)}}</emph> une caisse
+                    veude et une armaire de petite value, vandus B. 15 den. 17.<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l6" n="6" rend="numbered"><lb/>Item dedens une autre chambre qui est à bas furent trovées les chozes ci après
+                    nommées, B. 28 d. 25:<lb/>et premiers une nate, vandue B. 2 den. 8;<lb/>item carels
+                    de drap 3, vandus B. 6 den. 1;<lb/>item une petite touaille de table, vendue B. 2;<lb/>item
+                    un tapis de Turquie velut, vendu B. 10;<lb/>item un materas rouge aveuc son traversier,
+                    lequel fut randus à Phelippin Gourap, par commandement dou roy, car il estoit siens;<lb/>item
+                    un refredour de Domas, vandu B. 6;<lb/>item 2 linsols, liquel furent rendui audit Phelippin
+                    Gourab dou commandement dou roy;<lb/>item un covertor blanc de lit, liquel fut randus
+                    audit Phelippin Gourab dou commandement dou roy;<lb/>item un arc de Domas, vandus B.
+                    1 den. 16;<lb/>item une salle vielle de ronsin sans nulle garniture, vandue B. 1.<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l7" n="7" rend="numbered"><lb/>Item dedans une autre chambre, qui est après de celle qui est desus nommée, furent
+                    trovées les chozes ci après nommées, B. 82 d. 40:<lb/>et premiers un tapis de Turquie,
+                    vandu B. 3 d. 31;<lb/>item un bancaul petit de France, vandu B. 2 d. 5;<lb/>item une
+                    plates de fer covertes de cuir blanc, vandues B. 7 d. 2;<lb/>item une bezasses de cuir,
+                    vandues B. 3 d. 5;<lb/>item un refredour de Domas, vandu B. 6 d. 5;<lb/>item un chauderon
+                    de fer, vandu B. 5 den. 39;<lb/>item une teste de Turc, vandue B. 2 d. 25;<lb/>item
+                    un bast de somier, vandu B. 1;<lb/>item une salle de ronsin nude, vandue B. 1 d. 3;<lb/>item
+                    une grande caisse à metre orge, vendue B. 1 d. 36;<lb/>item un meu et un caffï à mesurer
+                    blé, vandu B. 2 1/2;<lb/>item un petit hast de fer, vandu den. 25;<lb/>item un grant
+                    cuir de ronsin tané, vandu B. 5 d. 1;<lb/>encores dedens ceste chambre et dedens une
+                    autre qui est après furent trouvé et mesuré par sire Bernart Anselme le baylli et par
+                    Janot de Saint Michel orge ms. 181, douquel fut donné provendes au bestes de l'ostel
+                    130 ms. cafis 1 1/2, et fut vendus à 10 cafis à besant ms. 50 cafis 6 1/2 pour B. 40
+                    den. 31.<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l8" n="8" rend="numbered"><lb/>Item dedens un sellier qui est après la porte furent trovées les chozes ci après
+                    nommées, B. 14 d. 26:<lb/>premiers 12 boutes à metre vin, lesquels estoient veudes,
+                    vandues B. 14 d.26;<lb/>item une boute plaine de vin gast et de pauc de valour en laquel
+                    pooit avoir 16 metres de vin rouge, lequel vin fut despandut au seors qui seièrent les
+                    blés de Cameno prestio;<lb/>item ladite boute est à la main de l'avesque qui est o jour.<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l9" n="9" rend="numbered"><lb/>Item dedens un autre sellier, après de l'astable, furent trovées pitares 39, c'est
+                    assavoir 3 veudes et overtes et 36 quasi plenes de vin vermeil de l'an passé, liquel
+                    vin et pitares furent vandus pour B. 692 den. 37 <lb/>ledit vin qui estoit dedens les
+                    36 pitares fut trové metres 355 et quarterons 4 - vandu par le banier de la connestablie
+                    qui l'avoit gagié par le comandement dou conestable, pour B. 577 d. 6;<lb/>item les
+                    39 pitares desus dites, quant furent veudées, et furent estimée qu'elles pooient tenir
+                    metres 413 - vendues, à rayson de 28 B. les 100 metres, pour B. 115 d. 31.<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l10" n="10" rend="numbered"><lb/>Item dedens la court doudit evesque fut trové un char à 4 rodes vendu B. 5:<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l11" n="11" rend="numbered"><lb/>Item dedens un autre petit selier, qui est sur la carière, furent trovées 16 pitares,
+                    c'est assaver 10 veudes et overtes; et dedens les 6 avoit, dedens les 2 pitares, vin
+                    agre, et dedens les autres 4 quasi demies plenes de vin blanc, liquel vin et pitares
+                    furent vandus B. 98: <lb/>le vin desdites 4 pitares fut metres 25 et 8 quarterons,
+                    vandu pour B. 56 d. 36; <lb/>et dedens les 2 pitares où estoit le vin agre fut trové
+                    metres 7 et demie, vandue B. 5 d. 24; <lb/>et lesdites 16 pitares furent estimées à
+                    128 metres, vendues, à raison de 28 B. les 100 metres, B. 35 d. 36.<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l12" n="12" rend="numbered"><lb/>Item dedens un autre selier, qui est après doudit selier, furent trovés pitares
+                    20, c'est assavoir 12 pitares veudes et overtes et 8 pitares quasi demi plenes de vin
+                    blanc, liquel vins et pitares furent vandus B. 191 d. 16:<lb/>le vin desdites 8 pitares
+                    fut trové metres 54 karterons 3 1/2 vandu à plusors personnes B. 126 d. 12;<lb/>et
+                    les susdites 20 pitares furent estimées à 232 metres et demie, vandues, à rayson de
+                    28 B. les cent metres, pour B. 65 d. 4.<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l13" n="13" rend="numbered"><lb/>Item dedens un autre selier, qui est après, furent trovées pitares 16, c'est assavoir
+                    13 pitares veudes et overtes et 3 pitares covertes en lesquels estoit vin vermeil quasy
+                    demi plenes, lequel vin et pitares furent vandus B. 100 d. 25:<lb/>le vin desdites
+                    3 pitares fut trové metres 21 quarterons 9 - vandu B. 46 d. 37;<lb/>et lesdites 16
+                    pitares, quant furent veudées, furent estimées à 192 metres, vendues, à 28 B. les 100
+                    metres, pour B. 53 d. 36.<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l14" n="14" rend="numbered"><lb/>Item dedens la loge où est le bayg furent trovées pitares 14, c'est assavoir 5
+                    pitares veudes et overtes et 9 pitares covertes dedens lesquels estoit vin rouge de
+                    l'an passé, lequel vin et pitares furent vandues B. 173 d. 33:<lb/>le vin desdites
+                    9 pitares fut trové metres 80 quarterons 9, vendu pour B. 126 d. 3;<lb/>et les susdites
+                    14 pitares, quant furent veudées, furent estimées à 170, vendues, à rayson de 28 B.
+                    les 100 metres, pour B. 47 d. 30.<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l15" n="15" rend="numbered"><lb/>Item dedens la chambre où estoit le baig furent trovées les chozes ci après nommées
+                    lequels chozes sont vandues pour B. 28 d. 4:<lb/>premiers carpites de Turquie 2 vandues
+                    B. 13 d. 19;<lb/>item 2 carels de drap aveuc les armes de l'avesque, vandus B. 4 d.
+                    30;<lb/>item un refredour de Domas, vandu B. 5 d. 3;<lb/>item un traversier viel et
+                    ronput, ne se pot vendre et fut donnés au portier de l'ostel de l'avesque;<lb/>item
+                    5 boutizelles petites; l'une at l'avesque à sa main et les 4 furent vendues B. 5.<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l16" n="16" rend="numbered"><lb/>Item dedens un autre petit selier furent trovées pitares 9, c'est assaver 3 veudes
+                    et overtes et les 6 autres pitare estoient plene de vin de l'année passée, lequel vin
+                    et pitares furent vandus B. 96 d. 22:<lb/>le vin des susdites 6 pitares fut trové metres
+                    59, vendu pour B. 71 d. 46;<lb/>et les dites 9 pitares furent estimées à 87 1/2, vandues,
+                    à rayson de 28 B. les cent metres, pour B. 24 1/2.<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l17" n="17" rend="numbered"><lb/>Item dedens une autre chambre, qui est desous l'escalle, furent trovées les chozes
+                    ci après nommées, lesquels chozes sont vandues pour B. 9 den. 18:<lb/>premiers une
+                    salle d'armes, vendue B. 5 d. 5;<lb/>item une espée, vandue B. 2 d. 31;<lb/>item une
+                    petite touaille de table, vandue B. 1 d. 18;<lb/>item un par d'estriers, vendus den.
+                    12.<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l18" n="18" rend="numbered"><lb/>Item, le juesdy à 8 jors dou mois avrill, fut raporté par la famille doudit evesque
+                    les chozes ci après nommemées, lesquels chozes sont vandues pour B. 92 d. 15:<lb/>premiers,
+                    par la main de Zoura le queuc, 2 chapaus de fer, vandus sur sire Stasse d'Anthioche,
+                    B. 1 d. 18;<lb/>item, par la main doudit Zoura, un esprevier de lit, vendu B. 11 den.
+                    32;<lb/>item, par ledit Zoura, un seignie d'Alixandre de pauc de valor, vendue B. 1
+                    d. 1;<lb/>item, par ledit Zoura, un petit coffre viel et ronpu, vandu den. 34;<lb/>item,
+                    par ledit Zoura, un auriler blanc de lit, lequel fut rendus à Phelippin Gourab par
+                    le commandement dou roy;<lb/>item, par la main de Valentin et de Blondia, sers de l'iglize,
+                    une tante, de telle blanche de pauc de value, vandue B. 15;<lb/>item, par ledit Blondia
+                    et Valentin, une sarge vielle de France de petite valour, aveuc ymages, vendue B. 16
+                    1/2;<lb/>item, par la main de prestre Massel, fut raporté une petite salle franceze,
+                    laquel estoit dou signor d'Arsur et fut rendue;<lb/>item, par ledit prestre Massel,
+                    confessat qu'il at une coverte blanche de lit et ne la veut rendre dizant qu'elle est
+                    soie (et se doit examiner par les collectors c'elle sarat soie ou non);<lb/>item fut
+                    raporté par la main de Thiébaut, varlet doudit evesque, un grant tapis velut de soie
+                    viel, vandu B. 50;<lb/>item fut raporté par la main de Bertrant, varlet doudit evesque,
+                    un covertour d'Alixandrie covert de sandel rouge et blanc, vendu B. 14 d. 12;<lb/>item
+                    fut raporté, par la main de messire Pierre de Sermezes, un callemart de Domas, vendu
+                    B. 2.<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l19" n="19" rend="numbered"><lb/>Item, à 12 jors doudit mois d'avrill, furent trovées à l’ostel de Nicossie, dedens
+                    l’estable, les bestes ci après nommées, lesquels furent vendues B. 613:<lb/>premiers
+                    un grant coursier de peil bay aveuc les 4 pies baussans, vandu B. 450;<lb/>item un
+                    autre petit coursier anblant de peil bay, lequel morut à l’estable;<lb/>item un ronsin
+                    turquemant, vandu B. 60;<lb/>item un autre ronsin de peil bay oscur, vandu B. 70,<lb/>item
+                    un autre petit ronsin cipriain de peil bay, vandu B. 33.<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l20" n="20" rend="numbered"><lb/>Item 2 esclaus, liquel s'appeloient l'un Dimitri le Turc et l'autre Dimitri le
+                    Grec, vandus pour B. 213 d. 12:<lb/>Dimitri le Grec; vandu B. 123 den. 12;<lb/>Dimitri
+                    le Turc, vandu B. 90.<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l21" n="21" rend="numbered"><lb/>Item, le darain jour doudit mois d'avrill, fut raporté par la main de Janoly le
+                    chastellain dou Cameno Prestio les chozes ci après nommées, lesquels chozes furent,
+                    vandues pour B. 37 den. 14:<lb/>premiers 2 linsols de lit, vendus B. 8;<lb/>item une
+                    petite chaudière vielle de petite valour, vandue B. 4 d. 26;<lb/>item un esprevier
+                    de lit, vandu B. 15 1/2;<lb/>item une coverte blanche de lit, vendue B. 9 den. 12.<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l22" n="22" rend="numbered"><lb/>C'est l'argent et autres juels qui estoient engagé et furent trové et raporté
+                    après la mort de l'avesque susdit, et furent vandu au criage dou roy pour B. 763:<lb/>premiers
+                    fut raporté, par la main de frère Dimenche de 2 Lions, un platiau grant d'argent aveuc
+                    les armes de l’avesque, qui pesoit marcs 2 onces 3, vandu, à raison de 22 B. 1/2 le
+                    marc, pour B. 53 d. 21;<lb/>item 2 grans escuelles d'argent, aveuc les armes doudit
+                    evesque, qui pesoient mars 2 onces 5, vandues, à raison de 22 B. 1/2 le marc, pour
+                    B. 59 d. 3;<lb/>item une sallière d'argent, qui pesat un marc et 2 onces, vandu, à
+                    raison de 22 B. 1/2 le marc, monte B. 28 d. 6;<lb/>item 3 petis escudellons, aveuc
+                    les armes doudit evesque, liquel furent vandu et pezerent mars 2 onces 5, vendus, à
+                    raison de 22 B. 1/2 le marc, monte B. 59 den. 3;<lb/>item un chandelier d'argent sans
+                    seignaul, qui pezat 6 onces, vandu, à raison de 22 B. 1/2 le marc, monte B. 16 den.
+                    18.<lb/>Item fut trové à la main des desous nommés, liquel les tenoient en gage, les
+                    chozes ci après nommées, lesquels furent vendu au criage dou roy pour B. (sic):<lb/>premiers,
+                    à la main de Beneton le drappier, 2 piesses de camocas, vandus B. 104;<lb/>item, à
+                    la main doudit Beneton le drappier, une piesse de velut violet de 30 bras de lonc,
+                    vandu pour B. 120;<lb/>item, à la main doudit Beneton le drappier, un hanap d'argent
+                    blanc qui pezat un marc et une once, vandu à raison de 24 B. le marc, vandu pour B.
+                    27;<lb/>item, à la main doudit Beneton le drappier, 2 mitres garnies de perles petites
+                    et de patinetes d'or, et 2 crosses d'argent endoré, lesquels mitres et crosses sont
+                    et ont esté lonc temps de l'iglize de Limesson et sont estées rendues à ladite yglize
+                    de Limesson;<lb/>item, à la main de sire Gatanary, un platel d'argent aveuc le seignaul
+                    de l'avesque, qui pesoit mars 2 onces 3, vandu, à 22 besants deniers 36 le marc, pour
+                    B. 54 d. 1;<lb/>item, à la main de Michelin de Trahone, un petit escudelon d'argent
+                    qui pesoit 5 onces et demie, vandu, à raison de 23 B. 1/2 le marc, monte B. 16 den.
+                    7;<lb/>item, à la main de Huguet le pellesié, avoit un coversel d'escuelle d'argent,
+                    lequel pesoit 3 marcs sterlins 2, vandus, à rayson de 23 B. le marc, monte B. 69 d.
+                    10;<lb/>item, à la main dou maistre chappellain de Nicossie, fut trové un autre coversel
+                    d'escuelle d'argent, lequel pesoit 3 mars et 2 onces, vandu, à raison de 23 B. et un
+                    denier le marc, monte B. 74 den. 39;<lb/>item, à la main dou maistre Girardin le notaire,
+                    fut trové un platiau d'argent, lequel pesoit 2 mars et 2 onces, vandu, à raison de
+                    23 B. le marc, qui monte B. 51 d. 36;<lb/>item fu trové à la main deThomassin Job,
+                    familiare de l'avesque, une escuelle d'argent, laquel il avoit mis en gage au priour
+                    de Sainte Katherine pour 25 besans, et pesat un marc onces 2; ladite escuelle fut vandue
+                    pour, à 24 B. le marc, B. 30:<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l23" n="23" rend="numbered"><lb/>Item c'est le vin qui fut trovés au casaul de Pellendres après la mort doudit
+                    evesque, lequel vin estoit de la rente de CCCLXVI de Crist, metres 1254:<lb/>de cestui
+                    vin fut vendu metras 893 quarterons 8: B. 409 d. 32;<lb/>porté à Nicossie à la fonde
+                    dou vin sur bestes de louage metres 256 quarterons 8, vandus B. 158 d. 22;<lb/>item
+                    porté à Limesson sur somages de louage metres 108, vandu pour B. 135;<lb/>item dedens
+                    ledit casaul de Pellendres et à ses presteries fut vandu metres 529, vandu pour B.
+                    116 d. 10;<lb/>item fut porté à Nicossie sur bestes de louage, lequel ne se pot vendre
+                    et fut mis à l'ostel de l'avesque, metres 400 quarterons 8;<lb/>item fut donné au someliers
+                    qui portèrent ledit vin pour lor droiture, pour chascun santenaul 2 metres, metres
+                    11;<lb/>item fut espandu et jeté dehors, audit casaul de Pellendres, que ne valoit
+                    riens, metres 49 1/2.<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l24" n="24" rend="numbered"><lb/>C'est l'inventoire qui fut fais à la presterie dou Cameno Prestio; laquel est
+                    dou seignour d'Arsur, lequel estoit freres doudit evesque de Limesson, et en celle
+                    presterie tenoit ledit evesque labour de charues, et tenoit ladite presterie en apaut,
+                    et furent trovées les chozes ci après nommées:<lb/>premiers une tande de telle blanche
+                    aveuc cordes de coton;<lb/>item une nate qui pooit avoir 2 cannes de lonc;<lb/>item
+                    2 coffres ferrés viels et ronpus;<lb/>item un armaire viel et ronput;<lb/>item une
+                    cadière de fer aveuc cuir;<lb/>item 2 sacs de laigne viels;<lb/>item 4 campanelles
+                    de moutons;<lb/>item 4 charettes, c'est assavoir 2 entières et 2 vielles et ronpues;<lb/>item
+                    3 fausilles pour soié blé;<lb/>item 2 tables garniees de pières pour blé batre;<lb/>item
+                    poon mascle;<lb/>item 2 coussins de cuir reons;<lb/>item un petit tapis velut de Turquie;<lb/>item
+                    4 barbis et un mouton;<lb/>item 2 bues mascles de charue, lesquels dizoit le chastellain
+                    que l'avesque, quant il vivoit, li avoit donnés;<lb/>Toutes ces chozes sont à la main
+                    de Janoly, serf dou seignour d'Arsur, lequel estoit chastellain doudit evesque à ladite
+                    presterie, et les détient qu'il ne les veut rendre par le commandement doudit seignour
+                    d'Arsur, dizant que l'avesque devoit audit seignour d'Arsur plus que cestes chozes
+                    ne se montent.<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l25" n="25" rend="numbered"><lb/>Item fut trové à ladite presterie dou Cameno Prestio 2 ostels plains de paille,
+                    liquel furent estimé à 200 somades de paille;<lb/>item le forment et l'orge qui estoit
+                    semés au terres doudit leuc de Cameno Prestio fut recuillis et apparillés par les vicares
+                    et bayllis de l'iglize de Limesson et à la despense de ladite yglize, et fut mesuré
+                    forment net ms. 160 et orge ms. 93, et la paille pooit estre par extimassion jusques
+                    à 60 sommas, douquel forment et orge et paille montoit audit seignour d'Arsur son cart,
+                    pour la droiture de sa terres où il avoit esté semés;<lb/>cestui forment et orge et
+                    paille at prins par force et en absence de nous autres le bayllis dou seignor d'Arsur
+                    et fait porter au grenier et à l'ostel doudit seignor d'Arsur, dizant que l'avesque,
+                    quant il vint à ladite presterie pour metre ses charues, l'on li prestat 200 ms. de
+                    forment et 200 ms. d'orge et 50 ms. de cressenyaus, pour la provande de ses bues, et
+                    paille tant com il en avoit eu besoing.<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l26" n="26" rend="numbered"><lb/>Encor fut trové en ladite presterie de Cameno Prestio 900 bestes menues, tant
+                    berbis comme chièvres;<lb/>item porcs et treues, piesses 30;<lb/>item galines et chappons
+                    et ouquas et coullons;<lb/>item bues et vaches 30;<lb/>item 2 somiers muls aveuc lor
+                    bardes et lor harneis;<lb/>item un ronsin aveuc sa selle;<lb/>item 3 esclaus qui gardoient
+                    ledit bestail;<lb/>Toutes cestes chozes sont esté prinzes et vanduees par la main de
+                    sire Jehan Chamberlain qui estoit maistres des enquestes pour le roy, dizant que l'avesques
+                    devoit au roy de l’apaut d'un casaul qu'il avoit tenu en apaut dou roy, lequel casaul
+                    s'apelle Saint Jorge de Timbos, et jusques à ci nous n'avons peu avoir nulle raison
+                    et nous sommes clamé et donné petisions par plusours fois.<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l27" n="27" rend="numbered"><lb/>C'est l'inventoire qui fut fais à la cité de Limesson, dedens l'ostel de l'avesque,
+                    et au casauls de ladite yglize de Limesson, lesquels chozes sont vendues pour B. 107
+                    deniers 12:<lb/>Premiers au casaul de Finicare furent trovées les chozes ci après nommées,
+                    et vandues pour B. 56 den. 12;<lb/>2 boutes où avoit un pauc de vin blanc, lequel vin
+                    et boutes furent vandus B. 7;<lb/>item autres 2 boutes aveuc un pauc de vin, lequel
+                    vin et boutes sont vandus B. 5;<lb/>item un coffre viel et rout sans sarrure, B. 1;<lb/>item
+                    2 trestiaus de lit aveuc 5 tables pour ledit lit, aveu une forme. B. 2 den. 36;<lb/>item
+                    2 pars de trestiaus de table et 2 table et 2 forme, B. 6;<lb/>item un meu à mesurer
+                    blé, B. 2;<lb/>item 8 coffins de karobles, B. 2;<lb/>item barres de fust petites, den.
+                    13;<lb/>item une caisse overte et veude sans clef, B. 2;<lb/>item un petit caisson
+                    viel et rout, den. 12;<lb/>item une sarge vielle de Catheloine aveuc son bancaul, B.
+                    5;<lb/>item 6 nates noves et vielles, B. 11;<lb/>item dedens un hostel furent trovées
+                    piesses de table vielle et noves, B. 3;<lb/>item 2 sarradures de fer, B. 1;<lb/>item
+                    une ballances de fer, B. 2;<lb/>item une arayre de fust, deniers 24;<lb/>item 3 ms.
+                    de sussemant, B. 5 1/2;<lb/>item dedens un hostel fut trové un pauc de paille, laquel
+                    fut donnée au villains, pour soustenir l'iver lor bues;<lb/>item, dedens la court,
+                    chabirons viels de fust, liquel estoient d'un villain qui s'apelle Jorge Foti, liquel
+                    li furent rendu.<lb/>Item les chozes qui furent trovées à Limesson, à l'ostel de l'avesque,
+                    lequel sont vendues pour B. 51:<lb/>3 taraques et 2 traversiers viels et ronpus, B.
+                    9;<lb/>item une sarge vielle de Catheloigne, B. 3;<lb/>item une caisse vielle et ronpue
+                    sans sarrure, deniers 24;<lb/>item une table de manger aveuc 2 trestiaus, B. 3;<lb/>item
+                    4 pitares veudes, B. 4;<lb/>item un dressadour de fust viel, deniers 24;<lb/>item une
+                    escalle pour monter sur les tarasses de l'ostel;<lb/>item 2 trestiaus et 5 tables pour
+                    un lit aveuc une forme, B. 2 1/2;<lb/>item 2 nates de joincs, B. 2;<lb/>item 4 formes
+                    de fust, de quoy l'une estoit de l'iglize, et les tres sont vandues B. 2 1/2;<lb/>item
+                    14 boutes veudes et vielles, B. 13 1/2;<lb/>item une caisse grant, vielle et route,
+                    deniers 24;<lb/>item, en la court, 2 grans pitares ronpues les que ne se sont pogut
+                    vandre;<lb/>item 16 chabirons viels pour la reparacion de l'ostel;<lb/>item, dedens
+                    une chambre, 35 coffins de karoubles, B. 10.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c002" n="II">
+                    <head>[II]</head>
+                    <lb/>
+                    <p xml:id="d001l28" n="1" rend="numbered">C'est l'issue qui a esté faite doudit envintaire.<lb/>Ce est la despence quy est esté
+                    faite de la vente dou meuble de frère Guy de Ybellin, jadis eusque (sic) de Limesson,
+                    lequel morut à 29 jours de mars, l'an de III C LXVII de Crist, B. 1701 k. 1 1/2:<lb/>Premiers
+                    pour sa sépulture et pour achet de sire et pour ces vestimens et les pressesions, B.
+                    261 d. 2;<lb/>En achet d'erbe pour manger les 2 grans chevaux, pour un mois et 19 jours,
+                    chascun jour d. 12, B. 12 d. 36;<lb/>item pour les provendes desdites 5 bestes, qui
+                    ne s'ozoient vendre fines par tout aucoust, orge lequel fut trové à l'ostel, ms. 131
+                    ca. 1 1/2;<lb/>item en achet de 3 serures, pour l'ostel, et 4 paires d'aniaus de fer
+                    pour les portes et pour faire clés o guernier et à la grant porte, Β. 4 d. 12;<lb/>item
+                    pour les despens de manger et leur nessesités de 2 serveeurs qui estoient à l'ostel
+                    pour garder les chevaus, lesquels ne se ozoient vendre par commandement dou roy pour
+                    faire l'armée de Triple, et furent en l'ostel 5 mois par tout aoust B. 68 1/2;<lb/>En
+                    achet de paille pour 5 bestes, pour 5 mois par tout aoust, B. 49 d. 12;<lb/>item pour
+                    le ferrer desdites 5 bestes, pour 5 mois, B. 8 d. 46;<lb/>item à un charpentier qui
+                    radouba les portes et fenestres de l'ostel et estansonna le sellier où estoit le vin
+                    avé les pitaires, et en achet de clos et de ligain pour ledit estansonnement, Β. 5
+                    1/2;<lb/>item pour faire adouber les trasses doudit ostel, et en achet de goutierres,
+                    lesquelles trasses furent adoubées 2 fois en un an, B. 16 d. 4;<lb/>item en achet de
+                    2 faras et d'une corde pour le puis de l'ostel, et pour le radouber par pluzors fois,
+                    B. 8 d. 26;<lb/>item pour un guerbiau, pour guerbeler la provende des susdites bestes,
+                    d. 30;<lb/>item donné à seaus qui firent vendre lesdites bestes, pour leur semesarage,
+                    B. 3 1/2;<lb/>item pour crier et faire vendre, o criage dou seignor, un faucon et une
+                    levriere par un criour, B. 1 d. 18:<lb/>item à un autre sergent dou bally de la segrete,
+                    qui ala à l'apautour de la fonde dou blé et nous fit rendre le cafis que ledit apautour
+                    avoit gagié de l'ostel, pour ce que l'on mezuroit l'orge à vendre, et le fist rendre,
+                    d. 12;<lb/>item pour faire remezurer l'orge qui se trova en l'ostel, lequel orge fu
+                    donné provende asdites 5 bestes, B. 1;<lb/>item en achet d'une palle de fust et un
+                    escouve, pour le guernier, d. 12;<lb/>item pour un estrille et un bras de chanevas,
+                    pour striler lesdites bestes, d. 42;<lb/>Item à un mareschau qui mega la bouche dou
+                    palefrain qui s'avoit brizé les dens, et pour oiniemens et son travail, B. 8;<lb/>item
+                    au sergent dou visconte, qui fu coummandé à sercher et mener pardevant le visconte
+                    Janoully le chastelain de l'evesque qui estoit au Cameno Prastio, d. 24;<lb/>Item donné
+                    à un miège, pour son travail et pour oiniemens, lequel adouba la janbe de l'esclaf
+                    de sire Nicolle de Negrepont, que le grant chevau de l'evesque li avoit route ladite
+                    janbe en 2 places, ou autrement le chevau seroit perdu, B. 38;<lb/>item en achet de
+                    fiolotes, pour faire mostre des vins au criage dou seignour, B. 3 1/2;<lb/>Item en
+                    achet de paupier, douquel fu mandé à Limesson une partie et l'autre à Nicossie, B.
+                    3 d. 44;<lb/>Item despenses faites pour faire seer les blés que l'evesque avoit fait
+                    semer au Cameno Prastio qu'il tenoit, sauve pain et vin, B. 69 d. 4;<lb/>item pour
+                    les despens que firent sire Pierre de Lescos et sire Bernart Anselme et maistre Anthoigne
+                    le notaire et l'escrivain de Limesson et 4 jurés des cazaus de l'iglize, et pour luage
+                    d'un somier qui porta leur robe, pour 20 jours qu'il alèrent pour faire l'envintaire,
+                    c'est assavoir au Cameno Prastio où ledit evesque tenoit ses charues, et o cazau de
+                    Pelendres pour veoir resever les vins qu'estoient demourés après la mort doudit evesque,
+                    et autres pluzors servizes de l'iglize, et ausy dedens la sité de Limesson, B. 59;<lb/>Item
+                    donné à un vallet de monseignor l'arsevesque pour le luage d'une beste et pour son
+                    travail, pour aler à Fandia faire saver la mort doudit evesque et pour faire venir
+                    monseignor l’arsevesque, B. 6;<lb/>item paié à sire Lanbert Chandelier de se que l'evesque
+                    li devoit pour le luage d'un ostel, par le coummandement dou visconte, lequel ostel
+                    paioit de luage 50 besans l'an, et fu part pour 9 mois B. 37 1/2;<lb/>item fu ballé
+                    au priour d'Alamino, qui vint de Limesson à Nicossie, pour les servizes de l'iglize
+                    et pour ses despens, Β. 11 1/2;<lb/>item donné as criours qui vendirent ledit meuble,
+                    pour lor travail, B. 21;<lb/>item pour le luage de l’estasson où ledit meuble fu porté
+                    et vendu, pour 13 jours à 36 deniers le jour, B. 9 d. 36;<lb/>item as bastais, qui
+                    chareerent ledit meuble au criage, B. 8;<lb/>item pour mander letres par pluzours fois,
+                    c'est assaver de Nicossie à Famagouste et de Nicossie à Limesson et de Limesson à Nicossie,
+                    B. 5 d. 37;<lb/>item despenses qui furent faites pour bestes de luage, qui portèrent
+                    les vins dou Pellendre à Nicossie et à Limesson pour vendre, B. 263 d. 23;<lb/>Item
+                    pour massoner 3 portes qui aloient de l'ostel de l'evesque en autres ostels estranges
+                    qu'il tenoit à luage, pour un masson et un valet qui le servy, B. 1 d. 40.<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l29" n="2" rend="numbered"><lb/>C'est l'argent qui se trova gagé ché les desous noumés, et fu desgagé et vendu
+                    par la manière que la vente apert, et seu qui fu donné o noitaire qui monte B. 712
+                    1/2:<lb/>item pour un escudelon d'argent qui estoit gagé ché un home qui s'apelle Michelin
+                    dou Trahona, s'est assaver pour achet d'erbe, que l'evesque avoit ennerbé ses chevaus,
+                    et pour le luage d'un estalle où lesdis chevaus furent ennerbés, B. 15;<lb/>item paié
+                    au maistre chapelain de Nicossie, pour un platiau d'argent que il avoit gagé doudit
+                    evesque, B. 40;<lb/>item pour un autre platiau d'argent, lequel estoit gagé ché Hugues
+                    le Pelissier pour achet de fourrures de gris que ledit evesque li devoit, que montèrent
+                    lesdites fourures B. 68;<lb/>item paié pour 2 mitres garnies à perles menues et à platinetes
+                    d'or et 2 croces d'argent endorées et 2 piesses de camehas et une piesse de vellus
+                    viollet de 30 bras de lonc et une tasse d'argent blanche lesqueles chozes estoient
+                    gagé ché Beneit Fanouli drapier pour B. 595, desquels besans messire Bernart Anselme
+                    a paié B. 300, si coume apert à sa contes de l'iglize de Limesson par lui rendues,
+                    et le remenant paia le procurour que vendoit ledit meuble, et de ses chozes ont esté
+                    vendu par ledit procurour les 2 camehas et le vellus viollet et la tasse, si coume
+                    apert à la vente des chozes, et les mitres et crosses ont esté rendues à l'iglize de
+                    Limesson, et le procurour a paié B. 295;<lb/>Item paié pour un autre platiau d'argent,
+                    que estoit gagé ché maistre Gerardin de Parme le notaire, que estoit pour dras que
+                    ledit evesque avoit eu de luy pour vestir sa famille, B. 51;<lb/>item paié pour une
+                    escuelle d'argent que le priour de Sainte Caterine avoit en gage doudit evesque, B.
+                    25;<lb/>item à maistre Anthoigne Michel le notaire, que fu à faire l'envintaire de
+                    l'evesque à Nicossie et par les cazaus et à Limesson et faire les entrées et yssues
+                    que fut fait, li fu ballé pour son travail B. 247 1/2.<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l30" n="3" rend="numbered"><lb/>Ce sont les bezans qui sont esté pris par force et outre notre vollenté de la
+                    vente dou meuble, et sont esté paié et destribués, sans nous apeler, par le coumandement
+                    dou roy et dou connestable de Chipre, as serveours qui avoient servy l'evesque jadis
+                    de Limesson, lesquels jurèrent sur sains Evangilles de Dieu, en la prezensse doudit
+                    connestable ou de son leuc tenant, que ledit evesque lor estoit tenu de la soume si
+                    après noumée, et furent paiés par la main de Johan Moustry, banier de la counestablie,
+                    selon les ussages et assises dou royaume de Chipre, B. 2451 d. 18:<lb/>A frere Dimenche
+                    de 2 Lions, B. 250;<lb/>A sire Jaque de 2 Lions, B. 78 d. 32;<lb/>A sire Robert de
+                    2 Lions, B. 193 d. 37;<lb/>A sire Marc de la Solle, B. 530 d. 9;<lb/>A Gregoire Bonvezin,
+                    B. 97 d. 1;<lb/>A sire Masse Lormier prestre, B. 50 d. 37;<lb/>A sire Lois Chappellain,
+                    B. 30 d. 42;<lb/>A sire Estace d'Anthioche, B. 126;<lb/>A Frances de Bras, B. 26;<lb/>A
+                    Philippon Gorab, B. 18 d. 44;<lb/>A Johan de Villers son cousterier, B. 6;<lb/>A Albertin
+                    le sabatier, B. 2;<lb/>A Nicolle Maquaron, B. 35;<lb/>A Jorge Brio, B. 20;<lb/>A Yany
+                    le Fauconnier, B. 24;<lb/>A Carsello le Fauconnier, B. 50;<lb/>A Cochifos le Fauconnier,
+                    B. 42;<lb/>A dame Marguerite, espouze de Gilet son vallet, B. 26;<lb/>A sire Nicolle
+                    Gautier, B. 30;<lb/>A Jorge Hartofilaca, B. 88 d. 8;<lb/>A Thoumassin Jop, B. 122;<lb/>A
+                    Sava Sozomeno, B. 204;<lb/>A Thibaut son vallet, B. 46;<lb/>A Janoully, chastellain
+                    de Cameno Prastio, B. 126;<lb/>A Nan Gomiti le queq, B. 142;<lb/>A Janot Gorab, B.
+                    50;<lb/>A Betran son vallet, B. 36.<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l31" n="4" rend="numbered"><lb/>Ce sont les despens que ledit Johan Moustry a despendu, pour gager et vendre à
+                    force lesdis meubles doudit evesque, par le coumandement de la connestablie, B. 84
+                    d. 4:<lb/>Pour faire traire les pitaires hors des selliers a bastais, B. 4 d. 36;<lb/>Pour
+                    les despens d'un essclaf, que fu mené de Limesson à Nicossie, pour luage de beste et
+                    un home que le mena et leur despens, B. 14 d. 14;<lb/>Pour remuer vins gastés de l'un
+                    selier à l'autre, B. 1 d. 40;<lb/>Pour un essclaf, que fu gagé à Nicossie dou procurour
+                    sire Johan de Saint Michel et fu vendu o criage, pour ses despens doudit garson, B.
+                    6 d. 10;<lb/>Et pour son selaire doudit banier, Johan Moustry, de la connestablie qui
+                    fist ladite execussion, B. 57.</p>
+                    <lb/>
+                    <lb/>
+                    <lb/>
+                    <lb/>
+                </div2>
+            </div1>
+        </body>
+        <back>
+            <div type="edizione">
+                Archivio Segreto Vaticano, Instrumenta Miscellanea, n° 2467.
+            </div>
+        </back>
+    </text>
+</TEI>

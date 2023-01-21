@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="BLASMEDESFEMES-blasmedesFemes">Blasme des femes</title>
+                <title type="alt">Blasme des femes, ms. Firenze, Biblioteca medicea laurenziana, Pluteo 41.42</title>
+                <title type="short">Blasme des femes</title>
+                <title type="sub">verso il 1310, Gubbio</title>
+                <author xml:id="BLASMEDESFEMES" n="024.000">
+                    <persName type="main"></persName>
+                    <persName type="short"></persName>
+                </author>
+                <principal>Francesca Gambino</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale e messa in linea</resp>
+                    <name>Francesca Gambino</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Davide Battagliola, <emph style="font-style:italic">Il “Blasme des femmes” del manoscritto della Biblioteca Medicea Laurenziana, Plut. 41.42</emph>, edizione per il RIALFrI, Padova, Università degli Studi di Padova, 2022.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t3"/>
+                <keywords>
+                    <term type="form">poetry</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <p xml:id="d001l1" style="font-weight:bold" n="">I</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l2" n="1">(83vb) Incipit tractatus de bonitate et malitia mulierum</l>
+                <l xml:id="d001l3" n="2">Qui fame prent in compagnie</l>
+                <l xml:id="d001l4" n="3">oiez s’il fait sens ou follie.</l>
+                <l xml:id="d001l5" n="4">Qui a fame despant sa cure</l>
+                <l xml:id="d001l6" n="5">oiez sa mort et sa nature.</l>
+                <l xml:id="d001l7" n="6">Qui feme ame et fame croit</l>
+                <l xml:id="d001l8" n="7">sa mort enbraz et sa mort boit.</l>
+                <l xml:id="d001l9" n="8">Qui cest vers a remenbrance</l>
+                <l xml:id="d001l10" n="9">plus doctera fame qe lance.</l>
+                <l xml:id="d001l11" n="10">Sa mort chace et se innuise</l>
+                <l xml:id="d001l12" n="11">q’in feme aime o feme prise.</l>
+                <l xml:id="d001l13" n="12">Sans pris et sans loect s’avent</l>
+                <l xml:id="d001l14" n="13">et fait lo laz dont il s’apent.</l>
+                <l xml:id="d001l15" n="14">Qui forfist prime home o fame,</l>
+                <l xml:id="d001l16" n="15">qui n’estoilli in cest saint regne</l>
+                <l xml:id="d001l17" n="16">dam o nostre ancestre fagerez</l>
+                <l xml:id="d001l18" n="17">Quant Dex les ot illec formez</l>
+                <l xml:id="d001l19" n="18">liquelx tolli primer la pome</l>
+                <l xml:id="d001l20" n="19">o feme o fame o home?</l>
+                <l xml:id="d001l21" n="20">Porce vait fame asi covert</l>
+                <l xml:id="d001l22" n="21">e li home porte le suen apert:</l>
+                <l xml:id="d001l23" n="22">por le pechié, ce m’est avis,</l>
+                <l xml:id="d001l24" n="23">qui nos gitta del paradis.</l>
+                <l xml:id="d001l25" n="24">Porce qe feme a floble sens.</l>
+                <l xml:id="d001l26" n="25">L’em vait primiers le serpens.</l>
+                <l xml:id="d001l27" n="26">Ce qe par hom ne poet plorer</l>
+                <l xml:id="d001l28" n="27">Si osplorai por la mollier.</l>
+                <l xml:id="d001l29" n="28">Poi li dona in duelise</l>
+                <l xml:id="d001l30" n="29">qui fost noscians an tote guise,</l>
+                <l xml:id="d001l31" n="30">si li dona un gireudons</l>
+                <l xml:id="d001l32" n="31">que ades fist contra raisons.</l>
+                <l xml:id="d001l33" n="32">El cors li espira venin</l>
+                <l xml:id="d001l34" n="33">qui sempre fist de mal enging</l>
+                <l xml:id="d001l35" n="34">si mist discorde en son coraige</l>
+                <l xml:id="d001l36" n="35">por corrompre lo mariage.</l>
+                <l xml:id="d001l37" n="36">Orgoil li dona et invie,</l>
+                <l xml:id="d001l38" n="37">tot fondament de felonie.</l>
+                <l xml:id="d001l39" n="38">Ensi la fist a son semblant.</l>
+                <l xml:id="d001l40" n="39">Tel fei en ont tuit li enfant</l>
+                <l xml:id="d001l41" n="40">quant que nos avons de tristor</l>
+                <l xml:id="d001l42" n="41">de mal, de pecié et de dolor.</l>
+                <l xml:id="d001l43" n="42">De tot est fame occhasions.</l>
+                <l xml:id="d001l44" n="43">(84ra) Se vos esgardez li raisons</l>
+                <l xml:id="d001l45" n="44">que quant nos en siem enpaini.</l>
+                <l xml:id="d001l46" n="45">El nos baptiz primes agaez</l>
+                <l xml:id="d001l47" n="46">adonqes nos mist in tristor</l>
+                <l xml:id="d001l48" n="47">et in martir et in dolor.</l>
+                <l xml:id="d001l49" n="48">Des que li monde fo formez</l>
+                <l xml:id="d001l50" n="49">comença fame ses maleez.</l>
+                <l xml:id="d001l51" n="50">Et com plu dura ceste vie</l>
+                <l xml:id="d001l52" n="51">croist so ingenie et sa follie.</l>
+                <l xml:id="d001l53" n="52">E lla forfist primerement</l>
+                <l xml:id="d001l54" n="53">en tant ne s’acatta nient.</l>
+                <l xml:id="d001l55" n="54">Elle mangia primers del pome,</l>
+                <l xml:id="d001l56" n="55">apres en fist mangier a l’ome.</l>
+                <l xml:id="d001l57" n="56">Por lo mangier est enpenee</l>
+                <l xml:id="d001l58" n="57">dont nos dona la estrence.</l>
+                <l xml:id="d001l59" n="58">Feme caisons est de toz maus.</l>
+                <l xml:id="d001l60" n="59">Feme engendra ira mortaus.</l>
+                <l xml:id="d001l61" n="60">Feme deseure dous amis.</l>
+                <l xml:id="d001l62" n="61">De quatre frere fait anemis.</l>
+                <l xml:id="d001l63" n="62">Feme cange son seignor,</l>
+                <l xml:id="d001l64" n="63">le buon guerpist por le peior.</l>
+                <l xml:id="d001l65" n="64">Feme depart lo filz dal pere,</l>
+                <l xml:id="d001l66" n="65">a soi lo trahit, toll’il sa mere.</l>
+                <l xml:id="d001l67" n="66">Feme fait bien par coverture</l>
+                <l xml:id="d001l68" n="67">et mal de sa demaine nature.</l>
+                <l xml:id="d001l69" n="68">Fame dofors est religiose,</l>
+                <l xml:id="d001l70" n="69">dedein pongiant et venenose.</l>
+                <l xml:id="d001l71" n="70">Feme par sa donoit parole,</l>
+                <l xml:id="d001l72" n="71">atrahit l’om poi l’afole.</l>
+                <l xml:id="d001l73" n="72">Feme affolla la plus sapiant,</l>
+                <l xml:id="d001l74" n="73">depuis sage fait pain querant.</l>
+                <l xml:id="d001l75" n="74">Feme engendre batallie guerre,</l>
+                <l xml:id="d001l76" n="75">com fis enging devasta terre.</l>
+                <l xml:id="d001l77" n="76">Feme ars castels e prent citez.</l>
+                <l xml:id="d001l78" n="77">Feme fait foudre fermitez.</l>
+                <l xml:id="d001l79" n="78">Feme fait agait en boschier.</l>
+                <l xml:id="d001l80" n="79">Feme bom chival fait detrentier.</l>
+                <l xml:id="d001l81" n="80">Feme comença les tormees.</l>
+                <l xml:id="d001l82" n="81">Feme fait fors le detees.</l>
+                <l xml:id="d001l83" n="82">Feme fait les caait iosrier,</l>
+                <l xml:id="d001l84" n="83">le son deors avant aler.</l>
+                <l xml:id="d001l85" n="84">Feme fait faire les tonois.</l>
+                <l xml:id="d001l86" n="85">Feme comença les destrois.</l>
+                <l xml:id="d001l87" n="86">(84rb) Feme començia les meslees.</l>
+                <l xml:id="d001l88" n="87">Feme fait traire les espees.</l>
+                <l xml:id="d001l89" n="88">Feme prent dux et castellans.</l>
+                <l xml:id="d001l90" n="89">Feme meslee le tirex aus.</l>
+                <l xml:id="d001l91" n="90">Feme començe empirer hore</l>
+                <l xml:id="d001l92" n="91">dont tout une contre ploree.</l>
+                <l xml:id="d001l93" n="92">Feme alaice iones et vielz.</l>
+                <l xml:id="d001l94" n="93">A simplex home tolt les olim.</l>
+                <l xml:id="d001l95" n="94">Feme mesele venid od mal</l>
+                <l xml:id="d001l96" n="95">et par lac toit fait bever fel.</l>
+                <l xml:id="d001l97" n="96">Feme est vulpine por decendre.</l>
+                <l xml:id="d001l98" n="97">Feme est orse par globens bevre.</l>
+                <l xml:id="d001l99" n="98">Feme est lyons par signorier.</l>
+                <l xml:id="d001l100" n="99">Feme est lioparde por devorer.</l>
+                <l xml:id="d001l101" n="100">Feme est sage por bien hom vendre.</l>
+                <l xml:id="d001l102" n="101">Feme est serpens par grantment prendre.</l>
+                <l xml:id="d001l103" n="102">Feme est columbs par grant luxurie.</l>
+                <l xml:id="d001l104" n="103">Feme est dracons d’ardant nature.</l>
+                <l xml:id="d001l105" n="104">Feme est luna par vai entor,</l>
+                <l xml:id="d001l106" n="105">ades encalça le peior.</l>
+                <l xml:id="d001l107" n="106">Feme est ghies par avoir grant sens.</l>
+                <l xml:id="d001l108" n="107">Feme est gatte por mordree endens.</l>
+                <l xml:id="d001l109" n="108">Feme est ratre par bien confondre.</l>
+                <l xml:id="d001l110" n="109">Feme est sutile por son recondre.</l>
+                <l xml:id="d001l111" n="110">Feme est ermine por soef peal.</l>
+                <l xml:id="d001l112" n="111">Feme est aier de ramel.</l>
+                <l xml:id="d001l113" n="112">Feme est dedens ycorns,</l>
+                <l xml:id="d001l114" n="113">defors simple come coloms.</l>
+                <l xml:id="d001l115" n="114">Feme est ner qe est nuit.</l>
+                <l xml:id="d001l116" n="115">Feme est moltons que elle luit.</l>
+                <l xml:id="d001l117" n="116">Feme est foldre por tot espendre.</l>
+                <l xml:id="d001l118" n="117">Feme est astor por proie prendre.</l>
+                <l xml:id="d001l119" n="118">Feme est falçons por sormonter.</l>
+                <l xml:id="d001l120" n="119">Feme est spaver por dançer.</l>
+                <l xml:id="d001l121" n="120">Feme est mastins por encaucer.</l>
+                <l xml:id="d001l122" n="121">Feme est masangne por tençer.</l>
+                <l xml:id="d001l123" n="122">Feme est anaux, feme est stassaie.</l>
+                <l xml:id="d001l124" n="123">Le ior se drot, la not s’esveie.</l>
+                <l xml:id="d001l125" n="124">Feme est fontane desire oie</l>
+                <l xml:id="d001l126" n="125">Que tot rechut suit a sa ioie.</l>
+                <l xml:id="d001l127" n="126">Feme est machois de tel natura,</l>
+                <l xml:id="d001l128" n="127">tot tens sormonta et tot tens dura.</l>
+                <l xml:id="d001l129" n="128">Feme est taverne qe ne faut</l>
+                <l xml:id="d001l130" n="129">(84va) a qui vene e qe chevaut.</l>
+                <l xml:id="d001l131" n="130">Feme est infers qe toz rechoit,</l>
+                <l xml:id="d001l132" n="131">tot tens a soiect et tot tens boit.</l>
+                <l xml:id="d001l133" n="132">Feme est iocis qe plus li fait,</l>
+                <l xml:id="d001l134" n="133">qe plus i pert au chief del plait.</l>
+                <l xml:id="d001l135" n="134">Feme est ne poit estre saolle</l>
+                <l xml:id="d001l136" n="135">por recevre proi autrui gorre.</l>
+                <l xml:id="d001l137" n="136">Feme est legiere comme vent.</l>
+                <l xml:id="d001l138" n="137">Feme est le loior de nul talent.</l>
+                <l xml:id="d001l139" n="138">Feme est bien li fols croire</l>
+                <l xml:id="d001l140" n="139">quant elle quit le suen proi faire.</l>
+                <l xml:id="d001l141" n="140">Feme li tolt se il a rien,</l>
+                <l xml:id="d001l142" n="141">tot tens prent ne dira neconn.</l>
+                <l xml:id="d001l143" n="142">Feme fortrait l’or et l’argent.</l>
+                <l xml:id="d001l144" n="143">Maint gentil homes fait dolent</l>
+                <l xml:id="d001l145" n="144">et a villains tolt gran et plagle,</l>
+                <l xml:id="d001l146" n="145">primier le sold poi la megle.</l>
+                <l xml:id="d001l147" n="146">Feme nuls ne s’en puet garder</l>
+                <l xml:id="d001l148" n="147">cui elle velt engenier.</l>
+                <l xml:id="d001l149" n="148">Feme a un arte plus qe diable,</l>
+                <l xml:id="d001l150" n="149">flos est qe la tint a sa table.</l>
+                <l xml:id="d001l151" n="150">Feme est baude de quer et çage.</l>
+                <l xml:id="d001l152" n="151">Hui est prive, demain est strage.</l>
+                <l xml:id="d001l153" n="152">Feme ne puet estre feaus.</l>
+                <l xml:id="d001l154" n="153">Feme done mauves conseus.</l>
+                <l xml:id="d001l155" n="154">Feme plore quant ella velt.</l>
+                <l xml:id="d001l156" n="155">Feme est lea si ne se doit.</l>
+                <l xml:id="d001l157" n="156">Feme n’ert ia prise ne provée</l>
+                <l xml:id="d001l158" n="157">Si a l’afaire n’en est trovez.</l>
+                <l xml:id="d001l159" n="158">Feme met tuit en un paraie,</l>
+                <l xml:id="d001l160" n="159">povre, riçe et fol et sage.</l>
+                <l xml:id="d001l161" n="160">Feme qeqe lui doie avenir</l>
+                <l xml:id="d001l162" n="161">ne finera ia de mentir.</l>
+                <l xml:id="d001l163" n="162">Feme ne croit ne Dex n’en lei.</l>
+                <l xml:id="d001l164" n="163">Feme bien connoist sua natura,</l>
+                <l xml:id="d001l165" n="164">qui mein la croit ella plus iura.</l>
+                <l xml:id="d001l166" n="165">Feme ne garda sa parole</l>
+                <l xml:id="d001l167" n="166">que ne doie sovent qe fole.</l>
+                <l xml:id="d001l168" n="167">Feme fait honte au franc home</l>
+                <l xml:id="d001l169" n="168">portant qe ne vaut une pome.</l>
+                <l xml:id="d001l170" n="169">(84vb) Feme qui plus li fait honor</l>
+                <l xml:id="d001l171" n="170">et plus la serf s’il a peior.</l>
+                <l xml:id="d001l172" n="171">Qui par feme se met en blasme</l>
+                <l xml:id="d001l173" n="172">celui convint del pan a l’asne.</l>
+                <l xml:id="d001l174" n="173">Feme ame tuit communement,</l>
+                <l xml:id="d001l175" n="174">a caschun fait son talent.</l>
+                <l xml:id="d001l176" n="175">Feme li velt tot sachier</l>
+                <l xml:id="d001l177" n="176">porçe qu’il ame lo mestier.</l>
+                <l xml:id="d001l178" n="177">Feme ne croit negune unte,</l>
+                <l xml:id="d001l179" n="178">quant l’unt descent et l’autre monte.</l>
+                <l xml:id="d001l180" n="179">Feme aime bien dui ior ou trois,</l>
+                <l xml:id="d001l181" n="180">au quart demande le plus frois.</l>
+                <l xml:id="d001l182" n="181">Flos est qu’in fame trop se fie.</l>
+                <l xml:id="d001l183" n="182">Sennes aimes, sennes oblie.</l>
+                <l xml:id="d001l184" n="183">Feme quant elle n’est malfaire</l>
+                <l xml:id="d001l185" n="184">neguns ne puet de li extraire.</l>
+                <l xml:id="d001l186" n="185">Feme qui la bat et chastie</l>
+                <l xml:id="d001l187" n="186">si la prent plus en la follie.</l>
+                <l xml:id="d001l188" n="187">Feme quant hom plus la garde</l>
+                <l xml:id="d001l189" n="188">fai la chose qe plus ai altre.</l>
+            </div1>
+        </body>
+        <back>
+            <div type="edizione">
+                Edizione precedente: Mario Pagano, &lt;i&gt;Poemetti misogini antico-francesi&lt;/i&gt;, vol. I, &lt;i&gt;Blasme des fames&lt;/i&gt;, Catania, Facoltà di Lettere e Filosofia dell’Università di Catania, 1990.
+            </div>
+        </back>
+    </text>
+</TEI>

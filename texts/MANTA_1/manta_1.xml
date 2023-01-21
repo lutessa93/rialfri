@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="MANTA_1-manta_1">Tituli del castello della Manta, Prodi ed Eroine</title>
+                <title type="short">Tituli del castello della Manta, Prodi ed Eroine</title>
+                <title type="sub">1416-1426, Piemonte</title>
+                <author xml:id="MANTA_1" n="194.000">
+                    <persName type="main"></persName>
+                    <persName type="short"></persName>
+                </author>
+                <principal>Serena Modena</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitale</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale e messa in linea</resp>
+                    <name>Francesca Gambino</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Lea Debernardi, <emph style="font-style:italic">Note sulla tradizione manoscritta del “Livre du Chevalier Errant” e sulle fonti dei Tituli negli affreschi della Manta</emph>, «Opera, Nomina, Historiae», 4, 2011, pp. 67-131. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t3"/>
+                <keywords>
+                    <term type="form">poetry</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <div2 xml:id="d001c000" n="">
+                    <head>Tituli dei Prodi</head>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c001" n="1">
+                    <head>1.1. Ettore</head>
+                    <lb/>
+                    <l xml:id="d001l1" n="1">Ie fuy de Troie nee e fis du roy Priam,</l>
+                    <l xml:id="d001l2" n="2">e fuy quant Menelas e la gregoise gans</l>
+                    <l xml:id="d001l3" n="3">vindret asegier Troie a cu(m)pagne gra(n)t:</l>
+                    <l xml:id="d001l4" n="4">la oci-ge .xxx. rois et des autres bien .ccc.;</l>
+                    <l xml:id="d001l5" n="5">puis moy ocist Achiles ases vilainema(n)t,</l>
+                    <l xml:id="d001l6" n="6">denant que Diu nasquit xi.c.xxx. ans.</l>
+                    <l xml:id="d001l7" n="7">Ector</l>
+                </div2>
+                <div2 xml:id="d001c002" n="2">
+                    <head>1.2. Alessandro Magno</head>
+                    <lb/>
+                    <l xml:id="d001l8" n="1">I'ay ay co&lt;n&gt;quis por ma force les illes d'outramer,</l>
+                    <l xml:id="d001l9" n="2">d'Orient iusq&lt;u&gt;es a Ocident fu-ge ia sire apeles,</l>
+                    <l xml:id="d001l10" n="3">i'ay tue roy Daire li p(er)sian, Porus li endia&lt;n&gt;, Nicole l'armires,</l>
+                    <l xml:id="d001l11" n="4">la grant Babiloina fi-ge ver moy encliner,</l>
+                    <l xml:id="d001l12" n="5">e fuy sire du mo(n)de, puis fui enarbres,</l>
+                    <l xml:id="d001l13" n="6">ce fut .iii.c. ans devant que Diu fut nee.</l>
+                    <l xml:id="d001l14" n="7">Alisandre</l>
+                </div2>
+                <div2 xml:id="d001c003" n="3">
+                    <head>1.3. Giulio Cesare</head>
+                    <lb/>
+                    <l xml:id="d001l15" n="1">De Rome fu-ge jadis enperere et roy;</l>
+                    <l xml:id="d001l16" n="2">j'ay (con)quis tote Spagne, France e Navaroys,</l>
+                    <l xml:id="d001l17" n="3">Ponpea, mu(n) sorage, e Casabilion li roy;</l>
+                    <l xml:id="d001l18" n="4">la cite d'Alisandra so(m)mis a mun voloyr,</l>
+                    <l xml:id="d001l19" n="5">[rigo vuoto]</l>
+                    <l xml:id="d001l20" n="6">[mor]t fui dena(n)t q(ue) Diu nasquit de sans .xl. trois.</l>
+                    <l xml:id="d001l21" n="7">Julius Cesar</l>
+                </div2>
+                <div2 xml:id="d001c004" n="4">
+                    <head>1.4. Giosuè</head>
+                    <lb/>
+                    <l xml:id="d001l22" n="1">Des enfans d'I&lt;s&gt;rael fu-ge fort ames;</l>
+                    <l xml:id="d001l23" n="2">quant Diu fist pour miracle li solegl arester,</l>
+                    <l xml:id="d001l24" n="3">le flim Iordam partier e pasa-ie la Roge Mer,</l>
+                    <l xml:id="d001l25" n="4">le Filestins ne purent cu(n)tra moy endurer.</l>
+                    <l xml:id="d001l26" n="5">Je ocis .xxxii. roy, puis moy fenir</l>
+                    <l xml:id="d001l27" n="6">.xiiii.c. ans devant que Diu fust nee.</l>
+                    <l xml:id="d001l28" n="7">Josuee</l>
+                </div2>
+                <div2 xml:id="d001c005" n="5">
+                    <head>1.5. Davide</head>
+                    <lb/>
+                    <l xml:id="d001l29" n="1">Je trovay son de harpa e de sauterion;</l>
+                    <l xml:id="d001l30" n="2">si ay tue Gulias, un grant jehant felon;</l>
+                    <l xml:id="d001l31" n="3">en mei(n)tes batagles moy tient-o(n) prodons;</l>
+                    <l xml:id="d001l32" n="4">apres li roy Saul tienie la region,</l>
+                    <l xml:id="d001l33" n="5">et fui vray propheta de la &lt;i&gt;ncarnacion;</l>
+                    <l xml:id="d001l34" n="6">mort fui .viii.c. ans deva(n)t q(ue) Diu deuenist hons.</l>
+                    <l xml:id="d001l35" n="7">Roy Davit</l>
+                </div2>
+                <div2 xml:id="d001c006" n="6">
+                    <head>1.6. Giuda Maccabeo</head>
+                    <lb/>
+                    <l xml:id="d001l36" n="1">Je viens en Ierusalem en la grant regiom,</l>
+                    <l xml:id="d001l37" n="2">e la loy Moises metre a defansiom;</l>
+                    <l xml:id="d001l38" n="3">ceous q(ui) adorent les idoles mecreans e felo(n)s mi-ge d[i]strucio(n)</l>
+                    <l xml:id="d001l39" n="4">enco(n)tra heus m'en alay a pou de (cum)pagno(n)s</l>
+                    <l xml:id="d001l40" n="5">[rigo vuoto]</l>
+                    <l xml:id="d001l41" n="6">E moray .v.c. ans devant l'incarnacion.</l>
+                    <l xml:id="d001l42" n="7">Judas Makabeus</l>
+                </div2>
+                <div2 xml:id="d001c007" n="7">
+                    <head>1.7. Re Artù</head>
+                    <lb/>
+                    <l xml:id="d001l43" n="1">Je fui roy de Bertagne, d'Escosa e d'Anglatere;</l>
+                    <l xml:id="d001l44" n="2">cinqua(n)ta roy (con)quis q(ui) de moy tiegne(n) terre,</l>
+                    <l xml:id="d001l45" n="3">j'ay tue .vii. gra(n)s jehans rustons en mi lour terre,</l>
+                    <l xml:id="d001l46" n="4">sus le mu(n)t Saint Mich[il] un autre n'alay (con)q(ui)re;</l>
+                    <l xml:id="d001l47" n="5">vis le Seint Greal, puis moy fist Mordre goere,</l>
+                    <l xml:id="d001l48" n="6">q(ui) moy ocist .v.c. ans puis q(ue) Diu vint en tere.</l>
+                    <l xml:id="d001l49" n="7">Roy Artus</l>
+                </div2>
+                <div2 xml:id="d001c008" n="8">
+                    <head>1.8. Carlo Magno</head>
+                    <lb/>
+                    <l xml:id="d001l50" n="1">Je fui roy e(m)peraire e fuy nee de France;</l>
+                    <l xml:id="d001l51" n="2">i'ay (con)quis tote Espagne e i mis la creanse,</l>
+                    <l xml:id="d001l52" n="3">Namunt e Agolant oci-ge sans dotance,</l>
+                    <l xml:id="d001l53" n="4">le Senes descu(n)fis e l'armireau de Valence,</l>
+                    <l xml:id="d001l54" n="5">en Ierusalem remi-ge la creance,</l>
+                    <l xml:id="d001l55" n="6">e mors fuy .v.c. ans apres Diu, sans dotance.</l>
+                    <l xml:id="d001l56" n="7">Charlemaine</l>
+                </div2>
+                <div2 xml:id="d001c009" n="9">
+                    <head>1.9. Goffredo di Buglione</head>
+                    <lb/>
+                    <l xml:id="d001l57" n="1">Je fuy dus de Loraine apres mes anceso[ur]s</l>
+                    <l xml:id="d001l58" n="2">E si tien de Bouglon le palais e le tours;</l>
+                    <l xml:id="d001l59" n="3">au plam de Romania i'ay (con)quis l'esmersours,</l>
+                    <l xml:id="d001l60" n="4">li roy [Cor]baran oci-ge a force e a stours,</l>
+                    <l xml:id="d001l61" n="5">Ierusalen (con)qui-ge au retours</l>
+                    <l xml:id="d001l62" n="6">E mori .xi.c. ans apres Nost(r)e Segnour.</l>
+                    <l xml:id="d001l63" n="7">Godefroy de Bouglon</l>
+                    <lb/>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l64" n="8"><emph style="font-weight:bold">Tituli delle Eroine</emph></l>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c010" n="10">
+                    <head>1.10. Delfile</head>
+                    <lb/>
+                    <l xml:id="d001l65" n="1">Deiphile aveques sa suer</l>
+                    <l xml:id="d001l66" n="2">Arguie, quy fu de grant cuer,</l>
+                    <l xml:id="d001l67" n="3">a l'aide du duc d'Ateinnes</l>
+                    <l xml:id="d001l68" n="4">fist a ceulx de Thobes gra(n)s pein(n)es,</l>
+                    <l xml:id="d001l69" n="5">car toute la cite pillirent</l>
+                    <l xml:id="d001l70" n="6">(et) les citoiens tuerent,</l>
+                    <l xml:id="d001l71" n="7">les mures ausi tous abatierent</l>
+                    <l xml:id="d001l72" n="8">et de puis la cite ardierent.</l>
+                </div2>
+                <div2 xml:id="d001c011" n="11">
+                    <head>1.11. Sinope</head>
+                    <lb/>
+                    <l xml:id="d001l73" n="1">[De Feme]nie fu royne</l>
+                    <l xml:id="d001l74" n="2">[Sinop]e; la terree Boisnie</l>
+                    <l xml:id="d001l75" n="3">envay et luy sousmist,</l>
+                    <l xml:id="d001l76" n="4">et tant de grans p(ro)ueses fist,</l>
+                    <l xml:id="d001l77" n="5">q(ue) Ercules, ly fors cumbatons,</l>
+                    <l xml:id="d001l78" n="6">n'y pot unques sceorre a te(m)ps,</l>
+                    <l xml:id="d001l79" n="7">et sceust plus p(er)du sans faille</l>
+                    <l xml:id="d001l80" n="8">s'il eust atendu la bataglle.</l>
+                </div2>
+                <div2 xml:id="d001c012" n="12">
+                    <head>1.12. Ippolita</head>
+                    <lb/>
+                    <l xml:id="d001l81" n="1">Ypolite et Menalippe</l>
+                    <l xml:id="d001l82" n="2">des gan(s) Sinope dessus &lt;dicte&gt;</l>
+                    <l xml:id="d001l83" n="3">furent, et son ost gouv(er)noient</l>
+                    <l xml:id="d001l84" n="4">si valaiment et mai(n)tenoient</l>
+                    <l xml:id="d001l85" n="5">que a Hercules se (com)batirent</l>
+                    <l xml:id="d001l86" n="6">et tant qu'a terre l'abatyrent,</l>
+                    <l xml:id="d001l87" n="7">et Theseus, ses bons amis,</l>
+                    <l xml:id="d001l88" n="8">ne fu p(ar) elles mout mal mis;</l>
+                    <l xml:id="d001l89" n="9">or oes merveigllez a dire:</l>
+                    <l xml:id="d001l90" n="10">ceulx (qu'on)que nul ne pot descu(n)fire</l>
+                    <l xml:id="d001l91" n="11">non plus que s'ilz fusent de fer</l>
+                    <l xml:id="d001l92" n="12">p(ar) que co(m)me dit ceulx d'enfer</l>
+                    <l xml:id="d001l93" n="13">furent descunfis et batus;</l>
+                    <l xml:id="d001l94" n="14">[lacuna di un verso]</l>
+                    <l xml:id="d001l95" n="15">Et ceulx de Gre[ce] infinis</l>
+                    <l xml:id="d001l96" n="16">navres, decopez et finis.</l>
+                </div2>
+                <div2 xml:id="d001c013" n="13">
+                    <head>1.13. Semiramide</head>
+                    <lb/>
+                    <l xml:id="d001l97" n="1">S[emiramis] de Babiloyne</l>
+                    <l xml:id="d001l98" n="2">fu dame; desoubz tout le trone</l>
+                    <l xml:id="d001l99" n="3">onc tel fame ne vesquy:</l>
+                    <l xml:id="d001l100" n="4">Aysse subiuga et vainq(ui),</l>
+                    <l xml:id="d001l101" n="5">de midy a setenterion</l>
+                    <l xml:id="d001l102" n="6">mist tout a sa subiection,</l>
+                    <l xml:id="d001l103" n="7">gent Scicie et gent Barbarie</l>
+                    <l xml:id="d001l104" n="8">sousmist tout a sa segnurie,</l>
+                    <l xml:id="d001l105" n="9">et Zoroastrun, le for troy,</l>
+                    <l xml:id="d001l106" n="10">ocist elle p(ar) son arroy.</l>
+                </div2>
+                <div2 xml:id="d001c014" n="14">
+                    <head>1.14. Etiope</head>
+                    <lb/>
+                    <l xml:id="d001l107" n="1">Eti[o]pe aquist pour sa guere</l>
+                    <l xml:id="d001l108" n="2">et envay Inde, en quel terre,</l>
+                    <l xml:id="d001l109" n="3">n'e(n)tra onq q(ue) Alixa(n)dre e elle;</l>
+                    <l xml:id="d001l110" n="4">qua(n)t la cite sant rabelle</l>
+                    <l xml:id="d001l111" n="5">son chief lassa a atorner</l>
+                    <l xml:id="d001l112" n="6">e s'en ala eulz ordoner,</l>
+                    <l xml:id="d001l113" n="7">et le mist en obeisanse</l>
+                    <l xml:id="d001l114" n="8">pour son sans e sa vaglanse.</l>
+                </div2>
+                <div2 xml:id="d001c015" n="15">
+                    <head>1.15. Lampeto</head>
+                    <lb/>
+                    <l xml:id="d001l115" n="1">La terre tient de Femenie</l>
+                    <l xml:id="d001l116" n="2">Lampheto avec Marsepie;</l>
+                    <l xml:id="d001l117" n="3">Aise, Europe et Epheson</l>
+                    <l xml:id="d001l118" n="4">mist tout a sa subiecion,</l>
+                    <l xml:id="d001l119" n="5">moult de regions subiuga</l>
+                    <l xml:id="d001l120" n="6">e mainte cites craventa,</l>
+                    <l xml:id="d001l121" n="7">e si fonda maintes noveles</l>
+                    <l xml:id="d001l122" n="8">q(ui) encor su(n)t fortes e belles.</l>
+                </div2>
+                <div2 xml:id="d001c016" n="16">
+                    <head>1.16. Tomiri</head>
+                    <lb/>
+                    <l xml:id="d001l123" n="1">Tamaris, la royne des Cites,</l>
+                    <l xml:id="d001l124" n="2">qui mout sunt fors ge(n)s e despites,</l>
+                    <l xml:id="d001l125" n="3">Tirum, roy de P(er)se e de Mede,</l>
+                    <l xml:id="d001l126" n="4">prist e ocist sans nul remede,</l>
+                    <l xml:id="d001l127" n="5">e de ses gens bien .ii.c. mille;</l>
+                    <l xml:id="d001l128" n="6">puis mist la teste en une pille</l>
+                    <l xml:id="d001l129" n="7">de sanc pleinne e dist: Â«Boy asses</l>
+                    <l xml:id="d001l130" n="8">du sanc do(n)t onq ne fu lassesÂ».</l>
+                </div2>
+                <div2 xml:id="d001c017" n="17">
+                    <head>1.17. Teuca</head>
+                    <lb/>
+                    <l xml:id="d001l131" n="1">Teucha, selon les ancians,</l>
+                    <l xml:id="d001l132" n="2">regna sur les Yriliens,</l>
+                    <l xml:id="d001l133" n="3">gens de mout gra(n)t chevale(r)ie.</l>
+                    <l xml:id="d001l134" n="4">Mainte terre out en sa segnorie,</l>
+                    <l xml:id="d001l135" n="5">e aus Romains gra(n)s gueres fist</l>
+                    <l xml:id="d001l136" n="6">ta(n)t qu'e(n) mai(n)t liu les desconfist</l>
+                    <l xml:id="d001l137" n="7">e de tant acrut sa bunte</l>
+                    <l xml:id="d001l138" n="8">que elle vesqui en chastite.</l>
+                </div2>
+                <div2 xml:id="d001c018" n="18">
+                    <head>1.18. Pentesilea</head>
+                    <lb/>
+                    <l xml:id="d001l139" n="1">La roine de Panthesilee</l>
+                    <l xml:id="d001l140" n="2">fu du roy Priam apelle</l>
+                    <l xml:id="d001l141" n="3">a secours contre le Gregeois:</l>
+                    <l xml:id="d001l142" n="4">si les malmena plusours foys</l>
+                    <l xml:id="d001l143" n="5">e vaglantem(en)t mainteinst la guere;</l>
+                    <l xml:id="d001l144" n="6">des plus vaglans d'eulx mist p(ar) terre,</l>
+                    <l xml:id="d001l145" n="7">ne onques nul ne les greva tant</l>
+                    <l xml:id="d001l146" n="8">apres Hetor le combatant.</l>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

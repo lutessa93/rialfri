@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="EUDESRICHARTDENORMANDIEDEBALNEIS-eudesRichartDeNormandieDeBalneis">Volgarizzamento del “De balneis Puteolanis” di Pietro da Eboli</title>
+                <title type="short">Volgarizzamento del “De balneis Puteolanis” di Pietro da Eboli</title>
+                <title type="sub">1392, Napoli</title>
+                <author xml:id="EUDESRICHARTDENORMANDIEDEBALNEIS" n="075.000">
+                    <persName type="main">Eudes Richart de Normandie</persName>
+                    <persName type="short">Eudes Richart de Normandie</persName>
+                </author>
+                <principal>Serena Modena</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale e messa in linea</resp>
+                    <name>Francesca Gambino</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Giovanna Delcorno, <emph style="font-style:italic">Il volgarizzamento antico-francese del “De balneis puteolanis” di Eudes Richart de Normandie</emph>, in <emph style="font-style:italic">Lingua, rima, codici per una nuova edizione della poesia della Scuola siciliana</emph>. Atti della Giornata di studio (Bologna, 24 giugno 1997). Con altri contributi di Filologia romanza, a cura di Andrea Fassò e Luciano Formisano, Bologna, «Quaderni di Filologia Romanza della Facoltà di Lettere e Filosofia dell’Università di Bologna», 12-13 (1999), pp. 183-287.  </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t5"/>
+                <keywords>
+                    <term type="form">poetry</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <lb/>
+                <p xml:id="d001l1" style="font-weight:bold" n="">I</p>
+                <lb/>
+                <l xml:id="d001l2" n="1">Entre les richeces des choses</l>
+                <l xml:id="d001l3" n="2">est Dieu a loer en ycelles</l>
+                <l xml:id="d001l4" n="3">qui sont aus ars humains forcloses</l>
+                <l xml:id="d001l5" n="4">et aident; telz vertus sont belles.</l>
+                <l xml:id="d001l6" n="5">Chose est moult merveilleuse a dire</l>
+                <l xml:id="d001l7" n="6">et moult horrible a regarder</l>
+                <l xml:id="d001l8" n="7">que d'enfer, de tous lieux le pire,</l>
+                <l xml:id="d001l9" n="8">vient aide aus corps humains garder,</l>
+                <l xml:id="d001l10" n="9">l'eau boullant qui pugnist les mors</l>
+                <l xml:id="d001l11" n="10">aval en enfer, en abysme,</l>
+                <l xml:id="d001l12" n="11">je vous di que celle meisme</l>
+                <l xml:id="d001l13" n="12">malades vifz rent sains et fors.</l>
+                <l xml:id="d001l14" n="13">Terre de Labour a les bains</l>
+                <l xml:id="d001l15" n="14">qui senz syrops ne medicines</l>
+                <l xml:id="d001l16" n="15">garissent gens de tous mehains</l>
+                <l xml:id="d001l17" n="16">par leurs vertuz qui tant sont fines.</l>
+                <l xml:id="d001l18" n="17">Vous qui n'avez denier ne maille</l>
+                <l xml:id="d001l19" n="18">et qui voulez estre garis,</l>
+                <l xml:id="d001l20" n="19">garis serés aus bains senz faille,</l>
+                <l xml:id="d001l21" n="20">senz y paier loyer ne pris.</l>
+                <l xml:id="d001l22" n="21">Des baings les noms et les vertuz,</l>
+                <l xml:id="d001l23" n="22">du grant Cesar a la loange,</l>
+                <l xml:id="d001l24" n="23">sont en cest livre contenuz,</l>
+                <l xml:id="d001l25" n="24">bien est que chascun les aprenge.</l>
+                <l xml:id="d001l26" n="25">L'istore est vraye comme evvangile,</l>
+                <l xml:id="d001l27" n="26">maiz pour miex entendre genz lays,</l>
+                <l xml:id="d001l28" n="27">Loÿs Second, roy de Sicile,</l>
+                <l xml:id="d001l29" n="28">l'a fait translater en francois.</l>
+                <l xml:id="d001l30" n="29">Tous ces baings sont jouxte Pussol,</l>
+                <l xml:id="d001l31" n="30">prez Naples, la noble cité,</l>
+                <l xml:id="d001l32" n="31">et n'en doubte nul, s'il n'est fol,</l>
+                <l xml:id="d001l33" n="32">car c'est la pure verité.</l>
+                <lb/>
+                <p xml:id="d001l34" style="font-weight:bold" n="">II</p>
+                <lb/>
+                <l xml:id="d001l35" n="33">Le premier a nom Sudatour</l>
+                <l xml:id="d001l36" n="34">car le malade pacïent</l>
+                <l xml:id="d001l37" n="35">sue en la maison senz liquour</l>
+                <l xml:id="d001l38" n="36">si non de l'ayr tant seulement.</l>
+                <l xml:id="d001l39" n="37">Un lac a devant la maison</l>
+                <l xml:id="d001l40" n="38">plain de couluevres et de raynes;</l>
+                <l xml:id="d001l41" n="39">n'y trouveras autre poisson</l>
+                <l xml:id="d001l42" n="40">tant bien de le peschier te paynes.</l>
+                <l xml:id="d001l43" n="41">De cest baing te di le conseil:</l>
+                <l xml:id="d001l44" n="42">quiconque en la cave se boute,</l>
+                <l xml:id="d001l45" n="43">tout son corps de sueur degoute,</l>
+                <l xml:id="d001l46" n="44">comme la noif fait au soleil.</l>
+                <l xml:id="d001l47" n="45">Il vuyde les maises humours,</l>
+                <l xml:id="d001l48" n="46">revenir fait le corps legier;</l>
+                <l xml:id="d001l49" n="47">l'eau chaufee chace les langours</l>
+                <l xml:id="d001l50" n="48">des entrailles et fait sechier</l>
+                <l xml:id="d001l51" n="49">playes pourries qui sont soubz le cuir.</l>
+                <lb/>
+                <p xml:id="d001l52" style="font-weight:bold" n="">III</p>
+                <lb/>
+                <l xml:id="d001l53" n="50">Un baing y a d'autre maniere</l>
+                <l xml:id="d001l54" n="51">que l'en appelle la Soulfriere.</l>
+                <l xml:id="d001l55" n="52">Les nerfs roides fait remolir</l>
+                <l xml:id="d001l56" n="53">et si seult la rooigne tolir;</l>
+                <l xml:id="d001l57" n="54">ors membres fait renouveler,</l>
+                <l xml:id="d001l58" n="55">les brehaignes fait engrosser,</l>
+                <l xml:id="d001l59" n="56">garist l'estomac et la teste,</l>
+                <l xml:id="d001l60" n="57">et les lermes des yeux abesse.</l>
+                <l xml:id="d001l61" n="58">Il garist les genz du vomite,</l>
+                <l xml:id="d001l62" n="59">les yeux rent clers, le fleume gitte,</l>
+                <l xml:id="d001l63" n="60">la fievre avec le froit chace.</l>
+                <l xml:id="d001l64" n="61">Maiz qu'ains le baing purger se face,</l>
+                <l xml:id="d001l65" n="62">qui entre sains dedenz ceste eau,</l>
+                <l xml:id="d001l66" n="63">aprez est sain, fraiz et nouveau.</l>
+                <l xml:id="d001l67" n="64">Cest baing pour nulle riens ne blasme,</l>
+                <l xml:id="d001l68" n="65">ains loe sa vertu plus que basme,</l>
+                <l xml:id="d001l69" n="66">car nous veons souventes foiz</l>
+                <l xml:id="d001l70" n="67">qu'il rent les genz et sains et froiz;</l>
+                <l xml:id="d001l71" n="68">que nuls ne veult au nes sentir,</l>
+                <l xml:id="d001l72" n="69">tous leur fait leurs maulz departir.</l>
+                <lb/>
+                <p xml:id="d001l73" style="font-weight:bold" n="">IV</p>
+                <lb/>
+                <l xml:id="d001l74" n="70">Un baing y a, qui Bulle a nom,</l>
+                <l xml:id="d001l75" n="71">qui boust tousjours a grant boullon;</l>
+                <l xml:id="d001l76" n="72">moult espouvente qui la regarde:</l>
+                <l xml:id="d001l77" n="73">feu y a qui semble qu'elle arde</l>
+                <l xml:id="d001l78" n="74">des pierres entre ens par crevances.</l>
+                <l xml:id="d001l79" n="75">Les cuers effree par telz menaces</l>
+                <l xml:id="d001l80" n="76">qu'a grant paour puet estre hanté</l>
+                <l xml:id="d001l81" n="77">le lieu qui est si enflambé,</l>
+                <l xml:id="d001l82" n="78">et tant qu'il est pluz effreyé,</l>
+                <l xml:id="d001l83" n="79">pluz est proffitable essayé,</l>
+                <l xml:id="d001l84" n="80">mais qu'il puist descendre en la cave</l>
+                <l xml:id="d001l85" n="81">et que souvent son chief y lave;</l>
+                <l xml:id="d001l86" n="82">et s'eaue n'y treuve a soy laver, (+1)</l>
+                <l xml:id="d001l87" n="83">autre eau doit en ce lieu chaufer.</l>
+                <l xml:id="d001l88" n="84">Telle eau garist du mal des yex,</l>
+                <l xml:id="d001l89" n="85">la teste malade en vault miex,</l>
+                <l xml:id="d001l90" n="86">et purge la matrix et seyne</l>
+                <l xml:id="d001l91" n="87">la foye et la ratele seyne.</l>
+                <lb/>
+                <p xml:id="d001l92" style="font-weight:bold" n="">V</p>
+                <lb/>
+                <l xml:id="d001l93" n="88">Autre baing Astrunis se nomme</l>
+                <l xml:id="d001l94" n="89">Dont l'eau est moult saine et moult bonne.</l>
+                <l xml:id="d001l95" n="90">Les denz, que le reume relasche,</l>
+                <l xml:id="d001l96" n="91">resserre et rafferme en leur tasche;</l>
+                <l xml:id="d001l97" n="92">la huvette qui chiet relieve,</l>
+                <l xml:id="d001l98" n="93">le reume oste aus joes qui les grieve; (+1)</l>
+                <l xml:id="d001l99" n="94">les yeux garit et le poumon,</l>
+                <l xml:id="d001l100" n="95">quant la tous lui fait lesïon.</l>
+                <l xml:id="d001l101" n="96">Le corps qui est trop moite eschaufe,</l>
+                <l xml:id="d001l102" n="97">meilleur appetit fait que sausse;</l>
+                <l xml:id="d001l103" n="98">tout reume garit et peresce,</l>
+                <l xml:id="d001l104" n="99">tous les mambres du piz adresce;</l>
+                <l xml:id="d001l105" n="100">la voix qui pour reume se pert</l>
+                <l xml:id="d001l106" n="101">garit cest baing tout en appert.</l>
+                <lb/>
+                <p xml:id="d001l107" style="font-weight:bold" n="">VI</p>
+                <lb/>
+                <l xml:id="d001l108" n="102">Un autre baing a nom Ioncare</l>
+                <l xml:id="d001l109" n="103">qui au bort de la mer se pare;</l>
+                <l xml:id="d001l110" n="104">ceulz qui de ptisie sont sechiez (+1 )</l>
+                <l xml:id="d001l111" n="105">garit et les douleurs du piez.</l>
+                <l xml:id="d001l112" n="106">Leesce engendre et la norrit,</l>
+                <l xml:id="d001l113" n="107">tout triste pensee amaindrit (+1)</l>
+                <l xml:id="d001l114" n="108">qui senz cause trouble les ames.</l>
+                <l xml:id="d001l115" n="109">Aus hommes fait amer les fames,</l>
+                <l xml:id="d001l116" n="110">il fait les reins fors a luxure;</l>
+                <l xml:id="d001l117" n="111">l'estomac garde, les yex cure,</l>
+                <l xml:id="d001l118" n="112">fievres interposees termine, (+1)</l>
+                <l xml:id="d001l119" n="113">au foye est bonne medicine.</l>
+                <l xml:id="d001l120" n="114">Qui de ces eaux use, n'a doubte</l>
+                <l xml:id="d001l121" n="115">du mal qui la peau tenvit toute.</l>
+                <lb/>
+                <p xml:id="d001l122" style="font-weight:bold" n="">VII</p>
+                <lb/>
+                <l xml:id="d001l123" n="116">Entre les eaues de la mer</l>
+                <l xml:id="d001l124" n="117">prez la rive au pié d'un rochier,</l>
+                <l xml:id="d001l125" n="118">est fontainne grant en effait,</l>
+                <l xml:id="d001l126" n="119">quant que petit et brief nom ait:</l>
+                <l xml:id="d001l127" n="120">Petit Baing se clame cellui,</l>
+                <l xml:id="d001l128" n="121">de si grant vertu est ami</l>
+                <l xml:id="d001l129" n="122">que les genz baignez en ce lieu</l>
+                <l xml:id="d001l130" n="123">sentent voyrement estre dieu,</l>
+                <l xml:id="d001l131" n="124">car de quel mal que tu te dueilles</l>
+                <l xml:id="d001l132" n="125">ou de caleur quelque tu vueilles,</l>
+                <l xml:id="d001l133" n="126">maiz que de celle eau soyes lavé, (+1)</l>
+                <l xml:id="d001l134" n="127">tost seraz gariz et sané.</l>
+                <l xml:id="d001l135" n="128">Car chief et estomac et rains</l>
+                <l xml:id="d001l136" n="129">et tous autres membres rent sains;</l>
+                <l xml:id="d001l137" n="130">conforte qui la renouvelle,</l>
+                <l xml:id="d001l138" n="131">la tiedist et se baigne en elle.</l>
+                <l xml:id="d001l139" n="132">El garit des yeux l'oscurté,</l>
+                <l xml:id="d001l140" n="133">les eptiques rent a seurté,</l>
+                <l xml:id="d001l141" n="134">et garit de fievre quartaine,</l>
+                <l xml:id="d001l142" n="135">fievre emphymerine a fin mayne.</l>
+                <l xml:id="d001l143" n="136">Et parthenopense ayme pluz</l>
+                <l xml:id="d001l144" n="137">ceste maniere que autre nulz.</l>
+                <lb/>
+                <p xml:id="d001l145" style="font-weight:bold" n="">VIII</p>
+                <lb/>
+                <l xml:id="d001l146" n="138">L'eaue qui s'appelle Hors La Crite,</l>
+                <l xml:id="d001l147" n="139">qui au bort de la mer habite,</l>
+                <l xml:id="d001l148" n="140">garit l'estomac de feblece;</l>
+                <l xml:id="d001l149" n="141">aus ydropiques nuit et blece,</l>
+                <l xml:id="d001l150" n="142">car elle est de doulce savour:</l>
+                <l xml:id="d001l151" n="143">rien ne consume sa chalour,</l>
+                <l xml:id="d001l152" n="144">pour tant aus ydropiques nuit.</l>
+                <l xml:id="d001l153" n="145">Les membres eschaufez reduit</l>
+                <l xml:id="d001l154" n="146">a leur droite complexion,</l>
+                <l xml:id="d001l155" n="147">le foye garit et le poumon. (+1)</l>
+                <l xml:id="d001l156" n="148">A la poitrine remedie,</l>
+                <l xml:id="d001l157" n="149">aussi de la toux fait aÿe:</l>
+                <l xml:id="d001l158" n="150">les membres de fievre sechiez</l>
+                <l xml:id="d001l159" n="151">par ceste eaue sont alegiez.</l>
+                <l xml:id="d001l160" n="152">Hors de terre yst par long conduiz</l>
+                <l xml:id="d001l161" n="153">dont les malades sont gariz</l>
+                <l xml:id="d001l162" n="154">qui ont quelque mal en la peau.</l>
+                <l xml:id="d001l163" n="155">Les anciens dient que cest'eau,</l>
+                <l xml:id="d001l164" n="156">qui s'appelle Defore Cripte,</l>
+                <l xml:id="d001l165" n="157">vient de Bulle dessus escripte,</l>
+                <lb/>
+                <p xml:id="d001l166" style="font-weight:bold" n="">IX</p>
+                <lb/>
+                <l xml:id="d001l167" n="158">Le baing qui La Pierre se clame</l>
+                <l xml:id="d001l168" n="159">est merveilleux et de grant fame;</l>
+                <l xml:id="d001l169" n="160">pour tant que par nom se cognoisse,</l>
+                <l xml:id="d001l170" n="161">est dit Pierre car pierre froisse.</l>
+                <l xml:id="d001l171" n="162">La teste cure et les oreilles,</l>
+                <l xml:id="d001l172" n="163">des yeux ront et oste les maelles,</l>
+                <l xml:id="d001l173" n="164">et du cuer et de la poitrine</l>
+                <l xml:id="d001l174" n="165">est excellente medicine.</l>
+                <l xml:id="d001l175" n="166">Cest baing oevre bien la vessie,</l>
+                <l xml:id="d001l176" n="167">les rains de gravelle netie.</l>
+                <l xml:id="d001l177" n="168">Le buvrage de ceste eaux</l>
+                <l xml:id="d001l178" n="169">lave et netye tous les boyaux;  (+1)</l>
+                <l xml:id="d001l179" n="170">pluseurs perreleux ont beü</l>
+                <l xml:id="d001l180" n="171">ceste eau chaude, que j'ay veü</l>
+                <l xml:id="d001l181" n="172">puis faire urine perreleuse.</l>
+                <l xml:id="d001l182" n="173">Vous, qui cel maladie perilleuse (+2)</l>
+                <l xml:id="d001l183" n="174">avez que l'en nomme la pierre,</l>
+                <l xml:id="d001l184" n="175">devez de ceste aue secours querre,</l>
+                <l xml:id="d001l185" n="176">car, se vous en buvez souvent,</l>
+                <l xml:id="d001l186" n="177">gariz serez certainnement.</l>
+                <lb/>
+                <p xml:id="d001l187" style="font-weight:bold" n="">X</p>
+                <lb/>
+                <l xml:id="d001l188" n="178">Le baing qui a nom Calature</l>
+                <l xml:id="d001l189" n="179">proffite au poumon par nature</l>
+                <l xml:id="d001l190" n="180">et de la mesme la toux chace</l>
+                <l xml:id="d001l191" n="181">que le grief reume lui pourchace.</l>
+                <l xml:id="d001l192" n="182">A l'estomac rent il sa force,</l>
+                <l xml:id="d001l193" n="183">de menger lui donne la force</l>
+                <l xml:id="d001l194" n="184">et est sa nature qu'il cuise</l>
+                <l xml:id="d001l195" n="185">la vïande trop souvent prise.</l>
+                <l xml:id="d001l196" n="186">La pensee afferme et netie</l>
+                <l xml:id="d001l197" n="187">la face et le cuer letifie.</l>
+                <l xml:id="d001l198" n="188">Les taches oste de la face;</l>
+                <l xml:id="d001l199" n="189">par toux causee ptisique efface (+1)</l>
+                <l xml:id="d001l200" n="190">mesmement au comencement,</l>
+                <l xml:id="d001l201" n="191">fors que l'en s'y baigne souvent;</l>
+                <l xml:id="d001l202" n="192">maiz, s'elle estoit trop envieillie,</l>
+                <l xml:id="d001l203" n="193">de legier ne le seroit mie</l>
+                <l xml:id="d001l204" n="194">senz grant labour de medicines:</l>
+                <l xml:id="d001l205" n="195">plus qu'on &lt;ne&gt; puet oster les racines</l>
+                <l xml:id="d001l206" n="196">d'un vieil arbre soudainement</l>
+                <l xml:id="d001l207" n="197">senz labour ou force de vent,</l>
+                <l xml:id="d001l208" n="198">senz grant labour viez maladie</l>
+                <l xml:id="d001l209" n="199">ne puet estre nul temps garie.</l>
+                <lb/>
+                <p xml:id="d001l210" style="font-weight:bold" n="">XI</p>
+                <lb/>
+                <l xml:id="d001l211" n="200">Le dizisme baing Aide a Homme</l>
+                <l xml:id="d001l212" n="201">de son effect ainsi se nomme.</l>
+                <l xml:id="d001l213" n="202">Le poumon cure et la ratele,</l>
+                <l xml:id="d001l214" n="203">au foye enflé est grant medele;</l>
+                <l xml:id="d001l215" n="204">ceuls qui sont tristes pour froidure</l>
+                <l xml:id="d001l216" n="205">de leur poitrine tantost cure.</l>
+                <l xml:id="d001l217" n="206">Les humeurs du ventre hors porte,</l>
+                <l xml:id="d001l218" n="207">l'estomac foible reconforte.</l>
+                <l xml:id="d001l219" n="208">L'apetit perdu fait venir</l>
+                <l xml:id="d001l220" n="209">et si fait la voix esclarcir;</l>
+                <l xml:id="d001l221" n="210">toute maniere de doulour</l>
+                <l xml:id="d001l222" n="211">oste a qui l'ayme par amour.</l>
+                <l xml:id="d001l223" n="212">La podagre oste et vieille goute</l>
+                <l xml:id="d001l224" n="213">qui es mains et es piez se boute.</l>
+                <lb/>
+                <p xml:id="d001l225" style="font-weight:bold" n="">XII</p>
+                <lb/>
+                <l xml:id="d001l226" n="214">Puis vient le baing Sainte Anastaise</l>
+                <l xml:id="d001l227" n="215">qui aus malades fait mainte aise;</l>
+                <l xml:id="d001l228" n="216">le corps ingrat, maigre et pesant,</l>
+                <l xml:id="d001l229" n="217">y prent sa force maintenant.</l>
+                <l xml:id="d001l230" n="218">Une chose est a merveiller:</l>
+                <l xml:id="d001l231" n="219">quiconques fait fosse ou gravier,</l>
+                <l xml:id="d001l232" n="220">emmi la fosse, tout de coure,</l>
+                <l xml:id="d001l233" n="221">trouvera l'eau moult chaude sourse,</l>
+                <l xml:id="d001l234" n="222">car elle est fresche en sa fontayne:</l>
+                <l xml:id="d001l235" n="223">ceuls qui d'eau ont grant soif tost sayne;</l>
+                <l xml:id="d001l236" n="224">el ne proffite nulle chose,</l>
+                <l xml:id="d001l237" n="225">maiz, se hors un peu se refrede,</l>
+                <l xml:id="d001l238" n="226">elle fait aus genz grant remede.</l>
+                <l xml:id="d001l239" n="227">Qui veult qu'a sa langour lui vaille,</l>
+                <l xml:id="d001l240" n="228">a refreschir pas ne la faille.</l>
+                <lb/>
+                <p xml:id="d001l241" style="font-weight:bold" n="">XIII</p>
+                <lb/>
+                <l xml:id="d001l242" n="229">Entre les eaux de la mer a</l>
+                <l xml:id="d001l243" n="230">une eaue chaude qui sourt la,</l>
+                <l xml:id="d001l244" n="231">qui en la mer n'a point d'entree,</l>
+                <l xml:id="d001l245" n="232">car el est toute avironnee</l>
+                <l xml:id="d001l246" n="233">d'edifice tout a la ronde</l>
+                <l xml:id="d001l247" n="234">qui garde, quant la mer suronde,</l>
+                <l xml:id="d001l248" n="235">qu'el n'entre dedenz la fontayne;</l>
+                <l xml:id="d001l249" n="236">et quant la mer est grosse et playne,</l>
+                <l xml:id="d001l250" n="237">a pene entre homme en son canel:</l>
+                <l xml:id="d001l251" n="238">cest baing cy a nom Cantarel.</l>
+                <l xml:id="d001l252" n="239">Playes garit vieilles et nouvelles (+1)</l>
+                <l xml:id="d001l253" n="240">et playes de cuir qu'on nomme ulceres (+1)</l>
+                <l xml:id="d001l254" n="241">qui viennent de maises humours;</l>
+                <l xml:id="d001l255" n="242">les yeux rent clers et fait meillors,</l>
+                <l xml:id="d001l256" n="243">sang qui court de vaines estanche.</l>
+                <l xml:id="d001l257" n="244">Goute de piez, de mains, de hanche</l>
+                <l xml:id="d001l258" n="245">Garit et fievres o froydure;</l>
+                <l xml:id="d001l259" n="246">a mal de costé nuist sa cure.</l>
+                <lb/>
+                <p xml:id="d001l260" style="font-weight:bold" n="">XIV</p>
+                <lb/>
+                <l xml:id="d001l261" n="247">Un baing y a qui L'eau du pré</l>
+                <l xml:id="d001l262" n="248">Est par le commum appellé,</l>
+                <l xml:id="d001l263" n="249">et croyent ceulx qui sont environ</l>
+                <l xml:id="d001l264" n="250">que soit euvre de Ciceron;</l>
+                <l xml:id="d001l265" n="251">fort est la voye qui a l'eau maine,</l>
+                <l xml:id="d001l266" n="252">car moult basse en est la fontaine.</l>
+                <l xml:id="d001l267" n="253">Es entrailles sainnes proffite,</l>
+                <l xml:id="d001l268" n="254">les maises humours du corps gite;</l>
+                <l xml:id="d001l269" n="255">membres nerveux durs ramolie,</l>
+                <l xml:id="d001l270" n="256">teste, espaules reconcilie;</l>
+                <l xml:id="d001l271" n="257">yeux qui sont chacïeux esclere,</l>
+                <l xml:id="d001l272" n="258">le corps netie de toute ulcere.  (+1)</l>
+                <l xml:id="d001l273" n="259">Ensemble a tout le corps proffiete,</l>
+                <l xml:id="d001l274" n="260">fors quant il sue du froit se guiete (+1)</l>
+                <l xml:id="d001l275" n="261">et que riens ne boive, de ci,</l>
+                <l xml:id="d001l276" n="262">tant quë il soit tout refredi.</l>
+                <lb/>
+                <p xml:id="d001l277" style="font-weight:bold" n="">XV</p>
+                <lb/>
+                <l xml:id="d001l278" n="263">Un lac est, Astrata a nom,</l>
+                <l xml:id="d001l279" n="264">par ou Dieu, puis sa passïon,</l>
+                <l xml:id="d001l280" n="265">les portes brisa et fendi</l>
+                <l xml:id="d001l281" n="266">d'enfer, quant il y descendi,</l>
+                <l xml:id="d001l282" n="267">et ses amis mors trahy de la.</l>
+                <l xml:id="d001l283" n="268">La est le baing Tripergula</l>
+                <l xml:id="d001l284" n="269">nommé par droit et par raison,</l>
+                <l xml:id="d001l285" n="270">car il y a double maison:</l>
+                <l xml:id="d001l286" n="271">les genz se despoillent en l'une,</l>
+                <l xml:id="d001l287" n="272">l'autre garde l'eaue et adune.</l>
+                <l xml:id="d001l288" n="273">Ceste eau est saine et moult loee</l>
+                <l xml:id="d001l289" n="274">et oste tout mal de pensee</l>
+                <l xml:id="d001l290" n="275">et mal des piez par sa suour;</l>
+                <l xml:id="d001l291" n="276">l'estomac garit de doulour,</l>
+                <l xml:id="d001l292" n="277">de tout le corps la pesantume</l>
+                <l xml:id="d001l293" n="278">oste. A qui a peu de pecune</l>
+                <l xml:id="d001l294" n="279">nous lui conseillons qu'il en use,</l>
+                <l xml:id="d001l295" n="280">afin que de tout mal l'excuse,</l>
+                <l xml:id="d001l296" n="281">car, qui de ceste eau usera,</l>
+                <l xml:id="d001l297" n="282">tousjurs et sain et lyez sera.</l>
+                <lb/>
+                <p xml:id="d001l298" style="font-weight:bold" n="">XVI</p>
+                <lb/>
+                <l xml:id="d001l299" n="283">Le baing De l'arc est bon et douls</l>
+                <l xml:id="d001l300" n="284">et proffitable et gracioux,</l>
+                <l xml:id="d001l301" n="285">les membres consumez restore</l>
+                <l xml:id="d001l302" n="286">et l'estomac sec revigore;</l>
+                <l xml:id="d001l303" n="287">aus estremitez aide porte,</l>
+                <l xml:id="d001l304" n="288">tous les membres dessouls conforte.</l>
+                <l xml:id="d001l305" n="289">Aus ydropiques n'ayde rien,</l>
+                <l xml:id="d001l306" n="290">ne au foye, n'a la rate autant bien;</l>
+                <l xml:id="d001l307" n="291">je vous di chose que j'en vi,</l>
+                <l xml:id="d001l308" n="292">tesmoing le pueple: homme atenvi</l>
+                <l xml:id="d001l309" n="293">tant qu'il n'avoit pluz que la peau,</l>
+                <l xml:id="d001l310" n="294">en brief temps gary en ceste eau.</l>
+                <lb/>
+                <p xml:id="d001l311" style="font-weight:bold" n="">XVII</p>
+                <lb/>
+                <l xml:id="d001l312" n="295">Aprez vous di des baings Renier</l>
+                <l xml:id="d001l313" n="296">pluz precïeux que nul denier:</l>
+                <l xml:id="d001l314" n="297">ils garissent les corps pourris</l>
+                <l xml:id="d001l315" n="298">d'eaue, de fleume sale nourris;   (+1)</l>
+                <l xml:id="d001l316" n="299">vieilles playes, dertres et mal saine main (+3?)</l>
+                <l xml:id="d001l317" n="300">et la rooigne garit tout sain.</l>
+                <l xml:id="d001l318" n="301">Tu, qui veulz ta peau netoyer,</l>
+                <l xml:id="d001l319" n="302">gariz seras au baing Renier;</l>
+                <l xml:id="d001l320" n="303">et si de rencheoir te doubtes,</l>
+                <l xml:id="d001l321" n="304">en Trituli fault que te boutes.</l>
+                <l xml:id="d001l322" n="305">Maint homme de cest baing s'ennuye</l>
+                <l xml:id="d001l323" n="306">s'il est gras, de gresse pourrie;</l>
+                <l xml:id="d001l324" n="307">l'eau de l'estanc el baing s'empaingt</l>
+                <l xml:id="d001l325" n="308">qu'on doit vuydier ains qu'en s'i baingt.</l>
+                <lb/>
+                <p xml:id="d001l326" style="font-weight:bold" n="">XVIII</p>
+                <lb/>
+                <l xml:id="d001l327" n="309">Devant la maison du poete</l>
+                <l xml:id="d001l328" n="310">est le lac d'enfer ou est faite</l>
+                <l xml:id="d001l329" n="311">un vieil palaiz de grant maniere;</l>
+                <l xml:id="d001l330" n="312">l'eaue en semble estre de miniere.</l>
+                <l xml:id="d001l331" n="313">De Fer a nom cest baing d'enfer,</l>
+                <l xml:id="d001l332" n="314">car il semble a rooil de fer;</l>
+                <l xml:id="d001l333" n="315">umbreuse est dit par tel raison</l>
+                <l xml:id="d001l334" n="316">qu'il y a umbre senz maison.</l>
+                <l xml:id="d001l335" n="317">Mal de sourcil et emigraine,</l>
+                <l xml:id="d001l336" n="318">qui souvent s'i baigne, il le saine;</l>
+                <l xml:id="d001l337" n="319">mal d'ieux qui vient du chief netoye,</l>
+                <l xml:id="d001l338" n="320">des yeux oste la rouge toye</l>
+                <l xml:id="d001l339" n="321">et le siffle oste des oreilles.</l>
+                <l xml:id="d001l340" n="322">Qui du baing savroit les merveilles</l>
+                <l xml:id="d001l341" n="323">ja n'useroit d'autre collire,</l>
+                <l xml:id="d001l342" n="324">car toutes les toyes des yeux tire; (+1)</l>
+                <l xml:id="d001l343" n="325">les trois chambres de la cervelle</l>
+                <l xml:id="d001l344" n="326">conforte et l'oÿe renouvelle.  (+1)</l>
+                <lb/>
+                <p xml:id="d001l345" style="font-weight:bold" n="">XIX</p>
+                <lb/>
+                <l xml:id="d001l346" n="327">Espoir Silvïa, la deesse,</l>
+                <l xml:id="d001l347" n="328">fu de cest saint baing trouverresse</l>
+                <l xml:id="d001l348" n="329">et, de son nom, nom lui donna:</l>
+                <l xml:id="d001l349" n="330">pour ce est nommé Silvïana.</l>
+                <l xml:id="d001l350" n="331">Qui d'umours a plaine la matrice, (+1)</l>
+                <l xml:id="d001l351" n="332">c'est eau la purge de tout vice;</l>
+                <l xml:id="d001l352" n="333">les brehaignes fait engrossier,</l>
+                <l xml:id="d001l353" n="334">aus dames fait leurs fleurs tourner,</l>
+                <l xml:id="d001l354" n="335">venir les fait par ordonnance,</l>
+                <l xml:id="d001l355" n="336">a la matrix donne atrempence.</l>
+                <l xml:id="d001l356" n="337">Tous maulx de matrix oste aus femmes,</l>
+                <l xml:id="d001l357" n="338">pour ce conseille a toutes dames,</l>
+                <l xml:id="d001l358" n="339">qui ne pueent enfens porter,</l>
+                <l xml:id="d001l359" n="340">qu'a cest baing s'aillent deporter;</l>
+                <l xml:id="d001l360" n="341">et s'il peche par leurs maris,</l>
+                <l xml:id="d001l361" n="342">par cest baing cy seront gariz,</l>
+                <l xml:id="d001l362" n="343">car il leur oste la froidure</l>
+                <l xml:id="d001l363" n="344">par quoy ilz perdent l'engendrure.</l>
+                <lb/>
+                <lb/>
+                <p xml:id="d001l364" style="font-weight:bold" n="">XX</p>
+                <lb/>
+                <l xml:id="d001l365" n="345">Une eau y a moult merveilleuse,</l>
+                <l xml:id="d001l366" n="346">mais l'entree en est moult perilleuse: (+1)</l>
+                <l xml:id="d001l367" n="347">Culma a nom, l'en y applique</l>
+                <l xml:id="d001l368" n="348">par une voye moult oblique.</l>
+                <l xml:id="d001l369" n="349">Qui y entre craint quë il s'arde,</l>
+                <l xml:id="d001l370" n="350">car la flambe l'entree en garde.</l>
+                <l xml:id="d001l371" n="351">L'eau dedens fait sueur venir,</l>
+                <l xml:id="d001l372" n="352">nerfs plains de fleume fait garir,</l>
+                <l xml:id="d001l373" n="353">aus avugles rent la lumiere,</l>
+                <l xml:id="d001l374" n="354">aus clos l'aleure, fors que n'yere</l>
+                <l xml:id="d001l375" n="355">la maladie trop envieillie.   (+1)</l>
+                <l xml:id="d001l376" n="356">Aus sains nuit, aus malades aÿe;  (+1)</l>
+                <l xml:id="d001l377" n="357">qui sain est, ja ceste eau ne queurge;</l>
+                <l xml:id="d001l378" n="358">s'il y entre, peu y demeurge.</l>
+                <lb/>
+                <p xml:id="d001l379" style="font-weight:bold" n="">XXI</p>
+                <lb/>
+                <l xml:id="d001l380" n="359">Un lieu a illeuques dejouste</l>
+                <l xml:id="d001l381" n="360">dessoubz une ancïenne vouste;</l>
+                <l xml:id="d001l382" n="361">soubz une roche grant et lee</l>
+                <l xml:id="d001l383" n="362">est la cave au cisel taillee.</l>
+                <l xml:id="d001l384" n="363">La voute est plaine de figures</l>
+                <l xml:id="d001l385" n="364">qui des maulx signifient les cures:  (+1)</l>
+                <l xml:id="d001l386" n="365">qui sont gariz par cellui baing</l>
+                <l xml:id="d001l387" n="366">tous monstrent aus mains leurs mehaing;</l>
+                <l xml:id="d001l388" n="367">ce baing ci a nom Trituli.</l>
+                <l xml:id="d001l389" n="368">Je vous tesmoigne que je vi</l>
+                <l xml:id="d001l390" n="369">l'eaue venir a prime de jour   (+1)</l>
+                <l xml:id="d001l391" n="370">en la voulte senz grant sejour;</l>
+                <l xml:id="d001l392" n="371">vers l'eure que tierce s'appreche</l>
+                <l xml:id="d001l393" n="372">retorne et laist la voulte seche:</l>
+                <l xml:id="d001l394" n="373">l'une part entre en la marine,</l>
+                <l xml:id="d001l395" n="374">l'autre dont en vient s'achemine.</l>
+                <l xml:id="d001l396" n="375">Ceste eau plus souvent medicine</l>
+                <l xml:id="d001l397" n="376">que Bessaÿda, la piscine</l>
+                <l xml:id="d001l398" n="377">qui l'an ne garissoit qu'um homme;</l>
+                <l xml:id="d001l399" n="378">maiz ceste eau cy, que je vous nomme,</l>
+                <l xml:id="d001l400" n="379">puet chascun jour curer grant nombre</l>
+                <l xml:id="d001l401" n="380">du reume qui les genz encombre.</l>
+                <l xml:id="d001l402" n="381">L'estomac et le chief conforte,</l>
+                <l xml:id="d001l403" n="382">aus ydropiques salut porte,</l>
+                <l xml:id="d001l404" n="383">goutes garit et arthetiques</l>
+                <l xml:id="d001l405" n="384">et si proffite aus flegmatiques;</l>
+                <l xml:id="d001l406" n="385">la fievre garde de venir</l>
+                <l xml:id="d001l407" n="386">a qui si scet bien maintenir.</l>
+                <lb/>
+                <p xml:id="d001l408" style="font-weight:bold" n="">XXII</p>
+                <lb/>
+                <l xml:id="d001l409" n="387">Le baing se clame Arculus</l>
+                <l xml:id="d001l410" n="388">a petit nom et grans vertuz;</l>
+                <l xml:id="d001l411" n="389">foye qui est trop chault raffreschit,</l>
+                <l xml:id="d001l412" n="390">la reume et l'estomac garit,</l>
+                <l xml:id="d001l413" n="391">le mal oste de la poitrine,</l>
+                <l xml:id="d001l414" n="392">de froide teste est medicine.</l>
+                <l xml:id="d001l415" n="393">Les yex garit de l'optalmie,</l>
+                <l xml:id="d001l416" n="394">ceulz qui ont beu † pauet † mie.</l>
+                <l xml:id="d001l417" n="395">De pluseurs maulx garit cestuy</l>
+                <l xml:id="d001l418" n="396">comme Culma et Trituly;</l>
+                <l xml:id="d001l419" n="397">non obstant que l'eaue trituline (+1)</l>
+                <l xml:id="d001l420" n="398">soit plus gracïeuse et plus fine</l>
+                <l xml:id="d001l421" n="399">que nul autre baing, loe ge l'us (+1)</l>
+                <l xml:id="d001l422" n="400">du baing qui a nom Arculus.</l>
+                <lb/>
+                <p xml:id="d001l423" style="font-weight:bold" n="">XXIII</p>
+                <lb/>
+                <l xml:id="d001l424" n="401">Baing Palumbar puet avoir nom</l>
+                <l xml:id="d001l425" n="402">cest baing par double entencïon:</l>
+                <l xml:id="d001l426" n="403">ou pour ce que les palumbs l'ayment,</l>
+                <l xml:id="d001l427" n="404">ou que les reins baignez en saynent.</l>
+                <l xml:id="d001l428" n="405">Au chief, aus reins est medicine,</l>
+                <l xml:id="d001l429" n="406">restraint qui trop forment urine,</l>
+                <l xml:id="d001l430" n="407">des yeux oste nyebles et maelles</l>
+                <l xml:id="d001l431" n="408">et le vent qui siffle es oreilles:</l>
+                <l xml:id="d001l432" n="409">du cuer garit la cardiaque,</l>
+                <l xml:id="d001l433" n="410">par cest baing l'artetique vaque.</l>
+                <l xml:id="d001l434" n="411">Et fait plus grans choses que cestes,</l>
+                <l xml:id="d001l435" n="412">maiz qu'on grde bien ses dïetes.</l>
+                <l xml:id="d001l436" n="413">Garde toy, aprez ses remedes,</l>
+                <l xml:id="d001l437" n="414">de choses salees et froides</l>
+                <l xml:id="d001l438" n="415">et de boire eau froyde ensement:</l>
+                <l xml:id="d001l439" n="416">boy vin, eve attrempeement;</l>
+                <l xml:id="d001l440" n="417">saches que ceste eau pluz proffete</l>
+                <l xml:id="d001l441" n="418">que sirop a bonne dïetes.</l>
+                <lb/>
+                <p xml:id="d001l442" style="font-weight:bold" n="">XXIV</p>
+                <lb/>
+                <l xml:id="d001l443" n="419">D'eaue n'a point Pugile en sa fosse (+1)</l>
+                <l xml:id="d001l444" n="420">quant la mer est enflee et grosse;</l>
+                <l xml:id="d001l445" n="421">pour son petit lieu la nomma</l>
+                <l xml:id="d001l446" n="422">Pugil, qui nom lui imposa.</l>
+                <l xml:id="d001l447" n="423">Il y a une voye torte</l>
+                <l xml:id="d001l448" n="424">qui les genz jusques au baing porte;</l>
+                <l xml:id="d001l449" n="425">de sept genz est la maison plaine.</l>
+                <l xml:id="d001l450" n="426">Le cul garit, la foyre sayne,</l>
+                <l xml:id="d001l451" n="427">les ydropiques agreslie,</l>
+                <l xml:id="d001l452" n="428">a la rate et au chief aÿe;</l>
+                <l xml:id="d001l453" n="429">la fievre et le froit chace hors,</l>
+                <l xml:id="d001l454" n="430">les foibles malades rent fors.</l>
+                <l xml:id="d001l455" n="431">Je vi un homme tout sechié,</l>
+                <l xml:id="d001l456" n="432">qui ne savoit ester sur pié,</l>
+                <l xml:id="d001l457" n="433">qui s'en ala, aprez ce baing,</l>
+                <l xml:id="d001l458" n="434">sain senz potences ne mehaing.</l>
+                <lb/>
+                <p xml:id="d001l459" style="font-weight:bold" n="">XXV</p>
+                <lb/>
+                <l xml:id="d001l460" n="435">Qui veult du baing Saint George enquerre,</l>
+                <l xml:id="d001l461" n="436">il vient d'une vaine soubs terre;</l>
+                <l xml:id="d001l462" n="437">nul n'y savra ja tenir voye</l>
+                <l xml:id="d001l463" n="438">se la flambe ne les avoye.</l>
+                <l xml:id="d001l464" n="439">Pour tant, se l'entree est doubteuse,</l>
+                <l xml:id="d001l465" n="440">est l'eau saine et moult vertüeuse:</l>
+                <l xml:id="d001l466" n="441">la pierre froisse et fait l'orine</l>
+                <l xml:id="d001l467" n="442">venir aus genz a droit termine.</l>
+                <l xml:id="d001l468" n="443">El garit les genz d'arthetique,</l>
+                <l xml:id="d001l469" n="444">cuisses, piez, braz, front artetique</l>
+                <l xml:id="d001l470" n="445">sont gariz par ces saintes eaux.</l>
+                <l xml:id="d001l471" n="446">J'en vi un miracle moult beaux:</l>
+                <l xml:id="d001l472" n="447">un homme en pissant, bien m'en membre,</l>
+                <l xml:id="d001l473" n="448">mist hors deux pierres par le membre.</l>
+                <lb/>
+                <p xml:id="d001l474" style="font-weight:bold" n="">XXVI</p>
+                <lb/>
+                <l xml:id="d001l475" n="449">Jouxte Culme de pierre naÿve (+1)</l>
+                <l xml:id="d001l476" n="450">naist liquour comme oele d'olive.</l>
+                <l xml:id="d001l477" n="451">Cest baing fait merveilles apertes,</l>
+                <l xml:id="d001l478" n="452">meseaux garit et toutes dertres.</l>
+                <l xml:id="d001l479" n="453">Par lui est le fleume salé</l>
+                <l xml:id="d001l480" n="454">de l'estomac tout devalé;</l>
+                <l xml:id="d001l481" n="455">la cole estaint et subtilie</l>
+                <l xml:id="d001l482" n="456">le fleume groz et letifie</l>
+                <l xml:id="d001l483" n="457">ceuls qui sont tristes et pensiz.</l>
+                <l xml:id="d001l484" n="458">Reschaufe les corps refroidiz,</l>
+                <l xml:id="d001l485" n="459">tout le corps de lui s'esjoït;</l>
+                <l xml:id="d001l486" n="460">couperose du vis garit,</l>
+                <l xml:id="d001l487" n="461">le vis arridelez desride.</l>
+                <l xml:id="d001l488" n="462">Sa vertu monstre nom d'Olive:</l>
+                <l xml:id="d001l489" n="463">de ceste pierre sault ruisseaux</l>
+                <l xml:id="d001l490" n="464">d'oele, comme des autres d'eaux.</l>
+                <lb/>
+                <p xml:id="d001l491" style="font-weight:bold" n="">XXVII</p>
+                <lb/>
+                <l xml:id="d001l492" n="465">L'eaue Cesar est nommee l'une, (+1)</l>
+                <l xml:id="d001l493" n="466">que l'en nomme Soleil et Lune,</l>
+                <l xml:id="d001l494" n="467">qui vault miex que les autres eaux</l>
+                <l xml:id="d001l495" n="468">tant que le soleil est pluz beaux</l>
+                <l xml:id="d001l496" n="469">de toutes les autres planetes.</l>
+                <l xml:id="d001l497" n="470">Cest baing rent toutes goutes netes,</l>
+                <l xml:id="d001l498" n="471">du corps toute douleur anulle</l>
+                <l xml:id="d001l499" n="472">fors ceuls a qui vieille fistule</l>
+                <l xml:id="d001l500" n="473">a ja les oz trop vïolez.</l>
+                <l xml:id="d001l501" n="474">Les podagres sont consolez</l>
+                <l xml:id="d001l502" n="475">par ceste eau, se la maladie</l>
+                <l xml:id="d001l503" n="476">n'est trop malement envieillie.</l>
+                <l xml:id="d001l504" n="477">Mais nuls homs, ou peu, scevent ore</l>
+                <l xml:id="d001l505" n="478">le lieu ou ceste eaue demore:</l>
+                <l xml:id="d001l506" n="479">quelque chose est choite dessus</l>
+                <l xml:id="d001l507" n="480">pour quoy l'en ne la treuve plus.</l>
+                <l xml:id="d001l508" n="481">Vous d'Averse, qui tante vie</l>
+                <l xml:id="d001l509" n="482">avez vesquu qu'il vous ennuye,</l>
+                <l xml:id="d001l510" n="483">monstrez du baing la vieille place</l>
+                <l xml:id="d001l511" n="484">afin que aucun faire la face.</l>
+                <lb/>
+                <p xml:id="d001l512" style="font-weight:bold" n="">XXVIII</p>
+                <lb/>
+                <l xml:id="d001l513" n="485">La fontaine l'Evesque y a:</l>
+                <l xml:id="d001l514" n="486">c'est baing d'evesque le nomm-a</l>
+                <l xml:id="d001l515" n="487">car il est prelat aus malades</l>
+                <l xml:id="d001l516" n="488">ou car les prelaz l'ont moult sades.</l>
+                <l xml:id="d001l517" n="489">Aus artetiques moult proffite</l>
+                <l xml:id="d001l518" n="490">et a ceuls ou podagre habite.</l>
+                <l xml:id="d001l519" n="491">Les prelaz l'ont moult esprouvé</l>
+                <l xml:id="d001l520" n="492">et moult proffitable trouvé;</l>
+                <l xml:id="d001l521" n="493">pour ce que repoz et peresce</l>
+                <l xml:id="d001l522" n="494">les prelaz souventes foiz blece,</l>
+                <l xml:id="d001l523" n="495">les piez de mal souvent leur faillent</l>
+                <l xml:id="d001l524" n="496">et quant mal a la selle saillent,</l>
+                <l xml:id="d001l525" n="497">le vent qui est en leurs boyaux,</l>
+                <l xml:id="d001l526" n="498">leur fait areichier leurs noyaux,</l>
+                <l xml:id="d001l527" n="499">car si fort le ventre leur lieve</l>
+                <l xml:id="d001l528" n="500">du vent, qu'a peu que ne leur crieve.</l>
+                <l xml:id="d001l529" n="501">Querez ceste eau, seigneurs prelaz,</l>
+                <l xml:id="d001l530" n="502">de la hanter ne soyez laz;</l>
+                <l xml:id="d001l531" n="503">ne prenez tel refectïon</l>
+                <l xml:id="d001l532" n="504">qui tourbe la digestïon,</l>
+                <l xml:id="d001l533" n="505">car, qui boute trop en sa pance,</l>
+                <l xml:id="d001l534" n="506">destruit son corps et sa chevance.</l>
+                <lb/>
+                <p xml:id="d001l535" style="font-weight:bold" n="">XXIX</p>
+                <lb/>
+                <l xml:id="d001l536" n="507">Le baing qui Bracula a nom (+1)</l>
+                <l xml:id="d001l537" n="508">garit les joes d'inflacïon,</l>
+                <l xml:id="d001l538" n="509">la voix enrouee fait clere;</l>
+                <l xml:id="d001l539" n="510">la douleur devant et derriere</l>
+                <l xml:id="d001l540" n="511">du chief garit, et la ratelle</l>
+                <l xml:id="d001l541" n="512">et le faye enflé renouvelle.</l>
+                <l xml:id="d001l542" n="513">La veue troublee esclarcit,</l>
+                <l xml:id="d001l543" n="514">la fievre quartaine garit,</l>
+                <l xml:id="d001l544" n="515">et garit fievre amphimerine,</l>
+                <l xml:id="d001l545" n="516">et si est aussi medicine</l>
+                <l xml:id="d001l546" n="517">de toute fievre entreposee,</l>
+                <l xml:id="d001l547" n="518">qui “fievre esrant” est appellee</l>
+                <l xml:id="d001l548" n="519">des layz et des clers “planetique”.</l>
+                <l xml:id="d001l549" n="520">Qui tels maulx a, aus baings s'aplique</l>
+                <l xml:id="d001l550" n="521">nom pas une foiz seulement:</l>
+                <l xml:id="d001l551" n="522">qui pluz s'i baigne, miex s'en sent.</l>
+                <lb/>
+                <p xml:id="d001l552" style="font-weight:bold" n="">XXX</p>
+                <lb/>
+                <l xml:id="d001l553" n="523">Une eau y a moult merveillouse,</l>
+                <l xml:id="d001l554" n="524">que l'en appelle Gymberouse,</l>
+                <l xml:id="d001l555" n="525">ou l'en descent par huit degrez;</l>
+                <l xml:id="d001l556" n="526">l'eau court dedenz par les costez.</l>
+                <l xml:id="d001l557" n="527">Les entrailles et la matrix</l>
+                <l xml:id="d001l558" n="528">sont par ces eaues icy gariz;  (+1)</l>
+                <l xml:id="d001l559" n="529">les flours qui trop viennent, refraigne,</l>
+                <l xml:id="d001l560" n="530">et garit le nes qui trop saigne,</l>
+                <l xml:id="d001l561" n="531">et si garit semblablement</l>
+                <l xml:id="d001l562" n="532">le sang qui yst du fondement;</l>
+                <l xml:id="d001l563" n="533">a ceulx qui ne pueent faire urine, (+1)</l>
+                <l xml:id="d001l564" n="534">n'aux rains n'est meilleur medicine.</l>
+                <l xml:id="d001l565" n="535">Qui a pierre il fault qu'el s'en ysse</l>
+                <l xml:id="d001l566" n="536">ou que gravelle et les peux pisse.</l>
+                <l xml:id="d001l567" n="537">Ceste eau de tous maulx le corps saigne</l>
+                <l xml:id="d001l568" n="538">chascun malade qui s'i baigne.</l>
+                <lb/>
+                <p xml:id="d001l569" style="font-weight:bold" n="">XXXI</p>
+                <lb/>
+                <l xml:id="d001l570" n="539">Du derrain baing le loz vous conte,</l>
+                <l xml:id="d001l571" n="540">cest baing cy est nommé Spelonque.</l>
+                <l xml:id="d001l572" n="541">Nul ceste eau user ne pourroit</l>
+                <l xml:id="d001l573" n="542">qui refroydiez ne la vourroit;</l>
+                <l xml:id="d001l574" n="543">quant atrempee est, qui s'i boute</l>
+                <l xml:id="d001l575" n="544">elle garit de toute goute;</l>
+                <l xml:id="d001l576" n="545">elle garit, n'en doubtez mie,</l>
+                <l xml:id="d001l577" n="546">vieille toux et ydropisie.</l>
+                <l xml:id="d001l578" n="547">Qui en boit chascun jour .V. dragmes,</l>
+                <l xml:id="d001l579" n="548">dessus dessouls la dÿafragmes</l>
+                <l xml:id="d001l580" n="549">garit soit de cole ou de fleume,</l>
+                <l xml:id="d001l581" n="550">et si garit genz de tout reume.</l>
+                <l xml:id="d001l582" n="551">N'est pas spelonque de larrons</l>
+                <l xml:id="d001l583" n="552">celle ou les baigns croissent si bons.</l>
+                <lb/>
+                <p xml:id="d001l584" style="font-weight:bold" n="">XXXII</p>
+                <lb/>
+                <l xml:id="d001l585" n="553">Cesar, qui es soleil du monde</l>
+                <l xml:id="d001l586" n="554">tant comme il est grant a la ronde,</l>
+                <l xml:id="d001l587" n="555">pren cest livret que te presente,</l>
+                <l xml:id="d001l588" n="556">le tiers qu'as eu de moy de rente:</l>
+                <l xml:id="d001l589" n="557">le premier contient les memoires</l>
+                <l xml:id="d001l590" n="558">des batailles et des victoires</l>
+                <l xml:id="d001l591" n="559">civiles qu'en ton paÿs as faites; (+1)</l>
+                <l xml:id="d001l592" n="560">ou secont livre sont retraites</l>
+                <l xml:id="d001l593" n="561">les merveilleux faiz Fredery;</l>
+                <l xml:id="d001l594" n="562">des baings raconte ce tiers cy.</l>
+                <l xml:id="d001l595" n="563">Ces troiz livres ay composé</l>
+                <l xml:id="d001l596" n="564">au los de Cesar, l'alozé:</l>
+                <l xml:id="d001l597" n="565">parole qui est mise en terme</l>
+                <l xml:id="d001l598" n="566">par bouche de trois est pluz ferme.</l>
+                <l xml:id="d001l599" n="567">Cesar, liz les faiz ancïens</l>
+                <l xml:id="d001l600" n="568">des Sarrasins et Chrestïans;</l>
+                <l xml:id="d001l601" n="569">tu ne trouveras ja poete</l>
+                <l xml:id="d001l602" n="570">qui d'omme auster ne cruel trete.</l>
+                <l xml:id="d001l603" n="571">Cesar, je suis ta creature,</l>
+                <l xml:id="d001l604" n="572">ays de moy remembrance et cure</l>
+                <l xml:id="d001l605" n="573">afin que je puisse suffire</l>
+                <l xml:id="d001l606" n="574">aus grans fais de ton fils descripre.</l>
+                <lb/>
+                <p xml:id="d001l607" style="font-weight:bold" n="">XXXIII</p>
+                <lb/>
+                <l xml:id="d001l608" n="575">Cest baing cy a nom Subcellete</l>
+                <l xml:id="d001l609" n="576">dont l'eau est clere et saine et nette.</l>
+                <l xml:id="d001l610" n="577">Le fes, l'ardeur de la vecie,  (-1)</l>
+                <l xml:id="d001l611" n="578">prontement tantost deslie</l>
+                <l xml:id="d001l612" n="579">et fait aus genz bien faire urine.</l>
+                <l xml:id="d001l613" n="580">De pluseurs maulx est medicine;</l>
+                <l xml:id="d001l614" n="581">de cest baing netiz et garies</l>
+                <l xml:id="d001l615" n="582">sont dens et gencives pourries.</l>
+                <l xml:id="d001l616" n="583">Garit en esté la tierçaine</l>
+                <l xml:id="d001l617" n="584">et la fievre cotidïane,</l>
+                <l xml:id="d001l618" n="585">et si garit la fievre lente</l>
+                <l xml:id="d001l619" n="586">a tout homme qui la frequente;</l>
+                <l xml:id="d001l620" n="587">poumon, foye et rate garit</l>
+                <l xml:id="d001l621" n="588">et la toux, et rent l'apetit.</l>
+                <l xml:id="d001l622" n="589">Bonne digestion procure,</l>
+                <l xml:id="d001l623" n="590">lentilles et la rougne cure,</l>
+                <l xml:id="d001l624" n="591">les taches oste de la face,</l>
+                <l xml:id="d001l625" n="592">les cheveux longs et blons pourchace.</l>
+                <l xml:id="d001l626" n="593">Tout le corps rent lyé et joyant</l>
+                <l xml:id="d001l627" n="594">d'omme qui en ayme le hant.</l>
+                <lb/>
+                <p xml:id="d001l628" style="font-weight:bold" n="">XXXIV</p>
+                <lb/>
+                <l xml:id="d001l629" n="595">Le baing de la Croix est moult bon,</l>
+                <l xml:id="d001l630" n="596">proffitable et de grant renom.</l>
+                <l xml:id="d001l631" n="597">Il garit podagre endurcie,</l>
+                <l xml:id="d001l632" n="598">les nerfs conforte et les netie</l>
+                <l xml:id="d001l633" n="599">moult bien des humeurs fleumatiques,</l>
+                <l xml:id="d001l634" n="600">et si proffite aus ydropiques</l>
+                <l xml:id="d001l635" n="601">qui ont le corps de fleume plain</l>
+                <l xml:id="d001l636" n="602">pour le mal faye et pour l'esplain.</l>
+                <l xml:id="d001l637" n="603">Et vous di qu'aussy garit il</l>
+                <l xml:id="d001l638" n="604">la douleur dessoubz le nombril;</l>
+                <l xml:id="d001l639" n="605">il garit de la goute froyde</l>
+                <l xml:id="d001l640" n="606">qui est ou nerf et le tient royde:</l>
+                <l xml:id="d001l641" n="607">mais que l'en s'i baigne souvent</l>
+                <l xml:id="d001l642" n="608">il la garit entierement.</l>
+                <l xml:id="d001l643" n="609">Je vy un homme s'i baigner</l>
+                <l xml:id="d001l644" n="610">qui, pour pestre soy ne saigner,</l>
+                <l xml:id="d001l645" n="611">ne peust sa main mettre a sa face,</l>
+                <l xml:id="d001l646" n="612">qui fu gari en brief espace:</l>
+                <l xml:id="d001l647" n="613">du baing se departi tout sain</l>
+                <l xml:id="d001l648" n="614">faisant son vouloir de sa main.</l>
+                <lb/>
+                <p xml:id="d001l649" style="font-weight:bold" n="">XXXV</p>
+                <lb/>
+                <l xml:id="d001l650" n="615">Les grans vertuz et les merites</l>
+                <l xml:id="d001l651" n="616">des baings qui sont dessuz escriptes</l>
+                <l xml:id="d001l652" n="617">sont de moult long temps esprovees,</l>
+                <l xml:id="d001l653" n="618">par experiment vrayes trouvees;</l>
+                <l xml:id="d001l654" n="619">et croy qui plus y cercheroit,</l>
+                <l xml:id="d001l655" n="620">pluseurs vertuz y trouveroit</l>
+                <l xml:id="d001l656" n="621">et y trouveroit d'autres baings</l>
+                <l xml:id="d001l657" n="622">qui gariroient d'autres mehaings,</l>
+                <l xml:id="d001l658" n="623">car toute celle regïon</l>
+                <l xml:id="d001l659" n="624">est de minieres environ,</l>
+                <l xml:id="d001l660" n="625">et euvre chascune miniere</l>
+                <l xml:id="d001l661" n="626">es corps par diverse maniere,</l>
+                <l xml:id="d001l662" n="627">selon qu'il a complexïon</l>
+                <l xml:id="d001l663" n="628">ou corps ou disposicïon.</l>
+                <l xml:id="d001l664" n="629">Et pource que le bien commun</l>
+                <l xml:id="d001l665" n="630">plus proffite, jadiz chascun</l>
+                <l xml:id="d001l666" n="631">baing fu par nom intitulé</l>
+                <l xml:id="d001l667" n="632">et miz son nom sus, que celé</l>
+                <l xml:id="d001l668" n="633">ne fust a nul qui le voulsist:</l>
+                <l xml:id="d001l669" n="634">de quelque mal que se doulsist,</l>
+                <l xml:id="d001l670" n="635">peust trouver escript le remede</l>
+                <l xml:id="d001l671" n="636">ou d'eve chaude ou d'eve froide,</l>
+                <l xml:id="d001l672" n="637">pour santé ou pour maladie.</l>
+                <l xml:id="d001l673" n="638">Adonques par grant convoitie</l>
+                <l xml:id="d001l674" n="639">et envie qui nul n'esperne,</l>
+                <l xml:id="d001l675" n="640">les phisicïens de Salerne</l>
+                <l xml:id="d001l676" n="641">meuz de maise pensee et inique, (+1)</l>
+                <l xml:id="d001l677" n="642">considerans que leur pratique</l>
+                <l xml:id="d001l678" n="643">en yert forment amenuisee</l>
+                <l xml:id="d001l679" n="644">et leur scïence mains prisee,</l>
+                <l xml:id="d001l680" n="645">vindrent effacer tous les titres</l>
+                <l xml:id="d001l681" n="646">des baings et de tous leurs chapitres,</l>
+                <l xml:id="d001l682" n="647">afin que nul ne cogneüst</l>
+                <l xml:id="d001l683" n="648">quel vertu chascun baing eüst,</l>
+                <l xml:id="d001l684" n="649">ains tornassent les pacïens</l>
+                <l xml:id="d001l685" n="650">soy garir aus phisicïens.</l>
+                <l xml:id="d001l686" n="651">Maiz Dieu qui tous les malfaiz venge,</l>
+                <l xml:id="d001l687" n="652">ne voult soufrir telle laidange</l>
+                <l xml:id="d001l688" n="653">passer senz ce qu'el fust punie:</l>
+                <l xml:id="d001l689" n="654">au retorner de leur folie</l>
+                <l xml:id="d001l690" n="655">les fist, quant ilz furent au large,</l>
+                <l xml:id="d001l691" n="656">noyer en la mer, genz et barge.</l>
+                <l xml:id="d001l692" n="657">Ainsi perirent et noyerent</l>
+                <l xml:id="d001l693" n="658">et les noms des baings demorerent</l>
+                <l xml:id="d001l694" n="659">escrips en mains lieux, qui devant ce</l>
+                <l xml:id="d001l695" n="660">furent escrips par remembrance</l>
+                <l xml:id="d001l696" n="661">et pour perpetuel memoire</l>
+                <l xml:id="d001l697" n="662">ont duré et durent ancore.</l>
+                <l xml:id="d001l698" n="663">Et pluseurs qui sont environ</l>
+                <l xml:id="d001l699" n="664">cognoissent tous les baings par nom</l>
+                <l xml:id="d001l700" n="665">et y ont par experïence,</l>
+                <l xml:id="d001l701" n="666">aussi com le livre recence,</l>
+                <l xml:id="d001l702" n="667">veu mains homs gari et curé</l>
+                <l xml:id="d001l703" n="668">ainsi comme ils m'ont juré;</l>
+                <l xml:id="d001l704" n="669">et croy par mon entencïon</l>
+                <l xml:id="d001l705" n="670">vraye leur deposicïon.</l>
+                <l xml:id="d001l706" n="671">Et afin que plus clerement</l>
+                <l xml:id="d001l707" n="672">qui n'entendent latin ne lettre,</l>
+                <l xml:id="d001l708" n="673">ay je volu en françois mettre</l>
+                <l xml:id="d001l709" n="674">le livre qui est en latin</l>
+                <l xml:id="d001l710" n="675">des le premier jusqu'en la fin,</l>
+                <l xml:id="d001l711" n="676">et de mot a mot translaté</l>
+                <l xml:id="d001l712" n="677">a Naples, la noble cité,</l>
+                <l xml:id="d001l713" n="678">par moy phisicïen Richart</l>
+                <l xml:id="d001l714" n="679">Eudes, normant, qui ceste part</l>
+                <l xml:id="d001l715" n="680">vins servir Roy Loÿs Secont,</l>
+                <l xml:id="d001l716" n="681">a qui Dieu joye et honneur dont.</l>
+                <l xml:id="d001l717" n="682">Et fu ceste translacïon</l>
+                <l xml:id="d001l718" n="683">en l'an de l'incarnacïon</l>
+                <l xml:id="d001l719" n="684">mil trois cens et nonante deux,</l>
+                <l xml:id="d001l720" n="685">el douls meys de may gracïeux,</l>
+                <l xml:id="d001l721" n="686">en Chastel Nuef, present li Roys</l>
+                <l xml:id="d001l722" n="687">et ses bons serviteurs françois</l>
+                <l xml:id="d001l723" n="688">en grant nombre, de qui les noms</l>
+                <l xml:id="d001l724" n="689">quant a present ne vous dirons.</l>
+                <lb/>
+            </div1>
+        </body>
+    </text>
+</TEI>

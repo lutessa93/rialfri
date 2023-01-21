@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="CHRETIENCLIGES-chretienCliges">Cligès</title>
+                <title type="short">Cligès</title>
+                <title type="sub">inizio XIV sec., Italia settentrionale</title>
+                <author xml:id="CHRETIENCLIGES" n="036.000">
+                    <persName type="main">Chrétien de Troyes</persName>
+                    <persName type="short">Chrétien de Troyes</persName>
+                </author>
+                <principal>Francesca Gambino</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata e marcatura digitale</resp>
+                    <name>Francesca Gambino</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Gabriele Giannini, <emph style="font-style:italic">II romanzo francese in versi dei secoli XII e XIII in Italia: il "Cligès" riccardiano</emph>, in <emph style="font-style:italic">Modi e forme della fruizione della materia arturiana nell’Italia dei sec. XIII-XV (Milano, 4-5 febbraio 2005)</emph>, Milano, Istituto Lombardo di Scienze e Lettere, 2006, pp. 119-158.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t1"/>
+                <keywords>
+                    <term type="form">poetry</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <p xml:id="d001l1" style="font-weight:bold" n=""></p>
+                <lb/>
+                <l xml:id="d001l2" n="1">Alisandre le roi salue,</l>
+                <l xml:id="d001l3" n="2">que la langhe avoit esmolue</l>
+                <l xml:id="d001l4" n="3">a biem parler et saggement.</l>
+                <l xml:id="d001l5" n="4">«Rois», fet il, «de vus ne ment</l>
+                <l xml:id="d001l6" n="5">le renome che de vus nome,</l>
+                <l xml:id="d001l7" n="6">po che De fis le primer ome</l>
+                <l xml:id="d001l8" n="7">non a pus om de vettre puisançe</l>
+                <l xml:id="d001l9" n="8">rois ch'en Deus ad sa creançe.</l>
+                <l xml:id="d001l10" n="9">Le renome che de vus curt</l>
+                <l xml:id="d001l11" n="10">si m'a mené a vettre curt</l>
+                <l xml:id="d001l12" n="11">par vu servir ed onorer,</l>
+                <l xml:id="d001l13" n="12">et s'el moi servis ve sera biel</l>
+                <l xml:id="d001l14" n="13">ge serai civalier novel,</l>
+                <l xml:id="d001l15" n="14">de vettre man e non d'autrui,</l>
+                <l xml:id="d001l16" n="15">et se de vettre man non sui</l>
+                <l xml:id="d001l17" n="16">ge non serai civalier clamez».</l>
+                <l xml:id="d001l18" n="17">«Vu soiez le tres bien venuz,</l>
+                <l xml:id="d001l19" n="18">bieu dus amis», fet li rois,</l>
+                <l xml:id="d001l20" n="19">«chi et vus?» - «Sire, de Grece sumes».</l>
+                <l xml:id="d001l21" n="20">«Et chi e tan per?»</l>
+                <l xml:id="d001l22" n="21">«Par ma foi, sire, l’emperer».</l>
+                <l xml:id="d001l23" n="22">«Et come tu nom?</l>
+                <l xml:id="d001l24" n="23">E dim cresime, dim battesme».</l>
+                <l xml:id="d001l25" n="24">«Alixandre me fu no mez».</l>
+                <l xml:id="d001l26" n="25">«Alixandre, bieu dux amis,</l>
+                <l xml:id="d001l27" n="26">mul me plet et mul m’aet</l>
+                <l xml:id="d001l28" n="27">et mul m’avez grant onor fet».</l>
+            </div1>
+        </body>
+        <back>
+            <div type="edizione">
+                Edizione del frammento Firenze, Biblioteca Riccardiana, 2756, c. 72r
+            </div>
+        </back>
+    </text>
+</TEI>

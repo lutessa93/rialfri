@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="SORELOIS-sorelois">Torneiement de Sorelois</title>
+                <title type="alt">Sorelois (Torneiement de)</title>
+                <title type="short">Torneiement de Sorelois</title>
+                <author xml:id="SORELOIS" n="191.000">
+                    <persName type="main"></persName>
+                    <persName type="short"></persName>
+                </author>
+                <principal>Francesca Gambino</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata e marcatura digitale</resp>
+                    <name>Francesca Gambino</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Fanni Bogdanow, <emph style="font-style:italic">A New Fragment of the «Tournament of Sorelois»</emph>, «Romance Philology», 16 (1962-1963), 268-81.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t2"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <p xml:id="d001l1" n="1" rend="numbered">a la mahomerie en pelerinage. Et ce soit dusque tant que vos seroiz retornez. Celui
+                paage donoit chascuns anz .X. mil mars d'arjant, et ce avoit estez l’endoaire de s'aiole,
+                dont la damoisele en estoit a celui tens en saisine.</p>
+                <lb/>
+                <p xml:id="d001l2" n="2" rend="numbered">Quant Corsobin oï ce que la damoisele dist, il fu tant liez et tant joianz que nulle
+                plus. Or voit il apertement que la damoisele ne li puet eschaper. Et lors s'en vient
+                au roi et dist:</p>
+                <lb/>
+                <p xml:id="d001l3" n="3" rend="numbered">- Sire, oan me sorprist une maladie dont les mires me deguerpirent trestuiz. Mes la
+                nuit aprés me vint Mahomet veoir et me fist prametre le pelerinage et que ge m'en alasse
+                veoir le temple de dame Venus qu'est en la Grant Bretaigne en une foreste que l'en apele
+                la Foreste Pereilleuse.</p>
+                <p xml:id="d001l4" n="4" rend="numbered">Et quant ge li o[ï] pramis, la maladie me deguerpi erraument. Or m’en sui apareilliez,
+                dont ge m'en voil aler a vostre congiez,</p>
+                <lb/>
+                <p xml:id="d001l5" n="5" rend="numbered">- A Mahomet soiez vos comandez, fait li rois de Baudac.</p>
+                <lb/>
+                <p xml:id="d001l6" n="6" rend="numbered">Quant li chevalier ot prist le congjez dou roi de Baudac, il s'en vint a la damoisele
+                [et li dist]:</p>
+                <lb/>
+                <p xml:id="d001l7" n="7" rend="numbered">- [Damoisele] vos meismes vos avez a moi donee. Des ore mes voil ge que vos soiez come
+                la moie.</p>
+                <lb/>
+                <p xml:id="d001l8" n="8" rend="numbered">- Corsobin, fait la damoise[le], encore en i a li grant mer a passer et parmi le trenchant
+                de l’espee de Palamedes vos en estuet retorner ceste part. Se l'aventure poez achever,
+                bien me poroiz prandre come la vostre.</p>
+                <lb/>
+                <p xml:id="d001l9" n="9" rend="numbered">Et lors le comande a Mohomet. Et Corsobin s'en ala en son ostel et prest ses armes et
+                toz ce que mestiers li fu, et puis se mist au chemin que conduisoit a la mer, entre
+                lui et .iiii. de ses vaslez, et chevaucherent tant que il furent venuz a la mer.</p>
+                <p xml:id="d001l10" n="10" rend="numbered">II se mist en une nef et passa la mer en la compaignie de celui vaslez que le penoncel
+                portoit a Palamedes. Et quant il furent outre la mer passez, Corsobin n’ala en pelerinage
+                veoir le temple de ma dame Venus ensint com il avoit dit au roi, ainz s’en ala tote
+                voies en la çompaignie de celui vaslez que tote voies aloit enquerant noveles de Palamedes,</p>
+                <p xml:id="d001l11" n="11" rend="numbered">et tant chevaucherent de jornee que il venirent en Sorelois, que l'en li avoit dit
+                entre voies que Palamedes seroit trovez en Sorelois.</p>
+                <lb/>
+                <p xml:id="d001l12" n="12" rend="numbered">Corsobin avoit dit au vaslet que il n'estoit meuz de Baudac por autre chose fors que
+                por oster le penoncel as mains de Palamedes. Que vos diroe ge? Quant il furent venuz
+                en Soreloys, assez tost troverent qui lor distrent novelles de Palamedes, et que a
+                l'endemain le pora veoir en le tornoiement.</p>
+                <p xml:id="d001l13" n="13" rend="numbered">Et lors descendent andox en un hostel, dont il furent moult aiesé. Mes atant lesse
+                li contes a parler de ceste aventure et parole dou tornoiement,</p>
+                <lb/>
+                <p xml:id="d001l14" n="14" rend="numbered">Ci endroit dit li contes que a l’endemain auques par tans leva monseignor Galehot,
+                li haut princes deboneire, et Lancelot dou Lac et les autres barons. Et lors comencent
+                les grailles et les estrumenz a soner.</p>
+                <p xml:id="d001l15" n="15" rend="numbered">Et quant les chevaliers l'oïrent, il se lievent de totes parz et armerent lor cors.
+                Et lors furent les confanon conduit au champ, et les chevaliers s’en vont aprés.</p>
+                <p xml:id="d001l16" n="16" rend="numbered">De l'autre part monta la raïne as loges entre li et les dames et les damoiseles que
+                acostumees estoient de venir avec li.</p>
+                <p xml:id="d001l17" n="17" rend="numbered">Li haut princes Galeot et avec lui ses barons i estoient venuz por le veoir. Entre
+                Palamedes et son frere Saphar conduistrent la damoisele an champ.</p>
+                <lb/>
+                <p xml:id="d001l18" n="18" rend="numbered">Quant Corsobin vit Palamedes armés de totes armes et vit son escuz que partuissez et
+                derompuz estoit et maumis, et son haubers detrenchiez en plusors leus, il le prise
+                moult.</p>
+                <p xml:id="d001l19" n="19" rend="numbered">Et neporquant il li estoit avis que il n'avroit vers lui duree a la grant force et
+                a la grant vertuz que il cuidoit avoir, et que il savoit bien que en trestoz li roiaume
+                de Baudac ne avoit nus chevalier qui envers lui ossast redrecier son escuz.</p>
+                <p xml:id="d001l20" n="20" rend="numbered">Et lors dist il au vaslet que il li baille le penoncel que la file dou roi de Baudac
+                li envoie, et que il li die les covenances totes en tel maniere com ele li mande.</p>
+                <p xml:id="d001l21" n="21" rend="numbered">Lors s'en vet li vaslet atot le penoncel moult bien fermez en une lance. Et quant les
+                chevalier si virent celui penoncel que baloioit au vent, il conurent erranment que
+                il venoit de paanimes a la soulitez des portreituires des images que portraites estoient
+                a fiz d'or et des oevres saracinoises que estoient environ.</p>
+                <lb/>
+                <p xml:id="d001l22" n="22" rend="numbered">Li vaslet s'en ala tot droitement la ou Palamedes estoit. Et quant il i fu venuz, il
+                parole et dist si hautement que bien fu oï toz environ:</p>
+                <p xml:id="d001l23" n="23" rend="numbered">- Sire, fait il, se vos estes Palamedes li paiens, si le me dites. Et Palamedes respont
+                et dist:</p>
+                <lb/>
+                <p xml:id="d001l24" n="24" rend="numbered">- Vaslet, Palamedes sui ge, de voir le sachés, et de la loi saracinoise.</p>
+                <lb/>
+                <p xml:id="d001l25" n="25" rend="numbered">- Puis que celui estes que sui venuz querer de si lontaines terres come Baudac, adonc
+                ai ge achevee ma queste, ce dit li vaslet, aprés ce que ge vos avrai contez tot ce
+                por quoi ge sui envoiez a vos.</p>
+                <lb/>
+                <p xml:id="d001l26" n="26" rend="numbered">Sire, fait il, a vos m'envoie la plus vaillant damoisele que l'en peust trover en trestoz
+                li paanimes. Ele est sage, cortoise et deboneire. Ele est bele et cointe et pleisant.</p>
+                <p xml:id="d001l27" n="27" rend="numbered">Ele est riche et puissanz que de par pere que de par mere. Son aiol est rois de Nagabers,
+                et son pere roi de Baudac. Sire, il n'a pas lonc tens que cele damoisele oï conter
+                aucunes choses de voz proeces, et por ce ot ele assis son cuer en vos.</p>
+                <p xml:id="d001l28" n="28" rend="numbered">Tenez qu'ele vos envoie cestui penoncel, qu'ele meïsmes portraist les oevres de ses
+                mains. Se voz estes tex que encontre paiens le poez deffendre dusque a un anz, vos
+                la poroiz aler prandre come la vostre, et si en porterez corone, de voir le sachiez,
+                que li rois de Baudac ne ot de toz enfanz fora que cele damoisele solement.</p>
+                <lb/>
+                <p xml:id="d001l29" n="29" rend="numbered">Quant Palamedes oï ce, il prist le penoncel, non pas por avoir la damoisele a feme,
+                mes por esprover sa chevalerie se aucun paiens venist por le contradire. Il ne prendist
+                a celui tens la corone de toz li mondes. Et neporquant il respont au valet et dist
+                :</p>
+                <lb/>
+                <p xml:id="d001l30" n="30" rend="numbered">- Vaslet, l'en ne sa des aventures dou monde a combien ele tornent, et por ce voil
+                ge que tu dies a la damoisele de par moi que se ge ne vieng cele part dusque a un anz
+                qu'ele ne m'atende plus et quele prande mariz a sa volentez.  Et dou penoncel que tu
+                m'as donez de par li en ferai ge toz mon pooir.</p>
+                <lb/>
+                <p xml:id="d001l31" n="31" rend="numbered">Endementiers que Palam[ed]es tenoit parlement a celui vaslet, atant ez vos Corsobin
+                venir cele part armez de totes [ar]mes et montez desor un chevax fort et isnel.</p>
+                <p xml:id="d001l32" n="32" rend="numbered">Et quant il fu auques pres de Palamedes venuz, il gita la main et prist le penoncel
+                et le voloit arachier hore de la main a Palamedes. Et quant Palamedets vit ce, il traist
+                la main a lui et dist:</p>
+                <lb/>
+                <p xml:id="d001l33" n="32" rend="numbered">- Sire chevalier, c'est outrange. Vos me faites honte.<lb/>Et lors parole Corsobin
+                et dist:</p>
+                <lb/>
+                <p xml:id="d001l34" n="33" rend="numbered">- Sanz honte ne vos poez vos departir de moi.<lb/>- Estes vos paiens? ce dit Palamedes.</p>
+                <lb/>
+                <p xml:id="d001l35" n="34" rend="numbered">- Paiens sui ge, fait Corsobin, et nez de Baudac; filz [s]ui ge de Aristoc que tot
+                paanimes governoit au tens que li rois de Baudac remest orphenin.</p>
+                <p xml:id="d001l36" n="35" rend="numbered">Rachalz li fort est mon frere. Celui governe la chevalerie de Baudac et ot a feme la
+                file dou roi d’Escuz.</p>
+                <p xml:id="d001l37" n="36" rend="numbered">Et cele orgoilleuse damoisele me vet refusant. Mes puis qu'ele envoia ceste part cestui
+                penoncel, ele ne me puet eschaper par les covenances que en [m]ist.</p>
+                <lb/>
+                <p xml:id="d001l38" n="37" rend="numbered">- Danz chevalier, fait Palamedes, a ce que vos dites, vos estes estraiz de haut lignage,
+                et neporquant orgoilleusement vos volez marier.</p>
+                <p xml:id="d001l39" n="38" rend="numbered">Dites moi, quex covenances i mist la damoisele quant ele envoia ceste part son penoncel?</p>
+                <lb/>
+                <p xml:id="d001l40" n="39" rend="numbered">Et Corsobin respont et dist que la damoisele i mist que se aucun paiens li portera
+                cestui penoncel et que il l'avra gaignez desor vos, il la pora prandre come la soe.</p>
+                <lb/>
+                <p xml:id="d001l41" n="40" rend="numbered">- Certes, fait Palamedes, adonc ne l'avrez vos ensint de ligier. Trop<lb/>seroit mon
+                cors mis a honte se ge le vos quitas[s]e sanz joste et sanz meslee.</p>
+                <lb/>
+                <p xml:id="d001l42" n="41" rend="numbered">Veez la li plus preudome dou monde et que nus n'ose neis regarder cele part por redrecier
+                son escuz encontre lui (et ce dist il de Lancelot dou Lac), se il en fust en leus de
+                vos, si me combateroie ge tant a lui que mes membres en seroient avilees, mes mon cuer
+                n'en avroit honte, que ja por defaute de mon cuer il ne porteroit li penoncel.</p>
+                <p xml:id="d001l43" n="42" rend="numbered">Et se il le portast, mes menbres en seroent honies que li grant cox ne poroent sostonir.
+                Et neporquant, nos somes ici tres devant li plus haut princes dou monde a sa grant
+                feste, dont il ne seroit covenables choses de combatre sanz congiez de lui.</p>
+                <p xml:id="d001l44" n="43" rend="numbered">Et de l'autre part ceste bataille voil ge que soit bien veue de trestoz cels que ici
+                sont assemblez. Et sachiez certeinement que en trestote la crestientez de tant com
+                ele dure ne poroit l'en trover autretant de preudomes com vos poez veoir en ceste place.</p>
+                <lb/>
+                <p xml:id="d001l45" n="44" rend="numbered">Dont ge voil que la bataille que doit estre entre voz et moi soit a l’endemain ou hui
+                aprés<lb/>disner. Venez devant li haut princes que il nos donera li jors et li terme.</p>
+                <lb/>
+                <p xml:id="d001l46" n="45" rend="numbered">- Palamedes, ce dit Corsobin, tu as peor, ge le voi apertement. Mes fai lo bien, done
+                moi<lb/>quitement lo penoncel et ge te donerai ma seror a feme, qu'est une des beles
+                damoiseles dou monde. Et si en avras por endoaire ...</p>
+                <lb/>
+            </div1>
+        </body>
+    </text>
+</TEI>

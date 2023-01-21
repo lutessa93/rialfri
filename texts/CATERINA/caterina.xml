@@ -1,0 +1,2433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="CATERINA-caterina">Santa Caterina</title>
+                <title type="short">Santa Caterina</title>
+                <title type="sub">fine XIII-inizio XIV sec., Nord-Est</title>
+                <author xml:id="CATERINA" n="187.000">
+                    <persName type="main"></persName>
+                    <persName type="short"></persName>
+                </author>
+                <principal>Veronica Boarotto</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata</resp>
+                    <name>Veronica Boarotto</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale</resp>
+                    <name>Luigi Tessarolo</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><emph style="font-style:italic">Eine altfranzösische Fassung der Johanneslegende</emph> von Anton Huber - <emph style="font-style:italic">Eine gereimte altfranzösisch veronesische Fassung der Legende der heiligen Katharina von Alexandrien</emph>, mit Einleitun sprachlicher Untersuchung, Namenverzeichnis und Glossar nach Wendelin Foersters Abschrift der einzigen Pariser Arsenalhandschrift kritisch zum ersten Male herausgegeben von Hermann Breuer, Halle a.S., Niemeyer, 1919 («Beihefte zur Zeitschrift für romanische Philologie», LIII).</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t1"/>
+                <keywords>
+                    <term type="form">poetry</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <l xml:id="d001l1" n="1">De laiser les mauvais penser</l>
+                <l xml:id="d001l2" n="2">Ai pensé mainte fez à fer,</l>
+                <l xml:id="d001l3" n="3">Et quant jë unqes plus i pens,</l>
+                <l xml:id="d001l4" n="4">De tant m'i trois de menor sens;</l>
+                <l xml:id="d001l5" n="5">Car unqes ne poit trespaser</l>
+                <l xml:id="d001l6" n="6">Un jorn inter sanz malpenser.</l>
+                <l xml:id="d001l7" n="7">Mais orë ai un sens trové</l>
+                <l xml:id="d001l8" n="8">E l'ai huimés bien ezprové,</l>
+                <l xml:id="d001l9" n="9">Që altre conseil n'i a mais;</l>
+                <l xml:id="d001l10" n="10">Car quant ge voil tenir en pais,</l>
+                <l xml:id="d001l11" n="11">M'en convien penser malvaistez;</l>
+                <l xml:id="d001l12" n="12">Si pens de faire un bel ditez</l>
+                <l xml:id="d001l13" n="13">D'un bel exemple o d'une istorie,</l>
+                <l xml:id="d001l14" n="14">Qui toz jor mais est en memorie</l>
+                <l xml:id="d001l15" n="15">A ceus, qui la trovent escrite.</l>
+                <l xml:id="d001l16" n="16">Car quant une istorie est bien dite</l>
+                <l xml:id="d001l17" n="17">Et extreite de verité,</l>
+                <l xml:id="d001l18" n="18">Mult torne à grant utilité</l>
+                <l xml:id="d001l19" n="19">E à grant honor à maint home.</l>
+                <l xml:id="d001l20" n="20">Je vi à San Silvestre à Rome</l>
+                <l xml:id="d001l21" n="21">En un passional escrite</l>
+                <l xml:id="d001l22" n="22">La passion tota e la vite</l>
+                <l xml:id="d001l23" n="23">D'una sainte, qui puis a feit</l>
+                <l xml:id="d001l24" n="24">A ceus, à qi el ai retreit,</l>
+                <l xml:id="d001l25" n="25">Maint[e] grant consolacion.</l>
+                <l xml:id="d001l26" n="26">E por çe voil sa passion</l>
+                <l xml:id="d001l27" n="27">Reconter briément e sa vite,</l>
+                <l xml:id="d001l28" n="28">Si come ge la vi escrite</l>
+                <l xml:id="d001l29" n="29">El libre, qe je vos ai dit.</l>
+                <l xml:id="d001l30" n="30">Mais bien i a tel chose escrit,</l>
+                <l xml:id="d001l31" n="31">Qe [je] n'ai pensé de retraire,</l>
+                <l xml:id="d001l32" n="32">Qe trop me grevereit de faire.</l>
+                <l xml:id="d001l33" n="33">Mais si vos conterai briément</l>
+                <l xml:id="d001l34" n="34">La soa vita solement;</l>
+                <l xml:id="d001l35" n="35">Car tant cum l'estorie est plus breve,</l>
+                <l xml:id="d001l36" n="36">Si plaise plus et mens agreve.</l>
+                <l xml:id="d001l37" n="37">Asez avez oï pieça</l>
+                <l xml:id="d001l38" n="38">. . . . . . . . . . . . . . . . . . . . . . .</l>
+                <l xml:id="d001l39" n="39">La ley del novel testament</l>
+                <l xml:id="d001l40" n="40">E gi novelli ensegnament,</l>
+                <l xml:id="d001l41" n="41">Qe les apostres ensegnerent,</l>
+                <l xml:id="d001l42" n="42">Qui par le munde prehicherent.</l>
+                <l xml:id="d001l43" n="43">Fin taint qe Saint Silvestre vint,</l>
+                <l xml:id="d001l44" n="44">Qe la Cristinité mantint,</l>
+                <l xml:id="d001l45" n="45">Erent li saint martirïei,</l>
+                <l xml:id="d001l46" n="46">L'uns ars, l'autre crucifïei,</l>
+                <l xml:id="d001l47" n="47">L'uns escorchei e l'autre ocis,</l>
+                <l xml:id="d001l48" n="48">Qi batu, qi lïé, qi pris,</l>
+                <l xml:id="d001l49" n="49">L'autre occïeit hun autrement</l>
+                <l xml:id="d001l50" n="50">D'autre maunere d'entorment.</l>
+                <l xml:id="d001l51" n="51">Adunc les conveneit morir,</l>
+                <l xml:id="d001l52" n="52">Ausi cum vos poëz oïr:</l>
+                <l xml:id="d001l53" n="53">Qui ne voloit Deu reneier,</l>
+                <l xml:id="d001l54" n="54">Toz les faseit martirïer</l>
+                <l xml:id="d001l55" n="55">L'enperaor e toz oucire.</l>
+                <l xml:id="d001l56" n="56">Nus n'esteit, qi pëust desdire</l>
+                <l xml:id="d001l57" n="57">Zo, que l'enperaor diseit.</l>
+                <l xml:id="d001l58" n="58">Par totes les teres faseit</l>
+                <l xml:id="d001l59" n="59">Les saint cercier et demander,</l>
+                <l xml:id="d001l60" n="60">E faseit as reis comander,</l>
+                <l xml:id="d001l61" n="61">A consols et à poëstez,</l>
+                <l xml:id="d001l62" n="62">Qi estoient par les creez,</l>
+                <l xml:id="d001l63" n="63">Qe çascun feïst par sa terre</l>
+                <l xml:id="d001l64" n="64">Çercher les Cristïens et qerre</l>
+                <l xml:id="d001l65" n="65">Et puis les f[e]ïst à martire</l>
+                <l xml:id="d001l66" n="66">Toz morir et à glaive occire,</l>
+                <l xml:id="d001l67" n="67">Qe neguns mais n'en escanpasse,</l>
+                <l xml:id="d001l68" n="68">Qe Jhesu Crist ne renease.</l>
+                <l xml:id="d001l69" n="69">En cel tens, qe le vos a[i] dit,</l>
+                <l xml:id="d001l70" n="70">Si com[e] je trovai escrit</l>
+                <l xml:id="d001l71" n="71">El libre, qe je vi a Rome,</l>
+                <l xml:id="d001l72" n="72">Estait en Afriche un aut home,</l>
+                <l xml:id="d001l73" n="73">Riche et aut et de grant paraçe;</l>
+                <l xml:id="d001l74" n="74">E dit un, qe le sun lignaçe</l>
+                <l xml:id="d001l75" n="75">Fu de Rome ancïenement.</l>
+                <l xml:id="d001l76" n="76">De l'enperaor solement</l>
+                <l xml:id="d001l77" n="77">De Romë et Romans teneit</l>
+                <l xml:id="d001l78" n="78">Tute la tere, q'il aveit.</l>
+                <l xml:id="d001l79" n="79">Lo rei Cost avoit nom, ço dit</l>
+                <l xml:id="d001l80" n="80">Li libre, qe je vos ai dit.</l>
+                <l xml:id="d001l81" n="81">D'Alexandre estoit rois et sire,</l>
+                <l xml:id="d001l82" n="82">Et ancore oïrez vos dire</l>
+                <l xml:id="d001l83" n="83">A ceus, qi en cele cité</l>
+                <l xml:id="d001l84" n="84">Estunt et qi [i] hunt esté,</l>
+                <l xml:id="d001l85" n="85">Qe des le tens del roi Cost mais</l>
+                <l xml:id="d001l86" n="86">Ne fu si Alexandre en pais,</l>
+                <l xml:id="d001l87" n="87">Ne neguns [mais] raison mantient,</l>
+                <l xml:id="d001l88" n="88">Si com li rois Cost bien la tient.</l>
+                <l xml:id="d001l89" n="89">E së il fust rois cristians,</l>
+                <l xml:id="d001l90" n="90">Si cumme il estoit rois paians,</l>
+                <l xml:id="d001l91" n="91">Jamas ne fust besoin de querre</l>
+                <l xml:id="d001l92" n="92">Negum meilor prince de terre.</l>
+                <l xml:id="d001l93" n="93">Une fille avoit solement,</l>
+                <l xml:id="d001l94" n="94">Saige et cortoise estrainjement</l>
+                <l xml:id="d001l95" n="95">Et ensegnee et bien aprise.</l>
+                <l xml:id="d001l96" n="96">De savoir s'estoit entremise</l>
+                <l xml:id="d001l97" n="97">Les set arz et bien le[s] savoit.</l>
+                <l xml:id="d001l98" n="98">Toz les libres des arz avoit</l>
+                <l xml:id="d001l99" n="99">[E] toz les libres as Paiens.</l>
+                <l xml:id="d001l100" n="100">E puis le lei des Cristïens</l>
+                <l xml:id="d001l101" n="101">Avoit grant voluntez d'emprendre,</l>
+                <l xml:id="d001l102" n="102">Mes li rois la fasoit defendre.</l>
+                <l xml:id="d001l103" n="103">Dir[ë] et respondre saveit</l>
+                <l xml:id="d001l104" n="104">E tutes les vertuz aveit,</l>
+                <l xml:id="d001l105" n="105">Qe grant done devoit avoir:</l>
+                <l xml:id="d001l106" n="106">De cortesie et de savoir,</l>
+                <l xml:id="d001l107" n="107">De bien savoir joër et rire</l>
+                <l xml:id="d001l108" n="108">Et de beles paroles dire,</l>
+                <l xml:id="d001l109" n="109">Qi à dame se convenoient.</l>
+                <l xml:id="d001l110" n="110">Tutes les dones la venoient</l>
+                <l xml:id="d001l111" n="111">Vedir et oïr ad merveille.</l>
+                <l xml:id="d001l112" n="112">Et estoit freschë et vermeille,</l>
+                <l xml:id="d001l113" n="113">Blanche, colorie et riant,</l>
+                <l xml:id="d001l114" n="114">Graile, bien feite et avenant.</l>
+                <l xml:id="d001l115" n="115">Unques mais ne fu creature,</l>
+                <l xml:id="d001l116" n="116">Qi aüse tel aventure</l>
+                <l xml:id="d001l117" n="117">Ne tel grace, com' elle avoit,</l>
+                <l xml:id="d001l118" n="118">Qe de totes conses savoit:</l>
+                <l xml:id="d001l119" n="119">De tables, d'escas et d'autre[s] jeus,</l>
+                <l xml:id="d001l120" n="120">Savoit de latins et de greus,</l>
+                <l xml:id="d001l121" n="121">E si savoit si doucement</l>
+                <l xml:id="d001l122" n="122">Une arpe o un estrument</l>
+                <l xml:id="d001l123" n="123">O une violle soner</l>
+                <l xml:id="d001l124" n="124">Et sus e de soz entoner</l>
+                <l xml:id="d001l125" n="125">En la guige et en la vïelle.</l>
+                <l xml:id="d001l126" n="126">Et puis estoit vergen pulcelle;</l>
+                <l xml:id="d001l127" n="127">Pure, veraise, droite et fine</l>
+                <l xml:id="d001l128" n="128">Estoit; madame Catherine</l>
+                <l xml:id="d001l129" n="129">Avoit nom; quant ela naisi,</l>
+                <l xml:id="d001l130" n="130">Si la noma sa mere ensi;</l>
+                <l xml:id="d001l131" n="131">Unques mais ne li fu toleit.</l>
+                <l xml:id="d001l132" n="132">E li rois Cost bien le voloit,</l>
+                <l xml:id="d001l133" n="133">Q'elë ëust nom Catherine,</l>
+                <l xml:id="d001l134" n="134">Des qu'il plasoit à la raïne.</l>
+                <l xml:id="d001l135" n="135">Al tens que li rois Cost morit,</l>
+                <l xml:id="d001l136" n="136">Avoit l'enperaor escrit</l>
+                <l xml:id="d001l137" n="137">Au roi Cost et mandé da Rome,</l>
+                <l xml:id="d001l138" n="138">Q'il gardast bien, qu'en negun home</l>
+                <l xml:id="d001l139" n="139">Soe fille nen mariast;</l>
+                <l xml:id="d001l140" n="140">A lui solement la gardast,</l>
+                <l xml:id="d001l141" n="141">Car por sa muller la prendroit</l>
+                <l xml:id="d001l142" n="142">E por le solement vendroit</l>
+                <l xml:id="d001l143" n="143">En Alexandre cort tenir.</l>
+                <l xml:id="d001l144" n="144">E fasoit les Romans venir</l>
+                <l xml:id="d001l145" n="145">E[n] la cort e avoit mandé</l>
+                <l xml:id="d001l146" n="146">Par ses letres et comandé</l>
+                <l xml:id="d001l147" n="147">Par tutes le[s] teres del mond,</l>
+                <l xml:id="d001l148" n="148">Qi el destroit de Rome sunt,</l>
+                <l xml:id="d001l149" n="149">Qe de cascune tere vegnent</l>
+                <l xml:id="d001l150" n="150">Cevalers, qi la cort maintegnent,</l>
+                <l xml:id="d001l151" n="151">E çascun qe face present</l>
+                <l xml:id="d001l152" n="152">Por les deus espicialment</l>
+                <l xml:id="d001l153" n="153">Servir et par eus onorer;</l>
+                <l xml:id="d001l154" n="154">Car il les veut fairë orer</l>
+                <l xml:id="d001l155" n="155">À ceus, qui seront à la cort.</l>
+                <l xml:id="d001l156" n="156">N'i sera nus, qui nes aort</l>
+                <l xml:id="d001l157" n="157">Et qui [n]e lor face service</l>
+                <l xml:id="d001l158" n="158">O d'oferte o de sacrefise.</l>
+                <l xml:id="d001l159" n="159">Et il i fait bestes venir,</l>
+                <l xml:id="d001l160" n="160">Q'il meesme voldra tenir</l>
+                <l xml:id="d001l161" n="161">À ses deus et sacrifïer.</l>
+                <l xml:id="d001l162" n="162">E veut faire martirïer</l>
+                <l xml:id="d001l163" n="163">Cristïens et lor ley destruire</l>
+                <l xml:id="d001l164" n="164">. . . . . . . . . . . . . . . . . . . . . . .</l>
+                <l xml:id="d001l165" n="165">Et ne veut, q'il soit negun home,</l>
+                <l xml:id="d001l166" n="166">Qi ne teigne la ley de Rome.</l>
+                <l xml:id="d001l167" n="167">Ainz que ceste cort se tenist</l>
+                <l xml:id="d001l168" n="168">Et qe l'emperaor venist,</l>
+                <l xml:id="d001l169" n="169">Un an enter et plus, çeo coit,</l>
+                <l xml:id="d001l170" n="170">Oit li rois Cost mal et morit;</l>
+                <l xml:id="d001l171" n="171">Mais le jor, që il trespasa,</l>
+                <l xml:id="d001l172" n="172">Par davant ses barons laissa</l>
+                <l xml:id="d001l173" n="173">Sa terre en garde à la raïne.</l>
+                <l xml:id="d001l174" n="174">Et à sa file Caterine</l>
+                <l xml:id="d001l175" n="175">Dist, quant l'enpereor vendroit,</l>
+                <l xml:id="d001l176" n="176">Së il par moiler la vodroit,</l>
+                <l xml:id="d001l177" n="177">Qe le preïst alegrement;</l>
+                <l xml:id="d001l178" n="178">Qe ne poroit plus autement</l>
+                <l xml:id="d001l179" n="179">Estre marïé' à nul home</l>
+                <l xml:id="d001l180" n="180">Që à l'enperaor de Rome.</l>
+                <l xml:id="d001l181" n="181">El respondi, q'ele faroit</l>
+                <l xml:id="d001l182" n="182">Volunters ce, que li plasoit,</l>
+                <l xml:id="d001l183" n="183">E ce, qe voldroit la reïne</l>
+                <l xml:id="d001l184" n="184">E ses amis en cel termine.</l>
+                <l xml:id="d001l185" n="185">An Alixandre la cité</l>
+                <l xml:id="d001l186" n="186">Avoient ja luen tens esté</l>
+                <l xml:id="d001l187" n="187">Crestïens ancïenemant;</l>
+                <l xml:id="d001l188" n="188">E tenoient l'enseignement,</l>
+                <l xml:id="d001l189" n="189">Qe les apostres enseignerent,</l>
+                <l xml:id="d001l190" n="190">Qi par le munde prehicherent.</l>
+                <l xml:id="d001l191" n="191">E devendront bian le Paien</l>
+                <l xml:id="d001l192" n="192">En Alexandre Cristïen.</l>
+                <l xml:id="d001l193" n="193">E avoient iglises lores,</l>
+                <l xml:id="d001l194" n="194">E patriarche unt il ancores,</l>
+                <l xml:id="d001l195" n="195">Bien saint home et bien chatoliche,</l>
+                <l xml:id="d001l196" n="196">À qi les Cristïens d'Aufriche</l>
+                <l xml:id="d001l197" n="197">E clers e prestes, qi là sunt,</l>
+                <l xml:id="d001l198" n="198">Encor li mostrent e li funt</l>
+                <l xml:id="d001l199" n="199">Grand reverance e grant honor,</l>
+                <l xml:id="d001l200" n="200">Si cum' à peire et à seignor.</l>
+                <l xml:id="d001l201" n="201">Qant Catherine aprenoit letre,</l>
+                <l xml:id="d001l202" n="202">Si se voloit molt entremetre</l>
+                <l xml:id="d001l203" n="203">De saveir de divinité.</l>
+                <l xml:id="d001l204" n="204">Un preste estoit en la cité,</l>
+                <l xml:id="d001l205" n="205">Boin home et bone creature</l>
+                <l xml:id="d001l206" n="206">Et entendoit bien Escriture</l>
+                <l xml:id="d001l207" n="207">Divine et buenz librez avoit.</l>
+                <l xml:id="d001l208" n="208">Mostrer et enseigner savoit</l>
+                <l xml:id="d001l209" n="209">Estrangement et bie[n] a[u]trui;</l>
+                <l xml:id="d001l210" n="210">Cristïens aloient à lui</l>
+                <l xml:id="d001l211" n="211">Por entendre de la Scriture;</l>
+                <l xml:id="d001l212" n="212">E avoit strangë aventure</l>
+                <l xml:id="d001l213" n="213">En la tere, qe li Paien</l>
+                <l xml:id="d001l214" n="214">L'amoient e li Cristïen.</l>
+                <l xml:id="d001l215" n="215">Defors de[s] murs de la cité</l>
+                <l xml:id="d001l216" n="216">S'estoit iloques aresté</l>
+                <l xml:id="d001l217" n="217">En une glise solitaire,</l>
+                <l xml:id="d001l218" n="218">Qe fist ancïenement faire</l>
+                <l xml:id="d001l219" n="219">Saint Joan, qi fu patriarche.</l>
+                <l xml:id="d001l220" n="220">Et encore est illoques l'arche,</l>
+                <l xml:id="d001l221" n="221">O il fu mis, quant il fu mort.</l>
+                <l xml:id="d001l222" n="222">Une cortexelle et un ort</l>
+                <l xml:id="d001l223" n="223">Et une povre maxoncele</l>
+                <l xml:id="d001l224" n="224">Avoit à pié de la capele,</l>
+                <l xml:id="d001l225" n="225">O le bone home se vivoit.</l>
+                <l xml:id="d001l226" n="226">Negune autre richez' avoit</l>
+                <l xml:id="d001l227" n="227">Fors tant, qe li faroient bien</l>
+                <l xml:id="d001l228" n="228">Talore toit le Cristïen,</l>
+                <l xml:id="d001l229" n="229">Qi aloient à la zapelle,</l>
+                <l xml:id="d001l230" n="230">Qi à merveilles estoit belle.</l>
+                <l xml:id="d001l231" n="231">Dedenz avoit une peture,</l>
+                <l xml:id="d001l232" n="232">Qi representoit la faiture</l>
+                <l xml:id="d001l233" n="233">De madame Sante Marie;</l>
+                <l xml:id="d001l234" n="234">Mais nul home ne deïst mie,</l>
+                <l xml:id="d001l235" n="235">Q'ela fust onqes à mains fate,</l>
+                <l xml:id="d001l236" n="236">Si estoit soutilment portraite.</l>
+                <l xml:id="d001l237" n="237">E li fatures estoit si faiz</l>
+                <l xml:id="d001l238" n="238">E si tailez e si portraiz,</l>
+                <l xml:id="d001l239" n="239">Që il estoit à toz ceus vis,</l>
+                <l xml:id="d001l240" n="240">Q'ele fut faite en paravis.</l>
+                <l xml:id="d001l241" n="241">Lor vint madame Catherine</l>
+                <l xml:id="d001l242" n="242">Par le cunjé de le raïne</l>
+                <l xml:id="d001l243" n="243">O autres pulceles al preste,</l>
+                <l xml:id="d001l244" n="244">A la glise, o il soleit estre,</l>
+                <l xml:id="d001l245" n="245">Davant sa cele, o il esteit;</l>
+                <l xml:id="d001l246" n="246">Car nulle autre ovre faseit</l>
+                <l xml:id="d001l247" n="247">Fors orer et libres tenir.</l>
+                <l xml:id="d001l248" n="248">Quant il vit la dame venir,</l>
+                <l xml:id="d001l249" n="249">Si la salue bonement</l>
+                <l xml:id="d001l250" n="250">E la reçoit cortoisement.</l>
+                <l xml:id="d001l251" n="251">La dame dist, së il voldroit</l>
+                <l xml:id="d001l252" n="252">Ensegner, që elle vendroit</l>
+                <l xml:id="d001l253" n="253">Enprendre çascun jor de lui,</l>
+                <l xml:id="d001l254" n="254">Si cum' il ensegnoit autrui.</l>
+                <l xml:id="d001l255" n="255">Mult en poroit grant preu avoir,</l>
+                <l xml:id="d001l256" n="256">S'ele poroit par lui savoir</l>
+                <l xml:id="d001l257" n="257">E par le suin enseignement,</l>
+                <l xml:id="d001l258" n="258">Par art o par espiriment,</l>
+                <l xml:id="d001l259" n="259">Q'ele sëust unques prover,</l>
+                <l xml:id="d001l260" n="260">Par quoi ele poüst trover</l>
+                <l xml:id="d001l261" n="261">Tel mari, cum' ele voudroit.</l>
+                <l xml:id="d001l262" n="262">Jamés por mari ne prendroit</l>
+                <l xml:id="d001l263" n="263">Jor de sa vie negun home,</l>
+                <l xml:id="d001l264" n="264">S'il fust l'enpereor de Rome,</l>
+                <l xml:id="d001l265" n="265">Qi ne fust biaus et pruz et saçe</l>
+                <l xml:id="d001l266" n="266">E cortois et de grant lignaçe,</l>
+                <l xml:id="d001l267" n="267">«Et qi ne me feïst segure,</l>
+                <l xml:id="d001l268" n="268">Qe d'autre dame n'avroit cure</l>
+                <l xml:id="d001l269" n="269">Si de moi non, ne d'autre amie,</l>
+                <l xml:id="d001l270" n="270">Qe je nel sofriroie mie.</l>
+                <l xml:id="d001l271" n="271">Et encor voldroie savoir,</l>
+                <l xml:id="d001l272" n="272">S'il devroit longe vite avoir;</l>
+                <l xml:id="d001l273" n="273">Car s'il dëust morir si tost,</l>
+                <l xml:id="d001l274" n="274">Cun fist mun pere, le rois Cost,</l>
+                <l xml:id="d001l275" n="275">Qi mori, quant il plus saveit</l>
+                <l xml:id="d001l276" n="276">E quant il meilor seigle avoit,</l>
+                <l xml:id="d001l277" n="277">E [qi] ma mere, la reïne,</l>
+                <l xml:id="d001l278" n="278">Laisa veve et moy orfanine,</l>
+                <l xml:id="d001l279" n="279">Qe devroie ge devenir?</l>
+                <l xml:id="d001l280" n="280">Qi devroit ma terre tenir?</l>
+                <l xml:id="d001l281" n="281">Qe me valdroit mais ma richece,</l>
+                <l xml:id="d001l282" n="282">Qe jamais n'avrai alegrece?</l>
+                <l xml:id="d001l283" n="283">E por ce soy venue à vos,</l>
+                <l xml:id="d001l284" n="284">Por veoir et conostre vos.</l>
+                <l xml:id="d001l285" n="285">E si vos voil encor proier,</l>
+                <l xml:id="d001l286" n="286">Qe tolez de moy bon loier,</l>
+                <l xml:id="d001l287" n="287">Car ge vos donrai largement.</l>
+                <l xml:id="d001l288" n="288">E demandez sëurement:</l>
+                <l xml:id="d001l289" n="289">Ja ne sera le don si grant,</l>
+                <l xml:id="d001l290" n="290">Si ge l'ai tel, com ge demant,</l>
+                <l xml:id="d001l291" n="291">Je vos ferai devenir rice</l>
+                <l xml:id="d001l292" n="292">Plus de nul Cristïen d'Aufrice.»</l>
+                <l xml:id="d001l293" n="293">Li prestes li a respondu:</l>
+                <l xml:id="d001l294" n="294">«Madame, g' ai bien entendu</l>
+                <l xml:id="d001l295" n="295">Vos paroles, et soutilment</l>
+                <l xml:id="d001l296" n="296">Vos demandez ensagnament,</l>
+                <l xml:id="d001l297" n="297">Par qoi vos po[ü]ss[i]ez savoir,</l>
+                <l xml:id="d001l298" n="298">Quel mari vos devez avoir.</l>
+                <l xml:id="d001l299" n="299">E demandez ausi, por voir,</l>
+                <l xml:id="d001l300" n="300">O vos le poüssiez trovoir</l>
+                <l xml:id="d001l301" n="301">Tel, qi fust à vestre talent;</l>
+                <l xml:id="d001l302" n="302">E me donrïez largement.</l>
+                <l xml:id="d001l303" n="303">Done, ge ne sai negun home</l>
+                <l xml:id="d001l304" n="304">Ne negun philosophe à Rome,</l>
+                <l xml:id="d001l305" n="305">Qe si saçe philosophia,</l>
+                <l xml:id="d001l306" n="306">Nigramance ne stronomia,</l>
+                <l xml:id="d001l307" n="307">Ne le[s] set arz, cum vos savez;</l>
+                <l xml:id="d001l308" n="308">E toz les libres en avez;</l>
+                <l xml:id="d001l309" n="309">Et est par tot lo mund allee</l>
+                <l xml:id="d001l310" n="310">De vostre sens la renomee;</l>
+                <l xml:id="d001l311" n="311">E par vostre senz ne poëz</l>
+                <l xml:id="d001l312" n="312">Ço trover, qe vos demandez,</l>
+                <l xml:id="d001l313" n="313">E savez tant! - Or saciez bien,</l>
+                <l xml:id="d001l314" n="314">Qe le vostre sens n'en vaut rien.</l>
+                <l xml:id="d001l315" n="315">Je ne voil ja cel sens avoir,</l>
+                <l xml:id="d001l316" n="316">Qi au besong perd lo savoir.</l>
+                <l xml:id="d001l317" n="317">Dame, se vos volez entandre,</l>
+                <l xml:id="d001l318" n="318">Je croi, qe vos porez aprandre</l>
+                <l xml:id="d001l319" n="319">Ço, qe vos demandez, ici.</l>
+                <l xml:id="d001l320" n="320">Veez vos ceste dame ci,</l>
+                <l xml:id="d001l321" n="321">Qe tent son fiz entre ses braiz?</l>
+                <l xml:id="d001l322" n="322">El fu dame de grant solaz</l>
+                <l xml:id="d001l323" n="323">E molt a en cest seigle ëu</l>
+                <l xml:id="d001l324" n="324">Tot ço, qi bon li a sëu.</l>
+                <l xml:id="d001l325" n="325">Cest enfant oit d'un su mari,</l>
+                <l xml:id="d001l326" n="326">Qi unqes mais ne li mori</l>
+                <l xml:id="d001l327" n="327">Ne qe ja mais ne li morra.</l>
+                <l xml:id="d001l328" n="328">Sacez, qi à li se tornera,</l>
+                <l xml:id="d001l329" n="329">Ja ne sera si esmaiez,</l>
+                <l xml:id="d001l330" n="330">Q'il ne soit alo' conseilez.</l>
+                <l xml:id="d001l331" n="331">Si vos li volez faire honor,</l>
+                <l xml:id="d001l332" n="332">Là davant ses piez çascun jor</l>
+                <l xml:id="d001l333" n="333">Trois veines sor cel paviment</l>
+                <l xml:id="d001l334" n="334">E puis li dites humlement:</l>
+                <l xml:id="d001l335" n="335">"Dama, je sui venue ci</l>
+                <l xml:id="d001l336" n="336">À voz peiz e vos clam merci,</l>
+                <l xml:id="d001l337" n="337">Qi estes dame de pieté;</l>
+                <l xml:id="d001l338" n="338">Ne gardez à ma malvaistié</l>
+                <l xml:id="d001l339" n="339">Ne à pecei, qi en moy soit.</l>
+                <l xml:id="d001l340" n="340">Ço, qe je qeir, qe qe ço soit,</l>
+                <l xml:id="d001l341" n="341">Qe je voil et qe j'ai en cuer,</l>
+                <l xml:id="d001l342" n="342">M'otroiez, car gel vos reqier.</l>
+                <l xml:id="d001l343" n="343">Virgine, dame Sante Marie,</l>
+                <l xml:id="d001l344" n="344">Dame, à bon mari me marie !"</l>
+                <l xml:id="d001l345" n="345">E puis direz un suen salu,</l>
+                <l xml:id="d001l346" n="346">Qi toz dis li a bon sëu,</l>
+                <l xml:id="d001l347" n="347">Si come jel vos escrirai</l>
+                <l xml:id="d001l348" n="348">E bien le vos ensegnerai.»</l>
+                <l xml:id="d001l349" n="349">Caterine li respondit:</l>
+                <l xml:id="d001l350" n="350">«Sire, ço qe vos avez dit,</l>
+                <l xml:id="d001l351" n="351">Ço ferai [je] trop volunters.</l>
+                <l xml:id="d001l352" n="352">J'ai or e argent e deners,</l>
+                <l xml:id="d001l353" n="353">Saphirs e [e]smeraudes biaus,</l>
+                <l xml:id="d001l354" n="354">Rubins, diamanz e aqais</l>
+                <l xml:id="d001l355" n="355">[E] smargarites e centures</l>
+                <l xml:id="d001l356" n="356">. . . . . . . . . . . . . . . . . . . . . .</l>
+                <l xml:id="d001l357" n="357">Da samit e de soie à or.</l>
+                <l xml:id="d001l358" n="358">Et autres joies ai ancor'</l>
+                <l xml:id="d001l359" n="359">Asez e autres joies tant:</l>
+                <l xml:id="d001l360" n="360">Tote Alexandre ne vaut tant.</l>
+                <l xml:id="d001l361" n="361">Tot li sera abandoné</l>
+                <l xml:id="d001l362" n="362">Et en tot son comant doné</l>
+                <l xml:id="d001l363" n="363">Et ancor plus, s'ele fai[t] tant,</l>
+                <l xml:id="d001l364" n="364">Qe j'aie ço, qe je demant.»</l>
+                <l xml:id="d001l365" n="365">«Belle fille, dist li buen home,</l>
+                <l xml:id="d001l366" n="366">Je vos dirai briément la some:</l>
+                <l xml:id="d001l367" n="367">Ceste dame, sacez de voir,</l>
+                <l xml:id="d001l368" n="368">El n'a cure del vostre avoir.</l>
+                <l xml:id="d001l369" n="369">Ele est raïne coronee,</l>
+                <l xml:id="d001l370" n="370">Sor totes dames honoree.</l>
+                <l xml:id="d001l371" n="371">Et est dame de tot lo mond</l>
+                <l xml:id="d001l372" n="372">E de[s] richeces, qi i sont.</l>
+                <l xml:id="d001l373" n="373">El n'a cure d'argent ne d'or,</l>
+                <l xml:id="d001l374" n="374">Einz est done de grant tresor</l>
+                <l xml:id="d001l375" n="375">E done del so largement.»</l>
+                <l xml:id="d001l376" n="376">Lor se jeta el paviment</l>
+                <l xml:id="d001l377" n="377">Caterina ses venies fist,</l>
+                <l xml:id="d001l378" n="378">Si come li prestes li dist.</l>
+                <l xml:id="d001l379" n="379">Le salu lë ai ensegnei,</l>
+                <l xml:id="d001l380" n="380">E puis prist del preste conjei.</l>
+                <l xml:id="d001l381" n="381">O ses pulçeles s'en repaire</l>
+                <l xml:id="d001l382" n="382">E comence grant joie à faire</l>
+                <l xml:id="d001l383" n="383">E grant legreçë à mener.</l>
+                <l xml:id="d001l384" n="384">Çascun jor se fasoit mener</l>
+                <l xml:id="d001l385" n="385">A la capelle, o il faseit</l>
+                <l xml:id="d001l386" n="386">Les tres veines e puis deseit</l>
+                <l xml:id="d001l387" n="387">L'oreison, que le preste dist.</l>
+                <l xml:id="d001l388" n="388">Un an conplïement le fist</l>
+                <l xml:id="d001l389" n="389">As pez de l'auter cascun jour,</l>
+                <l xml:id="d001l390" n="390">Des qe tant qe l'enpereor</l>
+                <l xml:id="d001l391" n="391">Manda por aprester la cort</l>
+                <l xml:id="d001l392" n="392">E comanda, qe l'om s'adorn</l>
+                <l xml:id="d001l393" n="393">De robes e de vestëures</l>
+                <l xml:id="d001l394" n="394">E de noveles armëures.</l>
+                <l xml:id="d001l395" n="395">De destrer[s] e de palafroinz,</l>
+                <l xml:id="d001l396" n="396">De viandes e de vin froiz,</l>
+                <l xml:id="d001l397" n="397">De cars fresches e veneisons,</l>
+                <l xml:id="d001l398" n="398">Grues e jantes e paons,</l>
+                <l xml:id="d001l399" n="399">Capons e osiaus de rivere,</l>
+                <l xml:id="d001l400" n="400">Qe la cort soit tute plenere,</l>
+                <l xml:id="d001l401" n="401">E de fazan e de pernis,</l>
+                <l xml:id="d001l402" n="402">«Tant qe vos soiez [bien] guarniz.</l>
+                <l xml:id="d001l403" n="403">Galines e oues i soit tant,</l>
+                <l xml:id="d001l404" n="404">Q'en [nul] leu n'en veïstes tant.</l>
+                <l xml:id="d001l405" n="405">Fien e avoine e biaus osteus,</l>
+                <l xml:id="d001l406" n="406">Buen feu, biaus liz e les manteus,</l>
+                <l xml:id="d001l407" n="407">Come li cevaler voldroi[en]t</l>
+                <l xml:id="d001l408" n="408">E ceus, qi à la cort vendroi[en]t.</l>
+                <l xml:id="d001l409" n="409">Les palais faites atorner</l>
+                <l xml:id="d001l410" n="410">Por l'enperaor sojorner</l>
+                <l xml:id="d001l411" n="411">E les çambres encortinees</l>
+                <l xml:id="d001l412" n="412">De rices cortines ovrees.</l>
+                <l xml:id="d001l413" n="413">Par les palais soient dreçez</l>
+                <l xml:id="d001l414" n="414">Les deis e les bans adreceiz</l>
+                <l xml:id="d001l415" n="415">E covert de rices mantius</l>
+                <l xml:id="d001l416" n="416">Blans e lavez e bian soutius.</l>
+                <l xml:id="d001l417" n="417">Puis seit bien coverte la voie</l>
+                <l xml:id="d001l418" n="418">De tapiz e de drabs de soie</l>
+                <l xml:id="d001l419" n="419">E d'escarlates bien vermeiles,</l>
+                <l xml:id="d001l420" n="420">Qe toz ezgardent à merveiles,</l>
+                <l xml:id="d001l421" n="421">Par unc Caterina vendra,</l>
+                <l xml:id="d001l422" n="422">Quant l'emperaor la prendra.</l>
+                <l xml:id="d001l423" n="423">Qatre colones soient feites,</l>
+                <l xml:id="d001l424" n="424">Sotilment paintes e portreites,</l>
+                <l xml:id="d001l425" n="425">Bien polies e adreçees</l>
+                <l xml:id="d001l426" n="426">. . . . . . . . . . . . . . . . . . . . . . . .</l>
+                <l xml:id="d001l427" n="427">E ez quatre colones mises</l>
+                <l xml:id="d001l428" n="428">Rices peres en or asisses,</l>
+                <l xml:id="d001l429" n="429">Rubins, carboncles bien luisant</l>
+                <l xml:id="d001l430" n="430">E clers plus qe nus feu ardant:</l>
+                <l xml:id="d001l431" n="431">Qi les voudra veoir de loing,</l>
+                <l xml:id="d001l432" n="432">N'i soit d'autre lume besoing.</l>
+                <l xml:id="d001l433" n="433">Un faudestorie sera de sus,</l>
+                <l xml:id="d001l434" n="434">Là u Jupiter e Venus</l>
+                <l xml:id="d001l435" n="435">E les autres deus esteront,</l>
+                <l xml:id="d001l436" n="436">Tant cum les noces dureront.</l>
+                <l xml:id="d001l437" n="437">Çascuns des deus sera vestu</l>
+                <l xml:id="d001l438" n="438">D'un drap de soie à or batu.</l>
+                <l xml:id="d001l439" n="439">Puis serunt si, qe l'en les voie,</l>
+                <l xml:id="d001l440" n="440">Covert de sus d'un drap de soie.</l>
+                <l xml:id="d001l441" n="441">As piez des colones sera</l>
+                <l xml:id="d001l442" n="442">Uns auters, hon l'en ofrera</l>
+                <l xml:id="d001l443" n="443">Toz les sacrifisses as deus.</l>
+                <l xml:id="d001l444" n="444">E sera covert li auteus</l>
+                <l xml:id="d001l445" n="445">D'un grant samit à or toz frois</l>
+                <l xml:id="d001l446" n="446">E de bele liste à orfrois.</l>
+                <l xml:id="d001l447" n="447">Aprés l'auters soront li preste,</l>
+                <l xml:id="d001l448" n="448">Qi poir raison i doivent estre</l>
+                <l xml:id="d001l449" n="449">A sacrifises receveir,</l>
+                <l xml:id="d001l450" n="450">E si faront as deus saveir,</l>
+                <l xml:id="d001l451" n="451">Qi ert, qi plus les honora.</l>
+                <l xml:id="d001l452" n="452">L'enpereor les aora</l>
+                <l xml:id="d001l453" n="453">Primerament e la reïne;</l>
+                <l xml:id="d001l454" n="454">Aprés madame Caterine;</l>
+                <l xml:id="d001l455" n="455">Aprés les aoront Romains,</l>
+                <l xml:id="d001l456" n="456">Qi duvent estre primerains;</l>
+                <l xml:id="d001l457" n="457">Aprés les Romains aoront</l>
+                <l xml:id="d001l458" n="458">Les rois, qi à la cort seront</l>
+                <l xml:id="d001l459" n="459">Venuz por faire as deus honor.</l>
+                <l xml:id="d001l460" n="460">Puis se leveront li gregnor,</l>
+                <l xml:id="d001l461" n="461">Si cumme il seient par les leus,</l>
+                <l xml:id="d001l462" n="462">Toz vendront adorer les deus;</l>
+                <l xml:id="d001l463" n="463">Puis li pople comunalment.</l>
+                <l xml:id="d001l464" n="464">Tut devront espicialment</l>
+                <l xml:id="d001l465" n="465">Faire as deus don espicial:</l>
+                <l xml:id="d001l466" n="466">Qi pors salvaje, qi ceval,</l>
+                <l xml:id="d001l467" n="467">Qi de cameil, qi d'elifant.</l>
+                <l xml:id="d001l468" n="468">La povre gent e li enfant</l>
+                <l xml:id="d001l469" n="469">Hi portirunt ozias toz vis</l>
+                <l xml:id="d001l470" n="470">Segont ço, qe lor ert [av]is,</l>
+                <l xml:id="d001l471" n="471">Që il poront plus honorer</l>
+                <l xml:id="d001l472" n="472">Les deus, q'il devront aorer.» -</l>
+                <l xml:id="d001l473" n="473">E fist mander à la reïna,</l>
+                <l xml:id="d001l474" n="474">Qe vestis dama Caterina</l>
+                <l xml:id="d001l475" n="475">De rices draps enperiaus.</l>
+                <l xml:id="d001l476" n="476">Una de[s] corones riaus</l>
+                <l xml:id="d001l477" n="477">Feïst poler e atorner;</l>
+                <l xml:id="d001l478" n="478">Car quant il la voldra mener,</l>
+                <l xml:id="d001l479" n="479">Si voldra, q'el soit atornee</l>
+                <l xml:id="d001l480" n="480">Come roïne coronee.</l>
+                <l xml:id="d001l481" n="481">E[n] pui de tens fu [tot] ce fait,</l>
+                <l xml:id="d001l482" n="482">Q'eo vos ai ici retrait;</l>
+                <l xml:id="d001l483" n="483">Unqes de rien ne fu mespris,</l>
+                <l xml:id="d001l484" n="484">Si cumme g' ai el libre apris.</l>
+                <l xml:id="d001l485" n="485">Ainz qe se tenist la cort,</l>
+                <l xml:id="d001l486" n="486">N'i a negun, qi ne s'atort</l>
+                <l xml:id="d001l487" n="487">De ce, q'avoir li estoveit,</l>
+                <l xml:id="d001l488" n="488">Çascuns segunt ce, q' il poeit.</l>
+                <l xml:id="d001l489" n="489">Li rice li font ricement,</l>
+                <l xml:id="d001l490" n="490">E li autre font autrement:</l>
+                <l xml:id="d001l491" n="491">Çascuns s'apresta à son po[o]ir</l>
+                <l xml:id="d001l492" n="492">E segunt ce, q'est li pooir.</l>
+                <l xml:id="d001l493" n="493">Qe çascuns ha, si fait cascum,</l>
+                <l xml:id="d001l494" n="494">Et encor plus hi fait auquns;</l>
+                <l xml:id="d001l495" n="495">Car il enporta autrui avoir</l>
+                <l xml:id="d001l496" n="496">D'autr[u]i por los e preis avoir.</l>
+                <l xml:id="d001l497" n="497">Per mar e par tere venoient</l>
+                <l xml:id="d001l498" n="498">Les princes, qi semons estoient,</l>
+                <l xml:id="d001l499" n="499">Rois e marchis, contes et dux,</l>
+                <l xml:id="d001l500" n="500">Ne n'i onse remandre nus.</l>
+                <l xml:id="d001l501" n="501">Baron, castelein, vavesor,</l>
+                <l xml:id="d001l502" n="502">Tuit veinent à l'enperaor,</l>
+                <l xml:id="d001l503" n="503">Cevalers, borçeis, poëstez</l>
+                <l xml:id="d001l504" n="504">De bors, de villes, de citez,</l>
+                <l xml:id="d001l505" n="505">Hoil iuent oi li manda,</l>
+                <l xml:id="d001l506" n="506">Si cum l'enperaor comanda.</l>
+                <l xml:id="d001l507" n="507">Les marascaus vont par le tere:</l>
+                <l xml:id="d001l508" n="508">À ceus, qi vont les hosteus qerre,</l>
+                <l xml:id="d001l509" n="509">Les font livrer alegrement</l>
+                <l xml:id="d001l510" n="510">Segont ce, que cascun a çent.</l>
+                <l xml:id="d001l511" n="511">Li pains, la çars, les venesons,</l>
+                <l xml:id="d001l512" n="512">Les galines e les capons,</l>
+                <l xml:id="d001l513" n="513">Le fein, l'aveine est en la place,</l>
+                <l xml:id="d001l514" n="514">N'i e, qi livrexon en face:</l>
+                <l xml:id="d001l515" n="515">Çascuns des escuërs en prent,</l>
+                <l xml:id="d001l516" n="516">Tant come il veut à so talent.</l>
+                <l xml:id="d001l517" n="517">Par les hostés prenent le vin;</l>
+                <l xml:id="d001l518" n="518">La sal, lo poivre e le comin</l>
+                <l xml:id="d001l519" n="519">Lor fait un par les osteius traire</l>
+                <l xml:id="d001l520" n="520">. . . . . . . . . . . . . . . . . . . . .</l>
+                <l xml:id="d001l521" n="521">Çascun i a ce, që il veut.</l>
+                <l xml:id="d001l522" n="522">Bien dit hum, c'onqes mais ne seut</l>
+                <l xml:id="d001l523" n="523">L'enperaor tel cort tenir.</l>
+                <l xml:id="d001l524" n="524">Ne ne virent mais avenir,</l>
+                <l xml:id="d001l525" n="525">C'à cort ne fust tancei crïé,</l>
+                <l xml:id="d001l526" n="526">Mais tot est si en pais livré,</l>
+                <l xml:id="d001l527" n="527">Qe nus ne crie ne ni tence.</l>
+                <l xml:id="d001l528" n="528">Ec vos l'enperaor Mazenco</l>
+                <l xml:id="d001l529" n="529">E le[s] Romains, qi [o] lui veinent;</l>
+                <l xml:id="d001l530" n="530">Plus d'une grant jorne[e] teinent</l>
+                <l xml:id="d001l531" n="531">Les bestes, që [i]l font mener,</l>
+                <l xml:id="d001l532" n="532">Qi il volient as deus doner.</l>
+                <l xml:id="d001l533" n="533">Par les terres, par les marines</l>
+                <l xml:id="d001l534" n="534">Oïriez tubes e boisines,</l>
+                <l xml:id="d001l535" n="535">Tanbur soner e cornaor</l>
+                <l xml:id="d001l536" n="536">Corner aut e flaüteor</l>
+                <l xml:id="d001l537" n="537">Faire son e le cri si grant,</l>
+                <l xml:id="d001l538" n="538">Q'on n'i oïst pas Deo tonant.</l>
+                <l xml:id="d001l539" n="539">Sele nuit sunt bien herbegei.</l>
+                <l xml:id="d001l540" n="540">Quant l'enperaor oit mangei,</l>
+                <l xml:id="d001l541" n="541">Si mande dire à la reïne,</l>
+                <l xml:id="d001l542" n="542">Q'ele fist dame Caterine</l>
+                <l xml:id="d001l543" n="543">Le maitin par tens atorner,</l>
+                <l xml:id="d001l544" n="544">Por ce, q'il ne puet sojorner</l>
+                <l xml:id="d001l545" n="545">Në estre en la terre lonc tens,</l>
+                <l xml:id="d001l546" n="546">Si la face aprestrer par tens;</l>
+                <l xml:id="d001l547" n="547">Car il est de prendrë aprest.</l>
+                <l xml:id="d001l548" n="548">Et elle meesme s'aprest</l>
+                <l xml:id="d001l549" n="549">Por les deus demain honorer;</l>
+                <l xml:id="d001l550" n="550">Bien est, qe çascun de samair</l>
+                <l xml:id="d001l551" n="551">Lor face dons et sacrifize:</l>
+                <l xml:id="d001l552" n="552">Cil, qi a[s] deus no fait servize,</l>
+                <l xml:id="d001l553" n="553">Quant il avra des deus besoing,</l>
+                <l xml:id="d001l554" n="554">Ja li deus n'avront de lui soing.</l>
+                <l xml:id="d001l555" n="555">La reïne lor respondit:</l>
+                <l xml:id="d001l556" n="556">De ce, qe l'enperaor dit,</l>
+                <l xml:id="d001l557" n="557">À grant honor e à grant grace</l>
+                <l xml:id="d001l558" n="558">Le teint mult et si le regrace.</l>
+                <l xml:id="d001l559" n="559">«Ma fille sera bien vestue</l>
+                <l xml:id="d001l560" n="560">Tote de soie à or batue</l>
+                <l xml:id="d001l561" n="561">E de robes inperiaus.</l>
+                <l xml:id="d001l562" n="562">Et est la coroine reiaus,</l>
+                <l xml:id="d001l563" n="563">Dont ele sera coronee,</l>
+                <l xml:id="d001l564" n="564">Qi fu en un tresor trovee</l>
+                <l xml:id="d001l565" n="565">À Troya, quant Troya fu prise.</l>
+                <l xml:id="d001l566" n="566">Enpuis fu à Nero tramise</l>
+                <l xml:id="d001l567" n="567">À Rome, e quant Nero muri,</l>
+                <l xml:id="d001l568" n="568">Fu au pere del mien mari</l>
+                <l xml:id="d001l569" n="569">Cest reigne ho tote honor donez,</l>
+                <l xml:id="d001l570" n="570">E de ceste fu coronez.</l>
+                <l xml:id="d001l571" n="571">Si avra si riche centure,</l>
+                <l xml:id="d001l572" n="572">Nen crei, q'il sait de tel faiture</l>
+                <l xml:id="d001l573" n="573">Neguna ceinture el enpire.</l>
+                <l xml:id="d001l574" n="574">Lo rois Cost l'aporta sun pere</l>
+                <l xml:id="d001l575" n="575">D'Athenes, o il l'atorna.</l>
+                <l xml:id="d001l576" n="576">Mantes fïe[e]s esprova</l>
+                <l xml:id="d001l577" n="577">Les riches peres, qi sunt enz,</l>
+                <l xml:id="d001l578" n="578">De mult riches esperimenz.</l>
+                <l xml:id="d001l579" n="579">D'autres conses iert atornee,</l>
+                <l xml:id="d001l580" n="580">Unqes raïne coronee</l>
+                <l xml:id="d001l581" n="581">Ne croi, q' ëust si riche ator,</l>
+                <l xml:id="d001l582" n="582">Com' el' avra demein entor.</l>
+                <l xml:id="d001l583" n="583">Si mesire l'enperaor</l>
+                <l xml:id="d001l584" n="584">Veut demain as deus feire honor,</l>
+                <l xml:id="d001l585" n="585">Si veut, qe ma fille lor face</l>
+                <l xml:id="d001l586" n="586">Honor demain en cele place,</l>
+                <l xml:id="d001l587" n="587">Sacés: onqes ne me despleist;</l>
+                <l xml:id="d001l588" n="588">Tot ce, qe l'enperaor pleist,</l>
+                <l xml:id="d001l589" n="589">Voilen faire compliement,</l>
+                <l xml:id="d001l590" n="590">E les deus [e]specialment</l>
+                <l xml:id="d001l591" n="591">Volun servir e aorer,</l>
+                <l xml:id="d001l592" n="592">Qe l'en nes puet trop honorer.»</l>
+                <l xml:id="d001l593" n="593">L'enperaor a entendu</l>
+                <l xml:id="d001l594" n="594">Ce, qe la dame a respondu,</l>
+                <l xml:id="d001l595" n="595">Ne fu si alegres onqes mais</l>
+                <l xml:id="d001l596" n="596">E dit, që il voit bien o[r]mais:</l>
+                <l xml:id="d001l597" n="597">Qe les deus sert, grant gererdon</l>
+                <l xml:id="d001l598" n="598">Puet atendre d'eus e grant don.</l>
+                <l xml:id="d001l599" n="599">«Les deus m'unt feite ceste honor,</l>
+                <l xml:id="d001l600" n="600">Qe [ge] ne pois avoir greignor;</l>
+                <l xml:id="d001l601" n="601">E gë ausi les honoray</l>
+                <l xml:id="d001l602" n="602">Demain au plus, qe je poray».</l>
+                <l xml:id="d001l603" n="603">Lors fait crïer par la cité,</l>
+                <l xml:id="d001l604" n="604">Qe la maitin soit apresté</l>
+                <l xml:id="d001l605" n="605">Çascun de venir à la cort,</l>
+                <l xml:id="d001l606" n="606">Et s'aprest çascun e s'atort</l>
+                <l xml:id="d001l607" n="607">De faire sacrefise as deus.</l>
+                <l xml:id="d001l608" n="608">E fait mander par les osteus</l>
+                <l xml:id="d001l609" n="609">As rois, qe çascun d'els s'aprest.</l>
+                <l xml:id="d001l610" n="610">E li cevaler soient prest</l>
+                <l xml:id="d001l611" n="611">Aprés manger de cevaucer,</l>
+                <l xml:id="d001l612" n="612">Ne se facent plus demander.</l>
+                <l xml:id="d001l613" n="613">E li rois, cum' il sunt greignor,</l>
+                <l xml:id="d001l614" n="614">Acunduient à grant honor</l>
+                <l xml:id="d001l615" n="615">Madame Caterine à cort.</l>
+                <l xml:id="d001l616" n="616">Çascuns de son poder s'adort;</l>
+                <l xml:id="d001l617" n="617">Car davant les deus en la place -</l>
+                <l xml:id="d001l618" n="618">Bien veut qe çascuns d'els le sace -</l>
+                <l xml:id="d001l619" n="619">Prendra madame Caterine</l>
+                <l xml:id="d001l620" n="620">Por moiler, e sera raïne</l>
+                <l xml:id="d001l621" n="621">De Rome demein coronee</l>
+                <l xml:id="d001l622" n="622">E de Romains dame clamee.</l>
+                <l xml:id="d001l623" n="623">Lors a domandé la raïne</l>
+                <l xml:id="d001l624" n="624">Sa fille, dame Caterine,</l>
+                <l xml:id="d001l625" n="625">E dit: «Fille, ce, qe t'avent,</l>
+                <l xml:id="d001l626" n="626">Saces bien, qe des deus t'avent.</l>
+                <l xml:id="d001l627" n="627">Bien t'ont en cest segle honoree,</l>
+                <l xml:id="d001l628" n="628">Et es la plus benëuree,</l>
+                <l xml:id="d001l629" n="629">Qi fust unqes ne qe mais seit.</l>
+                <l xml:id="d001l630" n="630">Qi seit, qe l'enperaor seit,</l>
+                <l xml:id="d001l631" n="631">Merveiler se puet à merveille</l>
+                <l xml:id="d001l632" n="632">E des deus aver grant merveille,</l>
+                <l xml:id="d001l633" n="633">Qi funt de tei ce, që il funt.</l>
+                <l xml:id="d001l634" n="634">Bien poez savoir, qe les deus unt</l>
+                <l xml:id="d001l635" n="635">En tei amor e reverance,</l>
+                <l xml:id="d001l636" n="636">Des qe l'enperaor Mazence,</l>
+                <l xml:id="d001l637" n="637">Qi est enperaor de Rome,</l>
+                <l xml:id="d001l638" n="638">Est venuç cum tantë aut home</l>
+                <l xml:id="d001l639" n="639">E tant[e] grant prince de tere</l>
+                <l xml:id="d001l640" n="640">Por toi demander e requere,</l>
+                <l xml:id="d001l641" n="641">E te voil por moiller avoir.</l>
+                <l xml:id="d001l642" n="642">File, tu as mult grant savoir;</l>
+                <l xml:id="d001l643" n="643">Or sera tuens sens esprovez,</l>
+                <l xml:id="d001l644" n="644">E së il sera buens trovez,</l>
+                <l xml:id="d001l645" n="645">Li savoirs, qe tu as apris,</l>
+                <l xml:id="d001l646" n="646">Unqes dame de si grant pris</l>
+                <l xml:id="d001l647" n="647">Ne fu mais reïne de Rome,</l>
+                <l xml:id="d001l648" n="648">Car de ti dira cascun home:</l>
+                <l xml:id="d001l649" n="649">"Veez de madame Caterine,</l>
+                <l xml:id="d001l650" n="650">Com' ela est bien destra raïne,</l>
+                <l xml:id="d001l651" n="651">Bien se covent à le auteçe;</l>
+                <l xml:id="d001l652" n="652">De sens, dë honor, de largeçe,</l>
+                <l xml:id="d001l653" n="653">De cortezie e de bontez</l>
+                <l xml:id="d001l654" n="654">A tot lo mundë alumez".</l>
+                <l xml:id="d001l655" n="655">Fille,» fit elle, «as mauveis veint</l>
+                <l xml:id="d001l656" n="656">Mant' honor, qe ne li cunv[e]int;</l>
+                <l xml:id="d001l657" n="657">Ne cre ge, që unqes t' aveigne</l>
+                <l xml:id="d001l658" n="658">Grant honor, qe ne te cunviegne.</l>
+                <l xml:id="d001l659" n="659">Or te vest e atorne bien;</l>
+                <l xml:id="d001l660" n="660">Li ton garniment e li mein</l>
+                <l xml:id="d001l661" n="661">Fai ci metre sor deus tapiz</l>
+                <l xml:id="d001l662" n="662">O sor deus coltres de samiz.</l>
+                <l xml:id="d001l663" n="663">Veiste tei ricement de ceus,</l>
+                <l xml:id="d001l664" n="664">Qi te plasent e qe tu veus.</l>
+                <l xml:id="d001l665" n="665">Corone muër ne centure</l>
+                <l xml:id="d001l666" n="666">Ce sa je bien, qe tu n'as cure;</l>
+                <l xml:id="d001l667" n="667">Ja ne troveroies el mond</l>
+                <l xml:id="d001l668" n="668">Si bone mais cum ceste[s] sunt.</l>
+                <l xml:id="d001l669" n="669">Burdes, girlandes e presores</l>
+                <l xml:id="d001l670" n="670">Teus les prent, come tu les voilles.</l>
+                <l xml:id="d001l671" n="671">Fa si, qe demein seit honor</l>
+                <l xml:id="d001l672" n="672">De toy a cest notre seignor,</l>
+                <l xml:id="d001l673" n="673">Quant grant homë a ci conduit,</l>
+                <l xml:id="d001l674" n="674">E [si] sont por toy venuz tuit.»</l>
+                <l xml:id="d001l675" n="675">Kateline dist: «Belle mere,</l>
+                <l xml:id="d001l676" n="676">Ge sai bien, qe vos e mon peire</l>
+                <l xml:id="d001l677" n="677">N'ëustes mais eyr fors qe moy;</l>
+                <l xml:id="d001l678" n="678">E si le conos bien e voy,</l>
+                <l xml:id="d001l679" n="679">Se plus aute me po[rï]ez</l>
+                <l xml:id="d001l680" n="680">Faire, ke vos lo farïez.</l>
+                <l xml:id="d001l681" n="681">E me volez doner mari;</l>
+                <l xml:id="d001l682" n="682">Mais quant li vostre vos mori,</l>
+                <l xml:id="d001l683" n="683">Encor' estoit il plus joven' home</l>
+                <l xml:id="d001l684" n="684">Ke n'est l'enperaor de Rome,</l>
+                <l xml:id="d001l685" n="685">Ki me doit toudre por moiler -</l>
+                <l xml:id="d001l686" n="686">E puis me laiscera solier -</l>
+                <l xml:id="d001l687" n="687">E mun pulcelaçe tolir.</l>
+                <l xml:id="d001l688" n="688">E me devés si tost morir,</l>
+                <l xml:id="d001l689" n="689">E avrai ausi grant dolor,</l>
+                <l xml:id="d001l690" n="690">Cum vos ëustes, e major,</l>
+                <l xml:id="d001l691" n="691">Qant li rois Cost mori, mon pere.</l>
+                <l xml:id="d001l692" n="692">Ge vos vi donqes, bele mere,</l>
+                <l xml:id="d001l693" n="693">Tel dolor e tel ire avoir,</l>
+                <l xml:id="d001l694" n="694">N'i est home, qil pëust savoir</l>
+                <l xml:id="d001l695" n="695">Ne qe reconter le sëust,</l>
+                <l xml:id="d001l696" n="696">Së il ausi grand dol n'ëust.</l>
+                <l xml:id="d001l697" n="697">E des qe mon pere fo mort,</l>
+                <l xml:id="d001l698" n="698">Cascuns vos fait volunter tort:</l>
+                <l xml:id="d001l699" n="699">L'uns vos tout, l'autre vos demande;</l>
+                <l xml:id="d001l700" n="700">Si vos ne li donez, si mande,</l>
+                <l xml:id="d001l701" n="701">Si fait prendre ce, që il vout.</l>
+                <l xml:id="d001l702" n="702">E l'autre, qi servir vos seult,</l>
+                <l xml:id="d001l703" n="703">Vos desert; l'autre vos fait gerre;</l>
+                <l xml:id="d001l704" n="704">L'autre vos demande la terre.</l>
+                <l xml:id="d001l705" n="705">Vos sostenés tante dolor,</l>
+                <l xml:id="d001l706" n="706">Ja ne la sostendroiz major</l>
+                <l xml:id="d001l707" n="707">À la mort; se vos morisiez,</l>
+                <l xml:id="d001l708" n="708">Ja si gran dolor n'ëusiez.</l>
+                <l xml:id="d001l709" n="709">Ne n'atendez mais alegreze</l>
+                <l xml:id="d001l710" n="710">Avoir, mais dolor e grameçe.</l>
+                <l xml:id="d001l711" n="711">E quant li meins mari mora,</l>
+                <l xml:id="d001l712" n="712">Autresi o peis m'an vendra.</l>
+                <l xml:id="d001l713" n="713">Vos dites, qe je face honor</l>
+                <l xml:id="d001l714" n="714">As deus e à l'enperaor</l>
+                <l xml:id="d001l715" n="715">E qe m'adornë e me veste,</l>
+                <l xml:id="d001l716" n="716">Qe ceste cort e ceste feste</l>
+                <l xml:id="d001l717" n="717">Est tute por moy feite ci:</l>
+                <l xml:id="d001l718" n="718">Je vos en regrace e merci</l>
+                <l xml:id="d001l719" n="719">D'ice, qe vos volez mon bien</l>
+                <l xml:id="d001l720" n="720">E m' honor sor tote autre rien;</l>
+                <l xml:id="d001l721" n="721">Ge feray ce, qe vos voldroiz</l>
+                <l xml:id="d001l722" n="722">E qe vos me conseileiroiz;</l>
+                <l xml:id="d001l723" n="723">Mais ge croy bien, qe vos savez</l>
+                <l xml:id="d001l724" n="724">E vëu et oï l'avez,</l>
+                <l xml:id="d001l725" n="725">Qe ye sui usee d'aler</l>
+                <l xml:id="d001l726" n="726">Là fors à un preste parler</l>
+                <l xml:id="d001l727" n="727">Fors des murs de la cité,</l>
+                <l xml:id="d001l728" n="728">Por aprendre divinité.</l>
+                <l xml:id="d001l729" n="729">Dedenz sa capella est asise</l>
+                <l xml:id="d001l730" n="730">Sor un alter de marbre bisse</l>
+                <l xml:id="d001l731" n="731">Un' ymaye estranjement faite,</l>
+                <l xml:id="d001l732" n="732">Soutilment taillé' e portraite</l>
+                <l xml:id="d001l733" n="733">D'une color luisaint et fine;</l>
+                <l xml:id="d001l734" n="734">E a forme d'une raïne,</l>
+                <l xml:id="d001l735" n="735">Qi en ses braiz teint un enfant</l>
+                <l xml:id="d001l736" n="736">Coloré, vermeil et riant;</l>
+                <l xml:id="d001l737" n="737">E est bien à çascun avis,</l>
+                <l xml:id="d001l738" n="738">Qi les veit, q'il soient toz vis.</l>
+                <l xml:id="d001l739" n="739">Quant je sui à cel preste allee</l>
+                <l xml:id="d001l740" n="740">Cascun jor, si ai saluëe</l>
+                <l xml:id="d001l741" n="741">La dame, qe je vos ai dit,</l>
+                <l xml:id="d001l742" n="742">E li ai tote[s] voies dit</l>
+                <l xml:id="d001l743" n="743">D'un mari, q'ele m'enqeïst</l>
+                <l xml:id="d001l744" n="744">Un, qi onqes ne me morist.</l>
+                <l xml:id="d001l745" n="745">Or li voil dire de ceste home,</l>
+                <l xml:id="d001l746" n="746">Qi est enperaor de Rome,</l>
+                <l xml:id="d001l747" n="747">Qi me veut toudre por moiler.</l>
+                <l xml:id="d001l748" n="748">E s'el m'en voudra conseiler,</l>
+                <l xml:id="d001l749" n="749">Sil prendray plus segurement.</l>
+                <l xml:id="d001l750" n="750">E vos y vendroiz ensement,</l>
+                <l xml:id="d001l751" n="751">Belle mere, si la veroiz.</l>
+                <l xml:id="d001l752" n="752">Cevalers e dames menroiz,</l>
+                <l xml:id="d001l753" n="753">Tant cum para, qe se conveigne,</l>
+                <l xml:id="d001l754" n="754">Që à la vostre honor pertegne.»</l>
+                <l xml:id="d001l755" n="755">La raïne li respondi:</l>
+                <l xml:id="d001l756" n="756">«Bien te promet e bien te di,</l>
+                <l xml:id="d001l757" n="757">Q'en faire ore endroit ceste voie</l>
+                <l xml:id="d001l758" n="758">N'a negun preu, qe jë i voie.</l>
+                <l xml:id="d001l759" n="759">Par lo mien grai tu n'i alases,</l>
+                <l xml:id="d001l760" n="760">Einz te vestisses e parases,</l>
+                <l xml:id="d001l761" n="761">Si qe [tu] fuses apreste[e],</l>
+                <l xml:id="d001l762" n="762">Quant tu seras ja demande[e].</l>
+                <l xml:id="d001l763" n="763">Mais des qe tu [i] veus aler,</l>
+                <l xml:id="d001l764" n="764">Je feray dames demander</l>
+                <l xml:id="d001l765" n="765">E cevalers, [qi] i vendront,</l>
+                <l xml:id="d001l766" n="766">Qi conpagnie nos feront.»</l>
+                <l xml:id="d001l767" n="767">La raïnë a dunc mandé</l>
+                <l xml:id="d001l768" n="768">Ses pulceles e a mandé</l>
+                <l xml:id="d001l769" n="769">Por dames e por cevalers,</l>
+                <l xml:id="d001l770" n="770">Qi mult i vendront volunters.</l>
+                <l xml:id="d001l771" n="771">Les palafroiz aprestez furent;</l>
+                <l xml:id="d001l772" n="772">Mantenant, si cummë il durent,</l>
+                <l xml:id="d001l773" n="773">Totes s'en vont à la capelle,</l>
+                <l xml:id="d001l774" n="774">N'i remest dame ne pulcele,</l>
+                <l xml:id="d001l775" n="775">Là o les dames sunt muntes,</l>
+                <l xml:id="d001l776" n="776">Por qi la raïne ot mandes.</l>
+                <l xml:id="d001l777" n="777">E li cavaler sunt monté,</l>
+                <l xml:id="d001l778" n="778">Por qi la raïne ot mandé.</l>
+                <l xml:id="d001l779" n="779">À la çapelle sunt venu</l>
+                <l xml:id="d001l780" n="780">E sunt par la cort descendu.</l>
+                <l xml:id="d001l781" n="781">Cele honor, qi se convint, firent</l>
+                <l xml:id="d001l782" n="782">As dames, quant eus descendirent.</l>
+                <l xml:id="d001l783" n="783">Totes intrent en la çapelle;</l>
+                <l xml:id="d001l784" n="784">N'i remest dame ne pulcelle,</l>
+                <l xml:id="d001l785" n="785">Qi ne voist aprés la raïne,</l>
+                <l xml:id="d001l786" n="786">Là u madame Catarine</l>
+                <l xml:id="d001l787" n="787">Horaisons et veines fasoit;</l>
+                <l xml:id="d001l788" n="788">E oiant les dames disoit:</l>
+                <l xml:id="d001l789" n="789">«Hoi, madame Sainte Marie,</l>
+                <l xml:id="d001l790" n="790">Dame, or me securi e aïe!</l>
+                <l xml:id="d001l791" n="791">Or' est besoing, qe tu intendes</l>
+                <l xml:id="d001l792" n="792">E qe tu merites me rendes!</l>
+                <l xml:id="d001l793" n="793">Se jë unqes encor fis rein,</l>
+                <l xml:id="d001l794" n="794">Në oraisons ni autre bien,</l>
+                <l xml:id="d001l795" n="795">Ne jëune, qi te plëust,</l>
+                <l xml:id="d001l796" n="796">Në autre, qi buen te saüst:</l>
+                <l xml:id="d001l797" n="797">Or t'en soveigne e t'en recorde;</l>
+                <l xml:id="d001l798" n="798">Reïna de misericorde,</l>
+                <l xml:id="d001l799" n="799">Conseila moy par ta pieté,</l>
+                <l xml:id="d001l800" n="800">Ne gardar à ma malvaisté</l>
+                <l xml:id="d001l801" n="801">Ne à pecei, qi en moy seit!</l>
+                <l xml:id="d001l802" n="802">Ge n'ay nul, qi [ne] me conseit,</l>
+                <l xml:id="d001l803" n="803">Vasal ne parent ne amy,</l>
+                <l xml:id="d001l804" n="804">Qe je doie encui por mari</l>
+                <l xml:id="d001l805" n="805">Prendre l'enperaor de Rome</l>
+                <l xml:id="d001l806" n="806">Plus voluntiers qe nul autre home.</l>
+                <l xml:id="d001l807" n="807">Cascuns le loy' e le conseile</l>
+                <l xml:id="d001l808" n="808">E s'en fait çascuns grant merveille,</l>
+                <l xml:id="d001l809" n="809">Q'il me veut toudre por moiller.</l>
+                <l xml:id="d001l810" n="810">E por ce m'en veing conseiler</l>
+                <l xml:id="d001l811" n="811">À vos, madame, e por saveir,</l>
+                <l xml:id="d001l812" n="812">Qi vos pleist, qe je deie avoir,</l>
+                <l xml:id="d001l813" n="813">O autre de ceste o cestui;</l>
+                <l xml:id="d001l814" n="814">Qe saciez: o cestui o autrui</l>
+                <l xml:id="d001l815" n="815">Me convient avoir en cest jor;</l>
+                <l xml:id="d001l816" n="816">So vos me don[ï]ez meillor</l>
+                <l xml:id="d001l817" n="817">E plus bel qe cestui non est,</l>
+                <l xml:id="d001l818" n="818">Je ne prendoie mie cest.</l>
+                <l xml:id="d001l819" n="819">Au vestre conseil m'en tendray:</l>
+                <l xml:id="d001l820" n="820">Cel, qe vos m'en donroiz, prendray.»</l>
+                <l xml:id="d001l821" n="821">Qant Caterina ot ensi dit,</l>
+                <l xml:id="d001l822" n="822">Mantenant de cel descendit</l>
+                <l xml:id="d001l823" n="823">Une raïne coronee.</l>
+                <l xml:id="d001l824" n="824">Si vestue e si adornee</l>
+                <l xml:id="d001l825" n="825">Ne fu mais negune raïne.</l>
+                <l xml:id="d001l826" n="826">Joste madame Caterine</l>
+                <l xml:id="d001l827" n="827">S'asist e li dist en riant:</l>
+                <l xml:id="d001l828" n="828">«Belle fille, tu vais qerant</l>
+                <l xml:id="d001l829" n="829">Mari, qe tu ne perdes mais</l>
+                <l xml:id="d001l830" n="830">E qi ne te mora jamais:</l>
+                <l xml:id="d001l831" n="831">Ge crei, qe je te secorrai</l>
+                <l xml:id="d001l832" n="832">À cest besoing e te donrai</l>
+                <l xml:id="d001l833" n="833">Tal mari, se tu le voldras</l>
+                <l xml:id="d001l834" n="834">Amer, qe jamais nel perdras;</l>
+                <l xml:id="d001l835" n="835">Si sera plus bel e meilor,</l>
+                <l xml:id="d001l836" n="836">Qe ne fu mais enperaor</l>
+                <l xml:id="d001l837" n="837">Ne rei, që unqes fust à Rome.</l>
+                <l xml:id="d001l838" n="838">Ne n'est el segle si savi home,</l>
+                <l xml:id="d001l839" n="839">Qi sëust reconter ne dire</l>
+                <l xml:id="d001l840" n="840">Sa beuté, ne pëust escrire</l>
+                <l xml:id="d001l841" n="841">Sa bunté ne le sun savoir.</l>
+                <l xml:id="d001l842" n="842">Et se tu poez cestu avoir,</l>
+                <l xml:id="d001l843" n="843">Bien poras dire, që avras</l>
+                <l xml:id="d001l844" n="844">Toz jor mais ce, qe [tu] voudras</l>
+                <l xml:id="d001l845" n="845">De ris, de joie, d'alegreçe;</l>
+                <l xml:id="d001l846" n="846">Ja mais n'avras une gramece.»</l>
+                <l xml:id="d001l847" n="847">Catelina li respondi:</l>
+                <l xml:id="d001l848" n="848">«Je vos en rent grant merci</l>
+                <l xml:id="d001l849" n="849">De ce, qe vos m'avez premis.</l>
+                <l xml:id="d001l850" n="850">Bien ai entendu et apris</l>
+                <l xml:id="d001l851" n="851">À ce, qe vos m'avez conté,</l>
+                <l xml:id="d001l852" n="852">Qe mult est de major bonté</l>
+                <l xml:id="d001l853" n="853">Cestui e de mejor saveir</l>
+                <l xml:id="d001l854" n="854">Dë autre, qe je puisse avoir.</l>
+                <l xml:id="d001l855" n="855">Bien est l'enperaor de Rome</l>
+                <l xml:id="d001l856" n="856">Tenu plus grant qe nulle autre ome</l>
+                <l xml:id="d001l857" n="857">E do reis e cuntes cremuz,</l>
+                <l xml:id="d001l858" n="858">E cascuns li rende trebut;</l>
+                <l xml:id="d001l859" n="859">Mais si tegne ceste major:</l>
+                <l xml:id="d001l860" n="860">Car cil puet morir cascun jor,</l>
+                <l xml:id="d001l861" n="861">Mais cestui, qe ne puet morir,</l>
+                <l xml:id="d001l862" n="862">Bien le doit hom major tenir,</l>
+                <l xml:id="d001l863" n="863">E plus voluntier l'en prendrai.</l>
+                <l xml:id="d001l864" n="864">E se vos volez, ge vendrai</l>
+                <l xml:id="d001l865" n="865">Com vos, si le me mostreroiz,</l>
+                <l xml:id="d001l866" n="866">E se gel voil, si mel donroiz.</l>
+                <l xml:id="d001l867" n="867">Mais si me seroit bien besoing,</l>
+                <l xml:id="d001l868" n="868">Qe je n'alase gaires loing</l>
+                <l xml:id="d001l869" n="869">E qe ge ja ne demorase,</l>
+                <l xml:id="d001l870" n="870">Mais [qe] maintenant me tornase,</l>
+                <l xml:id="d001l871" n="871">Si qe ma dame ne veïsse</l>
+                <l xml:id="d001l872" n="872">Ne ne saüst, qe je faïsse.</l>
+                <l xml:id="d001l873" n="873">Se cel pëuse unqes veer,</l>
+                <l xml:id="d001l874" n="874">Si qe ja nel dëust saver</l>
+                <l xml:id="d001l875" n="875">Ma mere, mult me vendroit bien,</l>
+                <l xml:id="d001l876" n="876">Q'ele n'en sëust unqes rien;</l>
+                <l xml:id="d001l877" n="877">Ein qe vos estes ci venue,</l>
+                <l xml:id="d001l878" n="878">Që unques ne fustes vëue,</l>
+                <l xml:id="d001l879" n="879">Fors de moy autre ne vos voit.</l>
+                <l xml:id="d001l880" n="880">Se ma mere vos ci savoit,</l>
+                <l xml:id="d001l881" n="881">Ja n'en seroit [el] tant tenue,</l>
+                <l xml:id="d001l882" n="882">Q'ele no fust ici venue.</l>
+                <l xml:id="d001l883" n="883">E bien voldroit savoir, por coi</l>
+                <l xml:id="d001l884" n="884">Vos estes ci venua à moi,</l>
+                <l xml:id="d001l885" n="885">E qi vos estes, e coment</l>
+                <l xml:id="d001l886" n="886">Vos estes si prive[e]ment</l>
+                <l xml:id="d001l887" n="887">Ci venue sanz conpagnie;</l>
+                <l xml:id="d001l888" n="888">Car le nos dames ne vont mie</l>
+                <l xml:id="d001l889" n="889">Si sole, come vos venistes.</l>
+                <l xml:id="d001l890" n="890">Bien crei je, qe vos le faïstes</l>
+                <l xml:id="d001l891" n="891">Por moy conforter e veieir;</l>
+                <l xml:id="d001l892" n="892">Mais si voldroie mult saveir</l>
+                <l xml:id="d001l893" n="893">Vostre non e o je poroie</l>
+                <l xml:id="d001l894" n="894">Trover vos, qant ge vos qeroie.»</l>
+                <l xml:id="d001l895" n="895">La dama li dit: «Belle amie,</l>
+                <l xml:id="d001l896" n="896">Sacés bien, qe j'ai nom Marie,</l>
+                <l xml:id="d001l897" n="897">Roïne de misericorde.</l>
+                <l xml:id="d001l898" n="898">Qi onques de moy se recorde</l>
+                <l xml:id="d001l899" n="899">Au besoing, quant il l'a mester,</l>
+                <l xml:id="d001l900" n="900">Maintenant le ving aïder,</l>
+                <l xml:id="d001l901" n="901">Së il me demande adjutoire</l>
+                <l xml:id="d001l902" n="902">E me veut avoir en memoire.</l>
+                <l xml:id="d001l903" n="903">Bien est oï e entendu:</l>
+                <l xml:id="d001l904" n="904">Unqes [n']avra tant ofendu,</l>
+                <l xml:id="d001l905" n="905">Qe je n'aie de lui merci.</l>
+                <l xml:id="d001l906" n="906">E tu, quant tu venoies ci,</l>
+                <l xml:id="d001l907" n="907">Tu me proieves tote[s] voies</l>
+                <l xml:id="d001l908" n="908">À tel fei, cum[e] tu avoies,</l>
+                <l xml:id="d001l909" n="909">Qe je te dëuse aidier</l>
+                <l xml:id="d001l910" n="910">D'un tel mari e conseiler,</l>
+                <l xml:id="d001l911" n="911">Që unques mais ne te morist</l>
+                <l xml:id="d001l912" n="912">E t'amast e bien te volist.</l>
+                <l xml:id="d001l913" n="913">Unqes ne me proias de rien,</l>
+                <l xml:id="d001l914" n="914">Qe je në entendisse bien.</l>
+                <l xml:id="d001l915" n="915">E por ce sui ge ci venue,</l>
+                <l xml:id="d001l916" n="916">Që ai ta proiere entendue,</l>
+                <l xml:id="d001l917" n="917">Qe tu m'as proié longement.</l>
+                <l xml:id="d001l918" n="918">Mais si vendras promerement</l>
+                <l xml:id="d001l919" n="919">O moy, se tu veus, por v[e]oir</l>
+                <l xml:id="d001l920" n="920">Lo mari, qe tu dez avoir,</l>
+                <l xml:id="d001l921" n="921">E veras ceus, qi o lui sunt,</l>
+                <l xml:id="d001l922" n="922">Qi [i]l sunt e qel gent ce sunt.</l>
+                <l xml:id="d001l923" n="923">E illocqes, se tu voudras</l>
+                <l xml:id="d001l924" n="924">Savoir, qi je sui, sil savras.»</l>
+                <l xml:id="d001l925" n="925">E ensi s'en parti, si s'en vait,</l>
+                <l xml:id="d001l926" n="926">Si cumme l'estoire retrait.</l>
+                <l xml:id="d001l927" n="927">La persone de Caterine</l>
+                <l xml:id="d001l928" n="928">Remest el paviment sovine</l>
+                <l xml:id="d001l929" n="929">. . . . . . . . . . . . . . . . . . . . . . . .</l>
+                <l xml:id="d001l930" n="930">Ge n'i fui unqes ne ne vi</l>
+                <l xml:id="d001l931" n="931">Paraïs ne je [ne] voldroie</l>
+                <l xml:id="d001l932" n="932">Dire fors ce, qe j'en savroie;</l>
+                <l xml:id="d001l933" n="933">E ce meïsme, qe j'en sai,</l>
+                <l xml:id="d001l934" n="934">No n'os ge dire ne n'ensai;</l>
+                <l xml:id="d001l935" n="935">Car Sainz Pol i fu, që en dit,</l>
+                <l xml:id="d001l936" n="936">Des mervoiles, që il [i] vit,</l>
+                <l xml:id="d001l937" n="937">Qe nul home në onse dire</l>
+                <l xml:id="d001l938" n="938">Në unqes n'en voit reins escrire.</l>
+                <l xml:id="d001l939" n="939">E ge, q'en escrivroie donqes,</l>
+                <l xml:id="d001l940" n="940">Qi nel sai ne qi n'i fu onqes?</l>
+                <l xml:id="d001l941" n="941">Tenir me poroie por fol;</l>
+                <l xml:id="d001l942" n="942">De ce, qe je sai bien, qe Sainz Pol</l>
+                <l xml:id="d001l943" n="943">Ne s'en voloit unqes entrometre,</l>
+                <l xml:id="d001l944" n="944">Ne voil si aut la boche metre.</l>
+                <l xml:id="d001l945" n="945">Mais ce, qe j'en trovai escrit</l>
+                <l xml:id="d001l946" n="946">E[l] libre, qe je vos ai dit,</l>
+                <l xml:id="d001l947" n="947">E ce, qe l'istorie en retrase,</l>
+                <l xml:id="d001l948" n="948">Vos en retrarai, si vos plaisse.</l>
+                <l xml:id="d001l949" n="949">Qant la dame s'en fu tornee,</l>
+                <l xml:id="d001l950" n="950">Si fu Caterina menee</l>
+                <l xml:id="d001l951" n="951">Mantenant devant Yesu Crist,</l>
+                <l xml:id="d001l952" n="952">Si cum' ille meïsme dist.</l>
+                <l xml:id="d001l953" n="953">Bien dist elle, q'el nel saveit</l>
+                <l xml:id="d001l954" n="954">Penser, en qel guise elle estait,</l>
+                <l xml:id="d001l955" n="955">S'elle estoit en carne e en cors,</l>
+                <l xml:id="d001l956" n="956">O se l'armë estoit de fors.</l>
+                <l xml:id="d001l957" n="957">Mais tant solament en savoit,</l>
+                <l xml:id="d001l958" n="958">Qe Saint Gabrïel la tenoit,</l>
+                <l xml:id="d001l959" n="959">Qi la portoit e qi la mist</l>
+                <l xml:id="d001l960" n="960">Devant les piez de Yesu Crist</l>
+                <l xml:id="d001l961" n="961">E li dist, davant lo seignor</l>
+                <l xml:id="d001l962" n="962">Unqe ne reçut tel onor</l>
+                <l xml:id="d001l963" n="963">Mais ne contesa ne raïne,</l>
+                <l xml:id="d001l964" n="964">Q'ele rezut en cel termine.</l>
+                <l xml:id="d001l965" n="965">«Cest est li reis, qi vos prendra</l>
+                <l xml:id="d001l966" n="966">E qi toz jor mais vos tendra</l>
+                <l xml:id="d001l967" n="967">Por sa moiler e por sa sposa;</l>
+                <l xml:id="d001l968" n="968">Raïne soroiz gloriosa;</l>
+                <l xml:id="d001l969" n="969">Jamais mal ne dolor n'avroiz</l>
+                <l xml:id="d001l970" n="970">Ne cesta gloria ne perdroiz;</l>
+                <l xml:id="d001l971" n="971">O les angeres soroiz toz dis,</l>
+                <l xml:id="d001l972" n="972">E vos ert toz jor mais avis,</l>
+                <l xml:id="d001l973" n="973">Quant mil anz serent trespasé,</l>
+                <l xml:id="d001l974" n="974">Q'un demi jor ne soit passé.»</l>
+                <l xml:id="d001l975" n="975">El li a dit: «Sire, qie sunt</l>
+                <l xml:id="d001l976" n="976">Cest, qe si biaus e si gent sunt?</l>
+                <l xml:id="d001l977" n="977">Ja o l'enperaor de Rome</l>
+                <l xml:id="d001l978" n="978">Ne verïez nul si faite home,</l>
+                <l xml:id="d001l979" n="979">N'en tot le mont ne crei qe seit</l>
+                <l xml:id="d001l980" n="980">Nul si bon, qi pejor ne seit</l>
+                <l xml:id="d001l981" n="981">Qe le pejor e le plus vil</l>
+                <l xml:id="d001l982" n="982">De toz ceus, qi sunt plus de mil.»</l>
+                <l xml:id="d001l983" n="983">Saint Gabrïel li dit: «Ci sunt angeres</l>
+                <l xml:id="d001l984" n="984">Toz ceus, qi ci sunt e arcangeres;</l>
+                <l xml:id="d001l985" n="985">Mesagers de ceste cort sunt,</l>
+                <l xml:id="d001l986" n="986">Ceus, qi le seignor mand' al munt,</l>
+                <l xml:id="d001l987" n="987">Par tot là, o il lor comande.</l>
+                <l xml:id="d001l988" n="988">E les autres, që il ne mande,</l>
+                <l xml:id="d001l989" n="989">Le servent de jor e de nuit;</l>
+                <l xml:id="d001l990" n="990">Nus est, qi de servir s'enuit.</l>
+                <l xml:id="d001l991" n="991">Le fait deu monde voient tot;</l>
+                <l xml:id="d001l992" n="992">Tot li bien, qi l'en fait par tot,</l>
+                <l xml:id="d001l993" n="993">Regordant davant le Seignor,</l>
+                <l xml:id="d001l994" n="994">Por rendre li gloria e onor.</l>
+                <l xml:id="d001l995" n="995">E del mal, qi el mond se faisse,</l>
+                <l xml:id="d001l996" n="996">Si sunt grames e lor desplaisse;</l>
+                <l xml:id="d001l997" n="997">El en sofresent grant grameçe,</l>
+                <l xml:id="d001l998" n="998">E del bien ont grant alegreçe.</l>
+                <l xml:id="d001l999" n="999">Deça sunt Abel e Adam,</l>
+                <l xml:id="d001l1000" n="1000">Nöé, Lot e Saint Abraam</l>
+                <l xml:id="d001l1001" n="1001">E les patriarches [o] ceus</l>
+                <l xml:id="d001l1002" n="1002">E ceus, qi sunt descenduz d'eus,</l>
+                <l xml:id="d001l1003" n="1003">Qi tendrent li comandament</l>
+                <l xml:id="d001l1004" n="1004">E la ley del viel testament.</l>
+                <l xml:id="d001l1005" n="1005">Cest autres, qe vos veez ça,</l>
+                <l xml:id="d001l1006" n="1006">Sunt ceus, qi par Deus comença</l>
+                <l xml:id="d001l1007" n="1007">La fei de la cristïenté,</l>
+                <l xml:id="d001l1008" n="1008">E qi por la fei unt esté</l>
+                <l xml:id="d001l1009" n="1009">Par le munde martirïez</l>
+                <l xml:id="d001l1010" n="1010">E batuz e crucifïez,</l>
+                <l xml:id="d001l1011" n="1011">Tormentez e à glaive oucis</l>
+                <l xml:id="d001l1012" n="1012">O arz o [e]scorciez toz vis.</l>
+                <l xml:id="d001l1013" n="1013">Or ueez, con sunt onorés:</l>
+                <l xml:id="d001l1014" n="1014">Toz les a fait reis coronez</l>
+                <l xml:id="d001l1015" n="1015">Le seignor, por chi il sofrirent</l>
+                <l xml:id="d001l1016" n="1016">Les penes, që el sostenirent.</l>
+                <l xml:id="d001l1017" n="1017">À tal seignor feit bon servir,</l>
+                <l xml:id="d001l1018" n="1018">Qe si poet autement merir.</l>
+                <l xml:id="d001l1019" n="1019">Cest autre, qi ça sus estunt,</l>
+                <l xml:id="d001l1020" n="1020">Sunt ceus, qi le[s] deliz del mond</l>
+                <l xml:id="d001l1021" n="1021">Hunt laisez e les alegreces,</l>
+                <l xml:id="d001l1022" n="1022">Q'aveient, e les grant riqeces</l>
+                <l xml:id="d001l1023" n="1023">E qi bien poe[ie]nt avoir</l>
+                <l xml:id="d001l1024" n="1024">Grant honor por le grant savoir,</l>
+                <l xml:id="d001l1025" n="1025">E por le bien, që il savoient,</l>
+                <l xml:id="d001l1026" n="1026">Po[o]ient avoir e avoient</l>
+                <l xml:id="d001l1027" n="1027">Ce, qe lor veneit à talant:</l>
+                <l xml:id="d001l1028" n="1028">Vair [e] gris [e] or e arçant</l>
+                <l xml:id="d001l1029" n="1029">E autres joies, qi maintenent</l>
+                <l xml:id="d001l1030" n="1030">Ceu[s], qi l'amor del mond[e] teinent.</l>
+                <l xml:id="d001l1031" n="1031">E cez laiserent toz ester,</l>
+                <l xml:id="d001l1032" n="1032">Qi poe[ie]nt el mund ester</l>
+                <l xml:id="d001l1033" n="1033">À grant honor, së il volsissent.</l>
+                <l xml:id="d001l1034" n="1034">Mais por ce, që il ne faïssent</l>
+                <l xml:id="d001l1035" n="1035">Les maus, qe les autres funt,</l>
+                <l xml:id="d001l1036" n="1036">Si llaserent ester le mond</l>
+                <l xml:id="d001l1037" n="1037">De la lor propre volunté</l>
+                <l xml:id="d001l1038" n="1038">E sostendrent grant poverté</l>
+                <l xml:id="d001l1039" n="1039">E grant desasie del mangier,</l>
+                <l xml:id="d001l1040" n="1040">De gëuner e de veiller</l>
+                <l xml:id="d001l1041" n="1041">E de porter les vestëures</l>
+                <l xml:id="d001l1042" n="1042">Aprés la car aspres e dures;</l>
+                <l xml:id="d001l1043" n="1043">E sostenegent grant martire,</l>
+                <l xml:id="d001l1044" n="1044">Por les persones plus aflire</l>
+                <l xml:id="d001l1045" n="1045">De tentacions de luxure</l>
+                <l xml:id="d001l1046" n="1046">E d'autres en mainte mesure,</l>
+                <l xml:id="d001l1047" n="1047">Qe convient à ceus sostenir,</l>
+                <l xml:id="d001l1048" n="1048">Qi à Deu se volunt tenir.</l>
+                <l xml:id="d001l1049" n="1049">Or' unt à cent duples merites</l>
+                <l xml:id="d001l1050" n="1050">Des beins, q'il firent en lor vites.»</l>
+                <l xml:id="d001l1051" n="1051">«Sire, por Deu, dist Caterine,</l>
+                <l xml:id="d001l1052" n="1052">Ge vei ça sus une reïne</l>
+                <l xml:id="d001l1053" n="1053">E li vei si grant honor faire,</l>
+                <l xml:id="d001l1054" n="1054">Nul home nel puent retraire;</l>
+                <l xml:id="d001l1055" n="1055">C'unqes ne fu si onoree</l>
+                <l xml:id="d001l1056" n="1056">Nulle raïne coronee,</l>
+                <l xml:id="d001l1057" n="1057">Come ceste est, ne si servie.</l>
+                <l xml:id="d001l1058" n="1058">Ne mai[s] si belle compagnie</l>
+                <l xml:id="d001l1059" n="1059">De dames, com' eus sunt, ne vi.</l>
+                <l xml:id="d001l1060" n="1060">Molt ont à bon seignor servi,</l>
+                <l xml:id="d001l1061" n="1061">Qe si les tint à grand honor.</l>
+                <l xml:id="d001l1062" n="1062">Certes, plus belle [est] la menor</l>
+                <l xml:id="d001l1063" n="1063">E la plus povrë est plus riche,</l>
+                <l xml:id="d001l1064" n="1064">Qe n'est la raïne d'Aufriqe.</l>
+                <l xml:id="d001l1065" n="1065">Dites mei, qi la reïne est,</l>
+                <l xml:id="d001l1066" n="1066">E qi elles sunt, si vos pleist!»</l>
+                <l xml:id="d001l1067" n="1067">L'angerë a dit: «Bellë amie,</l>
+                <l xml:id="d001l1068" n="1068">C'est madame Sainte Marie,</l>
+                <l xml:id="d001l1069" n="1069">Reïne del cel e de tere.</l>
+                <l xml:id="d001l1070" n="1070">Qi au besoing la veut reqere,</l>
+                <l xml:id="d001l1071" n="1071">Së il per bon cuer la reqert,</l>
+                <l xml:id="d001l1072" n="1072">Maintenant a ce, q'il reqert.</l>
+                <l xml:id="d001l1073" n="1073">Cest autres vos diray, qi sunt:</l>
+                <l xml:id="d001l1074" n="1074">Ce sunt celes, qi por Deu ont</l>
+                <l xml:id="d001l1075" n="1075">Sostunu grant aversité</l>
+                <l xml:id="d001l1076" n="1076">Por garder lor virginité</l>
+                <l xml:id="d001l1077" n="1077">Furent lïees e batues</l>
+                <l xml:id="d001l1078" n="1078">E es longes prisons metues</l>
+                <l xml:id="d001l1079" n="1079">E à la fin martirïees</l>
+                <l xml:id="d001l1080" n="1080">E tutes vives escorcees.</l>
+                <l xml:id="d001l1081" n="1081">Et les autres sunt, qi laiserent</l>
+                <l xml:id="d001l1082" n="1082">Le munde e totes desprisiarent</l>
+                <l xml:id="d001l1083" n="1083">Les granz richeces, qeus aveient;</l>
+                <l xml:id="d001l1084" n="1084">Ne marïer ne se voleient,</l>
+                <l xml:id="d001l1085" n="1085">Ainz vive[ie]nt en sainte vite,</l>
+                <l xml:id="d001l1086" n="1086">Qi en iglise, qi en armite;</l>
+                <l xml:id="d001l1087" n="1087">L'autre se viveit autrement</l>
+                <l xml:id="d001l1088" n="1088">Segond lo so proponiment.</l>
+                <l xml:id="d001l1089" n="1089">E cascune d'eles sofreit</l>
+                <l xml:id="d001l1090" n="1090">Por Deu desaise e faim e freit</l>
+                <l xml:id="d001l1091" n="1091">E s'aflïeit à son poeir,</l>
+                <l xml:id="d001l1092" n="1092">Por Deus, q'eles ont hore, aveir.</l>
+                <l xml:id="d001l1093" n="1093">Or sunt reïnes coronees,</l>
+                <l xml:id="d001l1094" n="1094">Sor totes dames honorees,</l>
+                <l xml:id="d001l1095" n="1095">Ne mais ne perdront cest' honor.</l>
+                <l xml:id="d001l1096" n="1096">Esposees sunt au seignor,</l>
+                <l xml:id="d001l1097" n="1097">Qies tendra mes totes isi,</l>
+                <l xml:id="d001l1098" n="1098">Cum vos veez ceste[s] ici.</l>
+                <l xml:id="d001l1099" n="1099">Or poëz conostre e saveir</l>
+                <l xml:id="d001l1100" n="1100">Del rei, qe vos devez aveir</l>
+                <l xml:id="d001l1101" n="1101">Por mari, s'il est si aut home</l>
+                <l xml:id="d001l1102" n="1102">Come l'enperaor de Rome,</l>
+                <l xml:id="d001l1103" n="1103">E se l'enperaor poreit</l>
+                <l xml:id="d001l1104" n="1104">Tal gent avoir, con ceste avreit».</l>
+                <l xml:id="d001l1105" n="1105">A tant est l'arme revenue</l>
+                <l xml:id="d001l1106" n="1106">El cors, don elle estoit insue,</l>
+                <l xml:id="d001l1107" n="1107">Sanz sei moveir ne remuër</l>
+                <l xml:id="d001l1108" n="1108">E sanz color unqe muër</l>
+                <l xml:id="d001l1109" n="1109">E sanz ce, qe là s'en pëust</l>
+                <l xml:id="d001l1110" n="1110">Apercevoir, qi nel seüst.</l>
+                <l xml:id="d001l1111" n="1111">Si pleinement s'esveille ausi,</l>
+                <l xml:id="d001l1112" n="1112">Cum s'elle aüst un poy dormi.</l>
+                <l xml:id="d001l1113" n="1113">À sa mere e as dames dist,</l>
+                <l xml:id="d001l1114" n="1114">Qe cree[ie]nt, q'ele dormist:</l>
+                <l xml:id="d001l1115" n="1115">«Dames, g' estoie travaillé;</l>
+                <l xml:id="d001l1116" n="1116">Se vos m'aüsiez esveillé,</l>
+                <l xml:id="d001l1117" n="1117">Ge vos en saüse bon gré.»</l>
+                <l xml:id="d001l1118" n="1118">Lors a l'enperaor mandé</l>
+                <l xml:id="d001l1119" n="1119">Rois e contes por la raïne</l>
+                <l xml:id="d001l1120" n="1120">E por madame Caterine.</l>
+                <l xml:id="d001l1121" n="1121">Lors a mandé, q'eus veignent tost</l>
+                <l xml:id="d001l1122" n="1122">Au palais, qi fu deu re Cost,</l>
+                <l xml:id="d001l1123" n="1123">Që il meïsme veut aler</l>
+                <l xml:id="d001l1124" n="1124">Au palés à el[e]s parler</l>
+                <l xml:id="d001l1125" n="1125">E ordener, ainz q'il s'en torn,</l>
+                <l xml:id="d001l1126" n="1126">Com' eles vendront à la cort.</l>
+                <l xml:id="d001l1127" n="1127">La raïna dit «Voluntiers»</l>
+                <l xml:id="d001l1128" n="1128">E demanda li civalers,</l>
+                <l xml:id="d001l1129" n="1129">Qi les avoient là menees.</l>
+                <l xml:id="d001l1130" n="1130">Su les palafrois sunt muntees</l>
+                <l xml:id="d001l1131" n="1131">E le[s] dames e la raïna.</l>
+                <l xml:id="d001l1132" n="1132">Dous reis adestrant Caterina,</l>
+                <l xml:id="d001l1133" n="1133">E dous princes la cond[uis]oient</l>
+                <l xml:id="d001l1134" n="1134">Tot à pei; qi le frein tenoient.</l>
+                <l xml:id="d001l1135" n="1135">L'enperaor aveit mandé</l>
+                <l xml:id="d001l1136" n="1136">Par les osteus e comandé</l>
+                <l xml:id="d001l1137" n="1137">As barons e as cevalers,</l>
+                <l xml:id="d001l1138" n="1138">Q'il aprestasent les destre[r]s</l>
+                <l xml:id="d001l1139" n="1139">E començasent le baort</l>
+                <l xml:id="d001l1140" n="1140">Por faire resbaudir la cort,</l>
+                <l xml:id="d001l1141" n="1141">Qe Catelina les veïse</l>
+                <l xml:id="d001l1142" n="1142">Baorder, ainz q'el revenise.</l>
+                <l xml:id="d001l1143" n="1143">Maintenant furent aprestez</l>
+                <l xml:id="d001l1144" n="1144">E sunt sor les destrers montez,</l>
+                <l xml:id="d001l1145" n="1145">Covert de coverte de soie,</l>
+                <l xml:id="d001l1146" n="1146">Qe tote en resplandist la voie.</l>
+                <l xml:id="d001l1147" n="1147">Les escuz [e] les lances hunt;</l>
+                <l xml:id="d001l1148" n="1148">Droit à la çapelle s'en vont</l>
+                <l xml:id="d001l1149" n="1149">Par là, o les dones venoient.</l>
+                <l xml:id="d001l1150" n="1150">Plus de dous granz milers tenoient</l>
+                <l xml:id="d001l1151" n="1151">De tere, qi ensenble aloient.</l>
+                <l xml:id="d001l1152" n="1152">Des civaliers, qi baordoient,</l>
+                <l xml:id="d001l1153" n="1153">De dus, de contes, de cateines</l>
+                <l xml:id="d001l1154" n="1154">Erunt totes le[s] rues pleines,</l>
+                <l xml:id="d001l1155" n="1155">E les rues e les sentiers</l>
+                <l xml:id="d001l1156" n="1156">De dames e de civaliers.</l>
+                <l xml:id="d001l1157" n="1157">Borgeis, mercaant s'aprestoient.</l>
+                <l xml:id="d001l1158" n="1158">Les dames de la tere estoient</l>
+                <l xml:id="d001l1159" n="1159">A[s] fenestres e au[s] bauchons.</l>
+                <l xml:id="d001l1160" n="1160">De jug[l]eors e de garçons</l>
+                <l xml:id="d001l1161" n="1161">Estoit tute la tere pleine.</l>
+                <l xml:id="d001l1162" n="1162">Cascuns à sun poeir se peine</l>
+                <l xml:id="d001l1163" n="1163">De joie menar e de faire,</l>
+                <l xml:id="d001l1164" n="1164">Qi doie à l'enperaor plaire.</l>
+                <l xml:id="d001l1165" n="1165">Li libre, qil retraisse, dit,</l>
+                <l xml:id="d001l1166" n="1166">Q'encore trove l'om en escrit</l>
+                <l xml:id="d001l1167" n="1167">El registre del rei de Rome,</l>
+                <l xml:id="d001l1168" n="1168">C'onqes mais tel baort ne vit home</l>
+                <l xml:id="d001l1169" n="1169">Ne n'oit hunc à cel tens esté;</l>
+                <l xml:id="d001l1170" n="1170">Ne ne furent si apresté</l>
+                <l xml:id="d001l1171" n="1171">Cevaliers ne si adornez</l>
+                <l xml:id="d001l1172" n="1172">De biaus destres bien sojornez,</l>
+                <l xml:id="d001l1173" n="1173">Covert de rices covertures.</l>
+                <l xml:id="d001l1174" n="1174">Le[s] plus gailardes armëures</l>
+                <l xml:id="d001l1175" n="1175">Avei[en]t e le[s] plus luisant,</l>
+                <l xml:id="d001l1176" n="1176">Plus cleres e plus pareianz</l>
+                <l xml:id="d001l1177" n="1177">. . . . . . . . . . . . . . . . . . . . . . . .</l>
+                <l xml:id="d001l1178" n="1178">Qi fusent onqes mais vëues.</l>
+                <l xml:id="d001l1179" n="1179">Puis aveient les biaus lorains,</l>
+                <l xml:id="d001l1180" n="1180">Les rices seles e les frains</l>
+                <l xml:id="d001l1181" n="1181">A destrers et à palafroiz.</l>
+                <l xml:id="d001l1182" n="1182">Jamais si rices nen veroiz,</l>
+                <l xml:id="d001l1183" n="1183">Tot le munde en parlera mais.</l>
+                <l xml:id="d001l1184" n="1184">Lor sunt descendu al palais</l>
+                <l xml:id="d001l1185" n="1185">Cil, qi menoient Caterine;</l>
+                <l xml:id="d001l1186" n="1186">E les dames e la reïne,</l>
+                <l xml:id="d001l1187" n="1187">Qi estoient o lei ale[e]s,</l>
+                <l xml:id="d001l1188" n="1188">Totes sunt en la çambre entre[e]s.</l>
+                <l xml:id="d001l1189" n="1189">Por le tens, qi estoit si cort,</l>
+                <l xml:id="d001l1190" n="1190">Voleit l'enperaor la cort</l>
+                <l xml:id="d001l1191" n="1191">Tenir au plus tost q'il po[e]it.</l>
+                <l xml:id="d001l1192" n="1192">Mais en primiers li conveneit</l>
+                <l xml:id="d001l1193" n="1193">Parler à dame Caterine</l>
+                <l xml:id="d001l1194" n="1194">E ordener à la reïne,</l>
+                <l xml:id="d001l1195" n="1195">Coment els devoient venir</l>
+                <l xml:id="d001l1196" n="1196">À la cort por les deus servir;</l>
+                <l xml:id="d001l1197" n="1197">Qe por Caterine honorer</l>
+                <l xml:id="d001l1198" n="1198">Veut faire les deus aorer</l>
+                <l xml:id="d001l1199" n="1199">De toz ceus, qi sunt à la cort;</l>
+                <l xml:id="d001l1200" n="1200">N'i sera nus, qi nes aort.</l>
+                <l xml:id="d001l1201" n="1201">Puis voudra prendre Caterine</l>
+                <l xml:id="d001l1202" n="1202">Por moiler, e sera reïne</l>
+                <l xml:id="d001l1203" n="1203">De Rome des ore en avant.</l>
+                <l xml:id="d001l1204" n="1204">E si là mande de sa jent:</l>
+                <l xml:id="d001l1205" n="1205">Deus Romeins des Romeins de Rome,</l>
+                <l xml:id="d001l1206" n="1206">Qi estoient li plus aut home</l>
+                <l xml:id="d001l1207" n="1207">E li plus honoré tenu,</l>
+                <l xml:id="d001l1208" n="1208">Qi fusent à la cort venu,</l>
+                <l xml:id="d001l1209" n="1209">Lor a mandé l'enperaor,</l>
+                <l xml:id="d001l1210" n="1210">E dit, q'il à maitin ai jor</l>
+                <l xml:id="d001l1211" n="1211">Soient prestes, senz demorer,</l>
+                <l xml:id="d001l1212" n="1212">De venir les deus aorer.</l>
+                <l xml:id="d001l1213" n="1213">«E saçeç, qe mult li pesa</l>
+                <l xml:id="d001l1214" n="1214">De ce, qe Caterine alla</l>
+                <l xml:id="d001l1215" n="1215">Fors de la cité, qi saveit,</l>
+                <l xml:id="d001l1216" n="1216">Qe l'enperaor l'atendeit.</l>
+                <l xml:id="d001l1217" n="1217">Et ëust [ja] sa cort tenue,</l>
+                <l xml:id="d001l1218" n="1218">Si ela fust plus par ten[s] venue.</l>
+                <l xml:id="d001l1219" n="1219">Or vos mande l'enperaor,</l>
+                <l xml:id="d001l1220" n="1220">Qe vos demein soiez au jor</l>
+                <l xml:id="d001l1221" n="1221">Si prestes par tens de venir,</l>
+                <l xml:id="d001l1222" n="1222">Që [i]l puisse sa cort tenir.»</l>
+                <l xml:id="d001l1223" n="1223">La reïne lo[r] dit: «Seignor,</l>
+                <l xml:id="d001l1224" n="1224">Vos direz à l'enperaor</l>
+                <l xml:id="d001l1225" n="1225">De nostre part e li preiez,</l>
+                <l xml:id="d001l1226" n="1226">Që il vers nos ne soit iriez,</l>
+                <l xml:id="d001l1227" n="1227">Qe nos avons tant demoré.</l>
+                <l xml:id="d001l1228" n="1228">Bien seron[t] demein honoré</l>
+                <l xml:id="d001l1229" n="1229">Les deus de nos, e lor faron</l>
+                <l xml:id="d001l1230" n="1230">Tote l'onors, qe nui poron.</l>
+                <l xml:id="d001l1231" n="1231">Ma fillë apreste sera</l>
+                <l xml:id="d001l1232" n="1232">Demein e si s'aprestara,</l>
+                <l xml:id="d001l1233" n="1233">C'onqes ne fu si adornee</l>
+                <l xml:id="d001l1234" n="1234">Nulle reïne coronee.</l>
+                <l xml:id="d001l1235" n="1235">E l'enperaor face si</l>
+                <l xml:id="d001l1236" n="1236">De ma fille, sue merci,</l>
+                <l xml:id="d001l1237" n="1237">Qe les deus lo teignent por bien!»</l>
+                <l xml:id="d001l1238" n="1238">Caterine ne disoit rien,</l>
+                <l xml:id="d001l1239" n="1239">Që autre volunté aveit,</l>
+                <l xml:id="d001l1240" n="1240">Qe la reïne ne saveit.</l>
+                <l xml:id="d001l1241" n="1241">Qil se sunt a tant retorné -</l>
+                <l xml:id="d001l1242" n="1242">Le jor a la cort sejorné -</l>
+                <l xml:id="d001l1243" n="1243">Au rei hont les respons rendu,</l>
+                <l xml:id="d001l1244" n="1244">Qe la reïne a respondu.</l>
+                <l xml:id="d001l1245" n="1245">L'andemain l'a par tot mandé</l>
+                <l xml:id="d001l1246" n="1246">L'enperaor e comandé,</l>
+                <l xml:id="d001l1247" n="1247">Qe cascuns s'apreste e atort</l>
+                <l xml:id="d001l1248" n="1248">De venir par tens à la cort;</l>
+                <l xml:id="d001l1249" n="1249">Car il meïsme aorera</l>
+                <l xml:id="d001l1250" n="1250">Les deus, ja plus n'i demorra.</l>
+                <l xml:id="d001l1251" n="1251">Il [i] vendront bien maintenant,</l>
+                <l xml:id="d001l1252" n="1252">N'i remest ne petit ne grant,</l>
+                <l xml:id="d001l1253" n="1253">Qi ne veigne el palais tot droit,</l>
+                <l xml:id="d001l1254" n="1254">Là o l'enperaor estoit.</l>
+                <l xml:id="d001l1255" n="1255">E Caterine estoit issue</l>
+                <l xml:id="d001l1256" n="1256">De la çambre e estoit venue</l>
+                <l xml:id="d001l1257" n="1257">El palais, si come sa mere</l>
+                <l xml:id="d001l1258" n="1258">Aveit premis à l'enperere.</l>
+                <l xml:id="d001l1259" n="1259">L'enperaor, qant il la vit,</l>
+                <l xml:id="d001l1260" n="1260">L'onora tant e la servit,</l>
+                <l xml:id="d001l1261" n="1261">Com' il poit e la fist seïr,</l>
+                <l xml:id="d001l1262" n="1262">Si qe la puïssent veïr</l>
+                <l xml:id="d001l1263" n="1263">Les dames e les civaliers,</l>
+                <l xml:id="d001l1264" n="1264">Qi lla veoient voluntiers.</l>
+                <l xml:id="d001l1265" n="1265">Donc esteit tot plein le palés;</l>
+                <l xml:id="d001l1266" n="1266">Ne crei, qe tel gent fussent mes</l>
+                <l xml:id="d001l1267" n="1267">Ensenble, come il avoit là,</l>
+                <l xml:id="d001l1268" n="1268">Des qe le munde comença.</l>
+                <l xml:id="d001l1269" n="1269">Qi reconter vos en voldroit,</l>
+                <l xml:id="d001l1270" n="1270">De la richece, q'i estoit,</l>
+                <l xml:id="d001l1271" n="1271">Des corones d'or, des centures,</l>
+                <l xml:id="d001l1272" n="1272">Des precioses vestïures</l>
+                <l xml:id="d001l1273" n="1273">E des peire[s] en or asises,</l>
+                <l xml:id="d001l1274" n="1274">Qi erent par les robes misses,</l>
+                <l xml:id="d001l1275" n="1275">Des presores e de[s] tasiaus,</l>
+                <l xml:id="d001l1276" n="1276">Qi estoient par les mantiaus,</l>
+                <l xml:id="d001l1277" n="1277">Et des rices dras, qi estoient</l>
+                <l xml:id="d001l1278" n="1278">Tenduz sor les res, q'i seoient,</l>
+                <l xml:id="d001l1279" n="1279">Des caieres, des faudestous</l>
+                <l xml:id="d001l1280" n="1280">À or e à peire[s], toz vous</l>
+                <l xml:id="d001l1281" n="1281">De vair [e] de gris, q'i esteit:</l>
+                <l xml:id="d001l1282" n="1282">Hun autre home vos intendreit,</l>
+                <l xml:id="d001l1283" n="1283">Së il se voleit deleter,</l>
+                <l xml:id="d001l1284" n="1284">A conter un jor tot enter.</l>
+                <l xml:id="d001l1285" n="1285">Mais je ne me voil entremetre</l>
+                <l xml:id="d001l1286" n="1286">De dire en autre ne de metre</l>
+                <l xml:id="d001l1287" n="1287">En me libre fors ce breiment,</l>
+                <l xml:id="d001l1288" n="1288">Qe je vi escrit solament.</l>
+                <l xml:id="d001l1289" n="1289">Costume esteit lors de l'enpere</l>
+                <l xml:id="d001l1290" n="1290">Tote[s] voies, qe l'enperere,</l>
+                <l xml:id="d001l1291" n="1291">Quant il tenoit cort general,</l>
+                <l xml:id="d001l1292" n="1292">Einz qe de nul fait temporal</l>
+                <l xml:id="d001l1293" n="1293">I fust traité, si cumveneit,</l>
+                <l xml:id="d001l1294" n="1294">Qi unqes à la cort veneit,</l>
+                <l xml:id="d001l1295" n="1295">Sacrifïer as deus de Rome.</l>
+                <l xml:id="d001l1296" n="1296">E s'el fust trové negun home,</l>
+                <l xml:id="d001l1297" n="1297">Qi ne volist sacrifïer,</l>
+                <l xml:id="d001l1298" n="1298">Si le faseit martirïer;</l>
+                <l xml:id="d001l1299" n="1299">Ja ne remansist par autece</l>
+                <l xml:id="d001l1300" n="1300">De lignaçe, ne par grandeze</l>
+                <l xml:id="d001l1301" n="1301">De richeçe ne de saveir,</l>
+                <l xml:id="d001l1302" n="1302">Që el pëust unqes aveir.</l>
+                <l xml:id="d001l1303" n="1303">Quant cist furent tuit asenblé,</l>
+                <l xml:id="d001l1304" n="1304">Si s'est un de[s] Romeins levé,</l>
+                <l xml:id="d001l1305" n="1305">Vestu d'un rice cisamus</l>
+                <l xml:id="d001l1306" n="1306">E d'un samit jauna desus.</l>
+                <l xml:id="d001l1307" n="1307">E fuit cent d'un riqe baudré</l>
+                <l xml:id="d001l1308" n="1308">À or e à peres ovré.</l>
+                <l xml:id="d001l1309" n="1309">E dos granz ovres tien es meins,</l>
+                <l xml:id="d001l1310" n="1310">E oit en sum ceis li Romeins</l>
+                <l xml:id="d001l1311" n="1311">Una grant armiça vermeille,</l>
+                <l xml:id="d001l1312" n="1312">Qi bien esteit à [grant] merveille</l>
+                <l xml:id="d001l1313" n="1313">D'une blance ermine foree.</l>
+                <l xml:id="d001l1314" n="1314">E la barbe oit longe e mesclee</l>
+                <l xml:id="d001l1315" n="1315">E les granons tortiz et granz,</l>
+                <l xml:id="d001l1316" n="1316">D'une parte e d'autre pendanz.</l>
+                <l xml:id="d001l1317" n="1317">De persone estoit molt petiz,</l>
+                <l xml:id="d001l1318" n="1318">Mais argumentos e ardiz</l>
+                <l xml:id="d001l1319" n="1319">Et saives e bien ensegnez</l>
+                <l xml:id="d001l1320" n="1320">Estoit e s'es[t] levez en pez</l>
+                <l xml:id="d001l1321" n="1321">E dit a: «Plus dreit enperere,</l>
+                <l xml:id="d001l1322" n="1322">Qi onqes mais fust el enpere,</l>
+                <l xml:id="d001l1323" n="1323">Ne qi i puisse jamais estre</l>
+                <l xml:id="d001l1324" n="1324">De ceus, qi sunt encore à nestre,</l>
+                <l xml:id="d001l1325" n="1325">E de toz ceus, qi sunt naisuz</l>
+                <l xml:id="d001l1326" n="1326">De Rome e de Romei[n]s eisuz:</l>
+                <l xml:id="d001l1327" n="1327">Prei, que m'entendes par t'honor,</l>
+                <l xml:id="d001l1328" n="1328">Si come natural seignor.</l>
+                <l xml:id="d001l1329" n="1329">Sire, tu as ci fait venir</l>
+                <l xml:id="d001l1330" n="1330">Ceste jent, per ta cort tenir.</l>
+                <l xml:id="d001l1331" n="1331">[E] XVII reis sunt ci venuz,</l>
+                <l xml:id="d001l1332" n="1332">Qi sunt de tey servir tenuz,</l>
+                <l xml:id="d001l1333" n="1333">E autretant autrë aut home.</l>
+                <l xml:id="d001l1334" n="1334">Unqes enperaor de Rome</l>
+                <l xml:id="d001l1335" n="1335">Nen oit mais tant de teus ensenble,</l>
+                <l xml:id="d001l1336" n="1336">Come tu a[s] ci, ce me semble,</l>
+                <l xml:id="d001l1337" n="1337">Qi te teigne[n]t toz per seignor.</l>
+                <l xml:id="d001l1338" n="1338">Sire, oi, qe chonse [est] ceste honor</l>
+                <l xml:id="d001l1339" n="1339">E ceste glorie, qe tu as</l>
+                <l xml:id="d001l1340" n="1340">De toz les deus, de qi tu l'as.</l>
+                <l xml:id="d001l1341" n="1341">Conoisse, qe reverençe unt</l>
+                <l xml:id="d001l1342" n="1342">Les deus en tei, e q'il te funt!</l>
+                <l xml:id="d001l1343" n="1343">Bien ai meinte feiz a Rome</l>
+                <l xml:id="d001l1344" n="1344">Enperaor ausi aut home,</l>
+                <l xml:id="d001l1345" n="1345">Come tu es, o plus ëu,</l>
+                <l xml:id="d001l1346" n="1346">Mais onqes mais ne fu vëu</l>
+                <l xml:id="d001l1347" n="1347">Nul, qi ait tant' honor ëue,</l>
+                <l xml:id="d001l1348" n="1348">Come tu as ja recëue.</l>
+                <l xml:id="d001l1349" n="1349">Or saces, qe les deus le font,</l>
+                <l xml:id="d001l1350" n="1350">Qi Romë e qi Romeins ont</l>
+                <l xml:id="d001l1351" n="1351">Tutes ores plus enorez</l>
+                <l xml:id="d001l1352" n="1352">Që autre jent, qi soient nez.</l>
+                <l xml:id="d001l1353" n="1353">E nos autre si lor façon</l>
+                <l xml:id="d001l1354" n="1354">Reverançe, qe qe noi son,</l>
+                <l xml:id="d001l1355" n="1355">De ceste glorie e ceste honor!</l>
+                <l xml:id="d001l1356" n="1356">E tu primer, come seignor,</l>
+                <l xml:id="d001l1357" n="1357">Si les aore e lor encline!</l>
+                <l xml:id="d001l1358" n="1358">E puis madame Caterine,</l>
+                <l xml:id="d001l1359" n="1359">Qi sera reïne de Rome,</l>
+                <l xml:id="d001l1360" n="1360">Aort les deus, e li aut home,</l>
+                <l xml:id="d001l1361" n="1361">Çascuns segont ce, që il est,</l>
+                <l xml:id="d001l1362" n="1362">Si s'en atort e s'en aprest</l>
+                <l xml:id="d001l1363" n="1363">E veigne as deus, si les aort,</l>
+                <l xml:id="d001l1364" n="1364">E se partira ceste cort!»</l>
+                <l xml:id="d001l1365" n="1365">L'enperaor a respondu:</l>
+                <l xml:id="d001l1366" n="1366">«Vos avez bien tuit entendu</l>
+                <l xml:id="d001l1367" n="1367">Ce, q'el a dit, e jë irai</l>
+                <l xml:id="d001l1368" n="1368">Tot primer, si les orerai.»</l>
+                <l xml:id="d001l1369" n="1369">Lors se leva devotament</l>
+                <l xml:id="d001l1370" n="1370">E encline parfundement</l>
+                <l xml:id="d001l1371" n="1371">As deus e lor fait sacrefize</l>
+                <l xml:id="d001l1372" n="1372">E puis i a l'oferte mise.</l>
+                <l xml:id="d001l1373" n="1373">E dit à dame Caterine:</l>
+                <l xml:id="d001l1374" n="1374">«Vos e madame la reïne,</l>
+                <l xml:id="d001l1375" n="1375">Vostre mare, venez avant</l>
+                <l xml:id="d001l1376" n="1376">Sacrifïer as deus vivant!»</l>
+                <l xml:id="d001l1377" n="1377">Dame Caterine respont:</l>
+                <l xml:id="d001l1378" n="1378">«Sire, à vos e à ceus, [qi] sunt</l>
+                <l xml:id="d001l1379" n="1379">À vos en ceste cort ici,</l>
+                <l xml:id="d001l1380" n="1380">Prei, qe m'oiez, vestre merci.</l>
+                <l xml:id="d001l1381" n="1381">Seignor, ge ne me merveil mie,</l>
+                <l xml:id="d001l1382" n="1382">Se li fous hom feit la folie;</l>
+                <l xml:id="d001l1383" n="1383">E si li senple home, qi sunt</l>
+                <l xml:id="d001l1384" n="1384">Nori simpliment, së il funt</l>
+                <l xml:id="d001l1385" n="1385">Par simpleçe, qe mal lor veigne,</l>
+                <l xml:id="d001l1386" n="1386">Unqes à merveille nel teigne;</l>
+                <l xml:id="d001l1387" n="1387">Mais de l'enperaor de Rome,</l>
+                <l xml:id="d001l1388" n="1388">Qi doit plus savoir qe nul home</l>
+                <l xml:id="d001l1389" n="1389">E qi deit par le son saveir</l>
+                <l xml:id="d001l1390" n="1390">Honor d'enperaor aveir,</l>
+                <l xml:id="d001l1391" n="1391">Me merveil, q' i[l] se fait tenir</l>
+                <l xml:id="d001l1392" n="1392">Por fol e a ci fait venir</l>
+                <l xml:id="d001l1393" n="1393">Ceste gent de luitane tere</l>
+                <l xml:id="d001l1394" n="1394">Por matece e folie qere,</l>
+                <l xml:id="d001l1395" n="1395">E par noit le fait travailler</l>
+                <l xml:id="d001l1396" n="1396">E de jor oit soi aller;</l>
+                <l xml:id="d001l1397" n="1397">Qe së il n'a le sens de lui,</l>
+                <l xml:id="d001l1398" n="1398">Si puit il l'aprendre d'autrui,</l>
+                <l xml:id="d001l1399" n="1399">Së il bien veut: tant saivë home</l>
+                <l xml:id="d001l1400" n="1400">Se trove en la cité de Rome.</l>
+                <l xml:id="d001l1401" n="1401">Là [se] trovent li cristïen</l>
+                <l xml:id="d001l1402" n="1402">E li judei e li pagen,</l>
+                <l xml:id="d001l1403" n="1403">Qi en lor lei poënt trover</l>
+                <l xml:id="d001l1404" n="1404">E par l'escriture prover,</l>
+                <l xml:id="d001l1405" n="1405">Qe toz ceus deus ne valont nient;</l>
+                <l xml:id="d001l1406" n="1406">E qi onqes de rein les creint,</l>
+                <l xml:id="d001l1407" n="1407">Si est fous, q'il ne puënt bien</l>
+                <l xml:id="d001l1408" n="1408">Faire à nus ne noisre de rein.</l>
+                <l xml:id="d001l1409" n="1409">E l'enperaor les aore</l>
+                <l xml:id="d001l1410" n="1410">Si come deus e les honore</l>
+                <l xml:id="d001l1411" n="1411">E veut, qe je[s] aüre ausi.</l>
+                <l xml:id="d001l1412" n="1412">Mes çe comant as deus e di:</l>
+                <l xml:id="d001l1413" n="1413">Së il me puënt onqes faire</l>
+                <l xml:id="d001l1414" n="1414">Ne villanie ne contraire,</l>
+                <l xml:id="d001l1415" n="1415">Ne rens nule, qi mals me face,</l>
+                <l xml:id="d001l1416" n="1416">Ci davant vos en ceste place,</l>
+                <l xml:id="d001l1417" n="1417">Le me face[nt] segurement.</l>
+                <l xml:id="d001l1418" n="1418">E ge preu Deu omnipotent,</l>
+                <l xml:id="d001l1419" n="1419">À qi je sui veraisse sposse,</l>
+                <l xml:id="d001l1420" n="1420">E la raïne gloriose,</l>
+                <l xml:id="d001l1421" n="1421">Qi est mere de Jesu Crist -</l>
+                <l xml:id="d001l1422" n="1422">Qi par l'apostre Saint Pol dist,</l>
+                <l xml:id="d001l1423" n="1423">Q'idole nulle conse esteit -</l>
+                <l xml:id="d001l1424" n="1424">Qe feu descende orendreit,</l>
+                <l xml:id="d001l1425" n="1425">Qi toz bruise les deus e arde</l>
+                <l xml:id="d001l1426" n="1426">Et eus e celui, qi les garde,</l>
+                <l xml:id="d001l1427" n="1427">Si qe rein nul[e] ne s'en troise</l>
+                <l xml:id="d001l1428" n="1428">Plus, qe jamés mostrer se puisse.»</l>
+                <l xml:id="d001l1429" n="1429">Quent Caterine oit ensi dit,</l>
+                <l xml:id="d001l1430" n="1430">Maintenant del cel descendit</l>
+                <l xml:id="d001l1431" n="1431">Une fouldre, qui toit bruissa,</l>
+                <l xml:id="d001l1432" n="1432">Si qe rein nulle no laissa</l>
+                <l xml:id="d001l1433" n="1433">Ne des colones ne des deus.</l>
+                <l xml:id="d001l1434" n="1434">E li prestre, qi as auteus</l>
+                <l xml:id="d001l1435" n="1435">Recevei[en]t lo sacrefize,</l>
+                <l xml:id="d001l1436" n="1436">E qi por faire lo servize</l>
+                <l xml:id="d001l1437" n="1437">S'este[ie]nt ja tuit apresté,</l>
+                <l xml:id="d001l1438" n="1438">Furent iloc ars e bruisé.</l>
+                <l xml:id="d001l1439" n="1439">Qant cil, qi à la cort estoient</l>
+                <l xml:id="d001l1440" n="1440">Venu e qi bien ce creoient,</l>
+                <l xml:id="d001l1441" n="1441">Q'il fusent deus veraisement,</l>
+                <l xml:id="d001l1442" n="1442">Les virent ars en un moment</l>
+                <l xml:id="d001l1443" n="1443">E bruisé come paille tuit,</l>
+                <l xml:id="d001l1444" n="1444">Ensi poudré et tot destruit,</l>
+                <l xml:id="d001l1445" n="1445">E virent la cendre en la place:</l>
+                <l xml:id="d001l1446" n="1446">N'en a si saive, qi se sace</l>
+                <l xml:id="d001l1447" n="1447">Conseiler e qi bien ni die:</l>
+                <l xml:id="d001l1448" n="1448">«Trop est Caterinë ardie,</l>
+                <l xml:id="d001l1449" n="1449">Qe nos a feit tal desenor.»</l>
+                <l xml:id="d001l1450" n="1450">Katerine respond: «Seignor,</l>
+                <l xml:id="d001l1451" n="1451">Bien crei, q'en cest palés ci sunt</l>
+                <l xml:id="d001l1452" n="1452">De le plus saive home del mund;</l>
+                <l xml:id="d001l1453" n="1453">Mais li sens, qi verais se trova,</l>
+                <l xml:id="d001l1454" n="1454">Au besoing se mostra e se prova;</l>
+                <l xml:id="d001l1455" n="1455">E tel i a, qi creit aveir</l>
+                <l xml:id="d001l1456" n="1456">Grand sens e mult cuide saveir,</l>
+                <l xml:id="d001l1457" n="1457">Që au besoing n'en a mie.</l>
+                <l xml:id="d001l1458" n="1458">Vos di, qe j'ai fat grand folie,</l>
+                <l xml:id="d001l1459" n="1459">Qi ai fait destruire voz deus;</l>
+                <l xml:id="d001l1460" n="1460">Mais en ceste tere a de teus,</l>
+                <l xml:id="d001l1461" n="1461">Qi le[s] vos savront meilor faire</l>
+                <l xml:id="d001l1462" n="1462">Qe les deus, qe j'ai fait desfaire.</l>
+                <l xml:id="d001l1463" n="1463">E por ce poëz vos savoir,</l>
+                <l xml:id="d001l1464" n="1464">Qel bonté il poënt avoir</l>
+                <l xml:id="d001l1465" n="1465">Le[s] voz deus, e qel deus ce sunt,</l>
+                <l xml:id="d001l1466" n="1466">Qe les homes font e desfont.</l>
+                <l xml:id="d001l1467" n="1467">Merveille est, qe vos ne creez</l>
+                <l xml:id="d001l1468" n="1468">Seveiaus nun ce, qe vos veez:</l>
+                <l xml:id="d001l1469" n="1469">Qi a boce e ne puet parler,</l>
+                <l xml:id="d001l1470" n="1470">E a peiz e ne puet ester,</l>
+                <l xml:id="d001l1471" n="1471">E meins e ne puet reins tenir:</l>
+                <l xml:id="d001l1472" n="1472">Qel deus devez vos [cel] tenir?</l>
+                <l xml:id="d001l1473" n="1473">Ge me merveil de vestre sens,</l>
+                <l xml:id="d001l1474" n="1474">O il est[oit], qant gë i pens.</l>
+                <l xml:id="d001l1475" n="1475">Ce qi no olt, ne veit, n'entent,</l>
+                <l xml:id="d001l1476" n="1476">Ne ne conoist rein, ne [ne] sent,</l>
+                <l xml:id="d001l1477" n="1477">Ne ne puet faire mal ne bien:</l>
+                <l xml:id="d001l1478" n="1478">Por qei le demandez vos rein?</l>
+                <l xml:id="d001l1479" n="1479">Tel deus ne voil je ja preier,</l>
+                <l xml:id="d001l1480" n="1480">Qe ne me puet de reins aider;</l>
+                <l xml:id="d001l1481" n="1481">Mais tenez vos au criator,</l>
+                <l xml:id="d001l1482" n="1482">Qi de tot le munde est seignor,</l>
+                <l xml:id="d001l1483" n="1483">E qi est deus veraisement</l>
+                <l xml:id="d001l1484" n="1484">E[n] tres persones solament;</l>
+                <l xml:id="d001l1485" n="1485">Tres persones en unité</l>
+                <l xml:id="d001l1486" n="1486">Et uns deus en la trinité.</l>
+                <l xml:id="d001l1487" n="1487">E est en tres persones dit</l>
+                <l xml:id="d001l1488" n="1488">Perë e filz e saint spirit;</l>
+                <l xml:id="d001l1489" n="1489">Mais la gloria est tota comuna,</l>
+                <l xml:id="d001l1490" n="1490">E la divinité tote una.</l>
+                <l xml:id="d001l1491" n="1491">N'i a plus de division</l>
+                <l xml:id="d001l1492" n="1492">De reins, se de persone non,</l>
+                <l xml:id="d001l1493" n="1493">Qi sunt treis, mas tut [li] treis sunt</l>
+                <l xml:id="d001l1494" n="1494">Un deus e une sposance unt.</l>
+                <l xml:id="d001l1495" n="1495">E ne sunt les persones teus,</l>
+                <l xml:id="d001l1496" n="1496">Qe l'en deie preier treis deus;</l>
+                <l xml:id="d001l1497" n="1497">Un sol deus deit hom reclamer,</l>
+                <l xml:id="d001l1498" n="1498">Ne deit hom pas tres deus nomer.</l>
+                <l xml:id="d001l1499" n="1499">Autre division n'i a</l>
+                <l xml:id="d001l1500" n="1500">Fors tant, qe le seignor manda</l>
+                <l xml:id="d001l1501" n="1501">Le filz por prendre carn humane,</l>
+                <l xml:id="d001l1502" n="1502">Por les armes traire de paine,</l>
+                <l xml:id="d001l1503" n="1503">Qi estoient por le pecé</l>
+                <l xml:id="d001l1504" n="1504">De q[ë] Adam aveit manjé</l>
+                <l xml:id="d001l1505" n="1505">Et Eva sanz comandament,</l>
+                <l xml:id="d001l1506" n="1506">Perdues pardurablement;</l>
+                <l xml:id="d001l1507" n="1507">Se Jesu Crist ne fust venu,</l>
+                <l xml:id="d001l1508" n="1508">Tot esteit le munde perdu.</l>
+                <l xml:id="d001l1509" n="1509">En une dame gloriose,</l>
+                <l xml:id="d001l1510" n="1510">Virgen la plus benëurose,</l>
+                <l xml:id="d001l1511" n="1511">Qi fust unqes ne jamés seit,</l>
+                <l xml:id="d001l1512" n="1512">E[n] Naçaret, o elle esteit,</l>
+                <l xml:id="d001l1513" n="1513">Descendi le Saint Espirit,</l>
+                <l xml:id="d001l1514" n="1514">Come l'angere li aveit dit;</l>
+                <l xml:id="d001l1515" n="1515">E l'aümbra la deïté</l>
+                <l xml:id="d001l1516" n="1516">E conçut le fileul de De.</l>
+                <l xml:id="d001l1517" n="1517">Virgen esteit e virgen cunçut,</l>
+                <l xml:id="d001l1518" n="1518">E tute[s] veges vergen fut,</l>
+                <l xml:id="d001l1519" n="1519">E verjen Yesu Crist porta</l>
+                <l xml:id="d001l1520" n="1520">El cors, e vergen enfanta.</l>
+                <l xml:id="d001l1521" n="1521">Virgen fut aprés e avant,</l>
+                <l xml:id="d001l1522" n="1522">E ancor trovez vos lisant</l>
+                <l xml:id="d001l1523" n="1523">Es estories de Rome escrit,</l>
+                <l xml:id="d001l1524" n="1524">Qe la noit, qe Yesu nasqit,</l>
+                <l xml:id="d001l1525" n="1525">Caïrent à tere les deus</l>
+                <l xml:id="d001l1526" n="1526">E de paiens e de judeus,</l>
+                <l xml:id="d001l1527" n="1527">E toz les cols se pecheïrent,</l>
+                <l xml:id="d001l1528" n="1528">Si qe les Romeins enveïrent</l>
+                <l xml:id="d001l1529" n="1529">As saives d'Atenes, savoir,</l>
+                <l xml:id="d001l1530" n="1530">Qe les deus poe[ie]nt aveir.</l>
+                <l xml:id="d001l1531" n="1531">La noit caï vostre palais,</l>
+                <l xml:id="d001l1532" n="1532">O les Romai[n]s el tens de pais</l>
+                <l xml:id="d001l1533" n="1533">Se soloient tuit asembler,</l>
+                <l xml:id="d001l1534" n="1534">Qant il se voloient asembler,</l>
+                <l xml:id="d001l1535" n="1535">Dunt un vostre demoine dist:</l>
+                <l xml:id="d001l1536" n="1536">"La noit, qe nascra Yesu Crist,</l>
+                <l xml:id="d001l1537" n="1537">E q'une vergen enfantera,</l>
+                <l xml:id="d001l1538" n="1538">Saciez bien, qe se defera</l>
+                <l xml:id="d001l1539" n="1539">Le paleis, qe vos avez fait,</l>
+                <l xml:id="d001l1540" n="1540">Ne ja einz ne sera desfait."</l>
+                <l xml:id="d001l1541" n="1541">E les Romeins distrent: "Huimeis</l>
+                <l xml:id="d001l1542" n="1542">Nos dura mot nostre paleis;</l>
+                <l xml:id="d001l1543" n="1543">Unqes mais ne se defera,</l>
+                <l xml:id="d001l1544" n="1544">Ne femme vergen enfantera."</l>
+                <l xml:id="d001l1545" n="1545">Ensi vint Yesu Crist en tere,</l>
+                <l xml:id="d001l1546" n="1546">Por pecheors solament qere;</l>
+                <l xml:id="d001l1547" n="1547">Qe tut estoient del pecei,</l>
+                <l xml:id="d001l1548" n="1548">Q'Adam avoit fait, enpecei,</l>
+                <l xml:id="d001l1549" n="1549">Qi d'Adam erent descendu.</l>
+                <l xml:id="d001l1550" n="1550">E ce, q' Adam aveit perdu,</l>
+                <l xml:id="d001l1551" n="1551">L'on saveit qe se recovrast</l>
+                <l xml:id="d001l1552" n="1552">Per une home, qe se trovast</l>
+                <l xml:id="d001l1553" n="1553">Toz munde e delivre de mal</l>
+                <l xml:id="d001l1554" n="1554">E del pecei original</l>
+                <l xml:id="d001l1555" n="1555">E chi por [pe]cheors morist.</l>
+                <l xml:id="d001l1556" n="1556">Por ce sofri mort Yesu Crist</l>
+                <l xml:id="d001l1557" n="1557">E por ce fu il en la croiz mis,</l>
+                <l xml:id="d001l1558" n="1558">Por traire d'enfer ses amis,</l>
+                <l xml:id="d001l1559" n="1559">Qi redencion atende[ie]nt;</l>
+                <l xml:id="d001l1560" n="1560">Që a cel tens [ja] descende[ie]nt</l>
+                <l xml:id="d001l1561" n="1561">Les buens e les maus ensement</l>
+                <l xml:id="d001l1562" n="1562">En enfer tuit comunalment.</l>
+                <l xml:id="d001l1563" n="1563">Mais por la mort, që il sofri,</l>
+                <l xml:id="d001l1564" n="1564">Si treist d'enfer tot sis ami.</l>
+                <l xml:id="d001l1565" n="1565">E au terz jor resusita</l>
+                <l xml:id="d001l1566" n="1566">Traiz d'enfer e toz en geta</l>
+                <l xml:id="d001l1567" n="1567">Le[s] suns amis, në onqes puis,</l>
+                <l xml:id="d001l1568" n="1568">Si comes ge leis e ge trois</l>
+                <l xml:id="d001l1569" n="1569">Es libres de divinité,</l>
+                <l xml:id="d001l1570" n="1570">N'oit li diable poësté</l>
+                <l xml:id="d001l1571" n="1571">Ne posançe sor cristïens;</l>
+                <l xml:id="d001l1572" n="1572">Mais l'ome, qant il ert paiens,</l>
+                <l xml:id="d001l1573" n="1573">Des qe tant q'il seit bateçee,</l>
+                <l xml:id="d001l1574" n="1574">Est ancor' autresi lïee</l>
+                <l xml:id="d001l1575" n="1575">De cel pecei original</l>
+                <l xml:id="d001l1576" n="1576">[E] de la prizon enfernal.</l>
+                <l xml:id="d001l1577" n="1577">À cel poëz vos bien savoir,</l>
+                <l xml:id="d001l1578" n="1578">Qe ce, qe je vos di, est veir,</l>
+                <l xml:id="d001l1579" n="1579">Qe vos avez asez vëu</l>
+                <l xml:id="d001l1580" n="1580">Tanz cristians, qi unt ëu</l>
+                <l xml:id="d001l1581" n="1581">Tel grace por la grant merite</l>
+                <l xml:id="d001l1582" n="1582">De lor ovres e de lor vite,</l>
+                <l xml:id="d001l1583" n="1583">Së un demoine est [en] un cors,</l>
+                <l xml:id="d001l1584" n="1584">Që il [l']en caçent bien de fors.</l>
+                <l xml:id="d001l1585" n="1585">E ceste poësté aveient</l>
+                <l xml:id="d001l1586" n="1586">Li sainz, qe Yesu Crist serveient,</l>
+                <l xml:id="d001l1587" n="1587">Qan[t] il aloient preïcher,</l>
+                <l xml:id="d001l1588" n="1588">De demoines poeir cacher</l>
+                <l xml:id="d001l1589" n="1589">E de curer enfermitez.</l>
+                <l xml:id="d001l1590" n="1590">Qant Yesu fu el ceil montez,</l>
+                <l xml:id="d001l1591" n="1591">Si manda li Saint Espirit,</l>
+                <l xml:id="d001l1592" n="1592">Qi de la deïtà essit,</l>
+                <l xml:id="d001l1593" n="1593">Por conforter les suens amis,</l>
+                <l xml:id="d001l1594" n="1594">Si come il lor aveit premis.</l>
+                <l xml:id="d001l1595" n="1595">E cant i[l] l'orent recëu,</l>
+                <l xml:id="d001l1596" n="1596">Qi eüst öu e vëu</l>
+                <l xml:id="d001l1597" n="1597">Les merveilles, që il faseient,</l>
+                <l xml:id="d001l1598" n="1598">E la vertu, që il aveient,</l>
+                <l xml:id="d001l1599" n="1599">Grant merveille pëust ve[e]ir</l>
+                <l xml:id="d001l1600" n="1600">De lor sens e de lor saveir.</l>
+                <l xml:id="d001l1601" n="1601">Qant Yesu Crist fu retornez</l>
+                <l xml:id="d001l1602" n="1602">Là sus, don il estoit nez,</l>
+                <l xml:id="d001l1603" n="1603">Ens en la glorie acueilli</l>
+                <l xml:id="d001l1604" n="1604">A ceus, qi l'avoient servi:</l>
+                <l xml:id="d001l1605" n="1605">Apostre, martiri, confesor</l>
+                <l xml:id="d001l1606" n="1606">E meint en i avra ancor,</l>
+                <l xml:id="d001l1607" n="1607">Qi saint e saintes deivent estre,</l>
+                <l xml:id="d001l1608" n="1608">De ceus, qi sunt ancore à neistre.</l>
+                <l xml:id="d001l1609" n="1609">Jameis ceus, qi à lui servunt,</l>
+                <l xml:id="d001l1610" n="1610">Mal ne dolor ne sentirunt.</l>
+                <l xml:id="d001l1611" n="1611">Tuit sunt come rei coroné,</l>
+                <l xml:id="d001l1612" n="1612">Si vestu e si atorné,</l>
+                <l xml:id="d001l1613" n="1613">Qe qi tot l'or del munde avreit,</l>
+                <l xml:id="d001l1614" n="1614">Ja n'en poreit hom n'en savreit</l>
+                <l xml:id="d001l1615" n="1615">Si atorner, comë il sunt,</l>
+                <l xml:id="d001l1616" n="1616">Që il a tot, qant il volunt;</l>
+                <l xml:id="d001l1617" n="1617">Ne ja mes ce ne lor faudra,</l>
+                <l xml:id="d001l1618" n="1618">Mais pardurablement durra.</l>
+                <l xml:id="d001l1619" n="1619">O mandame Sainte Marie</l>
+                <l xml:id="d001l1620" n="1620">Vi ge si belle compagnie</l>
+                <l xml:id="d001l1621" n="1621">De dames e de damisseles,</l>
+                <l xml:id="d001l1622" n="1622">Fresces, colorie[s] e belles,</l>
+                <l xml:id="d001l1623" n="1623">Si guarnie[s] e adornee[s]</l>
+                <l xml:id="d001l1624" n="1624">Come raïne[s] coronee[s],</l>
+                <l xml:id="d001l1625" n="1625">Castes virges, neites e pures,</l>
+                <l xml:id="d001l1626" n="1626">E de ce sunt eus bien segures,</l>
+                <l xml:id="d001l1627" n="1627">Qe ja mes mal ne sentirunt,</l>
+                <l xml:id="d001l1628" n="1628">Ne ceste glorie ne perdrunt.</l>
+                <l xml:id="d001l1629" n="1629">O le seignor sunt les arcangeres</l>
+                <l xml:id="d001l1630" n="1630">E la conpagnia des anjeres,</l>
+                <l xml:id="d001l1631" n="1631">Qi vont là, o il lor comande.</l>
+                <l xml:id="d001l1632" n="1632">E les autres, që il ne mande,</l>
+                <l xml:id="d001l1633" n="1633">Le servent de jor e de nuit;</l>
+                <l xml:id="d001l1634" n="1634">Nus n'est, qi de servir s'ennuit.</l>
+                <l xml:id="d001l1635" n="1635">A cel deit hom clamer merci,</l>
+                <l xml:id="d001l1636" n="1636">Qi est presentemente ici,</l>
+                <l xml:id="d001l1637" n="1637">E qi est en ceil e en tere.</l>
+                <l xml:id="d001l1638" n="1638">E qi o buen cuer le veut qere,</l>
+                <l xml:id="d001l1639" n="1639">E[n] toz les leus le trove tot,</l>
+                <l xml:id="d001l1640" n="1640">Là o il le reqert par tot.</l>
+                <l xml:id="d001l1641" n="1641">Le son servise pas ne pert,</l>
+                <l xml:id="d001l1642" n="1642">Qi à si glorios deu sert;</l>
+                <l xml:id="d001l1643" n="1643">Mult en atend aute merite.</l>
+                <l xml:id="d001l1644" n="1644">Mais en ceste presente vite</l>
+                <l xml:id="d001l1645" n="1645">Li convient [grant] peine sofrir</l>
+                <l xml:id="d001l1646" n="1646">Por Deu, qi à Deu veut venir.</l>
+                <l xml:id="d001l1647" n="1647">Besoing est, qe l'en se traveut</l>
+                <l xml:id="d001l1648" n="1648">Por qose, qe gaires ne vaut,</l>
+                <l xml:id="d001l1649" n="1649">Aincés qe l'en la puisse avoir:</l>
+                <l xml:id="d001l1650" n="1650">Autresi poëz vos savoir,</l>
+                <l xml:id="d001l1651" n="1651">Qe mult se convient travailler</l>
+                <l xml:id="d001l1652" n="1652">De jëuner e de veiller,</l>
+                <l xml:id="d001l1653" n="1653">De peine, de travail sofrir,</l>
+                <l xml:id="d001l1654" n="1654">Qi à la gloria veut venir</l>
+                <l xml:id="d001l1655" n="1655">Del paraïs, qe, qi l'avra,</l>
+                <l xml:id="d001l1656" n="1656">Seit bien, qe ja ne la perdra.</l>
+                <l xml:id="d001l1657" n="1657">Seignor, vos avez entendu,</l>
+                <l xml:id="d001l1658" n="1658">Qe raison je vos ai rendu</l>
+                <l xml:id="d001l1659" n="1659">Des deus, qi ne valoi[en]t rien.</l>
+                <l xml:id="d001l1660" n="1660">E vos meïsmes savez bien</l>
+                <l xml:id="d001l1661" n="1661">E conoisez, qes deus ce sunt,</l>
+                <l xml:id="d001l1662" n="1662">Qe les homes font e desfunt.</l>
+                <l xml:id="d001l1663" n="1663">Cum puet estre ne deu ne saint</l>
+                <l xml:id="d001l1664" n="1664">E[n] ce leigne portrait e peint</l>
+                <l xml:id="d001l1665" n="1665">Por ce, q'il a pieç e oreilles?</l>
+                <l xml:id="d001l1666" n="1666">Si creez, q'il face merveilles.</l>
+                <l xml:id="d001l1667" n="1667">E puis creez, q'il vos sosteigne,</l>
+                <l xml:id="d001l1668" n="1668">Ce leigne, e që il vos manteigne.</l>
+                <l xml:id="d001l1669" n="1669">Se ce fust ore une peinture,</l>
+                <l xml:id="d001l1670" n="1670">Qi fust traitë à la fature,</l>
+                <l xml:id="d001l1671" n="1671">Si com j'en ai veüe mainte,</l>
+                <l xml:id="d001l1672" n="1672">D'un de ces sainz o d'une sainte,</l>
+                <l xml:id="d001l1673" n="1673">O une belle croiz bien faite,</l>
+                <l xml:id="d001l1674" n="1674">Bien entailé' e bien portraite,</l>
+                <l xml:id="d001l1675" n="1675">Por la passion recorder,</l>
+                <l xml:id="d001l1676" n="1676">Qe Deus sofri por nos sauver,</l>
+                <l xml:id="d001l1677" n="1677">Sil poreit Deus tenir por bien;</l>
+                <l xml:id="d001l1678" n="1678">Mais de ce ne creez vos rien.</l>
+                <l xml:id="d001l1679" n="1679">Ne encore ne vos di ge mie,</l>
+                <l xml:id="d001l1680" n="1680">Qe je voille unqe, qe l'en die,</l>
+                <l xml:id="d001l1681" n="1681">Qe l'en d[e]ie en nulla mesura</l>
+                <l xml:id="d001l1682" n="1682">En ymeje në in pentura</l>
+                <l xml:id="d001l1683" n="1683">Aveir ne fei ne [e]sperança;</l>
+                <l xml:id="d001l1684" n="1684">Mais la fait hom per recordança</l>
+                <l xml:id="d001l1685" n="1685">Del saint, en chi honor est faite</l>
+                <l xml:id="d001l1686" n="1686">L'imaje e la forma portraite.</l>
+                <l xml:id="d001l1687" n="1687">La croiz deit hom palesement</l>
+                <l xml:id="d001l1688" n="1688">Aorer e devotament,</l>
+                <l xml:id="d001l1689" n="1689">Qe por nostre redencion</l>
+                <l xml:id="d001l1690" n="1690">Sofri Yesu Crist passion</l>
+                <l xml:id="d001l1691" n="1691">En la croiz, e en la croiz fu</l>
+                <l xml:id="d001l1692" n="1692">Le noistre aversarie vencu.</l>
+                <l xml:id="d001l1693" n="1693">Cil, qi fereit à bone fey</l>
+                <l xml:id="d001l1694" n="1694">Le seigne de la croiz sor sei</l>
+                <l xml:id="d001l1695" n="1695">E direit çascuns jor eissi:</l>
+                <l xml:id="d001l1696" n="1696">"Sire Deu, Yesu Crist, merci,</l>
+                <l xml:id="d001l1697" n="1697">Qi degnas prendre forme umane</l>
+                <l xml:id="d001l1698" n="1698">Por nos armes traire de paine</l>
+                <l xml:id="d001l1699" n="1699">E por nos passion sofrir</l>
+                <l xml:id="d001l1700" n="1700">En la croiz e por nos garir</l>
+                <l xml:id="d001l1701" n="1701">De morir: si come gel croi,</l>
+                <l xml:id="d001l1702" n="1702">Eissi aiez merci de moy -"</l>
+                <l xml:id="d001l1703" n="1703">E direit "pater noster" aprés:</l>
+                <l xml:id="d001l1704" n="1704">Jamais ne moreit descunfés.</l>
+                <l xml:id="d001l1705" n="1705">Volez esauzer ceste cort:</l>
+                <l xml:id="d001l1706" n="1706">Ein[z] qe l'enperaor s'en tort,</l>
+                <l xml:id="d001l1707" n="1707">Clamez à Jesu Crist merci</l>
+                <l xml:id="d001l1708" n="1708">E recevez batesme ici</l>
+                <l xml:id="d001l1709" n="1709">E la fey de cristïentà</l>
+                <l xml:id="d001l1710" n="1710">En un deu en la trinità,</l>
+                <l xml:id="d001l1711" n="1711">Perë e filz e saint spirit!</l>
+                <l xml:id="d001l1712" n="1712">Amen.» Qant elë ot ce dit,</l>
+                <l xml:id="d001l1713" n="1713">Si se leverent toz premiers</l>
+                <l xml:id="d001l1714" n="1714">De dames e de civaliers</l>
+                <l xml:id="d001l1715" n="1715">Tant, qe je ne [les] sai conter,</l>
+                <l xml:id="d001l1716" n="1716">Ne ne poroie reconter</l>
+                <l xml:id="d001l1717" n="1717">Le nunbre autresi d'autre jent,</l>
+                <l xml:id="d001l1718" n="1718">Qi se leverent ensement;</l>
+                <l xml:id="d001l1719" n="1719">E crïent tuit à une voiz:</l>
+                <l xml:id="d001l1720" n="1720">«Nos volum aorer la croiz</l>
+                <l xml:id="d001l1721" n="1721">E tenir por deu Yesu Crist,</l>
+                <l xml:id="d001l1722" n="1722">Si come Caterina dist,</l>
+                <l xml:id="d001l1723" n="1723">En un deu, en la trinité.</l>
+                <l xml:id="d001l1724" n="1724">E demandem cristïenté</l>
+                <l xml:id="d001l1725" n="1725">E la fey, si com' el' a dite.</l>
+                <l xml:id="d001l1726" n="1726">Jamés ne por mort ne por vite</l>
+                <l xml:id="d001l1727" n="1727">Ne nos pora home partir</l>
+                <l xml:id="d001l1728" n="1728">Da Deu omnipotent servir;</l>
+                <l xml:id="d001l1729" n="1729">Mais por l'amor de ceil seignor,</l>
+                <l xml:id="d001l1730" n="1730">Qi sofri mort per nostre amor,</l>
+                <l xml:id="d001l1731" n="1731">Volum volumtier sostenir</l>
+                <l xml:id="d001l1732" n="1732">Tot, qant qe nos puet avenir.»</l>
+                <l xml:id="d001l1733" n="1733">L'emperaor a entendu,</l>
+                <l xml:id="d001l1734" n="1734">Si come cez ont respondu,</l>
+                <l xml:id="d001l1735" n="1735">E comande, q'il seient pris,</l>
+                <l xml:id="d001l1736" n="1736">Et un feu de spines espris,</l>
+                <l xml:id="d001l1737" n="1737">E seient tuit ars maintenant.</l>
+                <l xml:id="d001l1738" n="1738">E Caterina tot avant</l>
+                <l xml:id="d001l1739" n="1739">Seit lïee, batue e prise</l>
+                <l xml:id="d001l1740" n="1740">E en destreite prison mise.</l>
+                <l xml:id="d001l1741" n="1741">Lors fut la cort desbaratee,</l>
+                <l xml:id="d001l1742" n="1742">E la jent, qi s'ert aprestee</l>
+                <l xml:id="d001l1743" n="1743">De mener joie e alegreçe,</l>
+                <l xml:id="d001l1744" n="1744">Mena grand duel e grant grameçe.</l>
+                <l xml:id="d001l1745" n="1745">Ancor' est à Rome retraite,</l>
+                <l xml:id="d001l1746" n="1746">Qe tel duel ne fu unqes faite,</l>
+                <l xml:id="d001l1747" n="1747">Cum fu lors en cella cité.</l>
+                <l xml:id="d001l1748" n="1748">Cel jor en i furent conté</l>
+                <l xml:id="d001l1749" n="1749">Per numbre plus de quatre mil</l>
+                <l xml:id="d001l1750" n="1750">[E] erent por es l'età cil,</l>
+                <l xml:id="d001l1751" n="1751">Qi estoient major tenu,</l>
+                <l xml:id="d001l1752" n="1752">Qi erent à la cort venu,</l>
+                <l xml:id="d001l1753" n="1753">Qi tuit furent pris e lïei,</l>
+                <l xml:id="d001l1754" n="1754">L'uns ars, l'autre crucifïei,</l>
+                <l xml:id="d001l1755" n="1755">L'uns escorçei e l'autre ocis,</l>
+                <l xml:id="d001l1756" n="1756">Qi batu, qi lïei, qi pris.</l>
+                <l xml:id="d001l1757" n="1757">Dames, pulceles i aveit</l>
+                <l xml:id="d001l1758" n="1758">Tant, qe nus numbrer ne[s] savoit.</l>
+                <l xml:id="d001l1759" n="1759">Tutes furent martirïees,</l>
+                <l xml:id="d001l1760" n="1760">Arses, occises, escorcees,</l>
+                <l xml:id="d001l1761" n="1761">Batues, lïees [e] prises</l>
+                <l xml:id="d001l1762" n="1762">E tute[s] vives el feu mises.</l>
+                <l xml:id="d001l1763" n="1763">L'une ert morte, l'autre desfaite.</l>
+                <l xml:id="d001l1764" n="1764">Là veïsez la leingue traite</l>
+                <l xml:id="d001l1765" n="1765">À l'une, à l'autre le mamelle,</l>
+                <l xml:id="d001l1766" n="1766">Tante vergene e tant[e] pulcelle</l>
+                <l xml:id="d001l1767" n="1767">Martirïer e tant aflire,</l>
+                <l xml:id="d001l1768" n="1768">Qe nul home nel savroit dire.</l>
+                <l xml:id="d001l1769" n="1769">Sainte Caterine estoit prise,</l>
+                <l xml:id="d001l1770" n="1770">En la fond d'une tore mise,</l>
+                <l xml:id="d001l1771" n="1771">O nul homme veoit negote.</l>
+                <l xml:id="d001l1772" n="1772">De[s] qu' als esseles estoit tote</l>
+                <l xml:id="d001l1773" n="1773">En un puiz, qi estoit dedenz,</l>
+                <l xml:id="d001l1774" n="1774">Plein de vermine e de serpenz.</l>
+                <l xml:id="d001l1775" n="1775">Ge nel trovai pas en escrit,</l>
+                <l xml:id="d001l1776" n="1776">Mais bien me fu à Rome dit</l>
+                <l xml:id="d001l1777" n="1777">D'un Romein, qi bien le saveit</l>
+                <l xml:id="d001l1778" n="1778">E qi en Alexandre aveit</l>
+                <l xml:id="d001l1779" n="1779">Asez lonjement sojorné,</l>
+                <l xml:id="d001l1780" n="1780">El s' en estoit lor retorné:</l>
+                <l xml:id="d001l1781" n="1781">Si tost com' il fu en la tor,</l>
+                <l xml:id="d001l1782" n="1782">Qe les barbeqenes d'entor</l>
+                <l xml:id="d001l1783" n="1783">Fundirent, e le fondament</l>
+                <l xml:id="d001l1784" n="1784">De la tor fundi ensement.</l>
+                <l xml:id="d001l1785" n="1785">Et en ce qe la tor caï,</l>
+                <l xml:id="d001l1786" n="1786">Le ceuf de la tor se fendi,</l>
+                <l xml:id="d001l1787" n="1787">Si qe Caterine à dreiture</l>
+                <l xml:id="d001l1788" n="1788">S'en issi fors par aventure.</l>
+                <l xml:id="d001l1789" n="1789">Mais le[s] gardes, qi la gardoient,</l>
+                <l xml:id="d001l1790" n="1790">Qi defors de la tor estoient,</l>
+                <l xml:id="d001l1791" n="1791">La troverent for e la prist[r]ent</l>
+                <l xml:id="d001l1792" n="1792">E en autre prison la mistrent,</l>
+                <l xml:id="d001l1793" n="1793">O il fasoit meilor ester.</l>
+                <l xml:id="d001l1794" n="1794">Bien vee[i]t hom en cel monter</l>
+                <l xml:id="d001l1795" n="1795">Les angeres manifestement</l>
+                <l xml:id="d001l1796" n="1796">E descendre les ensement,</l>
+                <l xml:id="d001l1797" n="1797">Qi celes armes recev[oi]ent</l>
+                <l xml:id="d001l1798" n="1798">De ceus, qil martire sofroient</l>
+                <l xml:id="d001l1799" n="1799">E qi por Deu mort recev[oi]ent.</l>
+                <l xml:id="d001l1800" n="1800">De la joie, që il menoient,</l>
+                <l xml:id="d001l1801" n="1801">En la carcre aveit si dulz çant,</l>
+                <l xml:id="d001l1802" n="1802">Luminare e clarté si grant,</l>
+                <l xml:id="d001l1803" n="1803">Qe si tut li cirge del mund</l>
+                <l xml:id="d001l1804" n="1804">Fuisent tuit espris en un mont,</l>
+                <l xml:id="d001l1805" n="1805">Ne se pëust la migté faire</l>
+                <l xml:id="d001l1806" n="1806">De clarté ne de luminaire,</l>
+                <l xml:id="d001l1807" n="1807">Qi dedenz la prison aveit,</l>
+                <l xml:id="d001l1808" n="1808">O Sainte Caterine esteit.</l>
+                <l xml:id="d001l1809" n="1809">Les e ceus, që oï l'aveient,</l>
+                <l xml:id="d001l1810" n="1810">Beneïs[ei]ent e löeient</l>
+                <l xml:id="d001l1811" n="1811">Jesu Crist, e se convertirent</l>
+                <l xml:id="d001l1812" n="1812">Plus de mil, qi por Deu sofrirent</l>
+                <l xml:id="d001l1813" n="1813">Martire, qi l'enperaor</l>
+                <l xml:id="d001l1814" n="1814">Fist toz martirier en un jor.</l>
+                <l xml:id="d001l1815" n="1815">Ge ne [vos] voil fors solement</l>
+                <l xml:id="d001l1816" n="1816">Qe conter l'ystorie briément</l>
+                <l xml:id="d001l1817" n="1817">E la somme dire au plus cort,</l>
+                <l xml:id="d001l1818" n="1818">Qe je puis. Ceus, qi à la cort</l>
+                <l xml:id="d001l1819" n="1819">Erent venu bien adorné,</l>
+                <l xml:id="d001l1820" n="1820">Aveient ja tant sijorné,</l>
+                <l xml:id="d001l1821" n="1821">Q'i[l] avoient tot espendu</l>
+                <l xml:id="d001l1822" n="1822">E tot creancei e vendu</l>
+                <l xml:id="d001l1823" n="1823">Cil, q'il avoient aporté,</l>
+                <l xml:id="d001l1824" n="1824">E erant tuit desconforté.</l>
+                <l xml:id="d001l1825" n="1825">De lome n'i ert mais qe despendre,</l>
+                <l xml:id="d001l1826" n="1826">E solement por congé prendre</l>
+                <l xml:id="d001l1827" n="1827">Vindrent devant l'enperaor</l>
+                <l xml:id="d001l1828" n="1828">Li plus aut home e li major</l>
+                <l xml:id="d001l1829" n="1829">E distrent, c'aler s'en voloient,</l>
+                <l xml:id="d001l1830" n="1830">E q' autre seignor ne soloient</l>
+                <l xml:id="d001l1831" n="1831">Tenir plus lonjement lor corz</l>
+                <l xml:id="d001l1832" n="1832">Qe de treis o de qatre jorz;</l>
+                <l xml:id="d001l1833" n="1833">E qi unqes la teneit plus,</l>
+                <l xml:id="d001l1834" n="1834">Ne la teneit plus d'uit jor nus.</l>
+                <l xml:id="d001l1835" n="1835">E il i aveient esté</l>
+                <l xml:id="d001l1836" n="1836">Plus de dous meis bien a pasé.</l>
+                <l xml:id="d001l1837" n="1837">Or n'avaient plus qe despendre,</l>
+                <l xml:id="d001l1838" n="1838">Si voloient el conjei prendre.</l>
+                <l xml:id="d001l1839" n="1839">L'enperaor lor respondit</l>
+                <l xml:id="d001l1840" n="1840">E loir a corteisement dit:</l>
+                <l xml:id="d001l1841" n="1841">«Seignor, vos avez bien vëu,</l>
+                <l xml:id="d001l1842" n="1842">Quel desenor j'ai recëu:</l>
+                <l xml:id="d001l1843" n="1843">Unqes mais tel ne la reçui</l>
+                <l xml:id="d001l1844" n="1844">Ne si desonoré ne fui.</l>
+                <l xml:id="d001l1845" n="1845">E Caterina l'a tot fait,</l>
+                <l xml:id="d001l1846" n="1846">E sunt por lei mort e desfait</l>
+                <l xml:id="d001l1847" n="1847">Li plus aut home de l'enpere,</l>
+                <l xml:id="d001l1848" n="1848">Tant qe tot le mont en est pire.</l>
+                <l xml:id="d001l1849" n="1849">Por moiller la cueidei' aveir;</l>
+                <l xml:id="d001l1850" n="1850">Or n'i vaut forçe ne savoir,</l>
+                <l xml:id="d001l1851" n="1851">N'i vaut promise ne menaçe,</l>
+                <l xml:id="d001l1852" n="1852">Ne bien ne mal, qe l'om li face,</l>
+                <l xml:id="d001l1853" n="1853">Q'unqes parole en voille entend[r]e.</l>
+                <l xml:id="d001l1854" n="1854">Por ce l'ai fait lïer e prendre,</l>
+                <l xml:id="d001l1855" n="1855">Batre e tormenter e aflire</l>
+                <l xml:id="d001l1856" n="1856">De mainte guise de martire.</l>
+                <l xml:id="d001l1857" n="1857">Mais si entent de Caterine,</l>
+                <l xml:id="d001l1858" n="1858">Q'ele a une soe cosine,</l>
+                <l xml:id="d001l1859" n="1859">Proz e saive, cortoise e belle,</l>
+                <l xml:id="d001l1860" n="1860">Et est encor virgen pulcelle,</l>
+                <l xml:id="d001l1861" n="1861">À qi la teire deit venir,</l>
+                <l xml:id="d001l1862" n="1862">Des q'ele ne lla veut tenir.</l>
+                <l xml:id="d001l1863" n="1863">Or la voil toudre por moiller,</l>
+                <l xml:id="d001l1864" n="1864">Se vos m'i volez conseiler.</l>
+                <l xml:id="d001l1865" n="1865">E puis vos pa[r]tiroiz de ci,</l>
+                <l xml:id="d001l1866" n="1866">E vos en preu, vostre merci,</l>
+                <l xml:id="d001l1867" n="1867">Toz ensenble e ças[c]uns por soy,</l>
+                <l xml:id="d001l1868" n="1868">Qe vos esteiz ci tant o moi</l>
+                <l xml:id="d001l1869" n="1869">Solament encor, qe cist plait,</l>
+                <l xml:id="d001l1870" n="1870">Që aroit de faire, seit feit.»</l>
+                <l xml:id="d001l1871" n="1871">À toz ploit molt ce, që il dit;</l>
+                <l xml:id="d001l1872" n="1872">Et il ce, q'il oit dit, si fist:</l>
+                <l xml:id="d001l1873" n="1873">Maintenant en cele semeine,</l>
+                <l xml:id="d001l1874" n="1874">Segond la costume romaine,</l>
+                <l xml:id="d001l1875" n="1875">A la damoisele esposee</l>
+                <l xml:id="d001l1876" n="1876">Et el paleis major menee,</l>
+                <l xml:id="d001l1877" n="1877">E li fist por li conforter</l>
+                <l xml:id="d001l1878" n="1878">Corone enperial porter,</l>
+                <l xml:id="d001l1879" n="1879">E fu servie e onoree</l>
+                <l xml:id="d001l1880" n="1880">Come reïne corone[e];</l>
+                <l xml:id="d001l1881" n="1881">E [si] furent tuit resbaudi</l>
+                <l xml:id="d001l1882" n="1882">Cel jor meïsme, qe je di.</l>
+                <l xml:id="d001l1883" n="1883">Si tost com' il orent manjei,</l>
+                <l xml:id="d001l1884" n="1884">Pristrent li civalier conjey</l>
+                <l xml:id="d001l1885" n="1885">D'ensir fors por eus deporter</l>
+                <l xml:id="d001l1886" n="1886">. . . . . . . . . . . . . . . . . . . . . . .</l>
+                <l xml:id="d001l1887" n="1887">La carcer, o Caterine esteit,</l>
+                <l xml:id="d001l1888" n="1888">Ert en tel leu, qe l'e[n] pöeit</l>
+                <l xml:id="d001l1889" n="1889">De la cambre de la reïne</l>
+                <l xml:id="d001l1890" n="1890">Descendre jus à Caterine,</l>
+                <l xml:id="d001l1891" n="1891">Qe nul del paleis nel veeit,</l>
+                <l xml:id="d001l1892" n="1892">Se la reïne nol voleit.</l>
+                <l xml:id="d001l1893" n="1893">E qant la reïna le soit,</l>
+                <l xml:id="d001l1894" n="1894">Qe tote[s] voies in pens' oit,</l>
+                <l xml:id="d001l1895" n="1895">Si manda maintenant un mes</l>
+                <l xml:id="d001l1896" n="1896">A l'emperaor al pelés,</l>
+                <l xml:id="d001l1897" n="1897">Q'ele molt voluntiers vereit</l>
+                <l xml:id="d001l1898" n="1898">Caterine, se li plaseit,</l>
+                <l xml:id="d001l1899" n="1899">E l'en a conjé domandé.</l>
+                <l xml:id="d001l1900" n="1900">Lors a l'emperaor mandé</l>
+                <l xml:id="d001l1901" n="1901">Un suen conestable Porfire</l>
+                <l xml:id="d001l1902" n="1902">E mande la reïne a dire,</l>
+                <l xml:id="d001l1903" n="1903">Q'ele i voist tot prive[e]ment;</l>
+                <l xml:id="d001l1904" n="1904">Dous dames o treis solement</l>
+                <l xml:id="d001l1905" n="1905">Puet, s'ele veut, o soi mener,</l>
+                <l xml:id="d001l1906" n="1906">Si la prie de tost torner.</l>
+                <l xml:id="d001l1907" n="1907">La reïne descende jus.</l>
+                <l xml:id="d001l1908" n="1908">Tres dames solament sanz plus</l>
+                <l xml:id="d001l1909" n="1909">E Porfire là feit venir,</l>
+                <l xml:id="d001l1910" n="1910">Qe li a feit la carcer ovrir.</l>
+                <l xml:id="d001l1911" n="1911">Qant Caterine l'a vëue,</l>
+                <l xml:id="d001l1912" n="1912">Alegrement l'a recëue.</l>
+                <l xml:id="d001l1913" n="1913">Iloc aveit tel luminaire,</l>
+                <l xml:id="d001l1914" n="1914">L'enperaor ne puit faire</l>
+                <l xml:id="d001l1915" n="1915">Ne tot li home de l'enpere</l>
+                <l xml:id="d001l1916" n="1916">Tel luminaire, com' il ere.</l>
+                <l xml:id="d001l1917" n="1917">E li aveit si grant odor,</l>
+                <l xml:id="d001l1918" n="1918">Q'unqes nel faroient major</l>
+                <l xml:id="d001l1919" n="1919">Totes les espices del mond,</l>
+                <l xml:id="d001l1920" n="1920">Se fusent tutes en un mond.</l>
+                <l xml:id="d001l1921" n="1921">La reïna li demanda,</l>
+                <l xml:id="d001l1922" n="1922">Qi ces espices li manda,</l>
+                <l xml:id="d001l1923" n="1923">Qi rendoient si grand odor,</l>
+                <l xml:id="d001l1924" n="1924">C'umqes mais ne senti major.</l>
+                <l xml:id="d001l1925" n="1925">Lors li respondi Caterine</l>
+                <l xml:id="d001l1926" n="1926">E li a dit: «Belle cosine,</l>
+                <l xml:id="d001l1927" n="1927">Celui, qe por moiller m'a prise,</l>
+                <l xml:id="d001l1928" n="1928">Por qi je sui en prison mise,</l>
+                <l xml:id="d001l1929" n="1929">E cui je sui veraise sponse,</l>
+                <l xml:id="d001l1930" n="1930">E la roïne gloriose,</l>
+                <l xml:id="d001l1931" n="1931">Sa mere, le me font ci faire</l>
+                <l xml:id="d001l1932" n="1932">Ceste odor e cest luminaire</l>
+                <l xml:id="d001l1933" n="1933">E me funt servir richement,</l>
+                <l xml:id="d001l1934" n="1934">Q'autre servise n'est nïent.</l>
+                <l xml:id="d001l1935" n="1935">E a nïent retorne e veint</l>
+                <l xml:id="d001l1936" n="1936">For ce, qe de Yesu Crist vient.</l>
+                <l xml:id="d001l1937" n="1937">Autre joie e autre alegrece</l>
+                <l xml:id="d001l1938" n="1938">Torne à dolor e à gramece.</l>
+                <l xml:id="d001l1939" n="1939">Mais cel' est la joie segure,</l>
+                <l xml:id="d001l1940" n="1940">Qe de Deu vient e toz jor[s] dure.</l>
+                <l xml:id="d001l1941" n="1941">Por ce te di, belle cosine,</l>
+                <l xml:id="d001l1942" n="1942">Si tu es orendroit reïne,</l>
+                <l xml:id="d001l1943" n="1943">Forse che demain ne seras,</l>
+                <l xml:id="d001l1944" n="1944">Car par aventure moras</l>
+                <l xml:id="d001l1945" n="1945">O l'emperaor se mora.</l>
+                <l xml:id="d001l1946" n="1946">Or pensa donc, qe te vaudra</l>
+                <l xml:id="d001l1947" n="1947">L'onor, qe tu avras ëu,</l>
+                <l xml:id="d001l1948" n="1948">Se tu l'avras si tost perdu!</l>
+                <l xml:id="d001l1949" n="1949">Cel' onor deiz tu recovrer,</l>
+                <l xml:id="d001l1950" n="1950">Qi toz jor[s] meis te puet durer.</l>
+                <l xml:id="d001l1951" n="1951">Tu as ja vëu, qe j'aveie</l>
+                <l xml:id="d001l1952" n="1952">Belles vestëures de seye,</l>
+                <l xml:id="d001l1953" n="1953">Belles joies e grant tresor,</l>
+                <l xml:id="d001l1954" n="1954">Mo garde, qe tot m'en valt or:</l>
+                <l xml:id="d001l1955" n="1955">Or' ai une povre camise</l>
+                <l xml:id="d001l1956" n="1956">E sui en ceste prison mise;</l>
+                <l xml:id="d001l1957" n="1957">Tel est la joie de cest munde!</l>
+                <l xml:id="d001l1958" n="1958">Molt s'apuize à mavaise sponde,</l>
+                <l xml:id="d001l1959" n="1959">Qi as richeces de cest mund</l>
+                <l xml:id="d001l1960" n="1960">S'apuia, qi si tost s'en vont.</l>
+                <l xml:id="d001l1961" n="1961">Se j'aüse le meilor home,</l>
+                <l xml:id="d001l1962" n="1962">Qi seit el enpire de Rome,</l>
+                <l xml:id="d001l1963" n="1963">Deus ainz o .§{XX}., qe me vaudreit?</l>
+                <l xml:id="d001l1964" n="1964">Qe laiser le m'en convendreit,</l>
+                <l xml:id="d001l1965" n="1965">E ge, qe seroie meilor?</l>
+                <l xml:id="d001l1966" n="1966">Ge me moroie de dolor</l>
+                <l xml:id="d001l1967" n="1967">Au departir e de grameçe,</l>
+                <l xml:id="d001l1968" n="1968">Ne jamés n'avroie alegreçe.</l>
+                <l xml:id="d001l1969" n="1969">Qi veut à Yesu Crist venir,</l>
+                <l xml:id="d001l1970" n="1970">Si deit ce, q'il ne puet tenir,</l>
+                <l xml:id="d001l1971" n="1971">Laisser e fer si li estoit</l>
+                <l xml:id="d001l1972" n="1972">Malgré suen, qe tenir nel puet.</l>
+                <l xml:id="d001l1973" n="1973">Por ce n'i voil metre m'amor,</l>
+                <l xml:id="d001l1974" n="1974">Ainz voil servir à muen seignor;</l>
+                <l xml:id="d001l1975" n="1975">Qe qi la suen gracë avra,</l>
+                <l xml:id="d001l1976" n="1976">Ja penser ne li estovra</l>
+                <l xml:id="d001l1977" n="1977">De toz, qe ja li soit beisoing.</l>
+                <l xml:id="d001l1978" n="1978">E ge n'ai d'autre gracie soinz</l>
+                <l xml:id="d001l1979" n="1979">Fors de la soe solement,</l>
+                <l xml:id="d001l1980" n="1980">Që autre richeçe est nïent,</l>
+                <l xml:id="d001l1981" n="1981">Mes est autresi come un sonje;</l>
+                <l xml:id="d001l1982" n="1982">Qe l'om, qant il dorme, il se sonje</l>
+                <l xml:id="d001l1983" n="1983">D'aver cel, q'il avra pensé</l>
+                <l xml:id="d001l1984" n="1984">L'autre jor, qi est trespasé;</l>
+                <l xml:id="d001l1985" n="1985">E qant il sera resveilei:</l>
+                <l xml:id="d001l1986" n="1986">E de qant, q'il avra sonjei,</l>
+                <l xml:id="d001l1987" n="1987">Ne puet meis nulle reins aveir.</l>
+                <l xml:id="d001l1988" n="1988">Ausi est, ce poez tu saveir,</l>
+                <l xml:id="d001l1989" n="1989">Le bien, qe tu as ci ëu,</l>
+                <l xml:id="d001l1990" n="1990">Com se tu l'aveses vëu</l>
+                <l xml:id="d001l1991" n="1991">En un sonje, non autrement.</l>
+                <l xml:id="d001l1992" n="1992">Recorder t'en puet solement,</l>
+                <l xml:id="d001l1993" n="1993">Con il te recorde d'un sonje,</l>
+                <l xml:id="d001l1994" n="1994">Ne sez, s'est veir o s'est mensogne.»</l>
+                <l xml:id="d001l1995" n="1995">La reïne piçola dist:</l>
+                <l xml:id="d001l1996" n="1996">«Preion lo seignor Jesu Crist,</l>
+                <l xml:id="d001l1997" n="1997">Qi me meite en la dreite v[e]ie;</l>
+                <l xml:id="d001l1998" n="1998">Qe saces bien, qe, sel saveie</l>
+                <l xml:id="d001l1999" n="1999">La plus segure veie exlire:</l>
+                <l xml:id="d001l2000" n="2000">Por estre dame de l'enpere</l>
+                <l xml:id="d001l2001" n="2001">Ne m'en fereit neguns partir,</l>
+                <l xml:id="d001l2002" n="2002">Se je la saveie tenir.»</l>
+                <l xml:id="d001l2003" n="2003">Lor se jeta en oreison</l>
+                <l xml:id="d001l2004" n="2004">El paviment de la prison</l>
+                <l xml:id="d001l2005" n="2005">E preie Deu devotement</l>
+                <l xml:id="d001l2006" n="2006">Caterina palesement.</l>
+                <l xml:id="d001l2007" n="2007">Devant la reïne s'escrie:</l>
+                <l xml:id="d001l2008" n="2008">«Ai, madame Sainte Marie,</l>
+                <l xml:id="d001l2009" n="2009">Virgen, gloriose pulcelle,</l>
+                <l xml:id="d001l2010" n="2010">Regarde ceste toe ancelle;</l>
+                <l xml:id="d001l2011" n="2011">Dame, done li ton confort,</l>
+                <l xml:id="d001l2012" n="2012">Qe ne per vite ne por mort</l>
+                <l xml:id="d001l2013" n="2013">Del seignor ne s'en parte mas;</l>
+                <l xml:id="d001l2014" n="2014">A tei la comant e la las!»</l>
+                <l xml:id="d001l2015" n="2015">Qant el' oit s' oreison fenie,</l>
+                <l xml:id="d001l2016" n="2016">Si s'est la reïne endormie,</l>
+                <l xml:id="d001l2017" n="2017">E le spirite fo porté</l>
+                <l xml:id="d001l2018" n="2018">Là sus, o [ja] aveit esté</l>
+                <l xml:id="d001l2019" n="2019">Caterine, e l' angere la mist</l>
+                <l xml:id="d001l2020" n="2020">Devant les peiz de Yesu Crist.</l>
+                <l xml:id="d001l2021" n="2021">[E] tot, qant i vit Caterine,</l>
+                <l xml:id="d001l2022" n="2022">Si fu mostré à la reïne.</l>
+                <l xml:id="d001l2023" n="2023">E qi tot vos voldreit retraire,</l>
+                <l xml:id="d001l2024" n="2024">Q'ele vit, molt avreit à faire.</l>
+                <l xml:id="d001l2025" n="2025">Tot li fu mostré, e tot vit,</l>
+                <l xml:id="d001l2026" n="2026">E li a un des angeres dit:</l>
+                <l xml:id="d001l2027" n="2027">«Reïne, cest est li reis ci,</l>
+                <l xml:id="d001l2028" n="2028">Qi sera huimés to mari.</l>
+                <l xml:id="d001l2029" n="2029">De sa mein seras coronee,</l>
+                <l xml:id="d001l2030" n="2030">Ceste corone t'a donee</l>
+                <l xml:id="d001l2031" n="2031">E ceste glorie apareillee.»</l>
+                <l xml:id="d001l2032" n="2032">Lors s'est la reïne esveillee,</l>
+                <l xml:id="d001l2033" n="2033">E le spirit s'est revenue</l>
+                <l xml:id="d001l2034" n="2034">El cors, don il esteit ensue.</l>
+                <l xml:id="d001l2035" n="2035">Qant il fu à sey revenue,</l>
+                <l xml:id="d001l2036" n="2036">Si se despoia tote nue,</l>
+                <l xml:id="d001l2037" n="2037">Fors solement de la camize,</l>
+                <l xml:id="d001l2038" n="2038">E s'est jus el paviment mise</l>
+                <l xml:id="d001l2039" n="2039">E comença as dames dire</l>
+                <l xml:id="d001l2040" n="2040">E au conestable Porfire</l>
+                <l xml:id="d001l2041" n="2041">De la joie, don elle veint.</l>
+                <l xml:id="d001l2042" n="2042">E dit, q'autre richece est nient;</l>
+                <l xml:id="d001l2043" n="2043">Ne ne deit estre dict richece,</l>
+                <l xml:id="d001l2044" n="2044">Mais mort [e] dolor e gramece</l>
+                <l xml:id="d001l2045" n="2045">Tot ce, qe l'en a en cest mont.</l>
+                <l xml:id="d001l2046" n="2046">Mais celle de là sus amont,</l>
+                <l xml:id="d001l2047" n="2047">Cel' est la richece segure,</l>
+                <l xml:id="d001l2048" n="2048">Qi toz jor[s] creisse e toz jor[s] dure.»</l>
+                <l xml:id="d001l2049" n="2049">E puis si a dit à Porfire,</l>
+                <l xml:id="d001l2050" n="2050">Q'il voist à l'enperaor dire,</l>
+                <l xml:id="d001l2051" n="2051">Qi est en cel palais là sus,</l>
+                <l xml:id="d001l2052" n="2052">Qe «por moiller ne m'avra plus.»</l>
+                <l xml:id="d001l2053" n="2053">Les dames dïent autresi:</l>
+                <l xml:id="d001l2054" n="2054">«Ne nos partirons mes de ci!</l>
+                <l xml:id="d001l2055" n="2055">À Yesu Crist volum servir</l>
+                <l xml:id="d001l2056" n="2056">E por la soe amor morir.</l>
+                <l xml:id="d001l2057" n="2057">Mariz e fileolz laiserons,</l>
+                <l xml:id="d001l2058" n="2058">Ja de lui ne nos partirons.»</l>
+                <l xml:id="d001l2059" n="2059">À Caterine a dit Porfire:</l>
+                <l xml:id="d001l2060" n="2060">«Dame, se ge l'onsanse dire,</l>
+                <l xml:id="d001l2061" n="2061">Qe cevalier i fust negun,</l>
+                <l xml:id="d001l2062" n="2062">G'en seroie voluntiers un.»</l>
+                <l xml:id="d001l2063" n="2063">Caterine li dist: «Porfire,</l>
+                <l xml:id="d001l2064" n="2064">L'alegrece del nostre syre</l>
+                <l xml:id="d001l2065" n="2065">Si est pur de ceus retenir,</l>
+                <l xml:id="d001l2066" n="2066">Qi se volent à lui tenir.»</l>
+                <l xml:id="d001l2067" n="2067">E il respond: «Gel serviray,</l>
+                <l xml:id="d001l2068" n="2068">Jamés de lui nem partiray.»</l>
+                <l xml:id="d001l2069" n="2069">L'enperaor l'a entendu,</l>
+                <l xml:id="d001l2070" n="2070">Qe Porphire si s'est rendu,</l>
+                <l xml:id="d001l2071" n="2071">Qi esteit se procein parent;</l>
+                <l xml:id="d001l2072" n="2072">E de la raïne ensement</l>
+                <l xml:id="d001l2073" n="2073">E des dames, qi [i] esteient,</l>
+                <l xml:id="d001l2074" n="2074">A oï, q'eus se cumverteient.</l>
+                <l xml:id="d001l2075" n="2075">Unqe si dolent ne fu mes</l>
+                <l xml:id="d001l2076" n="2076">E les fait mener en palés.</l>
+                <l xml:id="d001l2077" n="2077">Maintenant les a fait occire,</l>
+                <l xml:id="d001l2078" n="2078">Qi à glaive, qi à martire.</l>
+                <l xml:id="d001l2079" n="2079">L'endemain a sa cort tenue</l>
+                <l xml:id="d001l2080" n="2080">L'enperaor, e est venue</l>
+                <l xml:id="d001l2081" n="2081">La cevalarie e la gent</l>
+                <l xml:id="d001l2082" n="2082">El paleis esforceiement.</l>
+                <l xml:id="d001l2083" n="2083">Devant l'enperaor s'asist</l>
+                <l xml:id="d001l2084" n="2084">Un baron, qi senblant li fist</l>
+                <l xml:id="d001l2085" n="2085">À l'emperaor, q'il voleit</l>
+                <l xml:id="d001l2086" n="2086">Premier dire, se lue plaseit.</l>
+                <l xml:id="d001l2087" n="2087">L'emperaor li otria,</l>
+                <l xml:id="d001l2088" n="2088">E ci[l] maintenant se leva,</l>
+                <l xml:id="d001l2089" n="2089">De persone estranjement grant.</l>
+                <l xml:id="d001l2090" n="2090">E fu vestu d'un ver de Gant</l>
+                <l xml:id="d001l2091" n="2091">E d'un gris le meilor del mont.</l>
+                <l xml:id="d001l2092" n="2092">Un capel, com les Romeins funt</l>
+                <l xml:id="d001l2093" n="2093">E com' el usent mout encor,</l>
+                <l xml:id="d001l2094" n="2094">Vermeille o une binde d'or</l>
+                <l xml:id="d001l2095" n="2095">Et o une liste d'orfreis</l>
+                <l xml:id="d001l2096" n="2096">Et d'un gris tot nof e tot freis</l>
+                <l xml:id="d001l2097" n="2097">Aveit en sa teste tenu;</l>
+                <l xml:id="d001l2098" n="2098">E fu tot blanc e tot canu.</l>
+                <l xml:id="d001l2099" n="2099">E samble merveilles prodome;</l>
+                <l xml:id="d001l2100" n="2100">Romein fu de[s] Romeins de Rome.</l>
+                <l xml:id="d001l2101" n="2101">Mais si aveit si grant tristece,</l>
+                <l xml:id="d001l2102" n="2102">Qe de dolor e de gramece,</l>
+                <l xml:id="d001l2103" n="2103">Qi aveit de ceus, qi s'esteient</l>
+                <l xml:id="d001l2104" n="2104">Renduz e se convert[iss]oient,</l>
+                <l xml:id="d001l2105" n="2105">De Porfire e de la reïne</l>
+                <l xml:id="d001l2106" n="2106">E de madame Catarine,</l>
+                <l xml:id="d001l2107" n="2107">S'esteit tant la barbe tiree,</l>
+                <l xml:id="d001l2108" n="2108">Q'il [l'] aveit de meçe[s] pelee</l>
+                <l xml:id="d001l2109" n="2109">E les granons toz escorcheit.</l>
+                <l xml:id="d001l2110" n="2110">Mes de parler s'est esforceit</l>
+                <l xml:id="d001l2111" n="2111">Por la grant dolor e por l'ire,</l>
+                <l xml:id="d001l2112" n="2112">Qi aveit, si comença à dire</l>
+                <l xml:id="d001l2113" n="2113">Si saivement, q'unqes ne dist</l>
+                <l xml:id="d001l2114" n="2114">Neguns si bien, comë il fist.</l>
+                <l xml:id="d001l2115" n="2115">De Rom' e de[s] Romein[s] parla,</l>
+                <l xml:id="d001l2116" n="2116">Des qe Rome s'acomença;</l>
+                <l xml:id="d001l2117" n="2117">Des reis e des enperaors,</l>
+                <l xml:id="d001l2118" n="2118">Des batailes e des honors,</l>
+                <l xml:id="d001l2119" n="2119">Qe les Romeins ont recëu,</l>
+                <l xml:id="d001l2120" n="2120">E des honors, q'il ont ëu</l>
+                <l xml:id="d001l2121" n="2121">Par les teres, q'il ont conqises,</l>
+                <l xml:id="d001l2122" n="2122">Qi sunt à Rome asez sozmises</l>
+                <l xml:id="d001l2123" n="2123">E remdent à Rome trëu.</l>
+                <l xml:id="d001l2124" n="2124">«Mais unqes mei[s] ne fut vëu,</l>
+                <l xml:id="d001l2125" n="2125">Qe Romeins ëusent encore</l>
+                <l xml:id="d001l2126" n="2126">Le desenors, që il ont ore,</l>
+                <l xml:id="d001l2127" n="2127">Që une feme nos a fait,</l>
+                <l xml:id="d001l2128" n="2128">Qe toz jors mais sera retrait.</l>
+                <l xml:id="d001l2129" n="2129">. . . . . . . . . . . . . . . . . . . . . .</l>
+                <l xml:id="d001l2130" n="2130">S[ë] une terre gereiassent,</l>
+                <l xml:id="d001l2131" n="2131">Des qe l'emperaor voldreit,</l>
+                <l xml:id="d001l2132" n="2132">Tost en avro[ie]nt fait li dreit.</l>
+                <l xml:id="d001l2133" n="2133">Mais de ceste, qi ce vos fait,</l>
+                <l xml:id="d001l2134" n="2134">Qi bon civaliers ne vos lait</l>
+                <l xml:id="d001l2135" n="2135">Ne dame, q'il ne vitupere,</l>
+                <l xml:id="d001l2136" n="2136">Grant desenor est de l'enpere.</l>
+                <l xml:id="d001l2137" n="2137">Mais un conseil te voil doner,</l>
+                <l xml:id="d001l2138" n="2138">Enperere, à ti voil parler,</l>
+                <l xml:id="d001l2139" n="2139">Autre conseil n'i sai jamés:</l>
+                <l xml:id="d001l2140" n="2140">Ci davant nos en cest palés</l>
+                <l xml:id="d001l2141" n="2141">La face tute[s] voies venir,</l>
+                <l xml:id="d001l2142" n="2142">Se tu veus mon conseil tenir,</l>
+                <l xml:id="d001l2143" n="2143">Et ait ci la teste taillee,</l>
+                <l xml:id="d001l2144" n="2144">O el seit arse e graïllee.</l>
+                <l xml:id="d001l2145" n="2145">Ne [la] laiser mais un jor vivre,</l>
+                <l xml:id="d001l2146" n="2146">Q'el sorprent la gent e enivre,</l>
+                <l xml:id="d001l2147" n="2147">Qe neguns [ne] se set defendre,</l>
+                <l xml:id="d001l2148" n="2148">Tant le seit sotilment sorprendre.»</l>
+                <l xml:id="d001l2149" n="2149">L'enperaor i a mandé</l>
+                <l xml:id="d001l2150" n="2150">Ses mes e lor a comandé,</l>
+                <l xml:id="d001l2151" n="2151">Qe tutes veies li amenent.</l>
+                <l xml:id="d001l2152" n="2152">E cil, qe voluntiers se peinent</l>
+                <l xml:id="d001l2153" n="2153">De faire son comandament,</l>
+                <l xml:id="d001l2154" n="2154">Vont à la carcre isnelement.</l>
+                <l xml:id="d001l2155" n="2155">Caterina ert en la prison</l>
+                <l xml:id="d001l2156" n="2156">E s'ert getee in oration</l>
+                <l xml:id="d001l2157" n="2157">E diseit molt devotament:</l>
+                <l xml:id="d001l2158" n="2158">«Sire reis, Deus omnipotent,</l>
+                <l xml:id="d001l2159" n="2159">Qi me faïs à ta faitura</l>
+                <l xml:id="d001l2160" n="2160">E qi conois, de qel natura</l>
+                <l xml:id="d001l2161" n="2161">E del qel consa ye sui faite</l>
+                <l xml:id="d001l2162" n="2162">E del qel poreture traite,</l>
+                <l xml:id="d001l2163" n="2163">E sas, qe seua sel coort</l>
+                <l xml:id="d001l2164" n="2164">E guaste, con il est tost tot:</l>
+                <l xml:id="d001l2165" n="2165">Ge n'ai force, se de tei non.</l>
+                <l xml:id="d001l2166" n="2166">Sire, por ton santissime non</l>
+                <l xml:id="d001l2167" n="2167">Garda la meie feblité,</l>
+                <l xml:id="d001l2168" n="2168">Qi toz jorz ai malveise esté!</l>
+                <l xml:id="d001l2169" n="2169">Se tu no m'ëuses tenue,</l>
+                <l xml:id="d001l2170" n="2170">Ja ne fuse à cest point venue,</l>
+                <l xml:id="d001l2171" n="2171">Qe j'ëuse le mond laisé,</l>
+                <l xml:id="d001l2172" n="2172">Qe j'ai por t'amor desprisié,</l>
+                <l xml:id="d001l2173" n="2173">Dont ja les grans tentations</l>
+                <l xml:id="d001l2174" n="2174">Atot les deletations</l>
+                <l xml:id="d001l2175" n="2175">Avreië encor' e ëuse,</l>
+                <l xml:id="d001l2176" n="2176">Se la toe grace ne fuse.</l>
+                <l xml:id="d001l2177" n="2177">Asez ai esté combatue</l>
+                <l xml:id="d001l2178" n="2178">E prise e lïé' e batue,</l>
+                <l xml:id="d001l2179" n="2179">Despolié' e en prison mise:</l>
+                <l xml:id="d001l2180" n="2180">La joie, qe tu m'as promise,</l>
+                <l xml:id="d001l2181" n="2181">Qe tu me dez doner là sus,</l>
+                <l xml:id="d001l2182" n="2182">Me done, ne demorer plus!</l>
+                <l xml:id="d001l2183" n="2183">Sire plein de misericorde,</l>
+                <l xml:id="d001l2184" n="2184">De ma preiere te recorde,</l>
+                <l xml:id="d001l2185" n="2185">Trop me recreis[e] ceste vite!»</l>
+                <l xml:id="d001l2186" n="2186">Si com' elle oit s'oreison dite,</l>
+                <l xml:id="d001l2187" n="2187">Si l'ont ceus mene[e] to[t] dreit</l>
+                <l xml:id="d001l2188" n="2188">Là, o l'emperaor esteit.</l>
+                <l xml:id="d001l2189" n="2189">E qant l'enperaor la vit,</l>
+                <l xml:id="d001l2190" n="2190">Si li a molt durement dit:</l>
+                <l xml:id="d001l2191" n="2191">«Malvaise, or sera conëu,</l>
+                <l xml:id="d001l2192" n="2192">Qel saveir vos avez ëu.</l>
+                <l xml:id="d001l2193" n="2193">Mol[t] fustes à mal' ore nee,</l>
+                <l xml:id="d001l2194" n="2194">Qi à tel deus estes donee,</l>
+                <l xml:id="d001l2195" n="2195">Qi reins ne fu e qi reins n'est.</l>
+                <l xml:id="d001l2196" n="2196">Or li dites, që il s'aprest</l>
+                <l xml:id="d001l2197" n="2197">De vos aïdier, së il puet,</l>
+                <l xml:id="d001l2198" n="2198">Qe certes morir vos estuet!»</l>
+                <l xml:id="d001l2199" n="2199">Sante Caterine respont:</l>
+                <l xml:id="d001l2200" n="2200">«A celui, qi l'amor del mont</l>
+                <l xml:id="d001l2201" n="2201">E la vana gloria desire,</l>
+                <l xml:id="d001l2202" n="2202">Des tu ceste parole dire.</l>
+                <l xml:id="d001l2203" n="2203">Ge me suy à celui rendue,</l>
+                <l xml:id="d001l2204" n="2204">Qe des q'a oi m'a defendue</l>
+                <l xml:id="d001l2205" n="2205">D'estre caïe en malvaisté</l>
+                <l xml:id="d001l2206" n="2206">E m'a doné par sa pieté</l>
+                <l xml:id="d001l2207" n="2207">Dreite fey e dreite creançe;</l>
+                <l xml:id="d001l2208" n="2208">Car qi en lui a [e]sperançe,</l>
+                <l xml:id="d001l2209" n="2209">Ne puet estre desconseilez.»</l>
+                <l xml:id="d001l2210" n="2210">Lors fo l'enperaor irez</l>
+                <l xml:id="d001l2211" n="2211">E a la sentencia donee,</l>
+                <l xml:id="d001l2212" n="2212">Qe seit defors d'un mur menee</l>
+                <l xml:id="d001l2213" n="2213">E seit iloc martirïee,</l>
+                <l xml:id="d001l2214" n="2214">O elle ait la teste taillee.</l>
+                <l xml:id="d001l2215" n="2215">Lors unt menee Caterine</l>
+                <l xml:id="d001l2216" n="2216">Fors de murs là, o la raïne</l>
+                <l xml:id="d001l2217" n="2217">E cil, qi erent bateçei,</l>
+                <l xml:id="d001l2218" n="2218">Estoient tuit marturïei.</l>
+                <l xml:id="d001l2219" n="2219">En la cità ne remest nus</l>
+                <l xml:id="d001l2220" n="2220">Fors Romeins solement, senz plus,</l>
+                <l xml:id="d001l2221" n="2221">E l'enperaor ensement,</l>
+                <l xml:id="d001l2222" n="2222">Qi n'eisisent comunalment</l>
+                <l xml:id="d001l2223" n="2223">Fors de la cité por saveir,</l>
+                <l xml:id="d001l2224" n="2224">Qel fin elle deveit aveir;</l>
+                <l xml:id="d001l2225" n="2225">Les dames e le civaliers</l>
+                <l xml:id="d001l2226" n="2226">Le voloient tuit escaiter.</l>
+                <l xml:id="d001l2227" n="2227">De la grameçe, q'il aveient,</l>
+                <l xml:id="d001l2228" n="2228">E petit e grant, tuit pluroient.</l>
+                <l xml:id="d001l2229" n="2229">Qant la gent fu tote ensemblee</l>
+                <l xml:id="d001l2230" n="2230">E Caterine desfublee</l>
+                <l xml:id="d001l2231" n="2231">E nue fors de la chamize,</l>
+                <l xml:id="d001l2232" n="2232">Fu el pre sor un peron mise</l>
+                <l xml:id="d001l2233" n="2233">Si aut, qe casçum la poeit</l>
+                <l xml:id="d001l2234" n="2234">Veer, qi veer la voleit.</l>
+                <l xml:id="d001l2235" n="2235">Celui, qi la deveit tailer</l>
+                <l xml:id="d001l2236" n="2236">La teste, a fait por Deu preier,</l>
+                <l xml:id="d001l2237" n="2237">Që il se dëust demorer</l>
+                <l xml:id="d001l2238" n="2238">Un poy, q'ille voleit orer.</l>
+                <l xml:id="d001l2239" n="2239">Cil l'en a parole donee,</l>
+                <l xml:id="d001l2240" n="2240">Et s'est en terë enclinee</l>
+                <l xml:id="d001l2241" n="2241">Umelment, com' el soloit faire.</l>
+                <l xml:id="d001l2242" n="2242">Se je vos sëuse retraire</l>
+                <l xml:id="d001l2243" n="2243">L'oreison, com' elle est escrite,</l>
+                <l xml:id="d001l2244" n="2244">Ge l'avria voluntiers dite,</l>
+                <l xml:id="d001l2245" n="2245">Si come retraisse l'istorie.</l>
+                <l xml:id="d001l2246" n="2246">Mais çe n'ai autrë en memorie</l>
+                <l xml:id="d001l2247" n="2247">Fors tant, q'el se jeta en veine</l>
+                <l xml:id="d001l2248" n="2248">E dist: «Sire, qe sofreis peine</l>
+                <l xml:id="d001l2249" n="2249">Et mort en croiz e passion,</l>
+                <l xml:id="d001l2250" n="2250">E t'ofris por redencion</l>
+                <l xml:id="d001l2251" n="2251">De pecaors à mort sofrir,</l>
+                <l xml:id="d001l2252" n="2252">E [si] degnas por nos [t']ofrir</l>
+                <l xml:id="d001l2253" n="2253">D'estrë o le[s] larons pendu,</l>
+                <l xml:id="d001l2254" n="2254">Qi n'aveies rens ofendu,</l>
+                <l xml:id="d001l2255" n="2255">E cant tu fus resusité,</l>
+                <l xml:id="d001l2256" n="2256">E furent cil d'enfer çeté,</l>
+                <l xml:id="d001l2257" n="2257">Qe par ta sainte passion</l>
+                <l xml:id="d001l2258" n="2258">Atendoient remizion:</l>
+                <l xml:id="d001l2259" n="2259">Si come tu por nos t'ofris</l>
+                <l xml:id="d001l2260" n="2260">E mort e passion sofris,</l>
+                <l xml:id="d001l2261" n="2261">Bien sai, qe ben sera retraite</l>
+                <l xml:id="d001l2262" n="2262">L'onors, qe tu m'as ici faite.</l>
+                <l xml:id="d001l2263" n="2263">Meis, sire, cleim encor merci,</l>
+                <l xml:id="d001l2264" n="2264">Oiant ceste gent, qi sunt ci,</l>
+                <l xml:id="d001l2265" n="2265">Qe tu me deies otroier</l>
+                <l xml:id="d001l2266" n="2266">Un don, qe ci te voil preier.»</l>
+                <l xml:id="d001l2267" n="2267">L'anjere de Deu li respondi:</l>
+                <l xml:id="d001l2268" n="2268">«Belle suer, segurement di,</l>
+                <l xml:id="d001l2269" n="2269">Bien le t'otroie e bien avras</l>
+                <l xml:id="d001l2270" n="2270">De lui tot ce, qe tu voldras.»</l>
+                <l xml:id="d001l2271" n="2271">«Bel sire Deus omnipotent,</l>
+                <l xml:id="d001l2272" n="2272">De ce te prei devotament,</l>
+                <l xml:id="d001l2273" n="2273">Qe qi m'avra en remenbrançe -</l>
+                <l xml:id="d001l2274" n="2274">E avra bien ceste esperançe -</l>
+                <l xml:id="d001l2275" n="2275">Qi unqes por la toe amor</l>
+                <l xml:id="d001l2276" n="2276">Me fera servise e onor</l>
+                <l xml:id="d001l2277" n="2277">De ce, qe mester li sera,</l>
+                <l xml:id="d001l2278" n="2278">E qi el me demandera:</l>
+                <l xml:id="d001l2279" n="2279">Qe çe l'en puise conseiler</l>
+                <l xml:id="d001l2280" n="2280">Maintenant e li puisse adier!»</l>
+                <l xml:id="d001l2281" n="2281">Maintenant li fo respondu:</l>
+                <l xml:id="d001l2282" n="2282">«Bien est oï e entendu</l>
+                <l xml:id="d001l2283" n="2283">Tote, qe tu as demandé;</l>
+                <l xml:id="d001l2284" n="2284">E t'a bien le seignor mandé,</l>
+                <l xml:id="d001l2285" n="2285">Qe qi unqes t'en preiera</l>
+                <l xml:id="d001l2286" n="2286">De ce, qe mester li sera,</l>
+                <l xml:id="d001l2287" n="2287">Qe tu l'en poras maintenant</l>
+                <l xml:id="d001l2288" n="2288">Faire segurament demant.»</l>
+                <l xml:id="d001l2289" n="2289">Lors a dit à celui, q'el feire,</l>
+                <l xml:id="d001l2290" n="2290">Që el' a feit[e] sa preiere:</l>
+                <l xml:id="d001l2291" n="2291">«Fer baudement, Deus tel pardon,</l>
+                <l xml:id="d001l2292" n="2292">Qi encui t'otrei e te don</l>
+                <l xml:id="d001l2293" n="2293">De venir à confession</l>
+                <l xml:id="d001l2294" n="2294">E t'en face remission!»</l>
+                <l xml:id="d001l2295" n="2295">Ci[l] l'a ferue de la spee</l>
+                <l xml:id="d001l2296" n="2296">E li a la teste coupee</l>
+                <l xml:id="d001l2297" n="2297">E l'a martirïé' eissi.</l>
+                <l xml:id="d001l2298" n="2298">Unqes d'ele sange n'eissi:</l>
+                <l xml:id="d001l2299" n="2299">Ladont, o deit estre la sanc,</l>
+                <l xml:id="d001l2300" n="2300">Eisi lac tot clier e tot blanc.</l>
+                <l xml:id="d001l2301" n="2301">Lors sunt veiant tote la gent</l>
+                <l xml:id="d001l2302" n="2302">Descendu tot palessement</l>
+                <l xml:id="d001l2303" n="2303">L[i] anjeres de Deu, qi le cors</l>
+                <l xml:id="d001l2304" n="2304">Hont lavà de denz e de fors.</l>
+                <l xml:id="d001l2305" n="2305">E qan lo cors fu bien lavé,</l>
+                <l xml:id="d001l2306" n="2306">Si l'ont covert e l'ont levé</l>
+                <l xml:id="d001l2307" n="2307">De tere e le po[r]tant cantant,</l>
+                <l xml:id="d001l2308" n="2308">Si qe l'en les veit bien portant</l>
+                <l xml:id="d001l2309" n="2309">Li cors par tot là, o il vont.</l>
+                <l xml:id="d001l2310" n="2310">E le portarent sor um mont,</l>
+                <l xml:id="d001l2311" n="2311">Qe l'en dit le mont [de] Sina,</l>
+                <l xml:id="d001l2312" n="2312">O Deus à Moïses dona</l>
+                <l xml:id="d001l2313" n="2313">Les comandament de la ley,</l>
+                <l xml:id="d001l2314" n="2314">Si come il escrit o son dey.</l>
+                <l xml:id="d001l2315" n="2315">Iloqes laiserent le cors.</l>
+                <l xml:id="d001l2316" n="2316">Tant oleu en est puis eisu fors</l>
+                <l xml:id="d001l2317" n="2317">E s'en e[i]st encore or' endreit,</l>
+                <l xml:id="d001l2318" n="2318">Qe qi ensemble le tendroit</l>
+                <l xml:id="d001l2319" n="2319">Tot un an, ça nel porterei[en]t</l>
+                <l xml:id="d001l2320" n="2320">Dous somers, si forz ne serei[en]t. -</l>
+                <l xml:id="d001l2321" n="2321">Ci se finist e se termine</l>
+                <l xml:id="d001l2322" n="2322">La mort de Sainte Caterine.</l>
+                <l xml:id="d001l2323" n="2323">E çe vos ai conté la vite,</l>
+                <l xml:id="d001l2324" n="2324">Si come çe la vi escrite;</l>
+                <l xml:id="d001l2325" n="2325">E se çë ai plus o meins dit,</l>
+                <l xml:id="d001l2326" n="2326">Qe çe ne trovai en escrit,</l>
+                <l xml:id="d001l2327" n="2327">Si preiez Deu, q'il me pardont</l>
+                <l xml:id="d001l2328" n="2328">E nos otreie à toz e dunt</l>
+                <l xml:id="d001l2329" n="2329">La nostre vite si fenir,</l>
+                <l xml:id="d001l2330" n="2330">Qe nos poisons tuit permanir</l>
+                <l xml:id="d001l2331" n="2331">El regnë, o il a premis</l>
+                <l xml:id="d001l2332" n="2332">De metre à le fin ses amis.</l>
+                <lb/>
+                <p xml:id="d001l2333" n="">A. M. E. N.</p>
+            </div1>
+        </body>
+    </text>
+</TEI>

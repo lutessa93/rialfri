@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="MILIONEFRAMMENTOF-milioneFrammentof">Le devisement dou monde, frammento f,</title>
+                <title type="short">Il Milione, frammento f</title>
+                <author xml:id="MILIONEFRAMMENTOF" n="133.000">
+                    <persName type="main">Marco Polo</persName>
+                    <persName type="short">Marco Polo</persName>
+                </author>
+                <principal>Serena Modena</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale</resp>
+                    <name>Francesca Gambino</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Chiara Concina, <emph style="font-style:italic">Prime indagini su un nuovo frammento franco-veneto del Milione</emph>, «Romania» 125 (2007), pp. 342-369.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t3"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <lb/>
+                <p xml:id="d001l1" n="I" rend="numbered"><lb/> <lb/>{{Fr. 1 recto:<lb/> <lb/>[1. = XCIV, 36-37]<lb/>(col. A)}} [1] … tel mainere
+                con voz avés oi, demore le grant sire en cestui leu jusque entor la pasque de resiresion.
+                [2] Et quant il hi est tant demourés con vo avéz oi, adonc se part d'eluec a toutes
+                sez jens et s'en torne tout droitemant a la cité de Ca&lt;n&gt;balu por celle voie meisme
+                dunt il estoient venu, et toutes foies chacant et oiçellant a grant seullas et a grant
+                joie.<lb/> <lb/>{{[2. = XCV]}}<lb/>[1] Et quant il est venus a sa mastre ville de Canbalu,
+                il demoure en so mastre palais .iii. jors et ne plus; il tient grant corte et riche
+                tables; il fait grant joie […] di qu'il est merveilleusse chouse a veoir la grant solenité
+                que le grant sire fait en ces .iii. jors. [2] Et si voz di que en ceste cité a si grant
+                moutitude de maisonz et de jenz, entre dedenz la ville et dehors – que sachiés qu'il
+                i a tant bur come portes, ce sunt de ce que sunt grandismes – que ne est homes que peust
+                contrer le nonbre; car assez plus jens […] en les burs que en la ville. [3] Et en cesti
+                burs demourent et herbergent les mercaant et tous autres homes que hi vienent por lor
+                boçogne: que hi vienent en grandisme habundance, entre por le seignor et por ce que
+                la ville est ensi boune marché que les merchaanz et les autres homes hi vienent por
+                lor beçogne. [4] Et si voz di que es les burs et ausi belles maiçonz et ausi biaus pallais
+                come en la ville, hors celz dou grant sire. [5] Et sachiés que en la ville ne se sovillent
+                nulz homes que se more; mes se el est ydres, si se porte au leu ou doit estre ars le
+                cors, qui est dehors tous les burs; et ausi avint des autres mors que se sovillent encoure
+                dehors tous les burç. [6] Et encoure voz di un autre chouse: que dedenz la ville ne
+                oçent demorer nule feme pechiense, ce sunt femes dou monde que funt serviçe a les homes
+                por monoie, mes voz di qu'eles demorent os burs. [7] Et sachiés qu'il hi n'i a si grant
+                moutitude, que nulles homes […] peust croire, car je voz di qu'ele sunt bien .xx.M que
+                tout servent les homes por monoie. [8] Et si voz di que toutes hij sunt beiçongnes por
+                la grandisme quan(col. B)tités des merchaant et des forestiers que hi vienent et alent
+                tout jors. [9] Adonc poés veoir se ill a grant habundance des jens en Canbalu, puis
+                que les femes mondaine hi sunt tantes con je ai contés. [10] Et sachiés tout voiremant
+                que en ceste ville de Canbalu vienent plus chieres chouses et de greignor vaillance
+                que in nulle cité dou monde, et voz dirai quel tout avant, […] voz di que toutes les
+                chieres chouses que vienent de Inde – ce sunt pieres precioses et perles et toutes autres
+                chieres chouses sunt aportés a ceste villes; et encoure toutes les belles chouses et
+                toutes les chieres que su&lt;n&gt;t en le provence dou Catai et des toutes autres […]
+                hi sunt la portés ausint. [11] Et ce avint por le seignors qui i demorent, et per les
+                dames, et por le barons, et por le grant habundance de la grant moutitude de les jens,
+                de les hostes, et d'autres jens que i vienent por achaison de la cort que le grant sire
+                hi tienent. [12] Et por […] que je voz ai contés, a ceste ville vienent plus chieres
+                chouses et de greignor vaillance et les greignors quantités que en nulle vie dou munde,
+                et plus mercaandies hi se vendent et hachatent; car sachiés de voir que chascun jor
+                i entre en ceste ville plus de mile charete chargiés de soie, […] il i se laborent maint
+                dras d'ores et de soie. [13] Et encore ceste cité […] environ soi plus de .iic. […],
+                et loingn et a pres, les quelz vienent les jens de cestes villes a achater maintes chouses
+                a ceste cité, et d'iluec hont les coses que a-llor sunt beçongnables; et por ce ne est
+                grant chouse se en ceste cité de Canbalu vienent tantes chouses con je voz ai dit. [14]
+                Et depuis que je voz ai dit ce mostré bien […] apertemant, or voz diviçerai dou fait
+                de la sceche et de la monoie que se fait en ceste cité de Canbalu; et voz mostreron
+                cleremant comant le grant sire puet assez plus faire et plus despendre que je ne voz
+                […] di ne ne voz dirai en ce livre; […] raison comant.<lb/> <lb/>{{[3. = XCVI, 1]}}<lb/>[1]
+                Il est voir que en ceste ville de Canbalu est la sceche dou grant sire; et est…<lb/></p>
+                <lb/>
+                <p xml:id="d001l2" n="II" rend="numbered"><lb/> <lb/>{{Fr. 2 recto:<lb/> <lb/>[4. = XCVI, 15-16]}}<lb/>(col. A) [1] … gnors del
+                siecle ne ont si grant richece come le grant sire a solemant. [2] Or voz ai contés et
+                divisé tout le fait comant le grant sire fait […] monoie de carte, or vos diviserai
+                de le grant seignorie que de ceste cité de Canbalu oissent por lor grant sire.<lb/>
+                <lb/>{{[5. = XCVII]}}<lb/>[1] Or sachiés voiremant que le grant sire a esleu .xii. grandismes
+                baronz es quelz il a comeu qu'il soient sor toutes les chouses beçognables que abeçognent
+                en .xxxiiii. provences; et voz dirai lor mainere et lor stabliment. [2] Je voz di tout
+                primeremant que cesti .xii. baronz demourent en un palais dedens la ville de Canbalu
+                que est mout grant et biaus et […] a plusors sales et maisonz; et chascune provence
+                […] un jugie et maint escrivien que demourent en cest palais, cascun en sa maison por
+                soi. [3] Et ceste jugie et cesti escrivain font toutes les chouses que abeçogne a la
+                provence a cui il sunt deputé; et ce funt por la volunté et por le comandemant des .xii.
+                barons que je voz ai dit. [4] Et si sachiés tout voiremant que cesti .xii. baronz ont
+                si grant seignorie con je voz dirai, car il eslisent les seingnors de toutes celles
+                provences qe je voz ai dit desouvre. [5] Et quant il les ont esleu, tielz con lor senble
+                que il soient buen et sofisable, il le font savoir au grant sire: et le grant sire le
+                conferme et li fait doner table d'or, tel come a sa segnorie est convenable. [6] Et
+                encoure sunt cesti baronz por porveoir ou convient que les hostes aillent; et les envoient
+                lau ou il lor senble et celle quantité que il vuelent; mes toutes foies est a la seue
+                dou grant sire. [7] Et ensi con je voz ai dites de ce deus chousses, font il de toutes
+                les autres chouses que su&lt;n&gt;t beçognables a toutes les provences que je voz ai
+                contés. [8] Et cesti sunt apellés sciengne, que vaut a dire la corte greignor, que ne
+                ha ont sor elz que le grant sire. [9] Le palais ou il demourent est ausi appellés scien
+                ce. [10] Et est bien la greignor seingneurie que soit en toute la cort dou grant (col.
+                B) sire: car ill ont bien […] a cui'l vuelt. [11] Les provences ne vos conterai ore
+                por lor non, por ce que je le voz chonterai en nostre livre apertemant. [12] Et laiseron
+                de ce et voz conteron comant le grant kaan mande sez mesajes e comant ill ont chevaus
+                apparoilliés por aler.<lb/> <lb/>{{[6. = XCVIII, 1-7]}}<lb/>[1] Or sachiés por verité
+                que de ceste ville de Canballu se partent mantes voies les quelz vont por maintes (voies)
+                prvences ce est a dire que le une vait a té provence et ceste autre voie vait a tel
+                provences, et ceste a tel. [2] Et toutes les voies sunt divisés […] la u elle vont;
+                et ce est mout stue chouse. [3] Et sachiés que quant l'en se part de Canballu por toutes
+                les voies que je voz ai contés, et il est alés .xxv. milles, adonc le mesajes dou grant
+                sire que ceste .xxv. milles ont allés, il trouvent une poste que s'appellent janb en
+                lor langue et en nostre langue vaut […] dire poste de chavaus. [4] Et a chascune poste
+                treuvent les messajes un mout grant palais et biaus, la ou les messajes dou grant sire
+                erbergient; et cestes erberges ont mout riches lit, forniz des riches dras de soie,
+                et ont toutes les chousses que as autres messajes convient; et se un rois hi venist
+                si seroit bien herbergiés. [5] Et encoure voz di que a ceste pouste treuvent les messajes
+                bien .iiiic. chevaus que le grant sire a stabli que toutes foies hi demourent et soient
+                apparoilliés por sez messajes, quant il les envoie en aucune part. [6] Et encoure sachiés
+                que en toutes les .xxv. milles ou ongnes .xxx., sunt ceste poste que je voz ai dit:
+                ce est en toutes les principaus voie que vont a-lles provinces, que je voz ai contés
+                desouvre; et […] chascune de ceste poste treuvent les messajes da .iiic. chevaus a .iiiic.
+                tuit apparoilliés a-llor chomandemant; et encoure hi treuvent si biaus palais con je
+                voz ai contés, la ou les messajes herbergient si richemant con je voz ai divisé desouvre.
+                [7] Et en ceste mainere vait por toutes les provences et reignes dou… <lb/></p>
+                <lb/>
+                <p xml:id="d001l3" n="III" rend="numbered"><lb/> <lb/>{{Fr. 3 verso:<lb/> <lb/>[7. = CXIV, 15-19]}}<lb/>(col. C) [1] …et chev[…]he
+                .v. jornee por plain et por vallee; et treuve l'en chastiaus et chasaus assez. [2] Les
+                homes vivent dou profit qu'il traient de la terre et il hi a bestes sauvajes assez,
+                lionz et orses et autre bestes. [3] Il vivent d'ars, car il hi se laborent des biaus
+                sendal et autres dras. [4] Il sunt de Sendu meisme. [5] Et quant l'en est alés […] .v.
+                jornee que je voz ai contés desouvre, adonc treuve l'en une provence mout gasté que
+                s'appelle Tebet, et noz en trateron ci desout.<lb/> <lb/>{{[8. = CXV, 1-17]}}<lb/>[1]
+                Aprés le cinq jornee que je voz ai dit, adonc entre l'om enn une provence que est mult
+                gasté, car Mungut Kaan l'a destruit por ghere. [2] Ill i a maintes villes et mant chastiaus
+                […] tuit deroché et gastee. [3] Il hi a caine grouses et grant merveilliosemant, et
+                voz diviserai comant elles sunt grouses, que volvent envirom bien trois paumes et sunt
+                loingnes bien .xv. pas; elle ont, de le un nod a l'autre, bien trois paumes. [4] Et
+                si vos di que les merchaanz, et autres viandant que vont por celle contree la noit,
+                prenent de celle canne et en font feu; por ce que, quant elle sunt en feu, elle font
+                si grant estroair et si grant escopier, que les lions et les orses et les autres fieres
+                bestes enn ont si grant paor qu'il fuient tant con il plus puent et ne s'acosterent
+                au feu por rien dou monde; et cest tiel feu font les homes por garentier lor bestes
+                des fieres bestes sauvajes, que asez hi n'i a por celle contree et por celz pais. [5]
+                Et si vos dirai – por ce que bien fait a dir – comant l'escopier de ceste canne sonent
+                a lonc et comant font […] temance et que n'avint. [6] Or sachiés que l'en prene de ceste
+                canne toutes vers et le metent en feu des buces, et ce sunt plusors; et quant cestes
+                cannes sunt demourés aques en ceste grant feu, adonc se tortort et se fent por mi et
+                adonc fait un si grant escopié que bien se hoie .x. milles lune, de noit. [7] Et sachiés
+                que celui que ne est coustumés de ce hoir, il hen divient tout esbaies, si orible chouse
+                est a oir; et voz di que les chevaus, que ce ne unt onques hoi, quant il l'oie, il se
+                spaventent si du(col. D)[…]mant qu'il ronpent cavestres et toutes cordes de coi il sunt
+                licés et s'en fuient: et ce avint a plusors. [8] Mes quant ill ont chevaus, que sevent
+                que ce n'avient c'onques hoi, il li fait bender les iaus et li fait enchavestrer toit
+                les quatres piés, en té mainere que quant il hoi le grant escopier de cannes, puis qu'il
+                vuoille, ne puet […]. [9] Et encore, si con je voz ai dit les homes e(n) scanpent la
+                noit, et il et lor bestes, des lions et des lonçes et d'autres mauvaisses bestes, que
+                hi n'i a en grant habundance. [10] Et quant l'enn a alés por ceste contree bien .xx.
+                jornee, ne treuve l'en erbergies ne vivandes; mes convient que il porte viandes por
+                lui et por sez bestes [] toutet cestes .xx. jornee, toutes foies treuvant mout fieres
+                et pesmes bestes sauvajes que sunt mout periliuse et da durer, adonc treuve l'en castiaus
+                et casaus assez. [11] Et i a un tel coustume de marier femes con je voz dirai. [12]
+                Il est voir que nul homes preneroit un[…] pucelle a feme por rien dou monde; et dient
+                que n'elle vaillent rien se elle ne sunt usés et costumés con maint homes. [13] Et por
+                ce s'en espoisent en tel mainere: car je voz di que, quant les jens d'autres estranjes
+                pais passent por celles contree et il ont tandu lor tendes por herbergier, adonc les
+                vielles femes des castiaus et des casaus menent lor filles jusque a ceste tendes – et
+                ce sunt a vint et a .xl. et a plus et a moin – et le donent a les homes por ce qu'il
+                en faicent lor voluntés et qu'il gigent con elles. [14] Adonc les homes le prenent et
+                se gaudent cun elles et le tienent tant con il vuelent illuec: mes avant ne arieres
+                ne les puent moinier. [15] Et puis, quant les […] hont fait a lor volluntés d'elles
+                et il se vuellent partir, adonc convient que done a celle femes, cun cui il a jeu, aucune
+                joie ou aucum seing, por […] qu'elle puisse monstrer quant elle se vient a marier, qu'elle
+                a eu amant. [16] Et en tel mainere chascune pucelle convient que aie plus de vint segnaus
+                a son cuel por monstrer que assez amant et assez homes sunt geu cun li. [17] Et celle
+                que plus ont segnaus, et que plus poent monstrer que onte u amant et que plus home sunt
+                geu…<lb/></p>
+                <lb/>
+                <p xml:id="d001l4" n="IV" rend="numbered"><lb/> <lb/>{{Fr. 4 verso:<lb/> <lb/>[9. = CXVII, 4-24]<lb/>(coll. C)I}} [1] …[n]ce a
+                un tel coustumes de lor feme con je voz dirai: car il ne ont a villanie se un forestier,
+                ou un autre home, l'aunis de sa feme, ou de sa fille, ou de sa seront, ou d'auchune
+                feme qu'il aie en sa maison; mes l'ont ha bien quant l'en jut […] elles, et dient por
+                ce fait le lor dieu et les lor ydres font miaus elz […] de les chouses tenporaus en
+                grant habundance; et por ce en font si grant largité de lor femes as forestier con je
+                voz dirai. [2] Car sachiés que quant un home de ceste contree voit que un forestier
+                li viegne a sa maison por herbergier, ou que il ne i voille herbergier et entre en sa
+                maison, tantost se hoisse hors et comande a sa feme que au forestier soit fait toute
+                sa volunté conpliemant, et adonc se vait sa voi, ou a son cans ou a-ssez vignes, et
+                ne i torne dusque a tant que le forestier demore en sa maison. [7] Et voz di que maintes
+                foies i demore trois jors et se jut ou lit con la feme de celui çaitif, et le forestier,
+                qui est en la maison, fait cestui seingn poir montrer qu'il soit laiens: car il fait
+                prendre son chapiaus ou aucuns autre segnaus: et ce est segnefiance ch'il soit laiens
+                (la). [4] Et le cheitif, tant con il voit celui seignaus a sa maison, ne a torne mie.
+                [5] Et ce font por toute ceste provence. [6] Et voz di qu'il ont monoie en tel mainere
+                con je voz dirai: sachiéz qu'il a or en verge, et le poissent a sajes et selonc que
+                poise vaut; mes ne ont monoie cungnee con estanpe; et la petite monoie voz diviserai
+                quel est. [7] Il prenent la sel et la font cuire, et puis la gettent en forme et est
+                de le grant qu'il puet poissier entor de dimi livre: et les quatre ont de ceste til
+                sel que je voz ai divissé vaut un sajes d'or fin […] ce est la petite mon[…]e qu'il
+                despendent. [8] Ill ont dous best[…] que font le mouste grandisseme quantité; et lors
+                cacehors les prenent […] le mousce en grant quantité. [9] Ill ont peisonz assez buens
+                et les traient dou lac que je voz di, la u se treuve les perles. [10] Lionz et leus
+                cervier et orses et dain et cavriol ont assez; et osiaus de toutes faissonz ont en grant
+                habundance. [11] Vin ne vigne ne ont; mes (col. D) […] pices; et est […]. [12] […] provence
+                naissent garafol as assez; car il est un arbre peitit que il fait, que a frondre come
+                orbeque, aucune chouse plus longues et plus estroite; le flor fait blanc, petit, […]
+                le garofle. [13] Il ont encoirre genguibre en abundance et cannelle ausint, et d'autres
+                spices assez que ne vienent onques en nostre contree et por ce ne fait a mentovoir.
+                [14] Or noz lairon de ceste cité, que bien n'avon contés ce que beçoigne, et voz conteron
+                de la contré meime en avant. [15] Et quant l'en se part de ceste Geindre, il chevaucha
+                bien .x. jornee, il treuve castiaus et casaus assez. [16] Les jens sunt des celle meisme
+                mainere et de ciaus meisme costume que ceaus que je voz ai contens; ill ont veniesion
+                d'oisiaus et de bestes assez. [17] Et quant l'en est allés ceste .x. jornee, adonc treuve
+                le un grant flun que est appellé Brius, au quel se fenist la provence de Gendu; et en
+                ceste flun se treuve grant quantité d'or de paliole. [18] Il i a canelle assez, il nait
+                canelle assez. [19] Il vait, […] en la mer osiane. [20] Or noz laisson de ceste flun,
+                qui n'i a chouse que a chonter face et voz conteron d'une autre provence que est appellés
+                Caragiam, ensi con voz oirés.<lb/> <lb/>{{[10. = CXVIII, 1-5]}}<lb/>[1] Quant l'en a
+                passé ceste flun, adonc treuve l'en et entre en la provence de Caraian, qui est si grant
+                que bien i a un roiaumes; il est ver ponent et sunt ydres et sunt au grant kaan; mes
+                roi en est son fil, que a a non Estenmur, que mout est grant rois et riche et po[…]sant;
+                il mantient bien sa terre en grant justice, car il est sajes et preudonmes. [2] L'en
+                alla por ponent, quant il se part dou flun que je voz ai dit desouvre, .v. jornee, treuvant
+                cités et castiaus assez, la ou il naissent mult bien chevaus. [3] Il vivent de bestiames
+                et de profit qu'il traient de […] terre; il on langajes por elz et est mout grief a
+                entendre. [4] A chief de ceste cinq jornee, adonc treuve l'en la mestre cité […] celle
+                que est chief dou reingne, que est appellés Iaci, que mout est grant et noble. [5] Il
+                hi a merchaanz et homes d'ars assez; le […] sunt…</p>
+                <lb/>
+                <lb/>
+            </div1>
+        </body>
+    </text>
+</TEI>

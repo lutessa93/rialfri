@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="TRISTANLETTERADIISOTTA-tristanletteradiIsotta">Tristano, Lettera di Isotta (Vaticano Barberiniano Latino 3953)</title>
+                <title type="alt">Tristano, Lettera di Isotta (Vaticano Barberiniano Latino 3536)</title>
+                <title type="short">Tristano, Lettera di Isotta</title>
+                <author xml:id="TRISTANLETTERADIISOTTA" n="200.000">
+                    <persName type="main"></persName>
+                    <persName type="short"></persName>
+                </author>
+                <principal>Serena Modena</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata e marcatura digitale</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Gianfelice Peron, <emph style="font-style:italic">Cultura provenzale e francese a Treviso nel Medioevo</emph>, in <emph style="font-style:italic">Storia di Treviso</emph>, a cura di Ernesto Brunetta, II. <emph style="font-style:italic">Il Medioevo</emph>, a cura di Daniela Rando e Gian Maria Varanini, Venezia, Marsilio, 1991, pp. 487-544: 522-524.  </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t1"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <lb/>
+                <p xml:id="d001l1" n="1" rend="numbered">Amis Tristan, ch'en tristece m'aves mis et in doleur, por cui ge travail noit e gior,
+                por cui ge mor, por cui ge ai perdut tote ioie e tote leice, por cui ge ai lassé moi
+                meisme, car ge n'ai mon cors ne moi, ne rens dou monde ne m'atalente, pois che ge ne
+                vus ai en ma balie con ge vus soil avoir;</p>
+                <p xml:id="d001l2" n="2" rend="numbered">amis, che m'estes plus che laz, che m'aves si fort enlatie che tret aves mon cuer apres
+                vus zusche en la petite Bertagne.</p>
+                <p xml:id="d001l3" n="3" rend="numbered">Amis, comentes fustes vus unches tels che vus laisastes Yselte la roine por Yselte las
+                domoiselle?</p>
+                <p xml:id="d001l4" n="4" rend="numbered">Merveilose me semble ceste cange ch'en leu de vostre amie si veraie e si fine, con vus
+                l'avez mantes fois exprovie, metistes une che vus ne conoises!</p>
+                <p xml:id="d001l5" n="5" rend="numbered">Amis, icestui cangement me fait morir e duol mener. Ge'n languis, ge'n sospir, ge'n
+                maudi ciaschun giors plus de cent mille fois l'ure che ge unches fui nee.</p>
+                <p xml:id="d001l6" n="6" rend="numbered">Amis Tristan, mi cuer est tant carges de merveilos pensiers, des merveiloses paroles
+                che la grand habondançe ne me laise dire la centesme part de çe che voil.</p>
+                <p xml:id="d001l7" n="7" rend="numbered">La lengue si me faut a dire, les pooir si me faut a descrire tant sui carge seulamant
+                dou pensier che ge nen porroie descrouvrir la centesme part de ce che ge voil.</p>
+                <p xml:id="d001l8" n="8" rend="numbered">E quand vus ne poes savoir en quant pensiers mon cuer est travaillés noit e giors, vus
+                pri com a celui dou mond cui ge plus aim, come a celui cui ge me fi, come a celui che
+                m'est mort e vie, come a celui de cui atend ioie e de nul autre, come a celui a cui
+                ge cri merci plus de cent mille fois ases plus de cuer che ge ne fais delire, vus pri
+                ge, amis, as plors, as lermes, en plorant, en murant et en dolosant de la plus destruite
+                mort e doloreuse d'une roine dolente e miserose ch'unches mes morist.</p>
+                <p xml:id="d001l9" n="9" rend="numbered">Che chand vus mon brief de mes propries mains che vus envoil en leu de mon cors aurons
+                leu e releu, che vus i meton pene e travaille che vus veignes en Cornuaille a visiter
+                Yselte la dolente. Ne n'azes doute dou roi March, car ben sacesveraiemant, char ge de
+                si pres ne seres gardee che nos ne façons tant che nos parlaron ensemble.</p>
+                <p xml:id="d001l10" n="10" rend="numbered">Amis, venez sans demoramant…</p>
+                <lb/>
+            </div1>
+        </body>
+        <back>
+            <div type="edizione">
+                Frammento del ms. Vaticano Barberiniano Latino 3953, c. 25r
+            </div>
+            <div type="edizione">
+                Contributi di Anna Rizzato
+            </div>
+        </back>
+    </text>
+</TEI>

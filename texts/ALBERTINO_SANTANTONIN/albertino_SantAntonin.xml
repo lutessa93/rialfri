@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="ALBERTINO_SANTANTONIN-albertino_SantAntonin">Testamento di un mercante veneziano</title>
+                <title type="short">Testamento di un mercante veneziano</title>
+                <title type="sub">gennaio 1294, Famagosta</title>
+                <author xml:id="ALBERTINO_SANTANTONIN" n="002.000">
+                    <persName type="main">Albertino di Sant'Antonin</persName>
+                    <persName type="short">Albertino di Sant'Antonin</persName>
+                </author>
+                <principal>Serena Modena</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata e marcatura digitale</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Valeria Bertolucci Pizzorusso, <emph style="font-style:italic">Testamento in francese di un mercante veneziano (Famagosta, gennaio 1294)</emph>, in «Annali della Scuola Normale Superiore di Pisa. Classe di Lettere e Filosofia», ser. 3, vol. 18, 3 (1988), pp. 1011-1033. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t4"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <p xml:id="d001l1" style="font-weight:bold" n="">[I]</p>
+                <lb/>
+                <p xml:id="d001l2" n="1" rend="numbered">Sachent tous ceaus que cest escrit verrunt et orrunt, que je, Obertin de Saint Antonin,
+                fay ma devise et mon testament en mon / bon sen et en ma bone memoire en ceste forme.</p>
+                <p xml:id="d001l3" n="2" rend="numbered">Que je &lt;vuell&gt; que mes comessaires soient tenus, puis mon deceit, de doner por
+                ma arme / le dreit disme.</p>
+                <p xml:id="d001l4" n="3" rend="numbered">Encore je vuell que mes commessaires doient doner por despachement de ma arme .xx. s.
+                de veniciens gros por / l'arme de celes gens a cui je par aventure aye fait acun tort.</p>
+                <p xml:id="d001l5" n="4" rend="numbered">Encore je laisse a Assely de Cavassou veniciens gros .xxx. / por la question laquele
+                estoit entre nos.</p>
+                <p xml:id="d001l6" n="5" rend="numbered">Encore je vuell que en Venise soient chantees mil messes.</p>
+                <p xml:id="d001l7" n="6" rend="numbered">Encore je laisse / .l. lyvres a grossy a mes comessaires, qui soient tenus de doner
+                les por ma arme la ou il vodrunt et lor semblera que / bon soit a doner les.</p>
+                <p xml:id="d001l8" n="7" rend="numbered">Encore je laisse a ma ferme .l. lyvres a grossy et la laisse que son frere li layssa.</p>
+                <p xml:id="d001l9" n="8" rend="numbered">Encore je laysse a / ma feme en sa vie la maison qui est de coste nostre maison dessus,
+                si ele ne prent baron, et se ele prent baron, / je vuell que ele soit dehors.</p>
+                <p xml:id="d001l10" n="9" rend="numbered">Encore je laysse a sa niece Flour .v. lyvres de petis.</p>
+                <p xml:id="d001l11" n="10" rend="numbered">Encore je laisse a Marquisine nostre serviçiale / veniciens gros .xij.</p>
+                <p xml:id="d001l12" n="11" rend="numbered">Encore je laysse a mon fis Marc sur toutes les moyen choses que je ay en Famagouste
+                que il les doient garder / et sauver les dites choses et metre les en la main des comessaires
+                et en ses mains.</p>
+                <p xml:id="d001l13" n="12" rend="numbered">Et si ensi avenist que aucun request riens / a mon fis dou luer de la maison laquele
+                je tenoye en Acre au tens qu'ele fu perdue, c'est assaver de la maison dou patriarche,
+                laquele je / luayde sire Laurens Contelin, je vuell que mon fis soit tenus de payer
+                li .xvj. b. sarr. mains .iiij. k; et s'il ne sunt requis en / Venise, je encharge mon
+                fis qu'il les doient payer au patriarche de Jerusalem ou a l'evesque d'Acre.</p>
+                <p xml:id="d001l14" n="13" rend="numbered">Encore je vuell que je soie enterré / a Saint Michel, et laisse au dit luec .v. b.
+                blans por le labour de l'yglise.</p>
+                <p xml:id="d001l15" n="14" rend="numbered">Encore je vuell qu'il soient chantees .c. messes a l'yglise / de Saint Nicholas de
+                Famagouste.</p>
+                <p xml:id="d001l16" n="15" rend="numbered">Et je fay et ordene mes comessaires ma feme dame Coustance et sire Marc Pol et mon
+                fis Marc. /</p>
+                <p xml:id="d001l17" n="16" rend="numbered">Et je vuell que mes susdis comessaires donent ce que je ay devise en ceste presente
+                devise, et tout ce que demorera de mes choses / je vuell qu'i soient de mes anfans.</p>
+                <p xml:id="d001l18" n="17" rend="numbered">Et sunt garens des choses susdites sire Pelerin dou Chastel, sire Reymund Belot, /
+                maistre Henry d'Ast, Johannes Hachouc et George Gazel et je Pandoufle l'escrivain.</p>
+                <p xml:id="d001l19" n="18" rend="numbered">Ce fu fait l'an de l'incarnation nostre seignour Jesu Crist .mcc. et .xciij. a .xxj.
+                jor de jenvier.</p>
+                <lb/>
+                <lb/>
+                <lb/>
+            </div1>
+        </body>
+    </text>
+</TEI>

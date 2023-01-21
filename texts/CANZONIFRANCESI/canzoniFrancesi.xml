@@ -1,0 +1,1264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="CANZONIFRANCESI-canzoniFrancesi">Canzoni francesi</title>
+                <title type="short">Canzoni francesi</title>
+                <title type="sub">XIV sec.</title>
+                <author xml:id="CANZONIFRANCESI" n="031.000">
+                    <persName type="main"></persName>
+                    <persName type="short"></persName>
+                </author>
+                <principal>Francesca Gambino</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione e marcatura digitale</resp>
+                    <name>Francesca Gambino</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Francesca Gambino, <emph style="font-style:italic">Trentatré liriche franco-italiane trascritte nel codice Strozzi-Magliabecchiano Cl. VII (1040) della Biblioteca Nazionale Centrale di Firenze</emph>, nuova edizione per il RIALFrI, 2015.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t1"/>
+                <keywords>
+                    <term type="form">poetry</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <div2 xml:id="d001c001" n="I - 12">
+                    <head>I - 12</head>
+                    <lb/>
+                    <p xml:id="d001l1" n="">{{Tra parentesi quadre sono segnate le integrazioni rispetto alla lezione tràdita dal
+                    manoscritto. La cifra araba indica il numero assegnato alla lirica nel codice Strozzi-Magliabecchiano
+                    Cl. VII (1040) della Biblioteca Nazionale Centrale di Firenze}}</p>
+                    <lb/>
+                    <p xml:id="d001l2" n="">{{c. 49<emph style="font-style:italic">v</emph>b}}</p>
+                    <lb/>
+                    <l xml:id="d001l3" n="1">Je ne vos am ne croy, ne dutte fort</l>
+                    <l xml:id="d001l4" n="2">Ver ma dame que nul me puisse noyre,</l>
+                    <l xml:id="d001l5" n="3">Quar je le sent en tout fet si seiure</l>
+                    <l xml:id="d001l6" n="4">Ch'obeïsant a son voloyr m'acort.</l>
+                    <lb/>
+                    <l xml:id="d001l7" n="5">Tout di devray esperanze en soy,</l>
+                    <l xml:id="d001l8" n="6">Pour sovenir que si formant me lia.</l>
+                    <l xml:id="d001l9" n="7">He! loyalmant, sertes, en bone foy</l>
+                    <l xml:id="d001l10" n="8">L'ay je lontens amea e servia.</l>
+                    <lb/>
+                    <l xml:id="d001l11" n="9">E serviray, car trestot mon resort</l>
+                    <l xml:id="d001l12" n="10">Ay je la mis; e pour mal que je andure,</l>
+                    <l xml:id="d001l13" n="11">Ne me leyray, e de se suy seiure,</l>
+                    <l xml:id="d001l14" n="12">Pour endurer poyne a fin de mort.</l>
+                    <lb/>
+                    <l xml:id="d001l15" n="13">Je ne vos am ...</l>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l16" n="">{{3 je] je ye}}</p>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l17" n="">{{Metrica: a10b10'b10'a10  c10d10'c10d10'  a10b10'b10'a10}}</p>
+                    <lb/>
+                    <p xml:id="d001l18" n="">{{2 <emph style="font-style:italic">noyre</emph>: 'nuocere', cfr. T-L, GD, GDC <emph
+                    style="font-style:italic">nuire</emph>; FEW VII, 161a <emph style="font-style:italic">nocere</emph>.
+                    La forma, non attestata altrove, dovrebbe in realtà essere <emph style="font-style:italic">niure</emph>
+                    per garantire la rima. Il DMF attesta la forma <emph style="font-style:italic">nieure</emph>,
+                    che potrebbe generare <emph style="font-style:italic">niure</emph> per riduzione del
+                    dittongo}}.</p>
+                    <p xml:id="d001l19" n="">{{6 <emph style="font-style:italic">formant</emph>: 'con forza', cfr. T-L <emph style="font-style:italic">fort</emph>;
+                    GD <emph style="font-style:italic">forment</emph>; FEW III, 732b <emph style="font-style:italic">fortis</emph>.}}</p>
+                    <p xml:id="d001l20" n="">{{10 <emph style="font-style:italic">andure</emph>: 'soffro', cfr. T-L, GD, GDC <emph
+                    style="font-style:italic">endurer</emph>; FEW III, 188b <emph style="font-style:italic">durare</emph>.}}</p>
+                    <l xml:id="d001l21" n="14"></l>
+                    <lb/>
+                    <p xml:id="d001l22" n="">c. 50<emph style="font-style:italic">r</emph></p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c002" n="II - 14">
+                    <head>II - 14</head>
+                    <lb/>
+                    <p xml:id="d001l23" n="">{{Le prime tre canzoni di c. 50<emph style="font-style:italic">r</emph> sono trascritte
+                    a tutta pagina. }}</p>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l24" n="1">Jusque a tant que ma pas soyt fineya</l>
+                    <l xml:id="d001l25" n="2">Aprés seli que m'a pris en ayr,</l>
+                    <l xml:id="d001l26" n="3">Mon las de cuer ne fara que languir,</l>
+                    <l xml:id="d001l27" n="4">Dont longemant ne puis avoyr dureya.</l>
+                    <lb/>
+                    <l xml:id="d001l28" n="5">Quar nul for Diex ne me put tant grever</l>
+                    <l xml:id="d001l29" n="6">Quant ella fa, se fort m'en dunt ayr,</l>
+                    <l xml:id="d001l30" n="7">Ni tant valoyr, se me vut pardoner</l>
+                    <l xml:id="d001l31" n="8">O retorner par ly en gré servir.</l>
+                    <lb/>
+                    <l xml:id="d001l32" n="9">Pour se li pri alla très desireya,</l>
+                    <l xml:id="d001l33" n="10">Non me vuelha si sodemant grepir,</l>
+                    <l xml:id="d001l34" n="11">Ni par congié feyre de noyr vestir,</l>
+                    <l xml:id="d001l35" n="12">Quar san rayson mort ne me soyt livreya.</l>
+                    <lb/>
+                    <l xml:id="d001l36" n="13">Jusque a tant que ma pas soyt fineya ...</l>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l37" n="">{{Metrica: a10'b10b10a10'  c10b10c10b10  a10'b10b10a10'}}</p>
+                    <lb/>
+                    <p xml:id="d001l38" n="">{{9 <emph style="font-style:italic">pri</emph>: 'preghiera', cfr. T-L <emph style="font-style:italic">pri</emph>;
+                    GD <emph style="font-style:italic">pri</emph>; FEW IX, 337a <emph style="font-style:italic">precari</emph>.}}</p>
+                    <p xml:id="d001l39" n="">{{10 <emph style="font-style:italic">sodemant</emph>: 'subitamente', cfr. T-L <emph
+                    style="font-style:italic">sode1</emph> (<emph style="font-style:italic">sodement</emph>);
+                    FEW XII, 337a <emph style="font-style:italic">subitus</emph>.}}</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="III - 15">
+                    <head>III - 15</head>
+                    <lb/>
+                    <l xml:id="d001l40" n="1">Ne te dotter, mon dous amis,</l>
+                    <l xml:id="d001l41" n="2">Que je fasse departie,</l>
+                    <l xml:id="d001l42" n="3">Quar jamès giort de ma vie</l>
+                    <l xml:id="d001l43" n="4">Je ne leyray l'amor de ty.</l>
+                    <lb/>
+                    <l xml:id="d001l44" n="5">E pour se ge te vuel proyer</l>
+                    <l xml:id="d001l45" n="6">Que tu ne te dones esmay,</l>
+                    <l xml:id="d001l46" n="7">Ans te vuelhas reconforter,</l>
+                    <l xml:id="d001l47" n="8">Quar sacches que grant mestier en ay,</l>
+                    <lb/>
+                    <l xml:id="d001l48" n="9">Quar je te am trop plus que my;</l>
+                    <l xml:id="d001l49" n="10">E sans feyre despartie</l>
+                    <l xml:id="d001l50" n="11">Or mena joyose vie,</l>
+                    <l xml:id="d001l51" n="12">Puys qu'ilh en vient an tel par ty.</l>
+                    <lb/>
+                    <l xml:id="d001l52" n="13">Ne te dotter, mon dous amis ...</l>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l53" n="">{{Metrica: a8b7'b7'a8  c8d7'c7d8'  8a7'b7'b8a}}</p>
+                    <lb/>
+                    <p xml:id="d001l54" n="">{{3 <emph style="font-style:italic">giort</emph>: 'giorno', forma attestata in altre
+                    liriche di questo manoscritto, cfr. IV, 8, 12; VI, 5, ecc.}}</p>
+                    <p xml:id="d001l55" n="">{{7 <emph style="font-style:italic">reconforter</emph>: la misura dell'<emph style="font-style:italic">eptasyllabe</emph>
+                    si raggiunge espungendo il prefisso, <emph style="font-style:italic">conforter</emph>.}}</p>
+                    <p xml:id="d001l56" n="">{{8 Verso ipermetro, che può essere regolarizzato espungendo <emph style="font-style:italic">que</emph>.}}</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="IV - 16">
+                    <head>IV - 16</head>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l57" n="1">Si vuos playsoyt que je fusse en lyesse,</l>
+                    <l xml:id="d001l58" n="2">Si me donés l'autroy de vostre amour,</l>
+                    <l xml:id="d001l59" n="3">E sy n'avray jamès nulle dolour,</l>
+                    <l xml:id="d001l60" n="4">Ilh n'est dolour ni corrous ni tristese.</l>
+                    <lb/>
+                    <l xml:id="d001l61" n="5">Si vous playsoyt que je fusse en lyesse</l>
+                    <l xml:id="d001l62" n="6">J'ay grant pauor que je ne vous corrose</l>
+                    <l xml:id="d001l63" n="7">De requerir an vous si grant dousor,</l>
+                    <l xml:id="d001l64" n="8">Si non avray jamès tout me bon giort.</l>
+                    <lb/>
+                    <l xml:id="d001l65" n="9">Si vous playsoyt que je fusse en lyesse,</l>
+                    <l xml:id="d001l66" n="10">Si me donés l'autroy de vostre amor,</l>
+                    <l xml:id="d001l67" n="11">E si n'avray jamès tot mes bon giort,</l>
+                    <l xml:id="d001l68" n="12">...</l>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l69" n="">{{1 <emph style="font-style:italic">lyesse</emph>: 'gioia, letizia', cfr. T-L <emph
+                    style="font-style:italic">lëece</emph>; GD <emph style="font-style:italic">leece</emph>;
+                    FEW V, 129b <emph style="font-style:italic">laetitia</emph>.}}</p>
+                    <p xml:id="d001l70" n="">{{2 <emph style="font-style:italic">autroy</emph>: 'accordo, permesso', cfr. TL, GD
+                    <emph style="font-style:italic">otroi</emph>; FEW XXV, 819b *<emph style="font-style:italic">auctorizare</emph>.}}</p>
+                    <p xml:id="d001l71" n="">{{4 <emph style="font-style:italic">tristese</emph>: si noti la rima con la consonante
+                    scempia, come anche <emph style="font-style:italic">corrose</emph> 6.}}</p>
+                    <p xml:id="d001l72" n="">{{6 <emph style="font-style:italic">corrose</emph>: 'corrucci', cfr. T-L <emph style="font-style:italic">corrocier</emph>;
+                    GD <emph style="font-style:italic">coroçant/corocent</emph>; GDC <emph style="font-style:italic">couroucier</emph>;
+                    FEW II-2, 1235b,1236a *<emph style="font-style:italic">corruptum</emph>. La rima <emph
+                    style="font-style:italic">corrose</emph> presuppone le varianti fonetiche con -<emph
+                    style="font-style:italic">ai</emph>-/-<emph style="font-style:italic">e</emph>- (<emph
+                    style="font-style:italic">courraice</emph>, <emph style="font-style:italic">couresse</emph>,
+                    <emph style="font-style:italic">couresser</emph>, ecc.) registrate dal DMF s.v. <emph
+                    style="font-style:italic">courroucer</emph>. }}</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="V - 17">
+                    <head>V - 17</head>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l73" n="">{{Questa lirica è stata trascritta in basso a sinistra all'interno di un riquadro rettangolare.
+                    Si tratta presumibilmente della stessa mano del resto del codice, ma il modulo è più
+                    piccolo. In un riquadro a destra è invece trascritta senza numero progressivo la lirica
+                    XXIV (41 bis) di c. 52vb, con minime varianti. }}</p>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l74" n="1">Se vos savés chomant amour me mayne</l>
+                    <l xml:id="d001l75" n="2">Pour vous amer, ma dame soveyrayne,</l>
+                    <l xml:id="d001l76" n="3">Vous en deusiés au cuer pitié avoyr,</l>
+                    <l xml:id="d001l77" n="4">Qua[r] par vous n'ay ni matin ni bon soyr.</l>
+                    <l xml:id="d001l78" n="5">Pour vous sufre mantes dures semayne,</l>
+                    <l xml:id="d001l79" n="6">E sufreray, si vous n'i metés payne.</l>
+                    <l xml:id="d001l80" n="7">Or me gités de cestie dure payne,</l>
+                    <l xml:id="d001l81" n="8">E si sacchés e sy soyés sertayne</l>
+                    <l xml:id="d001l82" n="9">Vous serviray de tout a mon poyor,</l>
+                    <l xml:id="d001l83" n="10">De tout mon cuer qui est a vous voloyr.</l>
+                    <lb/>
+                    <p xml:id="d001l84" n="">{{Metrica: a10'a10'b10b10a10'a10'a10'a10'b10b10}}</p>
+                    <lb/>
+                    <p xml:id="d001l85" n="">{{1 <emph style="font-style:italic">me mayne</emph>: 'mi conduce', cfr. T-L, GD, GDC
+                    <emph style="font-style:italic">mener</emph>; FEW VI-2, 100,101 <emph style="font-style:italic">minare</emph>.
+                    }}</p>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l86" n="">c. 51<emph style="font-style:italic">r</emph>a</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="VI - 22">
+                    <head>VI - 22</head>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l87" n="1">Dé! quant bone ore fu nés</l>
+                    <l xml:id="d001l88" n="2">Chi s'amie tient au pré</l>
+                    <l xml:id="d001l89" n="3">En l'erba giolie!</l>
+                    <lb/>
+                    <l xml:id="d001l90" n="4">«Ma trés douse amie,</l>
+                    <l xml:id="d001l91" n="5">Dieus vous dont le bon giort.</l>
+                    <l xml:id="d001l92" n="6">Vos estes avisea</l>
+                    <l xml:id="d001l93" n="7">Se m'amaris o non?</l>
+                    <l xml:id="d001l94" n="8">– Nani voyr, mon dous amis,</l>
+                    <l xml:id="d001l95" n="9">Le parti en est tout pris:</l>
+                    <l xml:id="d001l96" n="10">Ne vos amerai mie.</l>
+                    <lb/>
+                    <l xml:id="d001l97" n="11">– Or ma trés douse amie,</l>
+                    <l xml:id="d001l98" n="12">Ora a Dieu vos chomant;</l>
+                    <l xml:id="d001l99" n="13">Ge vos ai servie</l>
+                    <l xml:id="d001l100" n="14">E amé mot lielmant.</l>
+                    <l xml:id="d001l101" n="15">– Il est voir, mon dous amis:</l>
+                    <l xml:id="d001l102" n="16">Vos etes gay e giolis,</l>
+                    <l xml:id="d001l103" n="17">E ge sui plus jolie.</l>
+                    <lb/>
+                    <l xml:id="d001l104" n="18">Quant ge le vi</l>
+                    <l xml:id="d001l105" n="19">sus son cival monter,</l>
+                    <l xml:id="d001l106" n="20">E s'espeia sendre,</l>
+                    <l xml:id="d001l107" n="21">e ses gans blans enformer,</l>
+                    <l xml:id="d001l108" n="22">En sospirant ge li dis:</l>
+                    <l xml:id="d001l109" n="23">«Revenés, mon dous amis,</l>
+                    <l xml:id="d001l110" n="24">ge serai vostra amie.»</l>
+                    <lb/>
+                    <l xml:id="d001l111" n="25">Dé! quant bone ore fu nés ...</l>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l112" n="">{{1 Quant] quant quant}}</p>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l113" n="">c. 51<emph style="font-style:italic">v</emph>a</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="VII - 27">
+                    <head>VII - 27</head>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l114" n="1">Bergereita, ciaschun vos pria,</l>
+                    <l xml:id="d001l115" n="2">E ge pour amor vos demant.</l>
+                    <l xml:id="d001l116" n="3">Se vos volés estre m'amia,</l>
+                    <l xml:id="d001l117" n="4">Ge vous serai loial amant.</l>
+                    <l xml:id="d001l118" n="5">Je vos tendrai chuende e giolia,</l>
+                    <l xml:id="d001l119" n="6">E vos serai loial amant.</l>
+                    <l xml:id="d001l120" n="7">Ge vos merrai en l'erba jolia,</l>
+                    <l xml:id="d001l121" n="8">E vos serai loial sergiant.</l>
+                    <l xml:id="d001l122" n="9">Quant ella oï la chortoisia,</l>
+                    <l xml:id="d001l123" n="10">Ella fit un saut en riant.</l>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l124" n="">{{1 <emph style="font-style:italic">Bergereita</emph>: 'pastorella', cfr. T-L <emph
+                    style="font-style:italic">bergier</emph>; GDC <emph style="font-style:italic">bergier</emph>;
+                    FEW XIV, 334b <emph style="font-style:italic">vervecarius</emph>.}}</p>
+                    <p xml:id="d001l125" n="">{{<emph style="font-style:italic">ciaschun</emph>: senza la -<emph style="font-style:italic">s</emph>
+                    del caso retto, come anche ai vv. 4, 6, 8.}}</p>
+                    <p xml:id="d001l126" n="">{{5 <emph style="font-style:italic">chuende</emph>: 'vezzeggiata, lusingata', cfr.
+                    T-L <emph style="font-style:italic">chüer</emph>; GD <emph style="font-style:italic">chuer</emph>;
+                    FEW XXII-1, 68a o.i. }}</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="VIII - 28">
+                    <head>VIII - 28</head>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l127" n="1">D'amor non partiray mays,</l>
+                    <l xml:id="d001l128" n="2">Si ge non ai chomandemant.</l>
+                    <lb/>
+                    <l xml:id="d001l129" n="3">A l'onbreta d'un olivier</l>
+                    <l xml:id="d001l130" n="4">Je vis trois civaliers gioster;</l>
+                    <l xml:id="d001l131" n="5">Mon ami n'et le mieus giostant.</l>
+                    <l xml:id="d001l132" n="6">De la venoit un mesagier:</l>
+                    <l xml:id="d001l133" n="7">«A chui estes vos, mon amis cier?</l>
+                    <l xml:id="d001l134" n="8">– Je sui a monsenhor le duch,</l>
+                    <l xml:id="d001l135" n="9">Por feire son chomandemant.»</l>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="XI - 29">
+                    <head>IX - 29</head>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l136" n="1">Lasse! pour quoy, mestre de Rodes,</l>
+                    <l xml:id="d001l137" n="2">En menés vous mon dous amis,</l>
+                    <l xml:id="d001l138" n="3">Qui m'a semblé li plus jolis</l>
+                    <l xml:id="d001l139" n="4">De trestut ses qui la cros porten?</l>
+                    <lb/>
+                    <l xml:id="d001l140" n="5">Ge aroye plus ciere estre morte:</l>
+                    <l xml:id="d001l141" n="6">Char il m'a mis en oblis.</l>
+                    <l xml:id="d001l142" n="7">E lasse! pour quoy ...</l>
+                    <lb/>
+                    <l xml:id="d001l143" n="8">Set anelet qu'al doy ge porte</l>
+                    <l xml:id="d001l144" n="9">Me fet le cuer pour mi partir;</l>
+                    <l xml:id="d001l145" n="10">Quar ge ne sai le revenir,</l>
+                    <l xml:id="d001l146" n="11">E sesi moy trop deschonforte</l>
+                    <l xml:id="d001l147" n="12">...</l>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l148" n="">{{12 L'ultimo verso è illeggibile. }}</p>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l149" n="">c. 51<emph style="font-style:italic">v</emph>b</p>
+                    <l xml:id="d001l150" n="13"></l>
+                </div2>
+                <div2 xml:id="d001c003" n="X - 30">
+                    <head>X - 30</head>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l151" n="1">Per ont m'en iroye, ma douse dame,</l>
+                    <l xml:id="d001l152" n="2">Se aler m'en voldroie?</l>
+                    <lb/>
+                    <l xml:id="d001l153" n="3">Se je m'en voy par les cians,</l>
+                    <l xml:id="d001l154" n="4">Les ciardons i sont trop grans:</l>
+                    <l xml:id="d001l155" n="5">Je me ponheroie, ma ciere dame,</l>
+                    <l xml:id="d001l156" n="6">Se aler m'en voldroye.</l>
+                    <lb/>
+                    <l xml:id="d001l157" n="7">Si je m'en voy pour les boys,</l>
+                    <l xml:id="d001l158" n="8">Les boysons i sont estroys:</l>
+                    <l xml:id="d001l159" n="9">E me mangeroye, ma douse dame,</l>
+                    <l xml:id="d001l160" n="10">Se aler m'en voldroye.</l>
+                    <lb/>
+                    <l xml:id="d001l161" n="11">Si je m'en voy pour le pré,</l>
+                    <l xml:id="d001l162" n="12">Mes ciauses sont semelés;</l>
+                    <l xml:id="d001l163" n="13">Je me banheroye, ma douse dame,</l>
+                    <l xml:id="d001l164" n="14">S'aler m'en voldroie.</l>
+                    <lb/>
+                    <l xml:id="d001l165" n="15">Per ont m'en iroye ...</l>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l166" n="">{{4 <emph style="font-style:italic">ciardons</emph>: 'pianta dalle foglie e dai gambi
+                    spinosi, cardo', cfr. TL, GDC <emph style="font-style:italic">chardon</emph>; FEW
+                    II-1, 368a <emph style="font-style:italic">carduus</emph>.}}</p>
+                    <p xml:id="d001l167" n="">{{8 <emph style="font-style:italic">estroys</emph>: 'stretti', cfr. T-L <emph style="font-style:italic">estroit</emph>;
+                    GD <emph style="font-style:italic">estroit1</emph>; GDC <emph style="font-style:italic">estreit</emph>;
+                    FEW XII, 298b <emph style="font-style:italic">strictus</emph>.}}</p>
+                    <p xml:id="d001l168" n="">{{12 <emph style="font-style:italic">ciauses</emph>: 'indumenti aderenti che coprivano
+                    piedi e gambe, calze', cfr. T-L <emph style="font-style:italic">chauce</emph>; GDC
+                    <emph style="font-style:italic">chalce</emph>; FEW II-1, 70b <emph style="font-style:italic">calceus</emph>;
+                    TLF V, 625b <emph style="font-style:italic">chausses</emph>.}}</p>
+                    <p xml:id="d001l169" n="">{{<emph style="font-style:italic">semelés</emph>: 'guarniti da una soletta', cfr.
+                    GD <emph style="font-style:italic">semeler</emph>; FEW V, 137a <emph style="font-style:italic">lamella</emph>.}}</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="XI - 31">
+                    <head>XI - 31</head>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l170" n="1">En paradis va</l>
+                    <l xml:id="d001l171" n="2">Qui a belle amie,</l>
+                    <l xml:id="d001l172" n="3">Nul autre n'i va.</l>
+                    <lb/>
+                    <l xml:id="d001l173" n="4">Ne le di pour moy,</l>
+                    <l xml:id="d001l174" n="5">Quar je ne l'ay mie:</l>
+                    <l xml:id="d001l175" n="6">Bon aler i fay.</l>
+                    <lb/>
+                    <l xml:id="d001l176" n="7">Mes je la pendray</l>
+                    <l xml:id="d001l177" n="8">Chuende e bien jolie,</l>
+                    <l xml:id="d001l178" n="9">Belle, se Diex play.</l>
+                    <lb/>
+                    <l xml:id="d001l179" n="10">Nul n'i doyt aler,</l>
+                    <l xml:id="d001l180" n="11">Si n'a belle amie:</l>
+                    <l xml:id="d001l181" n="12">Ellas! je n'iray.</l>
+                    <lb/>
+                    <l xml:id="d001l182" n="13">En paradis va ...</l>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="XII - 32">
+                    <head>XI - 32</head>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l183" n="1">Varlet qu'a moy parler non osas,</l>
+                    <l xml:id="d001l184" n="2">.......................</l>
+                    <l xml:id="d001l185" n="3">Ghinha moy, ghinha,</l>
+                    <l xml:id="d001l186" n="4">Fetes moy sinhe.</l>
+                    <l xml:id="d001l187" n="5">Ge vos deray ciapel de soya,</l>
+                    <l xml:id="d001l188" n="6">Varlet ch'a moy parler non osas.</l>
+                    <lb/>
+                    <l xml:id="d001l189" n="7">Ge vos deray ciapel de soya,</l>
+                    <l xml:id="d001l190" n="8">O de surzia;</l>
+                    <l xml:id="d001l191" n="9">Ghinha moy, ghinha,</l>
+                    <l xml:id="d001l192" n="10">Fetes moy sinhe.</l>
+                    <l xml:id="d001l193" n="11">Ge vos deray une esmeroda,</l>
+                    <l xml:id="d001l194" n="12">Varlet qu'a moy parler non osas.</l>
+                    <lb/>
+                    <l xml:id="d001l195" n="13">Ge vos daray una esmeroda,</l>
+                    <l xml:id="d001l196" n="14">Chuenda e giolie;</l>
+                    <l xml:id="d001l197" n="15">Ghinha moy, ghinha,</l>
+                    <l xml:id="d001l198" n="16">Fetes moy sinhe.</l>
+                    <l xml:id="d001l199" n="17">..........................</l>
+                    <l xml:id="d001l200" n="18">[Varlet qu'a moy parler non osas.]</l>
+                    <lb/>
+                    <l xml:id="d001l201" n="19">Ge ne seray si fort enclose</l>
+                    <l xml:id="d001l202" n="20">Que ge ne vienha;</l>
+                    <l xml:id="d001l203" n="21">Ghinha moy, ghinha,</l>
+                    <l xml:id="d001l204" n="22">Fetes moy sinhe,</l>
+                    <l xml:id="d001l205" n="23">............................</l>
+                    <l xml:id="d001l206" n="24">Varlet qu'a moy parler non osas.</l>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l207" n="">{{1 <emph style="font-style:italic">Varlet</emph>: 'giovane uomo', cfr. TL, GDC <emph
+                    style="font-style:italic">vaslet</emph>; GD <emph style="font-style:italic">vallet</emph>;
+                    FEW XIV, 197b,198,199 *<emph style="font-style:italic">vassellittus</emph>. La forma
+                    con la -<emph style="font-style:italic">r</emph>- è attestata anche in a. fr.}}</p>
+                    <p xml:id="d001l208" n="">{{2 <emph style="font-style:italic">ghihna</emph>: 'fare segno con l'occhio', cfr.
+                    T-L <emph style="font-style:italic">guignier1</emph>; GD <emph style="font-style:italic">guignier2</emph>;
+                    GDC <emph style="font-style:italic">guignier</emph>; DEAF, G1609 <emph style="font-style:italic">guignier1</emph>;
+                    FEW XVII, 593a *<emph style="font-style:italic">wingjan</emph>.}}</p>
+                    <p xml:id="d001l209" n="">{{4 <emph style="font-style:italic">soya</emph>: 'seta', cfr. T-L <emph style="font-style:italic">soie3</emph>;
+                    GDC <emph style="font-style:italic">seie2</emph>; FEW XI, 47b,49a <emph style="font-style:italic">saeta</emph>.}}</p>
+                    <p xml:id="d001l210" n="">{{7 <emph style="font-style:italic">surzia</emph>: 'calendula officinalis', cfr. T-L
+                    <emph style="font-style:italic">soussie</emph>; GD <emph style="font-style:italic">solsie</emph>;
+                    FEW XII, 73a <emph style="font-style:italic">solsequia</emph>. Nella letteratura francese
+                    la calendula è spesso simbolo della tristezza dell'amante o di gelosia.}}</p>
+                    <p xml:id="d001l211" n="">{{10 <emph style="font-style:italic">esmeroda</emph>: 'smeraldo', T-L <emph style="font-style:italic">esmeraude</emph>;
+                    GDC <emph style="font-style:italic">esmeralde</emph>; FEW XII, 8b,9a <emph style="font-style:italic">smaragdus</emph>.
+                    }}</p>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l212" n="">c. 52<emph style="font-style:italic">r</emph>a</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="XIII - 33">
+                    <head>XIII - 33</head>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l213" n="1">Mes solars usés les ay</l>
+                    <l xml:id="d001l214" n="2">An marcier sus l'erba la nut ,</l>
+                    <l xml:id="d001l215" n="3">An marcier sus l'erba la nnut.</l>
+                    <lb/>
+                    <l xml:id="d001l216" n="4">Un bien matin me levay,</l>
+                    <l xml:id="d001l217" n="5">Mes solers usés les ay,</l>
+                    <l xml:id="d001l218" n="6">Tres rosetas la culhay,</l>
+                    <l xml:id="d001l219" n="7">G[i] ay lo ciant d'un merle e d'un giay</l>
+                    <l xml:id="d001l220" n="8">E d'un rosinholet plus gay.</l>
+                    <lb/>
+                    <l xml:id="d001l221" n="9">Tres rosetas la culhay,</l>
+                    <l xml:id="d001l222" n="10">Mes solers usés les ay,</l>
+                    <l xml:id="d001l223" n="11">L'una boy, l'aultre mangiay.</l>
+                    <l xml:id="d001l224" n="12">Gi ay lo ciant d'un merle e d'un giay</l>
+                    <l xml:id="d001l225" n="13">E d'un rosinholet plus gay.</l>
+                    <lb/>
+                    <l xml:id="d001l226" n="14">L'una boy, l'altre mangiay,</l>
+                    <l xml:id="d001l227" n="15">Mes solers usés les ay;</l>
+                    <l xml:id="d001l228" n="16">De l'altre ciapel feray.</l>
+                    <l xml:id="d001l229" n="17">Gi ay lo ciant d'un merle e d'un giay</l>
+                    <l xml:id="d001l230" n="18">E d'un rosinholet plus gay.</l>
+                    <lb/>
+                    <l xml:id="d001l231" n="19">De l'altre ciapel feray,</l>
+                    <l xml:id="d001l232" n="20">Mes solers usés les ay,</l>
+                    <l xml:id="d001l233" n="21">A mon ami lo deray.</l>
+                    <l xml:id="d001l234" n="22">Gi ay lo ciant d'un merle e d'un giay</l>
+                    <l xml:id="d001l235" n="23">E d'un rosinholet plus gay.</l>
+                    <lb/>
+                    <l xml:id="d001l236" n="24">Mes solers usés les ay.</l>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l237" n="">{{1 <emph style="font-style:italic">solars</emph>: 'calzature con la suola di cuoio',
+                    cfr. T-L <emph style="font-style:italic">soler2</emph>; GDC <emph style="font-style:italic">souler</emph>;
+                    FEW XII, 362b *<emph style="font-style:italic">subtelare</emph>; TLF XV, 757b <emph
+                    style="font-style:italic">soulier</emph>.}}</p>
+                    <p xml:id="d001l238" n="">{{2 <emph style="font-style:italic">nut</emph>: 'notte', cfr. T-L, GD, GDC <emph style="font-style:italic">nuit</emph>;
+                    FEW VII, 212a <emph style="font-style:italic">nox</emph>; TLF XII, 302b <emph style="font-style:italic">nuit</emph>.}}</p>
+                    <p xml:id="d001l239" n="">{{11 <emph style="font-style:italic">boy</emph>: 'bevetti', cfr. TL, GD <emph style="font-style:italic">boivre</emph>;
+                    GDC <emph style="font-style:italic">beivre1/beivre2</emph>; FEW I, 348a <emph style="font-style:italic">bibere</emph>;
+                    TLF IV, 627a <emph style="font-style:italic">boire1</emph>. }}</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="XIV - 34">
+                    <head>XIV - 34</head>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l240" n="1">En l'erbetta verdoyant</l>
+                    <l xml:id="d001l241" n="2">Fet bon gioier.</l>
+                    <lb/>
+                    <l xml:id="d001l242" n="3">L'altrier m'aloy desportant</l>
+                    <l xml:id="d001l243" n="4">En l'erbetta verdoyant,</l>
+                    <l xml:id="d001l244" n="5">Sus mon palefroy portant,</l>
+                    <l xml:id="d001l245" n="6">Fet bon gioer.</l>
+                    <lb/>
+                    <l xml:id="d001l246" n="7">Sus mon palefroy portant,</l>
+                    <l xml:id="d001l247" n="8">En l'erbetta verdoiant,</l>
+                    <l xml:id="d001l248" n="9">Trovoy piuseles durmant</l>
+                    <l xml:id="d001l249" n="10">Gius l'olivier.</l>
+                    <lb/>
+                    <l xml:id="d001l250" n="11">Trovoy piuseles dormant</l>
+                    <l xml:id="d001l251" n="12">En l'erbetta verdoyant.</l>
+                    <l xml:id="d001l252" n="13">Ge lur dis tot an riant:</l>
+                    <l xml:id="d001l253" n="14">«Volés moy amer?»</l>
+                    <lb/>
+                    <l xml:id="d001l254" n="15">Ge lur dis tout an riant</l>
+                    <l xml:id="d001l255" n="16">En l'erbetta verdoyant;</l>
+                    <l xml:id="d001l256" n="17">Ilh moy respont plenamant:</l>
+                    <l xml:id="d001l257" n="18">«Oy, volontier.»</l>
+                    <lb/>
+                    <l xml:id="d001l258" n="19">Ilh moy respont plenemant</l>
+                    <l xml:id="d001l259" n="20">En l'erbetta verdoyant.</l>
+                    <l xml:id="d001l260" n="21">Lor ge m'en tornoy gioyant</l>
+                    <l xml:id="d001l261" n="22">Sus mon corsier.</l>
+                    <lb/>
+                    <l xml:id="d001l262" n="23">En l'erbetta verdoyant</l>
+                    <l xml:id="d001l263" n="24">Fet bon gioier.</l>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l264" n="">{{2 <emph style="font-style:italic">gioier</emph>: 'divertimento', infinito sostantivato,
+                    cfr. T-L <emph style="font-style:italic">jöer</emph>; GD, GDC <emph style="font-style:italic">joer</emph>;
+                    FEW V, 36,37a,39b <emph style="font-style:italic">jocari</emph>; TLF X, 742b <emph
+                    style="font-style:italic">jouer</emph>.}}</p>
+                    <p xml:id="d001l265" n="">{{3 <emph style="font-style:italic">desportant</emph>: 'allontanando', cfr. TL, GD
+                    <emph style="font-style:italic">deporter</emph>; FEW IX, 218a <emph style="font-style:italic">portare</emph>;
+                    TLF VI, 1170b <emph style="font-style:italic">déporter</emph>.}}</p>
+                    <p xml:id="d001l266" n="">{{22 <emph style="font-style:italic">corsier</emph>: 'cavallo rapido', cfr. T-L <emph
+                    style="font-style:italic">corsier</emph>; GDC <emph style="font-style:italic">coursier</emph>;
+                    FEW II-2, 1576b <emph style="font-style:italic">cursus</emph>; TLF VI, 363a <emph
+                    style="font-style:italic">coursier1</emph>.}}</p>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l267" n="">c. 52<emph style="font-style:italic">r</emph>b</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="XV - 34 bis">
+                    <head>XV - 34 bis</head>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l268" n="1">Gi ay l'alo, l'alo, l'aloetta,</l>
+                    <l xml:id="d001l269" n="2">Gi ay l'aloetta que s'en vay!</l>
+                    <lb/>
+                    <l xml:id="d001l270" n="3">Mon pere m'a marié,</l>
+                    <l xml:id="d001l271" n="4">E gi ay l'aloetta!</l>
+                    <l xml:id="d001l272" n="5">A un vilen m'a doné,</l>
+                    <l xml:id="d001l273" n="6">E gi ay l'alo, l'alo, l'aloetta,</l>
+                    <l xml:id="d001l274" n="7">E gi ay l'aloetta que s'en vay!</l>
+                    <l xml:id="d001l275" n="8">A un vilen m'a doné,</l>
+                    <l xml:id="d001l276" n="9">E gi ay l'aloetta!</l>
+                    <l xml:id="d001l277" n="10">E dit qu'i me battera,</l>
+                    <l xml:id="d001l278" n="11">E gi ay l'alo, l'alo, l'aloetta,</l>
+                    <l xml:id="d001l279" n="12">E gi ay l'aloetta que s'en vay!</l>
+                    <lb/>
+                    <l xml:id="d001l280" n="13">Il dit que me battera,</l>
+                    <l xml:id="d001l281" n="14">E gi ay l'aloetta !</l>
+                    <l xml:id="d001l282" n="15">E ge dis que non fera,</l>
+                    <l xml:id="d001l283" n="16">E gi ay l'alo, l'alo, l'aloetta,</l>
+                    <l xml:id="d001l284" n="17">E gi ay l'aloetta que s'en vay!</l>
+                    <lb/>
+                    <l xml:id="d001l285" n="18">E ge dis que non fera,</l>
+                    <l xml:id="d001l286" n="19">E gi ay l'aloetta!</l>
+                    <l xml:id="d001l287" n="20">Mon ami m'en gardera,</l>
+                    <l xml:id="d001l288" n="21">E gi ay l'alo, l'alo, l'aloetta,</l>
+                    <l xml:id="d001l289" n="22">E gi ay l'aloetta que s'e[n] vay!</l>
+                    <lb/>
+                    <l xml:id="d001l290" n="23">Mon ami m'en gardera,</l>
+                    <l xml:id="d001l291" n="24">E gi ay l'aloetta!</l>
+                    <l xml:id="d001l292" n="25">Altre foys gardé m'en a,</l>
+                    <l xml:id="d001l293" n="26">E gi ay l'alo, l'alo, l'aloetta,</l>
+                    <l xml:id="d001l294" n="27">E gi ay l'aloetta que s'en vay!</l>
+                    <lb/>
+                    <l xml:id="d001l295" n="28">Gi ay l'alo, l'alo, l'aloetta,</l>
+                    <l xml:id="d001l296" n="29">Gi ay l'aloetta que s'en vay!</l>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="XVI - 35">
+                    <head>XVI - 35</head>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l297" n="1">Ansi la doy om mener s'amietta.</l>
+                    <lb/>
+                    <l xml:id="d001l298" n="2">Quant ge suy leveya matin sus l'albetta,</l>
+                    <l xml:id="d001l299" n="3">Introy en un pré, trovoy piuselletta.</l>
+                    <lb/>
+                    <l xml:id="d001l300" n="4">Introy en un pré, trovoy piuselletta,</l>
+                    <l xml:id="d001l301" n="5">Ge li demandoy: «Sarés m'amietta?»</l>
+                    <lb/>
+                    <l xml:id="d001l302" n="6">Ge li demandoy: «Sarés m'amietta?»</l>
+                    <l xml:id="d001l303" n="7">Il m'a respondu: «Trop sui giovinetta.»</l>
+                    <lb/>
+                    <l xml:id="d001l304" n="8">Il m'a respondu: «Trop sui giovinetta,</l>
+                    <l xml:id="d001l305" n="9">Ne poyroy sufrir le gioch d'amoretas.</l>
+                    <lb/>
+                    <l xml:id="d001l306" n="10">Ne poroy sufrir le gioch d'amoretas.»</l>
+                    <l xml:id="d001l307" n="11">Lors ge la pris pour sa men blancietta.</l>
+                    <lb/>
+                    <l xml:id="d001l308" n="12">Lors ge la pris pour sa men blancietta,</l>
+                    <l xml:id="d001l309" n="13">E si la ruay sus l'erba freschetta.</l>
+                    <lb/>
+                    <l xml:id="d001l310" n="14">Ansy la doyt hom mener s'amietta.</l>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l311" n="">{{5 <emph style="font-style:italic">m'amietta</emph>: termine ricorrente anche nella
+                    lirica italiana 25 di c. 51<emph style="font-style:italic">r</emph>b.}}</p>
+                    <p xml:id="d001l312" n="">{{13 <emph style="font-style:italic">la ruay</emph>: 'la feci ruzzolare', cfr. T-L
+                    <emph style="font-style:italic">rüer</emph>; GD, GDC <emph style="font-style:italic">ruer</emph>;
+                    FEW X, 600b *<emph style="font-style:italic">rutare</emph>; TLF XIV, 1347a <emph style="font-style:italic">ruer</emph>.}}</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="XVII - 36">
+                    <head>XVII - 36</head>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l313" n="1">Ge le doy doy bien porter,</l>
+                    <l xml:id="d001l314" n="2">Le ciapelet du sauge.</l>
+                    <lb/>
+                    <l xml:id="d001l315" n="3">M'amie m'a congié doné;</l>
+                    <l xml:id="d001l316" n="4">Ge le doy doy bien porter.</l>
+                    <l xml:id="d001l317" n="5">M'amie m'a congié doné,</l>
+                    <l xml:id="d001l318" n="6">Quar n'a pris un altre.</l>
+                    <lb/>
+                    <l xml:id="d001l319" n="7">Las! ge ne li avoy forfet,</l>
+                    <l xml:id="d001l320" n="8">Ge le doy doy bien porter,</l>
+                    <l xml:id="d001l321" n="9">[Las! ge ne li avoy forfet,]</l>
+                    <l xml:id="d001l322" n="10">Ni pansé nul blaime.</l>
+                    <lb/>
+                    <l xml:id="d001l323" n="11">A Diex m'en vuel reclamer,</l>
+                    <l xml:id="d001l324" n="12">Ge le doy doy bien po[r]ter,</l>
+                    <l xml:id="d001l325" n="13">Qu'i lui dont un tiel trover,</l>
+                    <l xml:id="d001l326" n="14">Qu'il more d'espaime.</l>
+                    <lb/>
+                    <l xml:id="d001l327" n="15">Ge le doy doy bien porter,</l>
+                    <l xml:id="d001l328" n="16">Le ciapelet du sauge.</l>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l329" n="">{{7 forfet] <emph style="font-style:italic">segue</emph> ni panse nul blayme las ge
+                    <emph style="font-style:italic">biffato</emph>   13 lui] lin}}</p>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l330" n="">{{2 <emph style="font-style:italic">sauge</emph>: 'salvia', cfr. T-L <emph style="font-style:italic">sauge</emph>;
+                    GDC <emph style="font-style:italic">salge</emph>; FEW XI, 132a <emph style="font-style:italic">salvia</emph>;
+                    TLF XV, 98b <emph style="font-style:italic">sauge</emph>. }}</p>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l331" n="">c. 52<emph style="font-style:italic">v</emph>a</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="XVIII - 37">
+                    <head>XVIII - 37</head>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l332" n="1">Gioyna filhetta, fay ton ami de moy.</l>
+                    <lb/>
+                    <l xml:id="d001l333" n="2">C'est a Paris en la ciambre du roy,</l>
+                    <l xml:id="d001l334" n="3">Il y a troys filhes qui font crier tornoy.</l>
+                    <l xml:id="d001l335" n="4">Gioyna filhetta, fay ton ami de moy.</l>
+                    <lb/>
+                    <l xml:id="d001l336" n="5">Il y a troys filhes qui font crier tornoy,</l>
+                    <l xml:id="d001l337" n="6">Filhes de dames e de duch e de roy.</l>
+                    <l xml:id="d001l338" n="7">Gioyna filheta, fay ton ami de moy.</l>
+                    <lb/>
+                    <l xml:id="d001l339" n="8">Filhes de dames e de duch e de roy;</l>
+                    <l xml:id="d001l340" n="9">M'amie n'est, la plus belle qui soy.</l>
+                    <l xml:id="d001l341" n="10">Gioyna filhetta, fay ton amy de moy.</l>
+                    <lb/>
+                    <l xml:id="d001l342" n="11">M'amie n'est, la plus belle qui soy;</l>
+                    <l xml:id="d001l343" n="12">Degios le rame la violetta croy.</l>
+                    <l xml:id="d001l344" n="13">Gioyna filhetta, fay ton ami de moy.</l>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l345" n="">{{3 <emph style="font-style:italic">crier</emph>: 'annunciare, proclamare in nome
+                    di un'autorità', cfr. T-L <emph style="font-style:italic">crïer1</emph>; GD, GDC <emph
+                    style="font-style:italic">crier</emph>; FEW II-2, 1484b-1487a <emph style="font-style:italic">quiritare</emph>;
+                    TLF VI, 490a <emph style="font-style:italic">crier</emph>. }}</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="XIX - 38">
+                    <head>XIX - 38</head>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l346" n="1">Giamays non iray al boy</l>
+                    <l xml:id="d001l347" n="2">La flor culhir,</l>
+                    <l xml:id="d001l348" n="3">Quar le forestier du boy</l>
+                    <l xml:id="d001l349" n="4">Mon ghage en a pris.</l>
+                    <lb/>
+                    <l xml:id="d001l350" n="5">Forestier, ghay forestier,</l>
+                    <l xml:id="d001l351" n="6">Pren sinch sous de mes deniers,</l>
+                    <l xml:id="d001l352" n="7">Pren .v. sous de mes deniers,</l>
+                    <l xml:id="d001l353" n="8">Quar je t'en pri;</l>
+                    <l xml:id="d001l354" n="9">E moy layse aler</l>
+                    <l xml:id="d001l355" n="10">Piusella a mon ami.</l>
+                    <lb/>
+                    <l xml:id="d001l356" n="11">Giamays non iray ...</l>
+                    <lb/>
+                    <l xml:id="d001l357" n="12">Le forestier fut cortoys:</l>
+                    <l xml:id="d001l358" n="13">De .v. sous n'a pris que troys,</l>
+                    <l xml:id="d001l359" n="14">De .v. sous n'a pris que troys,</l>
+                    <l xml:id="d001l360" n="15">Qua[n]t je li dis;</l>
+                    <l xml:id="d001l361" n="16">E moy a laysié</l>
+                    <l xml:id="d001l362" n="17">Piusella a mon ami.</l>
+                    <lb/>
+                    <l xml:id="d001l363" n="18">Giamays non iray ...</l>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l364" n="">{{4 <emph style="font-style:italic">ghage</emph>: 'garanzia', cfr. TL, GDC <emph style="font-style:italic">gage</emph>;
+                    DEAF, G25 <emph style="font-style:italic">gage</emph>; FEW XVII, 441 *<emph style="font-style:italic">waddi</emph>;
+                    TLF IX, 10b <emph style="font-style:italic">gage</emph>. }}</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="XX - 39">
+                    <head>XX - 39</head>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l365" n="1">Bella, triés vostre avoyr,</l>
+                    <l xml:id="d001l366" n="2">Bergeyron, bergeyron, bergeyroneta,</l>
+                    <l xml:id="d001l367" n="3">Bella, triés vostre avoyr</l>
+                    <l xml:id="d001l368" n="4">Aveche le moy.</l>
+                    <lb/>
+                    <l xml:id="d001l369" n="5">Un bien matin me levoy,</l>
+                    <l xml:id="d001l370" n="6">Bella, triés vostre avoyr,</l>
+                    <l xml:id="d001l371" n="7">En un giardin m'en introy.</l>
+                    <l xml:id="d001l372" n="8">Bergeyron, bergeyron, bergeyronetta,</l>
+                    <l xml:id="d001l373" n="9">Bella, triés vostre avoyr</l>
+                    <l xml:id="d001l374" n="10">Aveche le moy.</l>
+                    <lb/>
+                    <l xml:id="d001l375" n="11">Tres rosetas la culhoy,</l>
+                    <l xml:id="d001l376" n="12">Bella, triés vostre avoyr,</l>
+                    <l xml:id="d001l377" n="13">Un ciapelet en feroy.</l>
+                    <l xml:id="d001l378" n="14">Bergeyron, bergeyron, bergeyronetta,</l>
+                    <l xml:id="d001l379" n="15">Bella, triés vostre avoyr</l>
+                    <l xml:id="d001l380" n="16">Avech le moy.</l>
+                    <lb/>
+                    <l xml:id="d001l381" n="17">Un ciapelet en feroy,</l>
+                    <l xml:id="d001l382" n="18">Bella, triés vostre avoyr,</l>
+                    <l xml:id="d001l383" n="19">A mon ami le daroy.</l>
+                    <l xml:id="d001l384" n="20">Bergeyron, bergeyron, bergeyronetta,</l>
+                    <l xml:id="d001l385" n="21">A mon ami le daroy,</l>
+                    <l xml:id="d001l386" n="22">.........</l>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l387" n="">{{21 L'ultimo verso a fine carta è illeggibile.}}</p>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l388" n="">{{1 <emph style="font-style:italic">triés vostre avoyr</emph>: 'dividete il vostro
+                    avere', cfr. T-L <emph style="font-style:italic">trïer1</emph>; GDC <emph style="font-style:italic">trier</emph>;
+                    FEW XIII-2, 304a <emph style="font-style:italic">tritare</emph>; TLF XVI, 617b <emph
+                    style="font-style:italic">trier</emph>. }}</p>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l389" n="">c. 52<emph style="font-style:italic">v</emph>b</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="XXI - 39 bis">
+                    <head>XXI - 39 bis</head>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l390" n="1">Gi ay le cuer gay e gioliet.</l>
+                    <lb/>
+                    <l xml:id="d001l391" n="2">Quant me levey un matinet,</l>
+                    <l xml:id="d001l392" n="3">Ge m'en intray en un giardinet.</l>
+                    <l xml:id="d001l393" n="4">Gi ay le cuer gay e gioliet.</l>
+                    <lb/>
+                    <l xml:id="d001l394" n="5">Ge m'en introy en un giardinet,</l>
+                    <l xml:id="d001l395" n="6">Si la trovoy rosinholet.</l>
+                    <l xml:id="d001l396" n="7">Gi ay le cuer gay e gioliet.</l>
+                    <lb/>
+                    <l xml:id="d001l397" n="8">Si la trovoy rosinholet</l>
+                    <l xml:id="d001l398" n="9">Que ciantava son giarghonet.</l>
+                    <l xml:id="d001l399" n="10">Je ay le cuer gay e gioliet.</l>
+                    <lb/>
+                    <l xml:id="d001l400" n="11">Que ciantava son giarghonet,</l>
+                    <l xml:id="d001l401" n="12">E si'n dizoyt en son verset.</l>
+                    <l xml:id="d001l402" n="13">Gi ay le cuer gay e gioliet.</l>
+                    <lb/>
+                    <l xml:id="d001l403" n="14">E si'n dizoyt en son verset:</l>
+                    <l xml:id="d001l404" n="15">«Or n'amés poynt sel clergionet.»</l>
+                    <l xml:id="d001l405" n="16">Gi ay le cuer gay e gioliet.</l>
+                    <lb/>
+                    <l xml:id="d001l406" n="17">E si'n dizoyt en son verset:</l>
+                    <l xml:id="d001l407" n="18">«Or n'amés poynt sel clergionet.»</l>
+                    <l xml:id="d001l408" n="19">Gi ay le cuer ghay e gioliet.</l>
+                    <lb/>
+                    <l xml:id="d001l409" n="20">«Or n'amés [poynt] sel clergionet,</l>
+                    <l xml:id="d001l410" n="21">Mes sel gentil conpanhonet.»</l>
+                    <l xml:id="d001l411" n="22">Gi ay le cuer ghay e gioliet.</l>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l412" n="">{{9 <emph style="font-style:italic">giarghonet</emph>: il <emph style="font-style:italic">jargon</emph>
+                    è il 'linguaggio degli animali (soprattutto degli uccelli)', cfr. TL, GD <emph style="font-style:italic">jargon</emph>;
+                    FEW IV, 59a <emph style="font-style:italic">garg</emph>-; TLF X, 659a <emph style="font-style:italic">jargon1</emph>.}}</p>
+                    <p xml:id="d001l413" n="">{{15 <emph style="font-style:italic">clergionet</emph>: 'giovane chierico' (in opposizione
+                    ai laici e ai cavalieri), cfr. TL, GD <emph style="font-style:italic">clerjon</emph>;
+                    FEW II-1, 774b <emph style="font-style:italic">clericus</emph>. }}</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="XXII - 40">
+                    <head>XXII - 40</head>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l414" n="1">Marciés la roseya</l>
+                    <l xml:id="d001l415" n="2">Degios le puymant.</l>
+                    <l xml:id="d001l416" n="3">Or la doblés joli, jolietemant,</l>
+                    <l xml:id="d001l417" n="4">Or la doblés gioli, giolietemant.</l>
+                    <lb/>
+                    <l xml:id="d001l418" n="5">M'amie est plus bella,</l>
+                    <l xml:id="d001l419" n="6">Marciés la roseya.</l>
+                    <l xml:id="d001l420" n="7">[Or la doblés joli, jolietemant,</l>
+                    <l xml:id="d001l421" n="8">Or la doblés gioli, giolietemant].</l>
+                    <lb/>
+                    <l xml:id="d001l422" n="9">M'amie est plus bella,</l>
+                    <l xml:id="d001l423" n="10">La miex ciantant.</l>
+                    <l xml:id="d001l424" n="11">Or la doblés gioli, giolietemant,</l>
+                    <l xml:id="d001l425" n="12">Or la doblés gioli, giolietemant.</l>
+                    <lb/>
+                    <l xml:id="d001l426" n="13">M'amie est plus blancie,</l>
+                    <l xml:id="d001l427" n="14">La miex balant.</l>
+                    <l xml:id="d001l428" n="15">Or la doblés gioli, giolietement,</l>
+                    <l xml:id="d001l429" n="16">Or la doblés gioli, giolietemant.</l>
+                    <lb/>
+                    <l xml:id="d001l430" n="17">M'amie me mande</l>
+                    <l xml:id="d001l431" n="18">Qu'al vert boy l'atande.</l>
+                    <l xml:id="d001l432" n="19">Or la doblés gioli, giolietemant,</l>
+                    <l xml:id="d001l433" n="20">Or la doblés gioli, giolietemant.</l>
+                    <lb/>
+                    <l xml:id="d001l434" n="21">Marciés ...</l>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l435" n="">{{2 <emph style="font-style:italic">puymant</emph>: 'collina', cfr. T-L <emph style="font-style:italic">pui</emph>;
+                    GD <emph style="font-style:italic">pui1</emph>/<emph style="font-style:italic">pui2</emph>;
+                    FEW IX, 111b <emph style="font-style:italic">podium</emph>; TLF XIV, 73b <emph style="font-style:italic">puy1</emph>/<emph
+                    style="font-style:italic">puy2</emph>. }}</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="XXIII - 41">
+                    <head>XXIII - 41</head>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l436" n="1">Mirfaloridayna, mirfalorion.</l>
+                    <lb/>
+                    <l xml:id="d001l437" n="2">A Paris sus Petit-pont,</l>
+                    <l xml:id="d001l438" n="3">Mirfaloridayna,</l>
+                    <l xml:id="d001l439" n="4">Fi jo feyre una mayson.</l>
+                    <l xml:id="d001l440" n="5">Mirfaloridayna, mirfalorion.</l>
+                    <lb/>
+                    <l xml:id="d001l441" n="6">Fi jo feyre una mayson,</l>
+                    <l xml:id="d001l442" n="7">Mirfaloridayna,</l>
+                    <l xml:id="d001l443" n="8">An .xiiij. piés de lonch.</l>
+                    <l xml:id="d001l444" n="9">Mirfaloridayna, mirfalorion.</l>
+                    <lb/>
+                    <l xml:id="d001l445" n="10">An .xiiij. piés de lonch,</l>
+                    <l xml:id="d001l446" n="11">Mirfaloridayna,</l>
+                    <l xml:id="d001l447" n="12">Mes il n'intrara nesun.</l>
+                    <l xml:id="d001l448" n="13">Mirfaloridayna, mirfalorion.</l>
+                    <lb/>
+                    <l xml:id="d001l449" n="14">Mes il n'intrara nesun,</l>
+                    <l xml:id="d001l450" n="15">Mirfaloridayna,</l>
+                    <l xml:id="d001l451" n="16">Si n'est clier o gientis homs.</l>
+                    <l xml:id="d001l452" n="17">Mirfaloridayna, mirfalorion.</l>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l453" n="">c. 53<emph style="font-style:italic">r</emph>a</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="XXIV - 41 bis">
+                    <head>XXIV - 41 bis</head>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l454" n="">{{La stessa lirica è stata trascritta presumibilmente dalla medesima mano con un modulo
+                    più piccolo a c. 50<emph style="font-style:italic">r</emph> in basso, all'interno
+                    di un riquadro rettangolare e senza numero progressivo. Le uniche varianti: 3, 6,
+                    9 <emph style="font-style:italic">se /ce</emph>, 5 <emph style="font-style:italic">non
+                    ay cure / non est ore</emph>, 7 <emph style="font-style:italic">par / part, 10 baysiés
+                    moy / baysiés (moy om.)</emph>, 11 <emph style="font-style:italic">non n'ay cure /
+                    tel .... ent</emph>. }}</p>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l455" n="1">Bien la pert, qui la done</l>
+                    <l xml:id="d001l456" n="2">Giona fame a viel home.</l>
+                    <lb/>
+                    <l xml:id="d001l457" n="3">E quant se fut au chocier, se fut une:</l>
+                    <l xml:id="d001l458" n="4">«Mari, virés vous ver moy en bone ore?»</l>
+                    <l xml:id="d001l459" n="5">«Non feray, turulura, non feray, non ay cure.»</l>
+                    <lb/>
+                    <l xml:id="d001l460" n="6">E quant se fut a mie nut, se fut dus:</l>
+                    <l xml:id="d001l461" n="7">«Mari, virés vos ver moy, de par Diex?»</l>
+                    <l xml:id="d001l462" n="8">«Non feray, turulura, non feray, non ay chure.»</l>
+                    <lb/>
+                    <l xml:id="d001l463" n="9">E quant se fut au prin giort, se fut troys:</l>
+                    <l xml:id="d001l464" n="10">«Mari, virés vos ver moy? Baysiés moy!»</l>
+                    <l xml:id="d001l465" n="11">«Non feray, turulura, non feray, non n'ay cure.»</l>
+                    <lb/>
+                    <l xml:id="d001l466" n="12">Bien la pert ...</l>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l467" n="">{{1 Bien la pert] Bien la pert, qui la pert}}</p>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l468" n="">{{3 <emph style="font-style:italic">cochier</emph>: 'mettersi a letto', cfr. T-L <emph
+                    style="font-style:italic">couchier</emph>; GD <emph style="font-style:italic">couchant</emph>;
+                    GDC <emph style="font-style:italic">colchier1/colchier2</emph>; FEW II-2, 905a-907b
+                    <emph style="font-style:italic">collocare</emph>; TLF VI, 284b-286b <emph style="font-style:italic">coucher1/coucher2/couchant</emph>.
+                    }}</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="XXV - 42">
+                    <head>XXV - 42</head>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l469" n="1">Ay, ay, lorin lorin, ay, lorinetta .</l>
+                    <lb/>
+                    <l xml:id="d001l470" n="2">Ge me levoy un matin,</l>
+                    <l xml:id="d001l471" n="3">Ay, lorin lorin;</l>
+                    <l xml:id="d001l472" n="4">Introy m'en en un giardin</l>
+                    <l xml:id="d001l473" n="5">Pour culhir la violeta.</l>
+                    <lb/>
+                    <l xml:id="d001l474" n="6">Introy m'en en un giardin,</l>
+                    <l xml:id="d001l475" n="7">Ay, lorin lorin;</l>
+                    <l xml:id="d001l476" n="8">E al myey de mon ciamin</l>
+                    <l xml:id="d001l477" n="9">Trovay une filhetta.</l>
+                    <lb/>
+                    <l xml:id="d001l478" n="10">E al miey de mon ciamin,</l>
+                    <l xml:id="d001l479" n="11">Ay, lorin lorin;</l>
+                    <l xml:id="d001l480" n="12">Ge li dis, pour sant Martin,</l>
+                    <l xml:id="d001l481" n="13">Que sera m'amietta.</l>
+                    <lb/>
+                    <l xml:id="d001l482" n="14">Ay, lorin lorin, ay, lorinetta.</l>
+                    <lb/>
+                    <l xml:id="d001l483" n="15">Ge li dis, pour sant Martin,</l>
+                    <l xml:id="d001l484" n="16">Ay, lorin lorin;</l>
+                    <l xml:id="d001l485" n="17">E desot un albespin</l>
+                    <l xml:id="d001l486" n="18">Li baisoy la bocietta.</l>
+                    <lb/>
+                    <l xml:id="d001l487" n="19">Ay, lorin lorin, ay, lorinetta.</l>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="XXVI - 43">
+                    <head>XXVI - 43</head>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l488" n="1">Est il ore du venir,</l>
+                    <l xml:id="d001l489" n="2">Est il ore, dous amis?</l>
+                    <lb/>
+                    <l xml:id="d001l490" n="3">Un bien matin me levay,</l>
+                    <l xml:id="d001l491" n="4">Viron viron viron vai,</l>
+                    <l xml:id="d001l492" n="5">En un giardin m'en intray</l>
+                    <l xml:id="d001l493" n="6">En bone ore.</l>
+                    <lb/>
+                    <l xml:id="d001l494" n="7">Est il ore ...</l>
+                    <lb/>
+                    <l xml:id="d001l495" n="8">En un giardin m'en intray,</l>
+                    <l xml:id="d001l496" n="9">Viron viron viron vai,</l>
+                    <l xml:id="d001l497" n="10">Tres rozetas la culhai</l>
+                    <l xml:id="d001l498" n="11">En bone ore.</l>
+                    <lb/>
+                    <l xml:id="d001l499" n="12">Est il ore ...</l>
+                    <lb/>
+                    <l xml:id="d001l500" n="13">Tres rosetas la culhai,</l>
+                    <l xml:id="d001l501" n="14">Viron viron viron vai,</l>
+                    <l xml:id="d001l502" n="15">Un ciapelet en feray</l>
+                    <l xml:id="d001l503" n="16">En bone ore.</l>
+                    <lb/>
+                    <l xml:id="d001l504" n="17">Est ilh ore ...</l>
+                    <lb/>
+                    <l xml:id="d001l505" n="18">Un ciapelet en ferai,</l>
+                    <l xml:id="d001l506" n="19">Viron viron viron vai,</l>
+                    <l xml:id="d001l507" n="20">A mon ami lo deray</l>
+                    <l xml:id="d001l508" n="21">En bone ore.</l>
+                    <lb/>
+                    <l xml:id="d001l509" n="22">Est il ore ...</l>
+                    <lb/>
+                    <l xml:id="d001l510" n="23">A mon ami lo derai,</l>
+                    <l xml:id="d001l511" n="24">Viron viron viron vai;</l>
+                    <l xml:id="d001l512" n="25">Par chui lo li trametrai</l>
+                    <l xml:id="d001l513" n="26">En bone ore?</l>
+                    <lb/>
+                    <l xml:id="d001l514" n="27">Est il ore ...</l>
+                    <lb/>
+                    <l xml:id="d001l515" n="28">Par qui lo li trametrai?</l>
+                    <l xml:id="d001l516" n="29">Viron viron viron vai;</l>
+                    <l xml:id="d001l517" n="30">Par lo rosinholet gai</l>
+                    <l xml:id="d001l518" n="31">En bone ore?</l>
+                    <lb/>
+                    <l xml:id="d001l519" n="32">Est il ore ...</l>
+                    <lb/>
+                    <l xml:id="d001l520" n="33">Est il ore du venir,</l>
+                    <l xml:id="d001l521" n="34">Est il ore, dous amis?</l>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l522" n="">c. 53<emph style="font-style:italic">r</emph>b</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="XXVII - 45">
+                    <head>XXVII - 45</head>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l523" n="1">En despit du mal dizant</l>
+                    <l xml:id="d001l524" n="2">Feray je tout mon talant</l>
+                    <l xml:id="d001l525" n="3">De sely qui j'am.</l>
+                    <l xml:id="d001l526" n="4">Li gelos, li gelos</l>
+                    <l xml:id="d001l527" n="5">N'ont poyor</l>
+                    <l xml:id="d001l528" n="6">De moy destorner.</l>
+                    <lb/>
+                    <l xml:id="d001l529" n="7">Li gelo, li gelos</l>
+                    <l xml:id="d001l530" n="8">N'ont poyor</l>
+                    <l xml:id="d001l531" n="9">De moy destorner.</l>
+                    <lb/>
+                    <l xml:id="d001l532" n="10">Li gelos fit un engin</l>
+                    <l xml:id="d001l533" n="11">Que me cudoyt pendrey;</l>
+                    <lb/>
+                    <l xml:id="d001l534" n="12">[Li gelos ...]</l>
+                    <lb/>
+                    <l xml:id="d001l535" n="13">Quant je fuy la nuyt chocié</l>
+                    <l xml:id="d001l536" n="14">Aveque sa fame;</l>
+                    <lb/>
+                    <l xml:id="d001l537" n="15">[Li gelos ...]</l>
+                    <lb/>
+                    <l xml:id="d001l538" n="16">E ge mi suy avisé:</l>
+                    <l xml:id="d001l539" n="17">Gi ay un autre tort trové;</l>
+                    <lb/>
+                    <l xml:id="d001l540" n="18">[Li gelos ...]</l>
+                    <lb/>
+                    <l xml:id="d001l541" n="19">Si sottilemant,</l>
+                    <l xml:id="d001l542" n="20">Las, ge me suy,</l>
+                    <l xml:id="d001l543" n="21">Ge me suy,</l>
+                    <l xml:id="d001l544" n="22">Dieu mersy,</l>
+                    <l xml:id="d001l545" n="23">Mot bien esciapé.</l>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l546" n="">c. 53<emph style="font-style:italic">v</emph>a</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="XXVIII - 45 bis">
+                    <head>XXVIII - 45 bis</head>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l547" n="1">Robin turulura, Robin m'ama.</l>
+                    <lb/>
+                    <l xml:id="d001l548" n="2">Alla claretta fontana,</l>
+                    <l xml:id="d001l549" n="3">Robin m'ama,</l>
+                    <l xml:id="d001l550" n="4">Si n'enchontroi une dama.</l>
+                    <l xml:id="d001l551" n="5">Robin turulura, Robin m'ama.</l>
+                    <lb/>
+                    <l xml:id="d001l552" n="6">Si n'enchontroi une dama,</l>
+                    <l xml:id="d001l553" n="7">Robin m'ama,</l>
+                    <l xml:id="d001l554" n="8">Oy na dame, douse dame.</l>
+                    <l xml:id="d001l555" n="9">Robin turulura, Robin m'ama.</l>
+                    <lb/>
+                    <l xml:id="d001l556" n="10">Oy na dame, douse dama,</l>
+                    <l xml:id="d001l557" n="11">Robin m'ama,</l>
+                    <l xml:id="d001l558" n="12">Li ghay chivalier vos ama.</l>
+                    <l xml:id="d001l559" n="13">Robin turulura, Robin m'ama.</l>
+                    <lb/>
+                    <l xml:id="d001l560" n="14">Li ghai civalier vos ama,</l>
+                    <l xml:id="d001l561" n="15">Robin m'ama.</l>
+                    <l xml:id="d001l562" n="16">Mon ami si s'en vet en Franza.</l>
+                    <l xml:id="d001l563" n="17">[Robin turulura], Robin m'ama.</l>
+                    <lb/>
+                    <l xml:id="d001l564" n="18">....</l>
+                    <l xml:id="d001l565" n="19">[Robin m'ama],</l>
+                    <l xml:id="d001l566" n="20">E s'en vet an sinch sens lanses.</l>
+                    <l xml:id="d001l567" n="21">Robin turulura, Robin m'ama.</l>
+                    <lb/>
+                    <l xml:id="d001l568" n="22">E s'en vet a sinch sens lanses,</l>
+                    <l xml:id="d001l569" n="23">Robin m'ama,</l>
+                    <l xml:id="d001l570" n="24">Pour giuster au roy de Franze.</l>
+                    <l xml:id="d001l571" n="25">Robin turulura, Robin m'ama.</l>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="XXIX - 46">
+                    <head>XXIX - 46</head>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l572" n="1">Elas! je more pour amors.</l>
+                    <lb/>
+                    <l xml:id="d001l573" n="2">Quant je fuy levéa</l>
+                    <l xml:id="d001l574" n="3">A l'aubeta du giort,</l>
+                    <l xml:id="d001l575" n="4">Si m'en fuy aleya</l>
+                    <l xml:id="d001l576" n="5">Ver mon amy dous.</l>
+                    <l xml:id="d001l577" n="6">Ellas! je more pour amor.</l>
+                    <lb/>
+                    <l xml:id="d001l578" n="7">Si m'en fuy aleya</l>
+                    <l xml:id="d001l579" n="8">Ver mon amy dous.</l>
+                    <l xml:id="d001l580" n="9">Quant fuy revenua,</l>
+                    <l xml:id="d001l581" n="10">Il estoit gran giort.</l>
+                    <l xml:id="d001l582" n="11">Ellas! je mori pour amor.</l>
+                    <lb/>
+                    <l xml:id="d001l583" n="12">Quant fuy revenua,</l>
+                    <l xml:id="d001l584" n="13">Il estoit grant jort;</l>
+                    <l xml:id="d001l585" n="14">Mon mari me demande:</l>
+                    <l xml:id="d001l586" n="15">«E dont vené vos?»</l>
+                    <l xml:id="d001l587" n="16">Ellas! je more pour amor.</l>
+                    <lb/>
+                    <l xml:id="d001l588" n="17">Mon mari me demande:</l>
+                    <l xml:id="d001l589" n="18">«E dont venés vos?»</l>
+                    <l xml:id="d001l590" n="19">«Je vien du mostier,</l>
+                    <l xml:id="d001l591" n="20">Les autres i vont tos.»</l>
+                    <l xml:id="d001l592" n="21">Ellas! je more pour amor.</l>
+                    <lb/>
+                    <l xml:id="d001l593" n="22">«Je vien du mostier,</l>
+                    <l xml:id="d001l594" n="23">Les autres i vont tost.»</l>
+                    <l xml:id="d001l595" n="24">«Il fet si grant froyt</l>
+                    <l xml:id="d001l596" n="25">E anchor gelés vos.»</l>
+                    <l xml:id="d001l597" n="26">Ellas! je more pour amor.</l>
+                    <lb/>
+                    <l xml:id="d001l598" n="27">«Il fet si grant froyt</l>
+                    <l xml:id="d001l599" n="28">E ancor gelés vos.»</l>
+                    <l xml:id="d001l600" n="29">Ellas! je more pour amor.</l>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l601" n="">c. 53<emph style="font-style:italic">v</emph>b</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="XXX - 48">
+                    <head>XXX - 48</head>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l602" n="1">Si j'ay rien fait qui soyt vous desplasanse,</l>
+                    <l xml:id="d001l603" n="2">Chiera dame, je soi en vos marsy:</l>
+                    <l xml:id="d001l604" n="3">Faide de moy vostre bone plesanse.</l>
+                    <l xml:id="d001l605" n="4">E sy volli estre a vostre obbiesanse,</l>
+                    <l xml:id="d001l606" n="5">Coma sely que è vostre sogit.</l>
+                    <l xml:id="d001l607" n="6">Mes se j'ay feyt tro longue demoranse,</l>
+                    <l xml:id="d001l608" n="7">Nolle tenis an nulle desplasir,</l>
+                    <l xml:id="d001l609" n="8">Ma moy donés de tout ma perdonanse.</l>
+                    <lb/>
+                    <l xml:id="d001l610" n="9">Si g'ay ryen fayt ...</l>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l611" n="">{{2 <emph style="font-style:italic">marsy</emph>: 'mercé', cfr. TL, GD <emph style="font-style:italic">merci</emph>;
+                    FEW VI-2, 15b <emph style="font-style:italic">merces</emph>; TLF XI, 670b <emph style="font-style:italic">merci</emph>.
+                    }}</p>
+                    <p xml:id="d001l612" n="">{{5 <emph style="font-style:italic">sogit</emph>: 'soggetto, fedele', cfr. T-L <emph
+                    style="font-style:italic">sogire (sogit)</emph>; GD <emph style="font-style:italic">sougire
+                    (sougit)</emph>; FEW XII, 333a <emph style="font-style:italic">subicere</emph>; FEW
+                    XII, 341a <emph style="font-style:italic">subjicere</emph>. }}</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="XXXI - 49">
+                    <head>XXXI - 49</head>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l613" n="1">Mout chonvient de poyna endurer</l>
+                    <l xml:id="d001l614" n="2">Qui vut avoyr le nom d'amy;</l>
+                    <l xml:id="d001l615" n="3">Il ne l'a pas pour dire: Emy!</l>
+                    <l xml:id="d001l616" n="4">Pour plandre ne pour sospirer.</l>
+                    <l xml:id="d001l617" n="5">Je ne finay puis de tirer</l>
+                    <l xml:id="d001l618" n="6">E, si ne puys avoyr l'outry,</l>
+                    <l xml:id="d001l619" n="7">Sely qui l'a le doy garder,</l>
+                    <l xml:id="d001l620" n="8">E rendre grases e merzy,</l>
+                    <l xml:id="d001l621" n="9">Quar il l'a mot bien deservi</l>
+                    <l xml:id="d001l622" n="10">Tiel noble non a conquister.</l>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l623" n="">{{2 <emph style="font-style:italic">amy</emph>: equivale all'interiezione francese
+                    <emph style="font-style:italic">aimi</emph> ed esprime l'impietosirsi di se stessi
+                    dopo una delusione, una sofferenza, ecc., ed è quindi per estensione un sinonimo di
+                    <emph style="font-style:italic">hélas</emph>; cfr. T-L ai!; GD <emph style="font-style:italic">aimi</emph>;
+                    DMF <emph style="font-style:italic">aimi</emph>; FEW XXII-1, 64b o.i.}}</p>
+                    <p xml:id="d001l624" n="">{{6 <emph style="font-style:italic">outry</emph>: 'accordo', cfr. TL, GD <emph style="font-style:italic">otroi</emph>;
+                    FEW XXV, 819b *<emph style="font-style:italic">auctorizare</emph>; TLF XII, 402b <emph
+                    style="font-style:italic">octroi</emph>. }}</p>
+                    <lb/>
+                    <lb/>
+                    <p xml:id="d001l625" n="">c. 54<emph style="font-style:italic">r</emph>a</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="XXXII - 51">
+                    <head>XXXII - 51</head>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l626" n="1">A Dieu, amoretes, a Dieu vos chamant.</l>
+                    <lb/>
+                    <l xml:id="d001l627" n="2">Je me levoy un matin au jort prenant,</l>
+                    <l xml:id="d001l628" n="3">Entroy m'en en un giardin la flor culhant;</l>
+                    <l xml:id="d001l629" n="4">Si chulhoy de vïoletas mes pleyn gans,</l>
+                    <l xml:id="d001l630" n="5">E plantoym un'espineta pour le mayn.</l>
+                    <l xml:id="d001l631" n="6">Je ne gharray de ces moy ne de cest an,</l>
+                    <l xml:id="d001l632" n="7">Si je ne ghar pour mon amy per qui ciant.</l>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c003" n="XXXIII - 52">
+                    <head>XXXIII - 52</head>
+                    <lb/>
+                    <lb/>
+                    <l xml:id="d001l633" n="1">A Dieu, fines amoretes, vous chomant.</l>
+                    <lb/>
+                    <l xml:id="d001l634" n="2">Je me levoy un matin lié e joyant,</l>
+                    <l xml:id="d001l635" n="3">Intray m'en en un giardin d'amour pensant;</l>
+                    <l xml:id="d001l636" n="4">Si chulhoy de violetas mon plen pain,</l>
+                    <l xml:id="d001l637" n="5">Pour donner a mon amy qui je am taint,</l>
+                    <l xml:id="d001l638" n="6">Qui m'a fichié la spinetta au cuer dedans,</l>
+                    <l xml:id="d001l639" n="7">Dont ne gharrai de cest [moy] ne ancor de l'ayn,</l>
+                    <l xml:id="d001l640" n="8">Si je ne ghar pour sely de qui je chant.</l>
+                    <lb/>
+                    <l xml:id="d001l641" n="9">A Dieu, fines amoretes, vos comant.</l>
+                    <lb/>
+                    <p xml:id="d001l642" n="">{{Bibliografia}}</p>
+                    <p xml:id="d001l643" n="">{{Austin Stickney, <emph style="font-style:italic">Chansons françaises tirée d’un
+                    ms. de Firenze</emph>, «Romania», 8 (1879), 73-92.}}</p>
+                    <lb/>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

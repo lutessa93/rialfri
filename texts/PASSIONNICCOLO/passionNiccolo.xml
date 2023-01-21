@@ -1,0 +1,1220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="PASSIONNICCOLO-passionNiccolo">Passion</title>
+                <title type="short">Passion</title>
+                <title type="sub">metà XIV sec., Verona</title>
+                <author xml:id="PASSIONNICCOLO" n="162.000">
+                    <persName type="main">Niccolò da Verona</persName>
+                    <persName type="short">Niccolò da Verona</persName>
+                </author>
+                <principal>Vanessa Granzotto, contributi di Francesca Gambino</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata</resp>
+                    <name>Vanessa Granzotto, contributi di Francesca Gambino</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale</resp>
+                    <name>Luigi Tessarolo</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Niccolò da Verona, <emph style="font-style:italic">Opere. Pharsale, Continuazione dell’Entrée d’Espagne, Passion</emph>, a cura di Franca Di Ninni, Venezia, Marsilio, 1992 («Medioevo Veneto»).</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t3"/>
+                <keywords>
+                    <term type="form">poetry</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <p xml:id="d001l1" style="font-weight:bold" n="">I</p>
+                <lb/>
+                <l xml:id="d001l2" n="1">Seignour, je vous ay ja pour vers e pour sentançe</l>
+                <l xml:id="d001l3" n="2">Contié maintes istoires en la lengue de Françe;</l>
+                <l xml:id="d001l4" n="3">Or m'est venu dou tout en cuer e en remembrançe</l>
+                <l xml:id="d001l5" n="4">De teisir toutes couses pour fer vous rementançe</l>
+                <l xml:id="d001l6" n="5">De la grand passion che porta en paciançe</l>
+                <l xml:id="d001l7" n="6">Yesu, le fil de Dieu, par notre delivrançe.</l>
+                <l xml:id="d001l8" n="7">Ond je vous veul proier, por l'autisme puisançe,</l>
+                <l xml:id="d001l9" n="8">Che vous tous la escoutiés en peis e en silançe;</l>
+                <l xml:id="d001l10" n="9">Char je ne vous diray nulle çouse d'enfançe,</l>
+                <l xml:id="d001l11" n="10">Ains vous diray de cil che pour la pietançe</l>
+                <l xml:id="d001l12" n="11">De nous soufri a morir a aspre penetançe.</l>
+                <l xml:id="d001l13" n="12">E je le pri de cuer, cum cil ch'est ma sperançe,</l>
+                <l xml:id="d001l14" n="13">Ch'il me doint tant de grace, de sen e de sciançe,</l>
+                <l xml:id="d001l15" n="14">Che je die ceste çouse par tiele destinançe:</l>
+                <l xml:id="d001l16" n="15">Che bien de cors e d'arme m'en rende profitançe;</l>
+                <l xml:id="d001l17" n="16">E vous che l'oiriés en peis, sens discourdançe,</l>
+                <l xml:id="d001l18" n="17">En la fin Dieu vous main en sa digne habitançe.</l>
+                <l xml:id="d001l19" n="18">E, s'il vous pleit, priés la santisme sustançe</l>
+                <l xml:id="d001l20" n="19">Pour celu Nicholais ch'a rimé par certançe</l>
+                <l xml:id="d001l21" n="20">Ceste sanctisme çonse, qar Dieu de l'arme avançe</l>
+                <l xml:id="d001l22" n="21">Cil che pour autru prie a droite consciançe:</l>
+                <l xml:id="d001l23" n="22">Car prier par soi seul n'est buene costumançe.</l>
+                <lb/>
+                <p xml:id="d001l24" style="font-weight:bold" n="">II</p>
+                <lb/>
+                <l xml:id="d001l25" n="23">Or escoutiés en peis car escoutier se doit</l>
+                <l xml:id="d001l26" n="24">Ceste grand pasion che le sir beneöit</l>
+                <l xml:id="d001l27" n="25">Sofri pour nous hostier de l'enfernel destroit.</l>
+                <l xml:id="d001l28" n="26">A cil tens qe Yesus a cestu mond estoit</l>
+                <l xml:id="d001l29" n="27">E la doctrine sainte a la giant predicoit,</l>
+                <l xml:id="d001l30" n="28">La vertu e la sciançe e le sen q'il avoit,</l>
+                <l xml:id="d001l31" n="29">E les buenes paroules che a la giant il disoit,</l>
+                <l xml:id="d001l32" n="30">E les tres grans mervoilles che tutor il fesoit,</l>
+                <l xml:id="d001l33" n="31">Mout grand giant dou païs a lu se convertoit.</l>
+                <l xml:id="d001l34" n="32">E ceschun de celour fermemant se afermoit</l>
+                <l xml:id="d001l35" n="33">Che la grand sapience de lu si demotroit</l>
+                <l xml:id="d001l36" n="34">Che de Dieu voir prophete estoit, con lour sembloit;</l>
+                <l xml:id="d001l37" n="35">E sa grand renomance tant fortment publicoit,</l>
+                <l xml:id="d001l38" n="36">Che seul par grand envie, non por autre convoit,</l>
+                <l xml:id="d001l39" n="37">Li princes des Juïs, fariseis, sacerdoit,</l>
+                <l xml:id="d001l40" n="38">Estoient contre lu felons e faus sens droit.</l>
+                <l xml:id="d001l41" n="39">Aprés la grand envie che ceschun d'eus portoit</l>
+                <l xml:id="d001l42" n="40">A Yesus, e il fist susciter sens resploit</l>
+                <l xml:id="d001l43" n="41">Le frer la Madelaine, che en moniment gisoit;</l>
+                <l xml:id="d001l44" n="42">Ond la prexe e la turbe che avech Jesu aloit,</l>
+                <l xml:id="d001l45" n="43">Se davant creoient a ce q'il paleçoit,</l>
+                <l xml:id="d001l46" n="44">Cheschuns plus che devant as siens saint dis creoit:</l>
+                <l xml:id="d001l47" n="45">Ond ceus pontifices e princes lor en droit</l>
+                <l xml:id="d001l48" n="46">Sacerdous, escrivens, ceschun grand ire en oit.</l>
+                <l xml:id="d001l49" n="47">Adonc firent entr'eus un consil, e parloit</l>
+                <l xml:id="d001l50" n="48">L'un d'eus encontre l'autre, comant se destrueroit</l>
+                <l xml:id="d001l51" n="49">Yesu le fil de Dieu. Lour s'en dreça un tot droit,</l>
+                <l xml:id="d001l52" n="50">E dist: «Esgardons ce che meilour a nous soit.</l>
+                <l xml:id="d001l53" n="51">Cist hon feit tiel mervoiles e signes, quand li ploit,</l>
+                <l xml:id="d001l54" n="52">Che pour siens grand engins toute giant decevroit.</l>
+                <l xml:id="d001l55" n="53">Se nous les leisons gueires ensi, tost seduroit</l>
+                <l xml:id="d001l56" n="54">La giant, ond notre loy dou tout mal conduroit».</l>
+                <lb/>
+                <p xml:id="d001l57" style="font-weight:bold" n="">III</p>
+                <lb/>
+                <l xml:id="d001l58" n="55">Après ce che cist oit suen dit ensi conté,</l>
+                <l xml:id="d001l59" n="56">Un autre se dreça che Chayfas fu nomé,</l>
+                <l xml:id="d001l60" n="57">E dist: «Signor, savés ce che vous fer devé:</l>
+                <l xml:id="d001l61" n="58">Il est mestier ch'il soit entre nous esgardé,</l>
+                <l xml:id="d001l62" n="59">Comant un pour le pople soit a la mort livré,</l>
+                <l xml:id="d001l63" n="60">A ce che toute giant ne pere. Ond ay pensié</l>
+                <l xml:id="d001l64" n="61">Che pour le mieus de nous cist doit etre tué».</l>
+                <l xml:id="d001l65" n="62">Asés avoit Chaifas entr'eus profetiçé,</l>
+                <l xml:id="d001l66" n="63">Mes nul ne l'entendi, car quand avoit parlé</l>
+                <l xml:id="d001l67" n="64">Tournoit de sour celu che tous nous a saovié.</l>
+                <l xml:id="d001l68" n="65">Ensi s'afermerent e ensi fu ordené</l>
+                <l xml:id="d001l69" n="66">De metre a mort celu che meis n'avoit pecé.</l>
+                <l xml:id="d001l70" n="67">Yesu, che ce savoit par ferme verité,</l>
+                <l xml:id="d001l71" n="68">Cum cil a cui ne puet etre noiant seré,</l>
+                <l xml:id="d001l72" n="69">Savoit bien ch'il estoit a morir condanné</l>
+                <l xml:id="d001l73" n="70">De dens Yerusalem da ceus faus maleuré.</l>
+                <l xml:id="d001l74" n="71">Mes a ce q'il ne fust ancour da lour trové,</l>
+                <l xml:id="d001l75" n="72">En le desert se mist voisin a une cité</l>
+                <l xml:id="d001l76" n="73">Ch'estoit nomee Efrem; e ou soi oit mené</l>
+                <l xml:id="d001l77" n="74">Siens disciples; e ensi fu notre sir celé</l>
+                <l xml:id="d001l78" n="75">Toute cele semaine e das Juïs eslonçé.</l>
+                <l xml:id="d001l79" n="76">Pues, pour voloir nous armes torner a saoveté,</l>
+                <l xml:id="d001l80" n="77">Le samedi avant de l'olive, sacié</l>
+                <l xml:id="d001l81" n="78">Ch'il isci dou desert e se fu demotré</l>
+                <l xml:id="d001l82" n="79">Entre lu e siens disciples; pues fu en l'ostel entré</l>
+                <l xml:id="d001l83" n="80">De Simon le lebrous; et iluech fu arivé</l>
+                <l xml:id="d001l84" n="81">Laçar e ses serours, e là fu apresté</l>
+                <l xml:id="d001l85" n="82">Le mangier de la çaine, cum a Yesu fu a gre.</l>
+                <lb/>
+                <p xml:id="d001l86" style="font-weight:bold" n="">IV</p>
+                <lb/>
+                <l xml:id="d001l87" n="83">Ensi supant Yesu de dens l'ostel Simon,</l>
+                <l xml:id="d001l88" n="84">Marie Madelaine cum grand devocion</l>
+                <l xml:id="d001l89" n="85">Un onguent precious, che fu santisme e bon,</l>
+                <l xml:id="d001l90" n="86">Espandi sour le cief a notre sir Yeson,</l>
+                <l xml:id="d001l91" n="87">Ond che tretout fu ont dau chief jusque aou talon.</l>
+                <l xml:id="d001l92" n="88">De ce a murmurier prist Judas le felon,</l>
+                <l xml:id="d001l93" n="89">Diant: «Par qoy est feit de ce perdicion?</l>
+                <l xml:id="d001l94" n="90">Che bien troicent diniers valoit, sens doteison,</l>
+                <l xml:id="d001l95" n="91">Ond trente m'en venoit, se je say fer reison,</l>
+                <l xml:id="d001l96" n="92">Car la disisme part m'en venoit sens tençon:</l>
+                <l xml:id="d001l97" n="93">Mes je en acevray si bien or a cist pon,</l>
+                <l xml:id="d001l98" n="94">Che je ne en reçoivray daomaçe d'un boton».</l>
+                <l xml:id="d001l99" n="95">E sens Judas furent en grand destourbeson</l>
+                <l xml:id="d001l100" n="96">Maint des autres disciples par l'onguent ond parlon;</l>
+                <l xml:id="d001l101" n="97">E disoient entr'eus: «E pour qiele ocheison</l>
+                <l xml:id="d001l102" n="98">est cist onguemant spaint che ja preu nen auron?</l>
+                <l xml:id="d001l103" n="99">Mieus seroit che doné fust as pobres cist don».</l>
+                <l xml:id="d001l104" n="100">Yesu, qe bien veoit la lour murmureson,</l>
+                <l xml:id="d001l105" n="101">Dist lour: «Que vous pertient a fer reprension</l>
+                <l xml:id="d001l106" n="102">De ce qe ceste a feit a buene entencion?</l>
+                <l xml:id="d001l107" n="103">La buene ovre sour moy ovra de cuer perfon.</l>
+                <l xml:id="d001l108" n="104">En veritié vous di e entendiés cist sermon</l>
+                <l xml:id="d001l109" n="105">Che as pobres aurés a servir grand seison,</l>
+                <l xml:id="d001l110" n="106">Mes moy ne aurés long tens, de ce aiés membreson».</l>
+                <l xml:id="d001l111" n="107">Judas pensoit tutor a fer la venjeson</l>
+                <l xml:id="d001l112" n="108">De l'onguement ch'estoit espandu a tiel foison,</l>
+                <l xml:id="d001l113" n="109">E disoit entre soy coiemant le lairon:</l>
+                <l xml:id="d001l114" n="110">«Je me vençeray bien a curt temps de cist hon,</l>
+                <l xml:id="d001l115" n="111">car li Juïs l'ont mout en grand suspicion.</l>
+                <l xml:id="d001l116" n="112">Je le lour trairay e ne saura pas con,</l>
+                <l xml:id="d001l117" n="113">E pues n'auray grand sogne s'il sera mort ou non,</l>
+                <l xml:id="d001l118" n="114">Pur che je aie l'avoir ch'estoit ma garison».</l>
+                <lb/>
+                <p xml:id="d001l119" style="font-weight:bold" n="">V</p>
+                <lb/>
+                <l xml:id="d001l120" n="115">Ce fu le samedi, che de sour vous ay dit.</l>
+                <l xml:id="d001l121" n="116">La domençe sivant Jesu, sens plus respit,</l>
+                <l xml:id="d001l122" n="117">Se parti de Betaine e, sens nul contredit,</l>
+                <l xml:id="d001l123" n="118">Ver Yerusalem prist le cemin plus eslit.</l>
+                <l xml:id="d001l124" n="119">Cist feit fu conté avant aou pople en lor habit:</l>
+                <l xml:id="d001l125" n="120">«Yesu vient che as non sains a feit tant buen profit».</l>
+                <l xml:id="d001l126" n="121">Lour pristrent raims d'olive e d'aubres con delit;</l>
+                <l xml:id="d001l127" n="122">Ver lu aloient cantant: «Osanna fil Davit,</l>
+                <l xml:id="d001l128" n="123">Che en cist mond eis entré, tuen nom soit benedit!».</l>
+                <l xml:id="d001l129" n="124">Lour fu plus honoré notre sir Jesu Crit</l>
+                <l xml:id="d001l130" n="125">Ch'il fust meis en cist siegle, cum nous trovons escrit.</l>
+                <l xml:id="d001l131" n="126">Puis le lun e 'ou martdi Jesu de cuer perfit</l>
+                <l xml:id="d001l132" n="127">Aloit mout doctrinant ceschun grand e petit</l>
+                <l xml:id="d001l133" n="128">E predicant ses çouses cum santisme entelit,</l>
+                <l xml:id="d001l134" n="129">Ond ceus ne l'avoient de noiant en despit</l>
+                <l xml:id="d001l135" n="130">Che voloient entendre ses diz de cuer contrit.</l>
+                <lb/>
+                <p xml:id="d001l136" style="font-weight:bold" n="">VI</p>
+                <lb/>
+                <l xml:id="d001l137" n="131">Dedans Yerusalem selong qe je vous di</l>
+                <l xml:id="d001l138" n="132">Predicoit notre sire a cil pople juï.</l>
+                <l xml:id="d001l139" n="133">Entre le quiel paroules cist sermon proferi:</l>
+                <l xml:id="d001l140" n="134">«Huimés ne me voiriés vous plus jusque a cil di</l>
+                <l xml:id="d001l141" n="135">Che vous beneïrés cil qe en le nom Dieu vint ci.</l>
+                <l xml:id="d001l142" n="136">Ou vous sui je aou presant, mes je bien vous afi</l>
+                <l xml:id="d001l143" n="137">Che de ci a petit terme sens moy serés ausi».</l>
+                <l xml:id="d001l144" n="138">E ce disoit Yesus pour ch'il savoit de fi</l>
+                <l xml:id="d001l145" n="139">Ch'il devoit das Juïs etre mort e traï.</l>
+                <l xml:id="d001l146" n="140">E ceus distrent: «Cestu s'en veut fuïr en secri».</l>
+                <l xml:id="d001l147" n="141">Le mercredi sivant princes e farisi</l>
+                <l xml:id="d001l148" n="142">Orent de ceste chouse un grand consil basti,</l>
+                <l xml:id="d001l149" n="143">E disoient entr'eus li felons Deu nemi:</l>
+                <l xml:id="d001l150" n="144">«Yesu s'en vieut fuïr selong q'il a geï.</l>
+                <l xml:id="d001l151" n="145">Ce n'est se non par ce che auchun li descovri</l>
+                <l xml:id="d001l152" n="146">Che nous le volons fer morir: or feisons si</l>
+                <l xml:id="d001l153" n="147">Che ce che fer devons soit a cort tens compli.</l>
+                <l xml:id="d001l154" n="148">Mes mout acortemant soit cist feit establi</l>
+                <l xml:id="d001l155" n="149">Non pas en jour de feste, ch'il nen fust estormi</l>
+                <l xml:id="d001l156" n="150">Le pople, car grand part en a a lu converti».</l>
+                <l xml:id="d001l157" n="151">Atant ec vos Judas de mal pensier garni</l>
+                <l xml:id="d001l158" n="152">Si cum cellu ch'estoit daou diable seisi.</l>
+                <l xml:id="d001l159" n="153">Il vint entre ceus faus, e pues lour dist ensi:</l>
+                <l xml:id="d001l160" n="154">«Qe me voliés doner se, sens noise ne cri,</l>
+                <l xml:id="d001l161" n="155">Je le traïs a vous?». E un d'eus respondi</l>
+                <l xml:id="d001l162" n="156">Por le voloir des autres, e si li proferi</l>
+                <l xml:id="d001l163" n="157">Trente diners; (e) Judas mantinant lour plevi</l>
+                <l xml:id="d001l164" n="158">De traïr cil Jesus qe mais n'avoit failli.</l>
+                <lb/>
+                <p xml:id="d001l165" style="font-weight:bold" n="">VII</p>
+                <lb/>
+                <l xml:id="d001l166" n="159">Ensi traÿ Judas Jesus le fil Marie</l>
+                <l xml:id="d001l167" n="160">Qe meis n'avoit pecié a tout jour de sa vie.</l>
+                <l xml:id="d001l168" n="161">E sour cist feit avoit davant dit Yeremie:</l>
+                <l xml:id="d001l169" n="162">«Tradidit me quem diligebam sens envie».</l>
+                <l xml:id="d001l170" n="163">Ancor avoit Davit dit en sa profecie:</l>
+                <l xml:id="d001l171" n="164">«Traditus sum et non egrediebar mie».</l>
+                <l xml:id="d001l172" n="165">Ce fu 'ou mercre che Judas fist la grand traitorie.</l>
+                <l xml:id="d001l173" n="166">Le jovedi sivant se dir ne doy bosdie</l>
+                <l xml:id="d001l174" n="167">Li disciples distrent a Jesu: «En quiel partie</l>
+                <l xml:id="d001l175" n="168">T'apareillons nous, ou tu e ta compegnie</l>
+                <l xml:id="d001l176" n="169">Puisés a ceste pasce mançer sens estormie?».</l>
+                <l xml:id="d001l177" n="170">Lour apella Jesus cum une ciere pie</l>
+                <l xml:id="d001l178" n="171">Des siens disciples dous, e dist sens gaberie:</l>
+                <l xml:id="d001l179" n="172">«Alés por ceste voye qe a la citié l'en guie,</l>
+                <l xml:id="d001l180" n="173">E troverés un home par ceste voie antie,</l>
+                <l xml:id="d001l181" n="174">Portant un vaisel d'eve e, en la maison ou il plie,</l>
+                <l xml:id="d001l182" n="175">Vous entreriés o luy, ceschun de vous die</l>
+                <l xml:id="d001l183" n="176">Aou seignour ch'est là dens, che un lieu ceste fie</l>
+                <l xml:id="d001l184" n="177">Il vous doie motrier, ou je e ma druerie</l>
+                <l xml:id="d001l185" n="178">Puisons mangier ensamble ceste pasce nomie.</l>
+                <l xml:id="d001l186" n="179">E cil vous motrera, sens nulle tricerie,</l>
+                <l xml:id="d001l187" n="180">Un cenacle, e iluec soit ma çaine garnie</l>
+                <l xml:id="d001l188" n="181">E apresté pour la pasce». E ceus, sens felonie,</l>
+                <l xml:id="d001l189" n="182">Alerent e orent trové toute averie</l>
+                <l xml:id="d001l190" n="183">La parolle Jesus; e là fu apareillie</l>
+                <l xml:id="d001l191" n="184">La çaine de la pasce e a lour sen establie.</l>
+                <lb/>
+                <p xml:id="d001l192" style="font-weight:bold" n="">VIII</p>
+                <lb/>
+                <l xml:id="d001l193" n="185">Apresté fu la çaine e quand le vespre fu</l>
+                <l xml:id="d001l194" n="186">Yesu e siens disciples ch'il avoit avec lu</l>
+                <l xml:id="d001l195" n="187">S'asistrent aou super sens fer ne cris ne hu.</l>
+                <l xml:id="d001l196" n="188">En la reficïon notre sire Jesu</l>
+                <l xml:id="d001l197" n="189">Dist entre siens disciples: «Grand dexir ay eü</l>
+                <l xml:id="d001l198" n="190">De mangier une foy ou vous a tiel salu,</l>
+                <l xml:id="d001l199" n="191">Avant ma passion»; e pues dist ancor plu:</l>
+                <l xml:id="d001l200" n="192">«Un de vous me traira». E quand il fu entendu</l>
+                <l xml:id="d001l201" n="193">Das disciples, ceschun en fu mout esperdu</l>
+                <l xml:id="d001l202" n="194">E disoit: «Suy je cil?». (E) Jesu oit respondu:</l>
+                <l xml:id="d001l203" n="195">«Cellu qe en mien graaus teint sa main, est cellu».</l>
+                <l xml:id="d001l204" n="196">Alour Judas ch'estoit dou pecié revestu</l>
+                <l xml:id="d001l205" n="197">Dist: «Metre, suy je cil che tu ais menteü?»</l>
+                <l xml:id="d001l206" n="198">E Jesu respondi e li dist: «Dit l'ais tu.</l>
+                <l xml:id="d001l207" n="199">Fa tost ce che dois fer». Lour fu partu e moü</l>
+                <l xml:id="d001l208" n="200">Judas da lour tantost; e ceschun oit creü</l>
+                <l xml:id="d001l209" n="201">Che Jesu eüst ce dit pour ch'il fust proveü</l>
+                <l xml:id="d001l210" n="202">De achatier pour la feste quant mestier fust eü.</l>
+                <l xml:id="d001l211" n="203">Mes Jesu en autre guise avoit respons rendu.</l>
+                <l xml:id="d001l212" n="204">Pues dist: «Le fil de l'oume veit ensi cum de su</l>
+                <l xml:id="d001l213" n="205">Est escrit de long temps. Mes duel aou malestru,</l>
+                <l xml:id="d001l214" n="206">Par cui le fil de Dieu sera traÿ e vendu:</l>
+                <l xml:id="d001l215" n="207">Mieus li fust q'il ne fust ancour aou mond nascu».</l>
+                <l xml:id="d001l216" n="208">Puis beneï le pein e si l'oit departu</l>
+                <l xml:id="d001l217" n="209">As desiples, e dist: «Mangiés sens nul refu</l>
+                <l xml:id="d001l218" n="210">Cist pein, car ce est mien cors». E aprés oit tolu</l>
+                <l xml:id="d001l219" n="211">Le calice e lour dit: «Par vous soit receü</l>
+                <l xml:id="d001l220" n="212">Cist vin, car ce est mien sang; ce ne soit mescreü</l>
+                <l xml:id="d001l221" n="213">Dou novel testament, qe sera espandu</l>
+                <l xml:id="d001l222" n="214">En la remision dou pople deçeü.</l>
+                <l xml:id="d001l223" n="215">Plus ne sera par moy fruit de vie beü</l>
+                <l xml:id="d001l224" n="216">Se non ou vous, aou regne de mien pier, ond sui xu».</l>
+                <lb/>
+                <p xml:id="d001l225" style="font-weight:bold" n="">IX</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l226" n="217">Tantost cum oit ce dit Jesu le naçerans</l>
+                <l xml:id="d001l227" n="218">Fu feit contention en ceus disiples sans</l>
+                <l xml:id="d001l228" n="219">Le quiel de lour devoit etre le plus autans.</l>
+                <l xml:id="d001l229" n="220">E Jesu Crist lour dist: «Li rois qe sour les gians</l>
+                <l xml:id="d001l230" n="221">Ont domination e benefices grans,</l>
+                <l xml:id="d001l231" n="222">Celour sour tous li autres sont apeliés puisans.</l>
+                <l xml:id="d001l232" n="223">De ceus ne deviés etre ne entrier en tiel bubans,</l>
+                <l xml:id="d001l233" n="224">Mes le greignor de vous soit aou menour servans;</l>
+                <l xml:id="d001l234" n="225">E cil che plus avant soit en nul lieu mainans</l>
+                <l xml:id="d001l235" n="226">Par humilitié viegne ministres e sergians.</l>
+                <l xml:id="d001l236" n="227">Je sui pour caritié cum mout ombles semblans</l>
+                <l xml:id="d001l237" n="228">Ministres entre vous, ce veés pour certans.</l>
+                <l xml:id="d001l238" n="229">En ma tentacion fustes ou moy soufrans;</l>
+                <l xml:id="d001l239" n="230">Pour ce dispon je a vous le regne permanans,</l>
+                <l xml:id="d001l240" n="231">Si cum mien pere a moy disponi primerans».</l>
+                <l xml:id="d001l241" n="232">A Simon ancour dist Yesu le roy soprans:</l>
+                <l xml:id="d001l242" n="233">«Simon, le Satanas dou crivel de ses mans</l>
+                <l xml:id="d001l243" n="234">Vous cuida crivelier com se font li formans;</l>
+                <l xml:id="d001l244" n="235">Mes il ne puet venir as siens entendimans,</l>
+                <l xml:id="d001l245" n="236">Qar je ay mien piere prié par toy long tans</l>
+                <l xml:id="d001l246" n="237">Che ta foy ne descroise. Mes, quand tu eis fermemans</l>
+                <l xml:id="d001l247" n="238">Confermé, si conferme tiens freres bien voilans.</l>
+                <l xml:id="d001l248" n="239">Quand je vous envoiai pour le païs erans</l>
+                <l xml:id="d001l249" n="240">Sens sach e sens besace e sens nul çauçemans,</l>
+                <l xml:id="d001l250" n="241">Fali vous nulle rien?». Ceus distrent: «Non, noians».</l>
+                <l xml:id="d001l251" n="242">«Donc», dist il, «ceus ch'ont sach soient desor contans,</l>
+                <l xml:id="d001l252" n="243">E pende la besace ou la scipe a siens flans;</l>
+                <l xml:id="d001l253" n="244">E chi ce n'ont doient vendre lour vestimans</l>
+                <l xml:id="d001l254" n="245">E achatier dou tout coutieus durs e trençans,</l>
+                <l xml:id="d001l255" n="246">Ch'il se convient complir sens long delaiemans</l>
+                <l xml:id="d001l256" n="247">Ce ch'est escrit de moy de grand tens ancians».</l>
+                <lb/>
+                <p xml:id="d001l257" style="font-weight:bold" n="">X</p>
+                <lb/>
+                <l xml:id="d001l258" n="248">Ensi parla Jesu le fil aou Dieu puisant,</l>
+                <l xml:id="d001l259" n="249">Supant ou siens disciples; pues leva primemant</l>
+                <l xml:id="d001l260" n="250">E se cinst d'un linçuel; e mout benignemant</l>
+                <l xml:id="d001l261" n="251">Mist ieve en un bacin e se ala jenoilant</l>
+                <l xml:id="d001l262" n="252">Davant as siens disciples e li lour piés lavant</l>
+                <l xml:id="d001l263" n="253">E suant dou linçuel; e tant li ala servant</l>
+                <l xml:id="d001l264" n="254">Ch'il vint as piés saint Pere pour laver lu ensemant.</l>
+                <l xml:id="d001l265" n="255">Mes saint Piere li dist: «Sire, ce est noiant</l>
+                <l xml:id="d001l266" n="256">Che vous lavés mes piés pour auchun convenant».</l>
+                <l xml:id="d001l267" n="257">«Ami», ce dist Jesus, «or escoute et entant:</l>
+                <l xml:id="d001l268" n="258">Ja consorcie de moy ne tenrais tant ni quant,</l>
+                <l xml:id="d001l269" n="259">Se tiens piés a lavier tuen cors ne me consant».</l>
+                <l xml:id="d001l270" n="260">«Sire», ce dist saint Piere, «feites vetre talant</l>
+                <l xml:id="d001l271" n="261">E des meins e des piés». Alour Jesu omblemant</l>
+                <l xml:id="d001l272" n="262">Li piés lava a saint Piere, e pues dist belemant:</l>
+                <l xml:id="d001l273" n="263">«Lavés vous ay li piés sens autre rien vivant,</l>
+                <l xml:id="d001l274" n="264">Par ce che estes mondiés sens pont d'afaitemant:</l>
+                <l xml:id="d001l275" n="265">E cil home ch'est mond, tretout veraiemant,</l>
+                <l xml:id="d001l276" n="266">N'a mestier de laver fors li piés seulemant.</l>
+                <l xml:id="d001l277" n="267">E vous bien mondiés estes, mes non tous aou presant.</l>
+                <l xml:id="d001l278" n="268">Mien example vous ay doné par tiel semblant</l>
+                <l xml:id="d001l279" n="269">Che l'un l'autre entre vous doiés fer autretant,</l>
+                <l xml:id="d001l280" n="270">Qar le pont de ma fin vient dou tot aproçant.</l>
+                <l xml:id="d001l281" n="271">Ensi cum les berbis se vont pues departant</l>
+                <l xml:id="d001l282" n="272">Daou pastour quand il est feru profondemant,</l>
+                <l xml:id="d001l283" n="273">Ensi seray da vous gerpi certainemant:</l>
+                <l xml:id="d001l284" n="274">E ce dit la veraie Scriture che ne mant.</l>
+                <l xml:id="d001l285" n="275">E pues susciteray sens nul entechemant,</l>
+                <l xml:id="d001l286" n="276">Tout droit en Galilee iray de vous avant».</l>
+                <l xml:id="d001l287" n="277">Lour respondi saint Piere e dist: «Ne alier dotant,</l>
+                <l xml:id="d001l288" n="278">Qar s'il t'abandonast ceschun petit e grant,</l>
+                <l xml:id="d001l289" n="279">Je ne te gerpiray par mort ne par tormant».</l>
+                <lb/>
+                <p xml:id="d001l290" style="font-weight:bold" n="">XI</p>
+                <lb/>
+                <l xml:id="d001l291" n="280">Quand oit ce dit saint Piere, notre sire Jesus</l>
+                <l xml:id="d001l292" n="281">Dist: «Piere, avant che cant le coch cum il est us</l>
+                <l xml:id="d001l293" n="282">Tu me renoierais trois fois». Quand entendus</l>
+                <l xml:id="d001l294" n="283">Oit saint Piere ces dis, a Jesu oit respondus:</l>
+                <l xml:id="d001l295" n="284">«Metre, je avant voudroie etre a mort confundus,</l>
+                <l xml:id="d001l296" n="285">Qe je te renoiase». Alour li autres tretus</l>
+                <l xml:id="d001l297" n="286">Respondrent ensemant aou fil aou roy desus;</l>
+                <l xml:id="d001l298" n="287">Pues distrent: «Nous avons ci dous coutieus agus».</l>
+                <l xml:id="d001l299" n="288">«Asés sunt», dist Jesu. Atant estoit venus</l>
+                <l xml:id="d001l300" n="289">L'ouscur, qar le solel estoit devalé jus.</l>
+                <l xml:id="d001l301" n="290">Pues dou mont Olivet fu Jesu descendus,</l>
+                <l xml:id="d001l302" n="291">Amaistrant siens disiples par divine vertus.</l>
+                <l xml:id="d001l303" n="292">E paserent Cedron, un flum petit cremus,</l>
+                <l xml:id="d001l304" n="293">Qe Jesu mout sovant pasoit ou tous siens drus,</l>
+                <l xml:id="d001l305" n="294">E soloient usier dedens un ort erbus.</l>
+                <l xml:id="d001l306" n="295">Mout bien savoit cil lieu Judas le mescreüs,</l>
+                <l xml:id="d001l307" n="296">Qar sovent en estoit alé e revenus.</l>
+                <l xml:id="d001l308" n="297">Jesu dist as disciples: «Seés ci sens refus,</l>
+                <l xml:id="d001l309" n="298">Tant ch'un pue aie oré»; e pues oit receüs</l>
+                <l xml:id="d001l310" n="299">Ou soy Piere e Johans e Jaques e non plus.</l>
+                <l xml:id="d001l311" n="300">Jesu ou tous ceus trois ch'il avoit esleüs</l>
+                <l xml:id="d001l312" n="301">Entra dedans cil ort che vos ay menteüs.</l>
+                <lb/>
+                <p xml:id="d001l313" style="font-weight:bold" n="">XII</p>
+                <lb/>
+                <l xml:id="d001l314" n="302">Quand Jesu fu entriés ou ceus trois dedans l'ort,</l>
+                <l xml:id="d001l315" n="303">Il se prist contrister e dist sens autre sort:</l>
+                <l xml:id="d001l316" n="304">«Tristis animam meam jusqement a la mort».</l>
+                <l xml:id="d001l317" n="305">Pues dist: «Veiliés ou moy tuit trois lez cist regort».</l>
+                <l xml:id="d001l318" n="306">Lour se eslonça da lour sens jeu e sens deport</l>
+                <l xml:id="d001l319" n="307">Aou jetier d'une piere; e pues cum buen recort</l>
+                <l xml:id="d001l320" n="308">S'enjenoilla e orant disoit cum sire acort:</l>
+                <l xml:id="d001l321" n="309">«Piere, se possible est che puisse sens tort</l>
+                <l xml:id="d001l322" n="310">Cist calice pasier, fais le; anpues m'acort</l>
+                <l xml:id="d001l323" n="311">Qe tu tuen voloir faces, non aou mien». Lour fu sort</l>
+                <l xml:id="d001l324" n="312">Un angle desour lu, qe li fist grand confort.</l>
+                <l xml:id="d001l325" n="313">Lour prend Jesu a süer par tiel guise e si fort</l>
+                <l xml:id="d001l326" n="314">Che le süor de lu en sang mue e descort.</l>
+                <l xml:id="d001l327" n="315">Pues vint as siens disciples e voit che ceschun dort.</l>
+                <lb/>
+                <p xml:id="d001l328" style="font-weight:bold" n="">XIII</p>
+                <lb/>
+                <l xml:id="d001l329" n="316">Quand Jesu (oit) siens disiples endormis a troviés,</l>
+                <l xml:id="d001l330" n="317">Il dist: «Simon, dors tu, che en tiel aversitiés</l>
+                <l xml:id="d001l331" n="318">Ne poes ou moi veilier un'ore? Or donc veiliés,</l>
+                <l xml:id="d001l332" n="319">Qar le spirt est pront, la car a enfirmitiés».</l>
+                <l xml:id="d001l333" n="320">Pues la segonde foy est a orier retourniés,</l>
+                <l xml:id="d001l334" n="321">Diant: «Piere, se il ne puet etre pasiés</l>
+                <l xml:id="d001l335" n="322">Che je cist chalice boive, ch'est prestiés,</l>
+                <l xml:id="d001l336" n="323">Je me contant q'il soit tout a vous voluntiés».</l>
+                <l xml:id="d001l337" n="324">E quand il oit ce dit, il fu en estant leviés</l>
+                <l xml:id="d001l338" n="325">E retourna as disciples che ancor pour veritiés</l>
+                <l xml:id="d001l339" n="326">Estoient endourmis e lour yeus mout greviés.</l>
+                <l xml:id="d001l340" n="327">Si Jesu Crist ancour lour dist: «Donc ne poés</l>
+                <l xml:id="d001l341" n="328">Un'ore ou moy veilier? Or leviés e oriés</l>
+                <l xml:id="d001l342" n="329">Che en tentation, bieus amis, vous ni entriés».</l>
+                <l xml:id="d001l343" n="330">E pues la terce foy fu a orier repeiriés,</l>
+                <l xml:id="d001l344" n="331">Orant cum il avoit aou primier comenciés.</l>
+                <l xml:id="d001l345" n="332">Ancour tourna as disciples, quand il fu redreciés,</l>
+                <l xml:id="d001l346" n="333">Si lour dist omblemant: «Dormés e requiés,</l>
+                <l xml:id="d001l347" n="334">Car l'oure vient qe vous tretous seul me leirés,</l>
+                <l xml:id="d001l348" n="335">Mes je ne serai seul, car je sui acompeigniés</l>
+                <l xml:id="d001l349" n="336">Da mien pere. Adonc leviés e ou moy veniés,</l>
+                <l xml:id="d001l350" n="337">Car il s'aproce cil ch'a traï a grand peciés</l>
+                <l xml:id="d001l351" n="338">Le fil Dieu en les meins des peceours proviés».</l>
+                <l xml:id="d001l352" n="339">E diant ces paroules, Judas le renoiés</l>
+                <l xml:id="d001l353" n="340">Ou la tourbe de ceus ch'il avoit ascembliés</l>
+                <l xml:id="d001l354" n="341">A laces e a fust com aloient armés</l>
+                <l xml:id="d001l355" n="342">E ou lanternes ardans, li oit le fel guiés</l>
+                <l xml:id="d001l356" n="343">Tot droit enver Jesu, si lour dist: «Entendiés!</l>
+                <l xml:id="d001l357" n="344">Cil che sera da moy embracié e baisiés,</l>
+                <l xml:id="d001l358" n="345">Sera Jesu, e vous mantinant le preniés».</l>
+                <l xml:id="d001l359" n="346">Lour alerent avant, e quand furent prosmiés</l>
+                <l xml:id="d001l360" n="347">A Jesu, e Judas l'oit alour salués</l>
+                <l xml:id="d001l361" n="348">E dist: «Ave, rabi»; pues se fu a lu aprociés</l>
+                <l xml:id="d001l362" n="349">E en traison le baisa. Lour l'oit Jesu araisnies,</l>
+                <l xml:id="d001l363" n="350">Diant: «Ami, par coy eis tu ci ensi ariviés?</l>
+                <l xml:id="d001l364" n="351">Judas par cist baiser, ond tu m'ais embraciés,</l>
+                <l xml:id="d001l365" n="352">Ais tu le fil de Dieu traÿ cum sperjuriés».</l>
+                <l xml:id="d001l366" n="353">Lour furent li Juïs de luy prandre aprestiés,</l>
+                <l xml:id="d001l367" n="354">Mes Jesu tout avant lour dist: «Chi demandiés?».</l>
+                <l xml:id="d001l368" n="355">«Jesum naçarenum», respondrent ceus maoviés.</l>
+                <l xml:id="d001l369" n="356">«Je suy», ce dist Jesu, e quand oit ce parliés</l>
+                <l xml:id="d001l370" n="357">Ceus ceïrent a (la) terre tretous espoentiés.</l>
+                <lb/>
+                <p xml:id="d001l371" style="font-weight:bold" n="">XIV</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l372" n="358">Quand fu a terre ceüe celle maovese gient,</l>
+                <l xml:id="d001l373" n="359">Jesu ancor lour dist sens nul entecement:</l>
+                <l xml:id="d001l374" n="360">«Leviés! Che demandiés?». E celour respondrent:</l>
+                <l xml:id="d001l375" n="361">«Jesum naçarenum demandons seulement».</l>
+                <l xml:id="d001l376" n="362">«Je sui cil», dist Jesu, «je·l vous di primement.</l>
+                <l xml:id="d001l377" n="363">Se moy volés avoir, leisiés a saovement</l>
+                <l xml:id="d001l378" n="364">Alier tretous cestour sens nul engombrement».</l>
+                <l xml:id="d001l379" n="365">Alour tous li disciples a luy s'aprosmerent</l>
+                <l xml:id="d001l380" n="366">Pour savoir se secours il voloit de nient.</l>
+                <l xml:id="d001l381" n="367">Mes saint Pere, ch'avoit un coutel, ne fu lent,</l>
+                <l xml:id="d001l382" n="368">Ains feri uns des Juïs mout orgoilousement,</l>
+                <l xml:id="d001l383" n="369">Qe dou pontifice estoit tenu servent</l>
+                <l xml:id="d001l384" n="370">E avoit nom Malcus celu se je ne ment.</l>
+                <l xml:id="d001l385" n="371">Saint Piere feri cil par tremout maotalent,</l>
+                <l xml:id="d001l386" n="372">Und che la detre oreille li trença voirement.</l>
+                <l xml:id="d001l387" n="373">E Yesu, quand ce vit, prist l'oreille omblement</l>
+                <l xml:id="d001l388" n="374">E tost l'oit resanee aou cief de cil sargient.</l>
+                <l xml:id="d001l389" n="375">E pues dist a saint Piere ch'estoit iluech atent:</l>
+                <l xml:id="d001l390" n="376">«Met tuen gladie en vaïne, qe chi a gladie oufent</l>
+                <l xml:id="d001l391" n="377">A gladie doit perir. Ce te di, or me entent:</l>
+                <l xml:id="d001l392" n="378">Le chalice dou quiel m'a mien pier feit present,</l>
+                <l xml:id="d001l393" n="379">Ne veis tu che je el boive? Donc ne fais pensement</l>
+                <l xml:id="d001l394" n="380">Che se secours vousisse daou mien piere puisent,</l>
+                <l xml:id="d001l395" n="381">Ch'il ne le moy donast? Mes saces fermement</l>
+                <l xml:id="d001l396" n="382">Che doçes legions d'angles e plus veraiement</l>
+                <l xml:id="d001l397" n="383">Me envoieroit, se je le empriase aou present.</l>
+                <l xml:id="d001l398" n="384">Con seroit la Scriture aemplie, che aemplir convient,</l>
+                <l xml:id="d001l399" n="385">De moy, chi ensi feïst?». E pues dist bellement</l>
+                <l xml:id="d001l400" n="386">As Juïs: «Par qoy estes venus si coiement</l>
+                <l xml:id="d001l401" n="387">Sour moy a fers e a fus, quand je tout jour sovent</l>
+                <l xml:id="d001l402" n="388">Estoie ensemble ou vous, en temple ou autrement,</l>
+                <l xml:id="d001l403" n="389">Amonestand vous sempre a buen entendiment?</l>
+                <l xml:id="d001l404" n="390">Lour ne me tenoiés en tiel despitement!».</l>
+                <l xml:id="d001l405" n="391">A cist mot ceus Juïs mantinant le pristrent</l>
+                <l xml:id="d001l406" n="392">E, a gise d'un lairon, les mains li loierent.</l>
+                <l xml:id="d001l407" n="393">Alour tous siens disciples par peour s'en fuirent.</l>
+                <l xml:id="d001l408" n="394">E li Juïs as drais sainct Johans seisirent,</l>
+                <l xml:id="d001l409" n="395">Mes Johans li leisa, por peour de torment,</l>
+                <l xml:id="d001l410" n="396">Sa veste e s'en fuï da lour isnelement.</l>
+                <l xml:id="d001l411" n="397">E Jesu Crist en fu mené vileinement.</l>
+                <lb/>
+                <p xml:id="d001l412" style="font-weight:bold" n="">XV</p>
+                <lb/>
+                <l xml:id="d001l413" n="398">Lour li Juïs avoient de lour loy dous retour:</l>
+                <l xml:id="d001l414" n="399">Anne e Chayphas furent nomiés andous celour.</l>
+                <l xml:id="d001l415" n="400">L'un d'eus regnoit un an e l'autre sens destour</l>
+                <l xml:id="d001l416" n="401">Regnoit pues aprés cil tout l'an segondeour.</l>
+                <l xml:id="d001l417" n="402">E Chayphas une fille d'Anne avoit a (a)uxour,</l>
+                <l xml:id="d001l418" n="403">E cil an regnoit Anne ch'estoit plus ancienour.</l>
+                <l xml:id="d001l419" n="404">Pour ce fu a luy primier menés nostre seignour.</l>
+                <l xml:id="d001l420" n="405">Saint Piere e saint Johans li sivoient tutour,</l>
+                <l xml:id="d001l421" n="406">Mes saint Johans ch'estoit bien voilu daou greignour</l>
+                <l xml:id="d001l422" n="407">Entra ou li Juïs; e saint Piere alour</l>
+                <l xml:id="d001l423" n="408">Remist dehors tout seul plain de mout grand peour.</l>
+                <l xml:id="d001l424" n="409">Quand Johans s'en avit, a une usciere de lour</l>
+                <l xml:id="d001l425" n="410">Parla, tant che saint Piere entra dens sens remour.</l>
+                <l xml:id="d001l426" n="411">E saint Piere s'asist aou feu pour la froidour.</l>
+                <l xml:id="d001l427" n="412">Lour regarda l'usciere saint Piere en la colour</l>
+                <l xml:id="d001l428" n="413">E dist: «Tu eis de cist home disciple e seguiour».</l>
+                <l xml:id="d001l429" n="414">«Ne sui», ce dist saint Piere, «ne suen conoiseour».</l>
+                <l xml:id="d001l430" n="415">Alour canta le coc, mes tiel fu le criour</l>
+                <l xml:id="d001l431" n="416">Che Piere ne l'oï. Lour Anne aou saoveour</l>
+                <l xml:id="d001l432" n="417">Enquist des siens disciples, de sa doctrine ancour.</l>
+                <l xml:id="d001l433" n="418">E Jesu respondi: «Je ay parlé tout jour</l>
+                <l xml:id="d001l434" n="419">En paleis non ocult, environ e entour;</l>
+                <l xml:id="d001l435" n="420">E en temple e en sinagoge amaistrai sens folour</l>
+                <l xml:id="d001l436" n="421">Le pouple. E se tu vieus savoir dou mien labour,</l>
+                <l xml:id="d001l437" n="422">Demande ceus qe m'ont oÿ des fois pluxour,</l>
+                <l xml:id="d001l438" n="423">Qar celour savient bien ce ch'ay dit sens erour».</l>
+                <l xml:id="d001l439" n="424">E cum il oit ce dit, un felon serviour,</l>
+                <l xml:id="d001l440" n="425">Leva la main e pues feri par grand irour</l>
+                <l xml:id="d001l441" n="426">Jesu desour la face, par si tre grand vigour</l>
+                <l xml:id="d001l442" n="427">Qe crolier il li fist li dens; e cum furour</l>
+                <l xml:id="d001l443" n="428">Li dist: «Cum ousais tu respondre a tiel baudour</l>
+                <l xml:id="d001l444" n="429">Au seignour?». E Yesu respondi cum douçour:</l>
+                <l xml:id="d001l445" n="430">«Se je ay mal dit, tesmogne cum je suy maoditour;</l>
+                <l xml:id="d001l446" n="431">E se je ay bien dit davant tretous cestour,</l>
+                <l xml:id="d001l447" n="432">Par choi me fieres tu e fais tiel desenour?».</l>
+                <l xml:id="d001l448" n="433">Alour le tramist Anne a Chayphas sens demour.</l>
+                <lb/>
+                <p xml:id="d001l449" style="font-weight:bold" n="">XVI</p>
+                <lb/>
+                <l xml:id="d001l450" n="434">A la maison Chaiphas Anne Jesu envoia,</l>
+                <l xml:id="d001l451" n="435">Ou seignours e scrivens estoient venus ja.</l>
+                <l xml:id="d001l452" n="436">E Pieres da lontein aprés lour segonda</l>
+                <l xml:id="d001l453" n="437">E avec ceus Juïs en la meison entra.</l>
+                <l xml:id="d001l454" n="438">Lour le vit une serve e tantost le motra</l>
+                <l xml:id="d001l455" n="439">As Juïs, si lour dist: «Veés cil home là:</l>
+                <l xml:id="d001l456" n="440">De Jesu estoit disciple e si l'acompeigna».</l>
+                <l xml:id="d001l457" n="441">Alour ceschun de ceus ver Piere s'en ala,</l>
+                <l xml:id="d001l458" n="442">Diant: «Tu eis disciple de cist hon che ci a;</l>
+                <l xml:id="d001l459" n="443">Tu eis de Galilee, car manifesté t'a</l>
+                <l xml:id="d001l460" n="444">Ta paroule dou tout». Ond Piere se esmaia,</l>
+                <l xml:id="d001l461" n="445">E pour ce lour plevi e mantinant jura</l>
+                <l xml:id="d001l462" n="446">Qe jameis ne le vit, ne jameis ne l'ama.</l>
+                <l xml:id="d001l463" n="447">Aprés ceste paroule mantinant l'araisna</l>
+                <l xml:id="d001l464" n="448">Un soraçe de cil cui saint Piere trença</l>
+                <l xml:id="d001l465" n="449">L'oreille, che Jesus pues aprés resana,</l>
+                <l xml:id="d001l466" n="450">E dist: «Cum le pois tu desdir, ch'il te trova</l>
+                <l xml:id="d001l467" n="451">Mien cors ou lu en l'ort?». Lour Piere tant dota</l>
+                <l xml:id="d001l468" n="452">La peour de la mort, che ancour renoia</l>
+                <l xml:id="d001l469" n="453">Jesu Crist e ancour cum seiremant ferma</l>
+                <l xml:id="d001l470" n="454">Che meis ne ama Jesu ne onque li parla.</l>
+                <l xml:id="d001l471" n="455">Alout tout mantinant le coc en aut canta,</l>
+                <l xml:id="d001l472" n="456">E Jesu Crist aprés saint Piere regarda;</l>
+                <l xml:id="d001l473" n="457">E Piere mantinant cil pont se remembra</l>
+                <l xml:id="d001l474" n="458">De ce che Jesu avant li dist e anoncia:</l>
+                <l xml:id="d001l475" n="459">Ch'il le renoieroit trois fois. Ce li conta</l>
+                <l xml:id="d001l476" n="460">Avant che 'ou coc cantast, e de rien ne fala.</l>
+                <l xml:id="d001l477" n="461">Lour se parti d'iluec e ameirement plura</l>
+                <l xml:id="d001l478" n="462">Dou pecié ch'avoit feit, ond Diés li perdona.</l>
+                <l xml:id="d001l479" n="463">Li Juïs meinerent Jesus davant Chaifa</l>
+                <l xml:id="d001l480" n="464">Liés estroitemant, e ceschun l'enclusa</l>
+                <l xml:id="d001l481" n="465">De ce ch'il fist onque, mes a ceus ne dona</l>
+                <l xml:id="d001l482" n="466">Yesu aucun respons, car de lour ne cura.</l>
+                <l xml:id="d001l483" n="467">Atant dous faus tesmognes vindrent; pues escria</l>
+                <l xml:id="d001l484" n="468">Ceschun de lour en aut, diant: «Entendiés ça.</l>
+                <l xml:id="d001l485" n="469">Oï avons cestu ch'a dit q'il desfera</l>
+                <l xml:id="d001l486" n="470">Tout le temple en un jour e en tiers le refeira».</l>
+                <l xml:id="d001l487" n="471">Jesu ne respondi ne mout a lour dona.</l>
+                <l xml:id="d001l488" n="472">«Che ne respondes tu», Chaifas le demanda,</l>
+                <l xml:id="d001l489" n="473">«A ceus che te enclusent?». Jesu dir le leisa</l>
+                <l xml:id="d001l490" n="474">Che ancour ne i respondi, e Chaifas l'apella</l>
+                <l xml:id="d001l491" n="475">Ancour un'autre foy et fort le conjura.</l>
+                <lb/>
+                <p xml:id="d001l492" style="font-weight:bold" n="">XVII</p>
+                <lb/>
+                <l xml:id="d001l493" n="476">«Je te conjur da part de Dieu vis», dist Chaifais,</l>
+                <l xml:id="d001l494" n="477">«Che tu dies se tu eis Crist, le fil dou Dieu verais».</l>
+                <l xml:id="d001l495" n="478">Dist Jesus: «Se je el di, ja rien ne m'en creirais;</l>
+                <l xml:id="d001l496" n="479">E se je te demand, ja ne me respondrais</l>
+                <l xml:id="d001l497" n="480">A couse che je die, ne pour ce me leirais.</l>
+                <l xml:id="d001l498" n="481">Nepourquant je te di che ancour tu veirais</l>
+                <l xml:id="d001l499" n="482">Le fil de Dieu seoir dou tout aou detre brais</l>
+                <l xml:id="d001l500" n="483">De la vertu de Dieu e venir sens nul gais</l>
+                <l xml:id="d001l501" n="484">Par les nues dou ciel». Lour distrent ceus maovais:</l>
+                <l xml:id="d001l502" n="485">«Donc eis tu fil de Dieu?» E Jesu dist en bais:</l>
+                <l xml:id="d001l503" n="486">«Vous dites car je suy». Lour Chaifas sens delais</l>
+                <l xml:id="d001l504" n="487">Sperna sa vesteüre diant: «Par coy huimais</l>
+                <l xml:id="d001l505" n="488">Demandons plus tesmognes? Car tretout le forfais</l>
+                <l xml:id="d001l506" n="489">Avons oÿ de sa boce ce n'est jeu ne solais.</l>
+                <l xml:id="d001l507" n="490">Qe vous semble de luy?». Ceus distrent a un fais:</l>
+                <l xml:id="d001l508" n="491">«Il est dign de morir». Alour ceus faus Judais</l>
+                <l xml:id="d001l509" n="492">Li enbinderent siens yeus e spoilerent des drais:</l>
+                <l xml:id="d001l510" n="493">A une colone fu lié cum pluxour lais;</l>
+                <l xml:id="d001l511" n="494">Ferant lu e batant ceus culvers satanais,</l>
+                <l xml:id="d001l512" n="495">Ond che tout sanglentoit ancour de lour grand tais,</l>
+                <l xml:id="d001l513" n="496">Li tiroient la barbe, feissant de lu destrais,</l>
+                <l xml:id="d001l514" n="497">Diant: «Chi t'a feru? Profitiçe, s'tu sais».</l>
+                <l xml:id="d001l515" n="498">Aou front li scicoient: onque nul vil bidais</l>
+                <l xml:id="d001l516" n="499">Ne fu tant desprisié ce ne mescreés pais.</l>
+                <l xml:id="d001l517" n="500">Toute nuit jusque au jour che 'ou solel fist siens rais</l>
+                <l xml:id="d001l518" n="501">Fu flaiellé Yesus, ch'il n'oit trieve ne pais.</l>
+                <l xml:id="d001l519" n="502">Pues a Pilat il fu condut sour suen palais.</l>
+                <lb/>
+                <p xml:id="d001l520" style="font-weight:bold" n="">XVIII</p>
+                <lb/>
+                <l xml:id="d001l521" n="503">Batu e flaiellé fu condut cil matin</l>
+                <l xml:id="d001l522" n="504">Jesu Crist a Pillat, droit aou paleis mabrin,</l>
+                <l xml:id="d001l523" n="505">Mes là dens plus ni entra Juïs vielz ne mesclin,</l>
+                <l xml:id="d001l524" n="506">Car Pilat o luy avoit celour de plus aut lin.</l>
+                <l xml:id="d001l525" n="507">Pilat Yerusalem avoit en suen seisin,</l>
+                <l xml:id="d001l526" n="508">De Galilee tenoit Herodes le demin.</l>
+                <l xml:id="d001l527" n="509">Quand Pilat vid Jesu condut a tiel traïn</l>
+                <l xml:id="d001l528" n="510">Grand pietié li en prist, par ch'il savoit en fin</l>
+                <l xml:id="d001l529" n="511">Che seulment par envie, non par autre convin,</l>
+                <l xml:id="d001l530" n="512">Li Juïs l'avoient traÿ e pour aïn.</l>
+                <l xml:id="d001l531" n="513">Lour isci dou paleis a cil pople fraïn:</l>
+                <l xml:id="d001l532" n="514">«De quoy enclusiés cist?», dist il en suen latin.</l>
+                <l xml:id="d001l533" n="515">«S'il ne fust maufatour», respondrent ceus topin,</l>
+                <l xml:id="d001l534" n="516">«A toy nous ne l'eusions meniés a tiel hustin.</l>
+                <l xml:id="d001l535" n="517">Nous trovons che cestu par suen sotil engin</l>
+                <l xml:id="d001l536" n="518">Veit fausant notre loy e, a tout suen demin,</l>
+                <l xml:id="d001l537" n="519">Veit convertant la giant e pour ceschun cemin</l>
+                <l xml:id="d001l538" n="520">Desdit le trehu Cesar, a cui somes aenclin;</l>
+                <l xml:id="d001l539" n="521">E Crist e roy se clame e fil aou roy divin».</l>
+                <l xml:id="d001l540" n="522">E Pilat dist: «Se il a feit pour aucun destin</l>
+                <l xml:id="d001l541" n="523">Encontre vetre loy, doniés lu disciplin,</l>
+                <l xml:id="d001l542" n="524">Con vetre loy comande». Lour distrent ceus mastin:</l>
+                <l xml:id="d001l543" n="525">«A nous n'est convenable d'oucir home terrin».</l>
+                <l xml:id="d001l544" n="526">Lour tourna en le palés Pilat sens nul termin</l>
+                <l xml:id="d001l545" n="527">E mist Jesu a raison, quand il li fu voisin.</l>
+                <lb/>
+                <p xml:id="d001l546" style="font-weight:bold" n="">XIX</p>
+                <lb/>
+                <l xml:id="d001l547" n="528">«Tu eis roy des Juïs?«, Pilat a Jesu dist.</l>
+                <l xml:id="d001l548" n="529">E Jesu respondi: «Da toy ais tu dit cist,</l>
+                <l xml:id="d001l549" n="530">Ou autre a toi de moy l'a dit». [A]lour requist</l>
+                <l xml:id="d001l550" n="531">Pilat un'autre foy e a raisonier le prist:</l>
+                <l xml:id="d001l551" n="532">«Je che juïf ne suy, mien cors ne te forfist,</l>
+                <l xml:id="d001l552" n="533">Mes ta giant t'ont a moy tramis: tuen cors que fist?».</l>
+                <l xml:id="d001l553" n="534">E Jesu respondi, ch'estoit flaiellé e trist:</l>
+                <l xml:id="d001l554" n="535">«De cist mond n'est mien regne e, se en cist mond seïst</l>
+                <l xml:id="d001l555" n="536">Mien regne, je te di che mes sers e minist</l>
+                <l xml:id="d001l556" n="537">Par cert n'eüsent soufert che a toy me trametist</l>
+                <l xml:id="d001l557" n="538">Le pople juïf: donc mien regne ici ne gist».</l>
+                <l xml:id="d001l558" n="539">E Pilat respondi: «Donc eis tu roy?». Lour Crist</l>
+                <l xml:id="d001l559" n="540">Dist: «Tu dis, car roy sui; e en ce stuit che nasquist</l>
+                <l xml:id="d001l560" n="541">Mien cors en cestu mond e che dou tout venist</l>
+                <l xml:id="d001l561" n="542">Pour dir la veritié a cescun che vousist</l>
+                <l xml:id="d001l562" n="543">La veritié oïr, ond fortment il pleisist</l>
+                <l xml:id="d001l563" n="544">Ma parole a cescun che veritié agraïst».</l>
+                <l xml:id="d001l564" n="545">Quand Pilat l'entendi, ancour si li redist:</l>
+                <l xml:id="d001l565" n="546">«Que çouse est veritié?». Avant che respondist</l>
+                <l xml:id="d001l566" n="547">Jesu Crist a Pilat, hors as Juïs se mist</l>
+                <l xml:id="d001l567" n="548">E dist auquant en aut che ceschun l'entendist:</l>
+                <l xml:id="d001l568" n="549">«Je l'ay examiné, ne ne truef ch'il feïst</l>
+                <l xml:id="d001l569" n="550">Pecié ne ocheison, ond paine li venist».</l>
+                <l xml:id="d001l570" n="551">Lour respondrent en aut celle giant d'antecrist:</l>
+                <l xml:id="d001l571" n="552">«Cist home comença pour fer de giant aquist</l>
+                <l xml:id="d001l572" n="553">Primier en Galilee, pues en Judee desist,</l>
+                <l xml:id="d001l573" n="554">Comovant tout le pople, e jusque ci mesfist».</l>
+                <l xml:id="d001l574" n="555">Quand Pilat li entendi, mantinant il enquist</l>
+                <l xml:id="d001l575" n="556">S'il estoit galileu, ond le voir en aprist.</l>
+                <lb/>
+                <p xml:id="d001l576" style="font-weight:bold" n="">XX</p>
+                <lb/>
+                <l xml:id="d001l577" n="557">Tantost cum Pilat oit oÿ dir e contier</l>
+                <l xml:id="d001l578" n="558">Che galileu estoit Jesu Crist, notre pier,</l>
+                <l xml:id="d001l579" n="559">A Herodes le fist mantinant envoier,</l>
+                <l xml:id="d001l580" n="560">Che Galilee avoit cil tens a justisier.</l>
+                <l xml:id="d001l581" n="561">Quand Herodes le vit davant soy amener,</l>
+                <l xml:id="d001l582" n="562">Fortment en fu joiant, pour ch'il grand dexirier</l>
+                <l xml:id="d001l583" n="563">Avoit de luy veoir, car fortment raisonier</l>
+                <l xml:id="d001l584" n="564">Avoit oÿ de lu e cuidoit sens boisier</l>
+                <l xml:id="d001l585" n="565">Che Jesu li deüst aucun signe motrier.</l>
+                <l xml:id="d001l586" n="566">Alour de pluixour çouses le prist a demandier,</l>
+                <l xml:id="d001l587" n="567">E Jesu aucune çouse ne li respondi arier.</l>
+                <l xml:id="d001l588" n="568">Lour sacerdous e princes le pristrent a enclusier</l>
+                <l xml:id="d001l589" n="569">A grand tort. Lour Herodes le prist a desprisier</l>
+                <l xml:id="d001l590" n="570">E siens homes ausi; e par plus luy avilier</l>
+                <l xml:id="d001l591" n="571">Li ferent une veste tote blance endosier</l>
+                <l xml:id="d001l592" n="572">Ensi cu[m] il fesoient li fous aparilier.</l>
+                <l xml:id="d001l593" n="573">Pues a Pilat le fist Herodes retournier.</l>
+                <l xml:id="d001l594" n="574">Alour Pilat e Herodes devindrent pour entier</l>
+                <l xml:id="d001l595" n="575">Amis, car mout nemis estoient da primier.</l>
+                <l xml:id="d001l596" n="576">Lour prist Pilat li princes e le pople a apelier</l>
+                <l xml:id="d001l597" n="577">E dist: «En cestu home je ne say atrovier</l>
+                <l xml:id="d001l598" n="578">Nulle ocheison par coy je·ou doie condanier,</l>
+                <l xml:id="d001l599" n="579">Ne Herodes ne·ou veust de noiant tormentier,</l>
+                <l xml:id="d001l600" n="580">Car auchune ocheison ne vit de lu empirier.</l>
+                <l xml:id="d001l601" n="581">Pour ce l'a il feit a nous retournier e mandier,</l>
+                <l xml:id="d001l602" n="582">Ond che ocheison de mort n'est en lu. Mes mendier</l>
+                <l xml:id="d001l603" n="583">Le feray de cist feit, si le leiray alier».</l>
+                <l xml:id="d001l604" n="584">Alour li sacerdous de plus greignour afer</l>
+                <l xml:id="d001l605" n="585">L'enclusoient fortment, ond Pilat sens tardier</l>
+                <l xml:id="d001l606" n="586">Apella Jesu Crist quand le vit si encolpier,</l>
+                <l xml:id="d001l607" n="587">E dist: «Che ne respondes? Ne ais tu oÿ tesmognier</l>
+                <l xml:id="d001l608" n="588">Taintes contreires çouses vers toy pour toy jugier?».</l>
+                <l xml:id="d001l609" n="589">Mes Jesu aucune zouse ne veust pour ce parlier,</l>
+                <l xml:id="d001l610" n="590">Und Pilat duremant s'en prist a mervoilier.</l>
+                <l xml:id="d001l611" n="591">Cil temps estoit usaçe d'un prisonier leisier</l>
+                <l xml:id="d001l612" n="592">A la feste solempne e aou pople livrier.</l>
+                <l xml:id="d001l613" n="593">Un maofatour avoit Pilat par prisonier</l>
+                <l xml:id="d001l614" n="594">Ch'avoit nom Barabas: homicidious e fier</l>
+                <l xml:id="d001l615" n="595">Estoit toute sa vie e layron pour amblier.</l>
+                <l xml:id="d001l616" n="596">Princes e sacerdous pristrent a confortier</l>
+                <l xml:id="d001l617" n="597">Le pople, de querir Barabas e aidier,</l>
+                <l xml:id="d001l618" n="598">E leisier Jesu Crist tormentier e tuer.</l>
+                <l xml:id="d001l619" n="599">Alour la turbe grand alerent a prier</l>
+                <l xml:id="d001l620" n="600">Pilat, che a lour deüst un prisonier donier</l>
+                <l xml:id="d001l621" n="601">Selong ch'estoit usaçe. Alour sens demorier</l>
+                <l xml:id="d001l622" n="602">Dist Pilat: «Je l'otroy. Voliés vous otroier</l>
+                <l xml:id="d001l623" n="603">Che le roy des Juïs vous lais tout quit alier?».</l>
+                <l xml:id="d001l624" n="604">«Nenil», distrent celour, «ains fa celu gardier,</l>
+                <l xml:id="d001l625" n="605">E Barabas nous done sens autre resploitier».</l>
+                <l xml:id="d001l626" n="606">Lour respondi Pilat: «De Jesu qe doy fer?».</l>
+                <lb/>
+                <p xml:id="d001l627" style="font-weight:bold" n="">XXI</p>
+                <lb/>
+                <l xml:id="d001l628" n="607">«De Jesu», dist Pilat, «dites che fer en doy».</l>
+                <l xml:id="d001l629" n="608">Ceus distrent: «Il doit etre crucifiés par toy».</l>
+                <l xml:id="d001l630" n="609">«Che a il fet?», dist Pilat, «Seignour, dites le moi».</l>
+                <l xml:id="d001l631" n="610">«Crucifiés doit etre», distrent ceus, «sens resploi».</l>
+                <l xml:id="d001l632" n="611">Ancour Pilat voilant Jesu leisier de foi,</l>
+                <l xml:id="d001l633" n="612">Veant che pour envie l'en li fesoit enoi,</l>
+                <l xml:id="d001l634" n="613">As greignours sacerdous dist ancour tierce foy:</l>
+                <l xml:id="d001l635" n="614">«Nulle ocheison de mort en lu ne truef ne voi.</l>
+                <l xml:id="d001l636" n="615">Je le çastierai e pues sens nul desroi</l>
+                <l xml:id="d001l637" n="616">Je le leirai aler e il mendera soi».</l>
+                <l xml:id="d001l638" n="617">Sour ce avoit Çacharie davant dit sens foloi:</l>
+                <l xml:id="d001l639" n="618">«Filij Israel percucient lour prince e lour convoi».</l>
+                <l xml:id="d001l640" n="619">Lour escrierent celour de la judee loy:</l>
+                <l xml:id="d001l641" n="620">«Crucifier se doit, car bien savons par qoi».</l>
+                <l xml:id="d001l642" n="621">Quand Pilat entendi de ceus le grand orgoi,</l>
+                <l xml:id="d001l643" n="622">Por desour suen palés, ch'estoit paint ad orfroi,</l>
+                <l xml:id="d001l644" n="623">Fist despoilier le fil de Dieu, le sovrein roi,</l>
+                <l xml:id="d001l645" n="624">De celle veste blance che Herodes par foloi</l>
+                <l xml:id="d001l646" n="625">Le fist vestir davant pour fer de lu gaboi,</l>
+                <l xml:id="d001l647" n="626">E de pourprine veste, sens desduit ne sbanoi,</l>
+                <l xml:id="d001l648" n="627">Fu vestu mantinant e pues, a grand esfroi,</l>
+                <l xml:id="d001l649" n="628">Batu e flaielé, cum vous dirai ce croi.</l>
+                <lb/>
+                <p xml:id="d001l650" style="font-weight:bold" n="">XXII</p>
+                <lb/>
+                <l xml:id="d001l651" n="629">Quand Jesu fu vestu de la veste pourprine</l>
+                <l xml:id="d001l652" n="630">Une corone en chief li mistrent d'espine</l>
+                <l xml:id="d001l653" n="631">E tant la ficerent desour sa blonde crine</l>
+                <l xml:id="d001l654" n="632">Che daou cief jusque aou pié le sang de lu decline.</l>
+                <l xml:id="d001l655" n="633">Une rosele en mein mistrent li outremarine</l>
+                <l xml:id="d001l656" n="634">Pour fer de notre sire plus gab e plus traïne.</l>
+                <l xml:id="d001l657" n="635">Grand partie a chief nu par devant lu s'encline,</l>
+                <l xml:id="d001l658" n="636">Diant: «Roy des Juïs, Dieu te sauf che domine!».</l>
+                <l xml:id="d001l659" n="637">Grand colees li donent par face e par petrine,</l>
+                <l xml:id="d001l660" n="638">Scicant a lu en la face, e par plus discipline</l>
+                <l xml:id="d001l661" n="639">Fierent lu de 'ou rosel sour le cief sens volpine,</l>
+                <l xml:id="d001l662" n="640">Sour ce avoit dit David che fu plain de doctrine:</l>
+                <l xml:id="d001l663" n="641">«Oprobrium factus sum vicinis meis e aïne».</l>
+                <l xml:id="d001l664" n="642">Ancour dist Ysaie par volontié divine:</l>
+                <l xml:id="d001l665" n="643">«Faciem meam non averti ce est veritié fine</l>
+                <l xml:id="d001l666" n="644">Ab increpantibus». E Job dit e latine:</l>
+                <l xml:id="d001l667" n="645">«In me insurexerunt li maoviés cum ruine,</l>
+                <l xml:id="d001l668" n="646">Et non pepercerunt par aucune convine.</l>
+                <l xml:id="d001l669" n="647">In faciem meam spuere e voir fu la destine ».</l>
+                <l xml:id="d001l670" n="648">Quand batu fu Jesu par cief, par flans, par schine</l>
+                <l xml:id="d001l671" n="649">Pilat le fist mener hors a la giant fraïne:</l>
+                <l xml:id="d001l672" n="650">Ce furent ceus Juïs plains de male racine.</l>
+                <lb/>
+                <p xml:id="d001l673" style="font-weight:bold" n="">XXIII</p>
+                <lb/>
+                <l xml:id="d001l674" n="651">Menés fu Jesu Crist hors as Juïs felons</l>
+                <l xml:id="d001l675" n="652">Ou la veste de porpre, e sour siens ceveus blons</l>
+                <l xml:id="d001l676" n="653">Avoit l'aspre corone des spins, cum nous trovons.</l>
+                <l xml:id="d001l677" n="654">Pilat as Juïs dist: «Je vous remain cist hons.</l>
+                <l xml:id="d001l678" n="655">Flaielés e batus est daou pié jusque aou frons,</l>
+                <l xml:id="d001l679" n="656">Ne oucheison de mort en lu nous ne trovons».</l>
+                <l xml:id="d001l680" n="657">Alour ceus faus Juïs escrierent a aut tons:</l>
+                <l xml:id="d001l681" n="658">«Crucifie, crucifie luy, car nous le volons».</l>
+                <l xml:id="d001l682" n="659">Hore de tierce estoit. Lour Pilat tout embrons</l>
+                <l xml:id="d001l683" n="660">Dist: «Crucifiés le vous, car nous le vous rendons,</l>
+                <l xml:id="d001l684" n="661">Che je ancor ne truef en lu nulle ocheison».</l>
+                <l xml:id="d001l685" n="662">Lour distrent li Juïs: «Nous notre loy avons:</l>
+                <l xml:id="d001l686" n="663">E il selong la loy doit morir ce savons ,</l>
+                <l xml:id="d001l687" n="664">Pour ce che fil de Dieu il se fist sens reisons».</l>
+                <l xml:id="d001l688" n="665">Plus se douta Pilat ancour de ceus sermons:</l>
+                <l xml:id="d001l689" n="666">Lour tourna en le paleis e sens demoreisons</l>
+                <l xml:id="d001l690" n="667">Dist ancour a Jesu: «Ond es tu?». Mes respons</l>
+                <l xml:id="d001l691" n="668">Ne li dona de ce Jesu, cum entendons.</l>
+                <l xml:id="d001l692" n="669">Ancour li fist Pilat autres demandeisons</l>
+                <l xml:id="d001l693" n="670">E dist: «Che ne me parles? Ne sais tu che a ces pons</l>
+                <l xml:id="d001l694" n="671">Je ay la poësté de ta delivreisons?».</l>
+                <l xml:id="d001l695" n="672">Lour respondi Jesu con nous vous conterons.</l>
+                <lb/>
+                <p xml:id="d001l696" style="font-weight:bold" n="">XXIV</p>
+                <lb/>
+                <l xml:id="d001l697" n="673">Dist Jesu: «Tu ni eüses sour moy nulle poeste</l>
+                <l xml:id="d001l698" n="674">Se donee ne te fust desour veritié est ceste ,</l>
+                <l xml:id="d001l699" n="675">Mes greignour pecié ont ce saces manifeste ,</l>
+                <l xml:id="d001l700" n="676">Celour che m'ont doné a toy par tiele enqueste,</l>
+                <l xml:id="d001l701" n="677">Che n'ais tu, che me fais portier paine e moleste».</l>
+                <l xml:id="d001l702" n="678">Lour pour luy delivrer Pilat sens plus areste</l>
+                <l xml:id="d001l703" n="679">S'en vint ors as Juïs e cum parole honeste</l>
+                <l xml:id="d001l704" n="680">Dist: «En cist hon ne say trover rien deshoneste,</l>
+                <l xml:id="d001l705" n="681">Ne oucheison en lu ne voy». Lour plus s'aheste</l>
+                <l xml:id="d001l706" n="682">De respondre autemant la fause giant robeste,</l>
+                <l xml:id="d001l707" n="683">Diant: «Se tu le leises alier par tiel requeste,</l>
+                <l xml:id="d001l708" n="684">Tu n'eis ami Cesar ne de nul de sa jeste,</l>
+                <l xml:id="d001l709" n="685">Car cil che roy se feit ver Cesar feit moveste».</l>
+                <l xml:id="d001l710" n="686">Quand Pilat oÿ ce, si enclina la teste</l>
+                <l xml:id="d001l711" n="687">E fist mener Jesu de hors, sens jeu ne feste;</l>
+                <l xml:id="d001l712" n="688">Pues a loy de tribun en la sieçe s'apreste.</l>
+                <lb/>
+                <p xml:id="d001l713" style="font-weight:bold" n="">XXV</p>
+                <lb/>
+                <l xml:id="d001l714" n="689">Pilat, sicum tribun, sist en un leu autan</l>
+                <l xml:id="d001l715" n="690">Che hon dit licostrates e en breu gabatan.</l>
+                <l xml:id="d001l716" n="691">E sa fame a dir li envoia landeman,</l>
+                <l xml:id="d001l717" n="692">Che Jesu il ne fist soufrir mort ne achan,</l>
+                <l xml:id="d001l718" n="693">Qar mesfeit ne li avoit ne a nul home terran;</l>
+                <l xml:id="d001l719" n="694">E en vision pour lu avoit eü grand afan,</l>
+                <l xml:id="d001l720" n="695">Und che ancour de peour avoit le cuer tout plan.</l>
+                <l xml:id="d001l721" n="696">Lour Pilat as Juïs dist, a loy d'ome human:</l>
+                <l xml:id="d001l722" n="697">«Veeç ci vetre roy, Jesu le naçeran».</l>
+                <l xml:id="d001l723" n="698">E celour autemant, si cum giant hors dou san,</l>
+                <l xml:id="d001l724" n="699">Distrent: «Prend le, e luy crucifie man a man».</l>
+                <l xml:id="d001l725" n="700">E Pilat autre foy respondi omble e plan:</l>
+                <l xml:id="d001l726" n="701">«Donc cruciferay je vetre roi de proçan?».</l>
+                <l xml:id="d001l727" n="702">Lour ceus pontifices distrent pour grand aan:</l>
+                <l xml:id="d001l728" n="703">«Nous n'avons autre roy che Cesar le roman».</l>
+                <l xml:id="d001l729" n="704">Quand Pilat vit che 'ou suen dir ne montoit un pan,</l>
+                <l xml:id="d001l730" n="705">Il se fist portier yeve e dist lavant ses man:</l>
+                <l xml:id="d001l731" n="706">«Innocent sui dou sang de cist just, pour certan».</l>
+                <l xml:id="d001l732" n="707">A cist mot respondi tout cil pouple mondan:</l>
+                <l xml:id="d001l733" n="708">«Sour nous e sour nous fils le sang de lu e le dan».</l>
+                <l xml:id="d001l734" n="709">Lour Pilat pour pleisir a cil pouple vilan</l>
+                <l xml:id="d001l735" n="710">Juja Jesu a morir e leisa Baraban.</l>
+                <l xml:id="d001l736" n="711">Quand vid Judas che 'ou fil de Dieu le roy sopran</l>
+                <l xml:id="d001l737" n="712">Estoit jujé a mort, mout devint paile e van.</l>
+                <lb/>
+                <p xml:id="d001l738" style="font-weight:bold" n="">XXVI</p>
+                <lb/>
+                <l xml:id="d001l739" n="713">Mout devint paile e van Judas le desloiaus</l>
+                <l xml:id="d001l740" n="714">Quand vid condené a mort le piere spiritaus.</l>
+                <l xml:id="d001l741" n="715">Lour s'en vint as Juïs, droit as plus principaus,</l>
+                <l xml:id="d001l742" n="716">E dist: «Je ay traÿ, cum sedutour mortaus,</l>
+                <l xml:id="d001l743" n="717">Le sang just, ce est le fil dou roy celestiaus».</l>
+                <l xml:id="d001l744" n="718">Ceus distrent: «Che a nous pertient s'tu ais feit maus?».</l>
+                <l xml:id="d001l745" n="719">Lour jeta li diners Judas tous contre vaus</l>
+                <l xml:id="d001l746" n="720">Davant lor, e tantost se parti sens estaus,</l>
+                <l xml:id="d001l747" n="721">Cum cil che de cil feit avoit dolour coraus.</l>
+                <l xml:id="d001l748" n="722">Mes perdon ne queri de cil pecié mortiaus,</l>
+                <l xml:id="d001l749" n="723">Ainz prist un laz e pues se pendi a un aubroisiaus,</l>
+                <l xml:id="d001l750" n="724">Und le diable porta l'arme au regne enfernaus:</l>
+                <l xml:id="d001l751" n="725">Ensi perdi le cors e l'arme en comunaus.</l>
+                <l xml:id="d001l752" n="726">Alour ceus grand Juïs pristrent a dir entr'aus:</l>
+                <l xml:id="d001l753" n="727">«Ceus diner ne doivent etre par nul signaus</l>
+                <l xml:id="d001l754" n="728">In corbonam gitiés». Alour pristrent consiaus</l>
+                <l xml:id="d001l755" n="729">De acatier des diners un camp en cil terraus,</l>
+                <l xml:id="d001l756" n="730">Ou fussent enterrés lour pelerin loyaus.</l>
+                <l xml:id="d001l757" n="731">Donc fu achatié le camp, ond vieus e jovençaus</l>
+                <l xml:id="d001l758" n="732">L'ont pues Alchedemac apelé tous journaus,</l>
+                <l xml:id="d001l759" n="733">Ce est a dir camp de sang, e cil fu un camp mout biaus.</l>
+                <l xml:id="d001l760" n="734">E sour cist feit avoit dit dou temps ancionaus</l>
+                <l xml:id="d001l761" n="735">Yeremie le prophete, che ne fu pas bidaus:</l>
+                <l xml:id="d001l762" n="736">«Acceperunt triginta diners d'argient metaus,</l>
+                <l xml:id="d001l763" n="737">Quod apreciaverunt a filijs Israaus</l>
+                <l xml:id="d001l764" n="738">Et in figuli agrum dederunt eos sens gaus».</l>
+                <l xml:id="d001l765" n="739">Und tout ce fu acompli. Alour ceus Juïs faus</l>
+                <l xml:id="d001l766" n="740">Despoilerent Jesu de la porpre reaus</l>
+                <l xml:id="d001l767" n="741">E le revestirent de ceus drais naturaus,</l>
+                <l xml:id="d001l768" n="742">Ch'il portoit primeran. Ancour ceus faus cruaus</l>
+                <l xml:id="d001l769" n="743">Feirent a lu porter la crois par plus travaus.</l>
+                <l xml:id="d001l770" n="744">E, iscant de la ville, aou cemin droituraus</l>
+                <l xml:id="d001l771" n="745">Encontrerent Simon, de Cirene un vasaus:</l>
+                <l xml:id="d001l772" n="746">A cil feirent porter la crois, par le dit d'aus.</l>
+                <l xml:id="d001l773" n="747">Pres Jesu aloient maintes fames de cil regnaus,</l>
+                <l xml:id="d001l774" n="748">Plurant pour lu e menant grand duel e batistaus.</l>
+                <lb/>
+                <p xml:id="d001l775" style="font-weight:bold" n="">XXVII</p>
+                <lb/>
+                <l xml:id="d001l776" n="749">Quand Jesu voit les fames plurer de cuer perfont</l>
+                <l xml:id="d001l777" n="750">Pour lu, il les esgarde, pues vers eles respont:</l>
+                <l xml:id="d001l778" n="751">«Files Jerusalem sour moy ne plurés pont,</l>
+                <l xml:id="d001l779" n="752">Mes sour vous e vous fils plurés, qar je vous cont</l>
+                <l xml:id="d001l780" n="753">Che ancour vindront tieus jours che toutes beneiront</l>
+                <l xml:id="d001l781" n="754">Les sterules, che fils en lour ventres ne auront,</l>
+                <l xml:id="d001l782" n="755">Et ancour les mamelles che meis ne lateront;</l>
+                <l xml:id="d001l783" n="756">E maudiront les autres che fils enjendreront</l>
+                <l xml:id="d001l784" n="757">E clameront la mort, e aprés ce diront:</l>
+                <l xml:id="d001l785" n="758">"Mons, car ceiés sour nous e metiés nous au font!</l>
+                <l xml:id="d001l786" n="759">Ay terre englotiés nous!". Lour li Juïs mené l'ont</l>
+                <l xml:id="d001l787" n="760">Aou poy de Golgotas che our, par ceus che sont,</l>
+                <l xml:id="d001l788" n="761">Vient nomé mont Chaovaire: ce est un puy reont.</l>
+                <l xml:id="d001l789" n="762">Lá enclavellent Jesus sus la crois contremont.</l>
+                <l xml:id="d001l790" n="763">E Jesu Crist, che meis de bien fer ne s'escont,</l>
+                <l xml:id="d001l791" n="764">Prioit par ceus suen pere, diant a levé front:</l>
+                <l xml:id="d001l792" n="765">«Piere, perdone lour, char ne savent che il font».</l>
+                <l xml:id="d001l793" n="766">Alour siens vestimans en quart departus ont,</l>
+                <l xml:id="d001l794" n="767">Fors seul sa soutil cote che n'avoit par aou mont:</l>
+                <l xml:id="d001l795" n="768">De celle s'acordent che ne la sperneront,</l>
+                <l xml:id="d001l796" n="769">Ains la metront a sors e dou tot la donront</l>
+                <l xml:id="d001l797" n="770">A cil cui la vindra, ne ne la guasteront:</l>
+                <l xml:id="d001l798" n="771">E ensi feirent dou tout, cum la letre dispont.</l>
+                <l xml:id="d001l799" n="772">Sour ce avoit dit David, che de bien dir fu pront:</l>
+                <l xml:id="d001l800" n="773">«Partiti sunt vestimenta mea e en lour vont».</l>
+                <l xml:id="d001l801" n="774">Ancour dist: « Et in vestem meam sortem miseront».</l>
+                <lb/>
+                <p xml:id="d001l802" style="font-weight:bold" n="">XXVIII</p>
+                <lb/>
+                <l xml:id="d001l803" n="775">Ensi fu clavellé sus la crois Jesu Cris,</l>
+                <l xml:id="d001l804" n="776">Ond da maintes parties le sang aval desis.</l>
+                <l xml:id="d001l805" n="777">E Pilat sour la crois avoit un escrit mis,</l>
+                <l xml:id="d001l806" n="778">Che en breu e en greçois e en latin escris</l>
+                <l xml:id="d001l807" n="779">Dixoit: «Jesum naçarenum roy des Juïs».</l>
+                <l xml:id="d001l808" n="780">Lour le pristrent a lire maint Juïs maleïs,</l>
+                <l xml:id="d001l809" n="781">Und ceus pontifices, de maofer tous espris,</l>
+                <l xml:id="d001l810" n="782">Distrent contre Pilat: «Ne scrivre, bieus amis,</l>
+                <l xml:id="d001l811" n="783">Roy des Juïs cestu, mes scrives che en siens dis</l>
+                <l xml:id="d001l812" n="784">Roy des Juïs se dist». E Pilat sens repris</l>
+                <l xml:id="d001l813" n="785">Dist: «Ce ch'ay scrit, scrit est». Lour nen fu plus requis.</l>
+                <l xml:id="d001l814" n="786">Avec Jesu furent dous lairons crucufis:</l>
+                <l xml:id="d001l815" n="787">L'un Dimas, l'autre Gestas furent par nom geïs.</l>
+                <l xml:id="d001l816" n="788">Dimas fu daou lez detre de Jesu par despris,</l>
+                <l xml:id="d001l817" n="789">E Gestas daou senetre, ambdous en crois aflis.</l>
+                <l xml:id="d001l818" n="790">E Jesus fu en mi d'eus. E lour fu aemplis</l>
+                <l xml:id="d001l819" n="791">Le dit de la Scriture, che dist dou temps antis:</l>
+                <l xml:id="d001l820" n="792">«Et reputatus est cum iniquis ceitis».</l>
+                <l xml:id="d001l821" n="793">Le pouple de la ville fesoit grand gaberis</l>
+                <l xml:id="d001l822" n="794">De Jesu e da maint fu blastemé e schernis,</l>
+                <l xml:id="d001l823" n="795">Crolant lour ciés, diant: «Và, maovés, che diis</l>
+                <l xml:id="d001l824" n="796">Che le temple de Dieu en un jour desferis,</l>
+                <l xml:id="d001l825" n="797">Aou tierç seroit par toy redifié e complis.</l>
+                <l xml:id="d001l826" n="798">Or saove toy miesme, se fil de Dieu tu is,</l>
+                <l xml:id="d001l827" n="799">E desend de la crois, se tu en eis poestis».</l>
+                <l xml:id="d001l828" n="800">Princes e sacerdous e scrivens Deu nemis</l>
+                <l xml:id="d001l829" n="801">Disoient: «Cestu saove li autres dou païs</l>
+                <l xml:id="d001l830" n="802">E soy ne puet saover; mes se Crist, fil Dieu vis,</l>
+                <l xml:id="d001l831" n="803">Il est, de crois descende e nous grans e petis</l>
+                <l xml:id="d001l832" n="804">Creirons tretuit en lu». Ancour fu il plus deris</l>
+                <l xml:id="d001l833" n="805">Daou lairon da senetre e blastemé e laydis,</l>
+                <l xml:id="d001l834" n="806">Diant: «Se tu eis Crist fil Dieu, cum te feïs,</l>
+                <l xml:id="d001l835" n="807">Si saove toy e nous, qe somes mal bailis».</l>
+                <l xml:id="d001l836" n="808">Alour l'autre layron oit forment cil repris,</l>
+                <l xml:id="d001l837" n="809">E dist: «Hei, maovés home!, qe est ce qe tu dis?</l>
+                <l xml:id="d001l838" n="810">Tu n'ais timor de Dieu, ch'eis en danacion pris?</l>
+                <l xml:id="d001l839" n="811">Nous somes ci par droit, de ce che avons meris,</l>
+                <l xml:id="d001l840" n="812">Mes cist ne mesfist onque a jounes ne a floris».</l>
+                <l xml:id="d001l841" n="813">Pues dist enver Jesu, ch'estoit mout afeblis:</l>
+                <l xml:id="d001l842" n="814">«Remembre toy de moy, biaus sire segnoris,</l>
+                <l xml:id="d001l843" n="815">Quand serais en tuen regne». Lour oit Jesu guencis</l>
+                <l xml:id="d001l844" n="816">Siens yeus encontre lu, si li dist de cuer pis:</l>
+                <l xml:id="d001l845" n="817">«En veritié te di, si en soies cert e fis,</l>
+                <l xml:id="d001l846" n="818">Che tu seras ancui ou moi en paradis».</l>
+                <l xml:id="d001l847" n="819">Davant la crois estoit la Verçen genetris</l>
+                <l xml:id="d001l848" n="820">E ses serours ausi tristes des cuers pensis</l>
+                <l xml:id="d001l849" n="821">E Marie Madelaine, cui Dieu fist tant servis.</l>
+                <l xml:id="d001l850" n="822">Long d'iluec furent maintes dames de cuers gentis,</l>
+                <l xml:id="d001l851" n="823">De Galilee venues, feisant grand ploreïs</l>
+                <l xml:id="d001l852" n="824">Pour Jesu, mes sour toutes pluroit la mer suen fis.</l>
+                <lb/>
+                <p xml:id="d001l853" style="font-weight:bold" n="">XXIX</p>
+                <lb/>
+                <l xml:id="d001l854" n="825">Quand la Verçne veoit suen fil en tiel martir,</l>
+                <l xml:id="d001l855" n="826">Par suen gre seroit morte, mes ne pooit morir.</l>
+                <l xml:id="d001l856" n="827">E Marie Cleophé fesoit plaint e suspir,</l>
+                <l xml:id="d001l857" n="828">E Marie Salomé ne s'en pooit tenir</l>
+                <l xml:id="d001l858" n="829">Ne Marie Madelaine, che je ne doi teisir.</l>
+                <l xml:id="d001l859" n="830">La Verzne, remirant suen fil, si prist a dir:</l>
+                <l xml:id="d001l860" n="831">«Ay, mien sir, piere e fil! Com te voie languir!</l>
+                <l xml:id="d001l861" n="832">Com abandones tu ta mere aou defenir!</l>
+                <l xml:id="d001l862" n="833">Comant me leises tu en les mains remanir</l>
+                <l xml:id="d001l863" n="834">De ces traitours Juÿs, plus faus che ciens ne tir!</l>
+                <l xml:id="d001l864" n="835">Ay, mien douz piere e fil! En(n) don te veul querir</l>
+                <l xml:id="d001l865" n="836">Che tu avech toy me meines, s'il te vient a pleisir.</l>
+                <l xml:id="d001l866" n="837">Ne abandonier ta mere! Com me poes tu gerpir?</l>
+                <l xml:id="d001l867" n="838">Porte l'arme avec toy, car je en ay grand dexir».</l>
+                <l xml:id="d001l868" n="839">Pues ver la Madelaine prist suen cief a guencir,</l>
+                <l xml:id="d001l869" n="840">Diant: «Serour, esgarde que paine stuet soufrir</l>
+                <l xml:id="d001l870" n="841">Le tuen metre, mien fil! Com porons garentir</l>
+                <l xml:id="d001l871" n="842">En cist mond toy ne moy, veant lu departir?».</l>
+                <l xml:id="d001l872" n="843">Alour tant tendremant la abraçoit, che gemir</l>
+                <l xml:id="d001l873" n="844">E plurier fesoit ceus che la pooient zausir.</l>
+                <l xml:id="d001l874" n="845">Pues a Marie Cleophé se prist a revetir,</l>
+                <l xml:id="d001l875" n="846">Diant: «Douce serour, par choi ont feit perir</l>
+                <l xml:id="d001l876" n="847">Cestour le mien douz fil, mien tresour, mien remir?</l>
+                <l xml:id="d001l877" n="848">Que fausitié a il feite? Car nul ne seit geïr</l>
+                <l xml:id="d001l878" n="849">Par coy cestour le faicent tourmentier ne oucir».</l>
+                <l xml:id="d001l879" n="850">Tant fesoit grand lament e grand duel sens mentir,</l>
+                <l xml:id="d001l880" n="851">Ch'il ne i fu tant dur cuer, tant fier ne plain d'aïr,</l>
+                <l xml:id="d001l881" n="852">Cui ne venist pietié a cil lament oïr.</l>
+                <l xml:id="d001l882" n="853">Maintes fois la seroit ceüe con despleisir</l>
+                <l xml:id="d001l883" n="854">Se seint Johans ne fust esté aou sostenir,</l>
+                <l xml:id="d001l884" n="855">E mout la confortoit par suen duel esclarir;</l>
+                <l xml:id="d001l885" n="856">Mes confort ne valoit veant suen fil transir.</l>
+                <l xml:id="d001l886" n="857">Jesu Crist la esgarda quand la vit tant aflir</l>
+                <l xml:id="d001l887" n="858">E Johans ensemant. Lour dist Jesu nous sir:</l>
+                <l xml:id="d001l888" n="859">«Fame, cist soit tuen fil». E pues sens retenir</l>
+                <l xml:id="d001l889" n="860">Dist a Johans: «Ta mere soit ceste sens falir».</l>
+                <l xml:id="d001l890" n="861">Alour Johans la prist com mere a recoilir:</l>
+                <l xml:id="d001l891" n="862">Andous estoient verznes e si vous puis plevir</l>
+                <l xml:id="d001l892" n="863">Che verznes furent sempre ce ne puet nul desdir ,</l>
+                <l xml:id="d001l893" n="864">Ond bien se penerent de l'un l'autre servir.</l>
+                <lb/>
+                <p xml:id="d001l894" style="font-weight:bold" n="">XXX</p>
+                <lb/>
+                <l xml:id="d001l895" n="865">Quand Yesu oit Johans pour fil leisié a sa mere,</l>
+                <l xml:id="d001l896" n="866">Il senti consumé en soi ceschun afere.</l>
+                <l xml:id="d001l897" n="867">Après par consumier la Scriture primiere,</l>
+                <l xml:id="d001l898" n="868">Il dist lour: «Sicio»; e la gient aversiere</l>
+                <l xml:id="d001l899" n="869">Une spongne mistrent en une caneviere</l>
+                <l xml:id="d001l900" n="870">Plaine d'aixi e d'isop e de fiel mout amere.</l>
+                <l xml:id="d001l901" n="871">A la boce Jesu, le fil aou souvrein pere,</l>
+                <l xml:id="d001l902" n="872">La mistrent mantinant cele giant fause e fiere.</l>
+                <l xml:id="d001l903" n="873">Quand il senti le gust, il treit suen cief ariere</l>
+                <l xml:id="d001l904" n="874">E nen voust boire pont, mes con mout omble ciere</l>
+                <l xml:id="d001l905" n="875">Dist: «Consumatum est». Lour perdi sa lumiere</l>
+                <l xml:id="d001l906" n="876">Le soulel aou midi e ne moutra lux cliere</l>
+                <l xml:id="d001l907" n="877">Jusque a ore de none. Lour Yesu a sa mainere,</l>
+                <l xml:id="d001l908" n="878">Oiant tous, requeri suen pier a vois autiere.</l>
+                <lb/>
+                <p xml:id="d001l909" style="font-weight:bold" n="">XXXI</p>
+                <lb/>
+                <l xml:id="d001l910" n="879">Quand fu ore de none, Jesu pendant en crous</l>
+                <l xml:id="d001l911" n="880">Clama suen piere Dieu, diant a aute vous:</l>
+                <l xml:id="d001l912" n="881">«Heloy, heloy lama çabatani»; e ces mous</l>
+                <l xml:id="d001l913" n="882">Sunt a dir en françois, com le latin dit nous:</l>
+                <l xml:id="d001l914" n="883">«Dieu mien, Dieu mien, par choy relenqui m'avés vous?».</l>
+                <l xml:id="d001l915" n="884">Alour distrent entr'eus ceus culvers enoious:</l>
+                <l xml:id="d001l916" n="885">«Cestu apelle Helie; or esgardons tretous</l>
+                <l xml:id="d001l917" n="886">Se Helye vindra a aidier cist home angustious».</l>
+                <l xml:id="d001l918" n="887">Lour dist Jesu a suen pere: «Bieus pere glorious,</l>
+                <l xml:id="d001l919" n="888">En tes mains recomand mien spirit, sire dous».</l>
+                <l xml:id="d001l920" n="889">Pues enclina le chief e, sens autre respous,</l>
+                <l xml:id="d001l921" n="890">Se parti le spirit daou cors beneürous.</l>
+                <l xml:id="d001l922" n="891">Lour la voute dou temple, desour jusque desous,</l>
+                <l xml:id="d001l923" n="892">Se brisa mantinant e departi en dous,</l>
+                <l xml:id="d001l924" n="893">Si se fendrent les pieres e vindrent terremous;</l>
+                <l xml:id="d001l925" n="894">Ancour li monimens se ovrirent da lour sous</l>
+                <l xml:id="d001l926" n="895">E resusitarent pluxors mors blans e rous.</l>
+                <l xml:id="d001l927" n="896">Sour ce avoit dit Moÿses, che mout fu saçe e prous:</l>
+                <l xml:id="d001l928" n="897">«Et tua vita erit pendens ante oculos tuos,</l>
+                <l xml:id="d001l929" n="898">Et non credes tue vite, set timebis cil cous».</l>
+                <l xml:id="d001l930" n="899">E Danïel prophete, che fu sciencïous,</l>
+                <l xml:id="d001l931" n="900">Dist: «Occidetur Cristus et eis non erat lous».</l>
+                <l xml:id="d001l932" n="901">Quand [le] Centurion vit ceus signes merveilous,</l>
+                <l xml:id="d001l933" n="902">E ceus che ou lu estoient, mout furent dubitous</l>
+                <l xml:id="d001l934" n="903">E disoient entr'eus com homes spaürous:</l>
+                <l xml:id="d001l935" n="904">«Cist fu veraiemant fil dou Dieu poerous».</l>
+                <l xml:id="d001l936" n="905">Lour la prese dou pople ch'en paleis, non escous,</l>
+                <l xml:id="d001l937" n="906">Orent veüs ceus signes mout furent dolorous</l>
+                <l xml:id="d001l938" n="907">E tournerent arier com homes coroçous,</l>
+                <l xml:id="d001l939" n="908">Fierant soy pour li pis, clamant soy maleürous.</l>
+                <lb/>
+                <p xml:id="d001l940" style="font-weight:bold" n="">XXXII</p>
+                <lb/>
+                <l xml:id="d001l941" n="909">Fierant soy e batant celle giant maleüree</l>
+                <l xml:id="d001l942" n="910">Retourna dens la ville coroçouse e iree,</l>
+                <l xml:id="d001l943" n="911">Pour celle grand mervoille che fu a lour demotree.</l>
+                <l xml:id="d001l944" n="912">Long da la crois remist de dames grand aunee</l>
+                <l xml:id="d001l945" n="913">Che sivi avoient Jesu de Galilee.</l>
+                <l xml:id="d001l946" n="914">Lour vindrent a Pilat des Juïs grand masee,</l>
+                <l xml:id="d001l947" n="915">Priant lu e diant ch'il, avant la vespree,</l>
+                <l xml:id="d001l948" n="916">Feïst sevelir ceus che orent paine pourtee</l>
+                <l xml:id="d001l949" n="917">Le jour desour les crois, se lour vie fust finee;</l>
+                <l xml:id="d001l950" n="918">E se mors ne fusent ancour, sens demoree</l>
+                <l xml:id="d001l951" n="919">Si li fusent les jambes brixees e mort donee,</l>
+                <l xml:id="d001l952" n="920">Pour ce che en samedi ce est couse ordenee</l>
+                <l xml:id="d001l953" n="921">Ne doit en la crois pendre nulle persone nee,</l>
+                <l xml:id="d001l954" n="922">Ne anc etre en tiel jour sevelie ne enterree.</l>
+                <l xml:id="d001l955" n="923">E Pilat respondi: «Feites cum vous agree».</l>
+                <l xml:id="d001l956" n="924">Alour li envoierent civaliers de soudee</l>
+                <l xml:id="d001l957" n="925">Che as lairons brixerent les yambes sens tardee.</l>
+                <l xml:id="d001l958" n="926">Mes a Jesu ne fu nulle jambe brixee,</l>
+                <l xml:id="d001l959" n="927">Pour ce che ja li estoit l'arme daou cors sevree.</l>
+                <l xml:id="d001l960" n="928">Mes un des civaliers, che avoit la lux bramee,</l>
+                <l xml:id="d001l961" n="929">Longin estoit nomé en celle lengue ebree</l>
+                <l xml:id="d001l962" n="930">Cil feri Jesu Crist d'une lançe aceree,</l>
+                <l xml:id="d001l963" n="931">Tout droit da le lez detre, par tiele destinee</l>
+                <l xml:id="d001l964" n="932">Che sang e eve en isci: e lour fu devalee</l>
+                <l xml:id="d001l965" n="933">Jus aval pour la lance, tant ch'elle fu arivee</l>
+                <l xml:id="d001l966" n="934">A la main de Longin. Quand cil senti moilee</l>
+                <l xml:id="d001l967" n="935">Sa main dou sang Jesu, ch'avoit sa main tocee,</l>
+                <l xml:id="d001l968" n="936">Il s'en toca siens yeus; lour li fu esclaree</l>
+                <l xml:id="d001l969" n="937">Dedens siens yeus la lux, ch'estoit davant torblee.</l>
+                <l xml:id="d001l970" n="938">Quand cil vit la mervoille che Dieu avoit motree</l>
+                <l xml:id="d001l971" n="939">Por lu, e la grand grace ch'il li avoit donee,</l>
+                <l xml:id="d001l972" n="940">Tantost se repenti de sa male pensee</l>
+                <l xml:id="d001l973" n="941">E queri perdonançe e sa coupe oit clamee.</l>
+                <l xml:id="d001l974" n="942">E Dieu li perdona, che perdon ne devee</l>
+                <l xml:id="d001l975" n="943">A persoune dou mond che a lui se soit tournee.</l>
+                <lb/>
+                <p xml:id="d001l976" style="font-weight:bold" n="">XXXIII</p>
+                <lb/>
+                <l xml:id="d001l977" n="944">Apres ce vint Josep, noble hon non borçois,</l>
+                <l xml:id="d001l978" n="945">Nez de Baramatie e disciple en secrois</l>
+                <l xml:id="d001l979" n="946">Estoit de Jesu Crist, mes siens feis fesoit chois</l>
+                <l xml:id="d001l980" n="947">Pour peour des Juïs ne·ou tenés a gabois!</l>
+                <l xml:id="d001l981" n="948">Celu queri a Pilat cum preudome et cortois</l>
+                <l xml:id="d001l982" n="949">Le cors de Jesu Crist; e Pilat celle fois</l>
+                <l xml:id="d001l983" n="950">Se mervoilla comant Yesu le gloriois</l>
+                <l xml:id="d001l984" n="951">Estoit si tost pasé de cist mondein destrois.</l>
+                <l xml:id="d001l985" n="952">Mes da centurion en fu acerté ainçois</l>
+                <l xml:id="d001l986" n="953">Ch'il contentast Josep; mes pues cum je conois</l>
+                <l xml:id="d001l987" n="954">Il li otroia le don e Josep sens folois</l>
+                <l xml:id="d001l988" n="955">Entre lu e Nicodemus che là avoit lour endrois</l>
+                <l xml:id="d001l989" n="956">A portié pour Jesu un onguent preciois</l>
+                <l xml:id="d001l990" n="957">De mire e d'aloé, bien cent livres de pois.</l>
+                <l xml:id="d001l991" n="958">Si hosterent Jesu tantost jus de la crois,</l>
+                <l xml:id="d001l992" n="959">Pues le voluperent, sens fer ne cris ne nois,</l>
+                <l xml:id="d001l993" n="960">En drais mout odorous e en cendaus cliers e frois,</l>
+                <l xml:id="d001l994" n="961">Con se sepeloient celour de celle lois,</l>
+                <l xml:id="d001l995" n="962">E pues le porterent en un ort demanois.</l>
+                <l xml:id="d001l996" n="963">En un moniment nuef, ou meis ne jour ne mois</l>
+                <l xml:id="d001l997" n="964">N'estoit mis creature dou mond bien le saçois</l>
+                <l xml:id="d001l998" n="965">Mistrent le cors Jesu, le fil dou roy des rois.</l>
+                <l xml:id="d001l999" n="966">E quand l'orent là enclus, ne feirent long repois,</l>
+                <l xml:id="d001l1000" n="967">Ains le tournerent arier dolans e plains de esfrois.</l>
+                <lb/>
+                <p xml:id="d001l1001" style="font-weight:bold" n="">XXXIV</p>
+                <lb/>
+                <l xml:id="d001l1002" n="968">Pues che en moniment fu enclus le fil de Dieu,</l>
+                <l xml:id="d001l1003" n="969">A Pilat vint cil pople judeu e farisieu,</l>
+                <l xml:id="d001l1004" n="970">Diant: «Recourdés somes che cist faus galilieu;</l>
+                <l xml:id="d001l1005" n="971">Vivant en cist mond, dist a cil pople judieu</l>
+                <l xml:id="d001l1006" n="972">Ch'il resusciteroit aou tierz jour sens desreu.</l>
+                <l xml:id="d001l1007" n="973">Or fa le moniment gardier par notre preu,</l>
+                <l xml:id="d001l1008" n="974">Che auchun des siens disciples ne l'amblast de cist lieu,</l>
+                <l xml:id="d001l1009" n="975">Pour dir pues a la giant ch'il fust tant saint e preu</l>
+                <l xml:id="d001l1010" n="976">Ch'il fust resuscitié davant le pople ebreu,</l>
+                <l xml:id="d001l1011" n="977">Car trou pejour herour seroit e pejour heu</l>
+                <l xml:id="d001l1012" n="978">Cil darier che 'ou primier, ne·ou tenés pas a yeu».</l>
+                <l xml:id="d001l1013" n="979">«Seignour», ce dist Pilat, «ce ne desdirai jeu:</l>
+                <l xml:id="d001l1014" n="980">A vous voloir le feites gardier, je ne·l vous vieu».</l>
+                <l xml:id="d001l1015" n="981">Quand celour l'entendrent en terme cort e breu</l>
+                <l xml:id="d001l1016" n="982">Si li mistrent les gardes ja ne lour scembla grieu</l>
+                <l xml:id="d001l1017" n="983">Mes ja ne vault lour garde, plu cum le foin au feu.</l>
+                <lb/>
+                <p xml:id="d001l1018" style="font-weight:bold" n="">XXXV</p>
+                <lb/>
+                <l xml:id="d001l1019" n="984">Seignour, vous che avés oïe e entendue</l>
+                <l xml:id="d001l1020" n="985">La pascion de Dieu, che vous est menteüe,</l>
+                <l xml:id="d001l1021" n="986">Damnidieu vous en rande merit e grand aiue,</l>
+                <l xml:id="d001l1022" n="987">E mand peis entre nous e confonde e destrue</l>
+                <l xml:id="d001l1023" n="988">La gere e la discorde e en la fin nous condue</l>
+                <l xml:id="d001l1024" n="989">En suen saint paradis de la gloire asolue.</l>
+                <l xml:id="d001l1025" n="990">Jusquement a cist pont ceste çouse a esponue</l>
+                <l xml:id="d001l1026" n="991">Nicolais Veronois e pour rime estendue.</l>
+                <l xml:id="d001l1027" n="992">Mes de cist feit n'est plus de luy rime veüe:</l>
+                <l xml:id="d001l1028" n="993">Pour ce plus nen dirai, fors che a la departue.</l>
+                <l xml:id="d001l1029" n="994">Jesu vous beneïe, che en bien fer nous argue.</l>
+                <p xml:id="d001l1030" n="">Amen.</p>
+            </div1>
+        </body>
+        <back>
+            <div type="edizione">
+                Manoscritto: Aix-en-Provence, Bibliothèque Méjanes, 1479 (VER).
+            </div>
+            <div type="criteri di edizione"><p>&lt;i&gt;Abbreviazioni&lt;/i&gt;. Nell'edizione cartacea le abbreviazioni sciolte sono stampate in caratteri
+                corsivi, ma questa informazione non è stata conservata nell'edizione digitale.&lt;br/&gt;&lt;i&gt;Parentesi&lt;/i&gt;.
+                Tra parentesi tonde sono messe le espunzioni, tra parentesi quadre le integrazioni.&lt;br/&gt;&lt;i&gt;Lettere&lt;/i&gt;.
+                È stato regolarizzato l'uso di i e j (= i), u e v (= u) dei manoscritti. È mantenuta invece la distinzione
+                di grafia i, y; qu-, q-; gu-, g- dei manoscritti.&lt;br/&gt;&lt;i&gt;Accenti&lt;/i&gt;. L'accento acuto compare
+                sulla e tonica finale di parola o davanti a s; manca nelle terminazioni -&lt;i&gt;ee&lt;/i&gt;, -&lt;i&gt;ees&lt;/i&gt;,
+                -&lt;i&gt;ez&lt;/i&gt;. L'accento è stato inoltre introdotto nei monosillabi per distinguere forme uguali
+                con significato diverso (&lt;i&gt;là&lt;/i&gt; avverbio, &lt;i&gt;la&lt;/i&gt; articolo).&lt;br/&gt;&lt;i&gt;Apostrofo&lt;/i&gt;.
+                È stato introdotto secondo l'uso moderno.&lt;br/&gt;&lt;i&gt;Dieresi&lt;/i&gt;. Il segno di dieresi è stato
+                usato su i(y), u per ragioni inerenti alla metrica.&lt;br/&gt;&lt;i&gt;Punto in alto&lt;/i&gt;. Un punto in
+                alto è introdotto per dividere il pronome enclitico dalla parola precedente, cui è legato.&lt;br/&gt;&lt;i&gt;Interpunzione&lt;/i&gt;.
+                È stata introdotto secondo i criteri moderni.&lt;br/&gt;&lt;i&gt;Maiuscole&lt;/i&gt;. Sono state lasciate le
+                maiuscole iniziali di ogni verso. È stata restituita la maiuscola per i nomi propri (ma &lt;i&gt;saint
+                Donis&lt;/i&gt;, quando si tratti del santo, &lt;i&gt;Saint Donis&lt;/i&gt;, quando si tratti della località).&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
+            </p></div>
+        </back>
+    </text>
+</TEI>

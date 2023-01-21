@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="ATTOSOTTOMISSIONE-attoSottomissione">Atto di sottomissione a Federico II</title>
+                <title type="alt">Atto di sottomissione</title>
+                <title type="short">Atto di sottomissione a Federico II</title>
+                <title type="sub">1241, Acri</title>
+                <author xml:id="ATTOSOTTOMISSIONE" n="018.000">
+                    <persName type="main"></persName>
+                    <persName type="short"></persName>
+                </author>
+                <principal>Serena Modena</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata e marcatura digitale</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Reinhold Röhricht, <emph style="font-style:italic">Acte de soumission des barons du Royaume de Jérusalem à Frédéric II</emph>, in «Archives de l’Orient Latin», 1, 1881, pp. 402-403; ristampa anastatica, Bruxelles, 1964.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t4"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <p xml:id="d001l1" n="1" rend="unnumbered"><lb/>{{Acte de soumission des barons du Royaume de Jérusalem à Frédéric II (Acri, 7
+                giugno 1241)}}<lb/> <lb/>{{Londra, British Museum, Cott., Vesp. F. 1, f. 114}} <lb/></p>
+                <lb/>
+                <p xml:id="d001l2" n="1" rend="numbered">Ceste est la forme de la pais que nos, barons et chevalers et citeens del reaume de
+                Jerusalem, et nos, Balien d'Ybelin, seignor de Baruth, et nos freres, et ie, Iohan d'Ybelin,
+                demandons et requerons de nostre seignor l'emperor.</p>
+                <lb/>
+                <p xml:id="d001l3" n="2" rend="numbered">Primerement qu'il nos rende sa grace et nos pardoinst toz les mesfaiz des contens par
+                achaison de la descorde qui a esté en la terre jusque au ior de oui; et qu'il nos baut
+                à bail mon sire Simon de Montfort, conte de Leicestre, jusque à l'age de nostre seignor
+                le rei Conrard, et oncore jusque à tant que nostre seignor le rei vengne en la terre,
+                ou qu'il i enueit aucun autre de par lui qui seit au louc del deuandit Simon; et qu'il
+                seit bail de tot le reaume de Jerusalem, ausi come nostre seignor l'emperor i fuist
+                en sa propre persone; et que le deuandit mon sire Simon de Monfort jurra à garder sauuer
+                ler dreiz de l'emperere et de son fiz le rei Conrard, et toz ceaux qui en la terre sont,
+                et les alans et les uenans et les estaians, par terre et par mer, chacun à sa reisun
+                et en son dreit, et mener les par les ous et les costumes et par les assis del reaume
+                de Jerusalem.</p>
+                <p xml:id="d001l4" n="3" rend="numbered">Et nos gens de la terre, si come il est desuz motiz, lui jurrons à garder et sauuer
+                en son bailie et obeir comme au cors de l'emperor, et osterons la campane et les conseles
+                et les cheuetaines de la commune, sauf ceaux qui esteient auant que l'emperere fuist
+                seignor des païs.</p>
+                <p xml:id="d001l5" n="4" rend="numbered">Et ceste forme de pais et ceste grace nos prions et requerons à nostre seignor l'emperor
+                qu'il les seele de son seele d'or.</p>
+                <p xml:id="d001l6" n="5" rend="numbered">Et nos, Balien d'Ybelin, seignor de Baruth, et nos, Ph[ilippe] de Montfort, seignor
+                de Toron et nos Iohan d'Ybelin, sire d'Arsur, et nos Jaufrei d'Estreing, sire de Caïphas,
+                auons juré et promis sor la sainte euuangile à tenir ceste pais, et fere tenir à nos
+                poiers, et non estre à l'encontre, si tost come ele verra.</p>
+                <p xml:id="d001l7" n="6" rend="numbered">Et por ce que ces choses si come ales sont desuz escrites soient fermes et estables,
+                nos i auons penduz nos seaus.</p>
+                <lb/>
+                <p xml:id="d001l8" n="7" rend="numbered">Ce fui fait en l'an de l'incarnacion Nostre Seignor Ihu Crist, .MCCXLI. an, au .VII.
+                ior des meis de jun, en Acre.</p>
+                <lb/>
+            </div1>
+        </body>
+    </text>
+</TEI>

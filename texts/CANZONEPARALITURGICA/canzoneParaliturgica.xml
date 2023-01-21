@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="CANZONEPARALITURGICA-canzoneParaliturgica">Canzone paraliturgica in latino e franco-italiano</title>
+                <title type="short">Canzone paraliturgica in latino e franco-italiano</title>
+                <title type="sub">XV secolo, Valle d'Aosta</title>
+                <author xml:id="CANZONEPARALITURGICA" n="033.000">
+                    <persName type="main"></persName>
+                    <persName type="short"></persName>
+                </author>
+                <principal>Serena Modena</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale e messa in linea</resp>
+                    <name>Francesca Gambino</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Gianni Mombello, <emph style="font-style:italic">Considérations sur l’origine d’un genre littéraire populaire: le noël. Nouveaux documents</emph>, «Mémoires de l’Académie de Savoie», VIIe série, IX (1996), pp. 181-230; ora in <emph style="font-style:italic">Chascun homme est ung petit monde’. Études de Gianni Mombello sur les XVe et XVI siècles</emph>, a cura di Paola Cifarelli e Maria Colombo, Torino Rosenberg &amp; Sellier, 2008, pp. 65-98, a p. 81.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t5"/>
+                <keywords>
+                    <term type="form">poetry</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <l xml:id="d001l1" n="1">{{Fulget hodie}} - de l’espina la flour;</l>
+                <l xml:id="d001l2" n="2">Sol iusticie - nos a doney s’amour.</l>
+                <lb/>
+                <p xml:id="d001l3" style="font-weight:bold" n="">I</p>
+                <lb/>
+                <l xml:id="d001l4" n="3">{{Prothoplasti vicium}} – perdit l’uma[n] lignage.</l>
+                <l xml:id="d001l5" n="4">Quando pomum noxium – mangez per son folagez.</l>
+                <l xml:id="d001l6" n="5">Damna[t] pater filium – ce fut nostrez damagez!</l>
+                <l xml:id="d001l7" n="6">Celi patrie – quant perdinos l’onor.</l>
+                <p xml:id="d001l8" n="">      {{Fulget hodie}}...</p>
+                <lb/>
+                <p xml:id="d001l9" style="font-weight:bold" n="">II</p>
+                <lb/>
+                <l xml:id="d001l10" n="7">{{Videns Pater [perditum]}} – lo homez en sa figura.</l>
+                <l xml:id="d001l11" n="8">Infernorum [subxilitum] – en le peyne tan durez.</l>
+                <l xml:id="d001l12" n="9">Mi[s]it Unigenitum – a laz Virgine purez,</l>
+                <l xml:id="d001l13" n="10">Qui miserie – sanet la gran dolour.</l>
+                <p xml:id="d001l14" n="">      {{Fulget hodie}}...</p>
+                <lb/>
+                <p xml:id="d001l15" style="font-weight:bold" n="">III</p>
+                <lb/>
+                <l xml:id="d001l16" n="11">{{Sicut solis radius}} – intrez per la [verrierez],</l>
+                <l xml:id="d001l17" n="12">Sic filius Virginis – per semblaneez [manierez];</l>
+                <l xml:id="d001l18" n="13">Virgo post. Virgo prius – reman sana et intyerez.</l>
+                <l xml:id="d001l19" n="14">Pudicicie – no[n] perdyt sa valour.</l>
+                <p xml:id="d001l20" n="">      {{Fulget hodie}}...</p>
+                <lb/>
+                <p xml:id="d001l21" style="font-weight:bold" n="">IV</p>
+                <lb/>
+                <l xml:id="d001l22" n="15">{{Angelis (sic) pastoribus}} - […] gram salu [demenirent],</l>
+                <l xml:id="d001l23" n="16">Stella apparens regibus – en la driture [virel],</l>
+                <l xml:id="d001l24" n="17">Dum sacris muneribus – offiront or […] et mirr[e]</l>
+                <l xml:id="d001l25" n="18">Regi glorie - [dont] voyen la colour.</l>
+                <p xml:id="d001l26" n="">      {{Fulget hodie}}...</p>
+                <lb/>
+                <p xml:id="d001l27" style="font-weight:bold" n="">V</p>
+                <lb/>
+                <l xml:id="d001l28" n="19">{{Auro latat (sic) probitas}} – douz roy de sante glore,</l>
+                <l xml:id="d001l29" n="20">Per mirram mortalitas – qui danne Adan et Eva,</l>
+                <l xml:id="d001l30" n="21">Pro thus summa deitas – qui nos rende la vie.</l>
+                <l xml:id="d001l31" n="22">Rex monarchil (sic) – soyes nos en secors!</l>
+                <p xml:id="d001l32" n="">      {{Fulget hodie}}...</p>
+                <lb/>
+                <p xml:id="d001l33" style="font-weight:bold" n="">VI</p>
+                <lb/>
+                <l xml:id="d001l34" n="23">{{Eva, [p]lomum, vipera}} – fut de dolour fontayne,</l>
+                <l xml:id="d001l35" n="24">Sed virgo puerpera – nos delivvroyt de peyne,</l>
+                <l xml:id="d001l36" n="25">Dum lactarent ubera – la vertu [soverayne],</l>
+                <l xml:id="d001l37" n="26">Fili Marie – seyes nos en secors!</l>
+                <p xml:id="d001l38" n="">      {{Fulget hodie}}...</p>
+                <lb/>
+                <p xml:id="d001l39" style="font-weight:bold" n="">VII</p>
+                <lb/>
+                <l xml:id="d001l40" n="27">{{Ave, salus gencium}} – dulce virge Maire,</l>
+                <l xml:id="d001l41" n="28">Sola mundi gaudium – en toy le mon se fiez</l>
+                <l xml:id="d001l42" n="29">Ad celi palacium – s’yl tez pleyt tu nos [vie].</l>
+                <l xml:id="d001l43" n="30">Fili Marie – doneys nos vostra amour.</l>
+                <p xml:id="d001l44" n="">      {{Fulget hodie}}...</p>
+                <lb/>
+                <p xml:id="d001l45" style="font-weight:bold" n="">VIII</p>
+                <lb/>
+                <l xml:id="d001l46" n="31">{{Ave, inquit Gabriel,}} - douce Virgine [belle],</l>
+                <l xml:id="d001l47" n="32">Nascetur Emanuel – berez de tez mamelles.</l>
+                <l xml:id="d001l48" n="33">Per quem rex [Fanuel] – dit byen de te mamelles.</l>
+                <l xml:id="d001l49" n="34">Plena gracie, - porteres ton segniour.</l>
+                <p xml:id="d001l50" n="">      {{Fulget hodie}}...</p>
+                <lb/>
+                <p xml:id="d001l51" style="font-weight:bold" n="">IX</p>
+                <lb/>
+                <l xml:id="d001l52" n="35">{{Sine viri semine}} – neysit Dyux de sa meyrez,</l>
+                <l xml:id="d001l53" n="36">Qui in celi culmine – fut engendrey sen peyrez.</l>
+                <l xml:id="d001l54" n="37">Magi querunt lumine[m] – la verayse [luneyre];</l>
+                <l xml:id="d001l55" n="38">Lux leticie – lour apparuit ceyl jor.</l>
+                <p xml:id="d001l56" n="">      {{Fulget hodie}}...</p>
+                <lb/>
+            </div1>
+        </body>
+    </text>
+</TEI>

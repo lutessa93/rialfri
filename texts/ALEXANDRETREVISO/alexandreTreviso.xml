@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="ALEXANDRETREVISO-alexandreTreviso">Roman d'Alexandre (Treviso)</title>
+                <title type="alt">Alexandre (Roman de)</title>
+                <title type="short">Roman d'Alexandre (Treviso)</title>
+                <title type="sub">frammento di Treviso</title>
+                <author xml:id="ALEXANDRETREVISO" n="007.000">
+                    <persName type="main"></persName>
+                    <persName type="short"></persName>
+                </author>
+                <principal>Francesca Gambino</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata e marcatura digitale</resp>
+                    <name>Francesca Gambino</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Gianfelice Peron, <emph style="font-style:italic">Il frammento di Treviso del “Roman d’Alexandre”</emph>, in <emph style="font-style:italic">"Le romand’Alexandre"</emph>.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t1"/>
+                <keywords>
+                    <term type="form">poetry</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <p xml:id="d001l1" style="font-weight:bold" n="">I</p>
+                <lb/>
+                <lb/>
+                <l xml:id="d001l2" n="1">Euminiadus esgarde vers li poi d’Or[imo]nde</l>
+                <l xml:id="d001l3" n="2">e vit la gent de Gadras, dont tot li vaus seronde:</l>
+                <l xml:id="d001l4" n="3">n’a mie por grant vent in aut mier tant honde</l>
+                <l xml:id="d001l5" n="4">cum cil vinent espois la vallea porfonde;</l>
+                <l xml:id="d001l6" n="5">autresin les acingient cun villans fait sa fonde,</l>
+                <l xml:id="d001l7" n="6">toç les voillent enclure deu tot alla reonde.</l>
+                <l xml:id="d001l8" n="7">pou gent a por combatre ni acors qui responde</l>
+                <l xml:id="d001l9" n="8">ni paor di mort n’i a cil qui s’asconde,</l>
+                <l xml:id="d001l10" n="9">mes dans elç de son chief ne piet estier non [fo]nde.</l>
+                <l xml:id="d001l11" n="10">Euminiadus apelle Lucanors de Normonde:</l>
+                <l xml:id="d001l12" n="11">«Biaus amis, ia aes tu destriers isnel plus de ronde:</l>
+                <l xml:id="d001l13" n="12">car va di Alessandre se tost ne nos abonde,</l>
+                <l xml:id="d001l14" n="13">uy perdra la gent qu’a plus amé en cist monde».</l>
+                <l xml:id="d001l15" n="14">Qua[n]t Lucanors l’intent ne puet estier non gronde;</l>
+                <l xml:id="d001l16" n="15">ne laisse porant qu’il ne li responde:</l>
+                <l xml:id="d001l17" n="16">«Nen feray, dist il, por ceste teste blonde</l>
+                <l xml:id="d001l18" n="17">aenç i para mon escuç este tarçe reonde</l>
+                <l xml:id="d001l19" n="18">et aura detrençé d’ençor la mastre sponde,</l>
+                <l xml:id="d001l20" n="19">nen istray du canp se mant de lor n’i tonde».</l>
+                <lb/>
+            </div1>
+        </body>
+        <back>
+            <div type="edizione">
+                Riproduzione del manoscritto, Venezia, Biblioteca Museo Correr, Correr 1493, Tricesimo (Udine), Roberto Vattori, 1998, 89-94.
+            </div>
+            <div type="edizione">
+                Frammento di una lassa del &lt;i&gt;Roman d’Alexandre&lt;/i&gt;, trascritta nel &lt;i&gt;Quaternus possessionum Comunis Tarvisii&lt;/i&gt; di Paolo Marocco, ufficiale del Comune trevigiano, conservato nell’Archivio Capitolare di Treviso (Scatola 20), c. 34&lt;i&gt;v&lt;/i&gt;.
+            </div>
+        </back>
+    </text>
+</TEI>

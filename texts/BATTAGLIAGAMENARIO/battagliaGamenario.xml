@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="BATTAGLIAGAMENARIO-battagliaGamenario">Bataille de Gamenario</title>
+                <title type="alt">Gamenario (Bataille de)</title>
+                <title type="short">Bataille de Gamenario</title>
+                <title type="sub">seconda metà XIV sec., Piemonte</title>
+                <author xml:id="BATTAGLIAGAMENARIO" n="090.000">
+                    <persName type="main"></persName>
+                    <persName type="short"></persName>
+                </author>
+                <principal>Serena Modena</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata e marcatura digitale</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Giuseppe Cerrato, <emph style="font-style:italic">La Battaglia di Gamenario (1345). Testo antico francese da un codice ms. della Cronica del Monferrato di Benvenuto San Giorgio nell’Archivio Generale di Stato di Torino</emph>, con illustrazioni e schiarimenti, «Atti della Società Ligure di Storia Patria», XVII, fasc. I (1885), pp. 381-542.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t3"/>
+                <keywords>
+                    <term type="form">poetry</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <l xml:id="d001l1" n="1">Sus le doulx temps, que reverdissent</l>
+                <l xml:id="d001l2" n="2">toutes choses et bois fueillissent</l>
+                <l xml:id="d001l3" n="3">et oyseaulx a chanter se mettent</l>
+                <l xml:id="d001l4" n="4">sur les arbres, qui leurs fleurs iettent</l>
+                <l xml:id="d001l5" n="5">en l’annee de deux foiz vint</l>
+                <l xml:id="d001l6" n="6">mil et trois cens et cincq advint</l>
+                <l xml:id="d001l7" n="7">qu’en Sicille ot une royne</l>
+                <l xml:id="d001l8" n="8">qui haioit la part Gibelline</l>
+                <l xml:id="d001l9" n="9">et avoit Guelfez en chierté.</l>
+                <l xml:id="d001l10" n="10">La royne sceut la fierté</l>
+                <l xml:id="d001l11" n="11">d’un chevalier, qui Renforsa</l>
+                <l xml:id="d001l12" n="12">D’Ago eut nom, qui s’enforsa</l>
+                <l xml:id="d001l13" n="13">fourment tant comme il fut en vie</l>
+                <l xml:id="d001l14" n="14">de poursuivir chevalerie.</l>
+                <l xml:id="d001l15" n="15">Celle royne, quei e diz,</l>
+                <l xml:id="d001l16" n="16">manda le chievalier gentilz</l>
+                <l xml:id="d001l17" n="17">qu’il lui vouilsist faire ung servise,</l>
+                <l xml:id="d001l18" n="18">et lui va dire par tel guise:</l>
+                <l xml:id="d001l19" n="19">«Renforsa D’Ago, entendés</l>
+                <l xml:id="d001l20" n="20">vous, qui de moy estes mandez,</l>
+                <l xml:id="d001l21" n="21">vous en irez en Lombardye;</l>
+                <l xml:id="d001l22" n="22">partie Guelfe sy me prye</l>
+                <l xml:id="d001l23" n="23">que leur envoye ung seneschault.</l>
+                <l xml:id="d001l24" n="24">Desormais fera bel et chault</l>
+                <l xml:id="d001l25" n="25">pour chevauchier et tenir ost,</l>
+                <l xml:id="d001l26" n="26">qui face aux ennemiz rihot;</l>
+                <l xml:id="d001l27" n="27">especïalment ceulx de Quier</l>
+                <l xml:id="d001l28" n="28">aydiez les, ie vous en requier,</l>
+                <l xml:id="d001l29" n="29">car ilz ont a fors gens a faire.</l>
+                <l xml:id="d001l30" n="30">Allez et pensez du bien faire</l>
+                <l xml:id="d001l31" n="31">et a fin qu’il vous en souviengne,</l>
+                <l xml:id="d001l32" n="32">tenez, veez vous icy l’enseigne</l>
+                <l xml:id="d001l33" n="33">de noz armes, que porterez,</l>
+                <l xml:id="d001l34" n="34">des quelles plus prisié serez.</l>
+                <l xml:id="d001l35" n="35">En celles armes difference</l>
+                <l xml:id="d001l36" n="36">ny a nesquen l’escu de France</l>
+                <l xml:id="d001l37" n="37">qu’un rastel rouge seulement</l>
+                <l xml:id="d001l38" n="38">pour faire le dessevrement.</l>
+                <l xml:id="d001l39" n="39">Cestes armes conforteront</l>
+                <l xml:id="d001l40" n="40">vous armes, qui moult riches sont,</l>
+                <l xml:id="d001l41" n="41">ung loup d’asur ou champ d’or,</l>
+                <l xml:id="d001l42" n="42">que vous portez sur vostre corp;</l>
+                <l xml:id="d001l43" n="43">et si vueil que vous en ma terre</l>
+                <l xml:id="d001l44" n="44">eslisiez gens soubtilz de guerre,</l>
+                <l xml:id="d001l45" n="45">hardiz et preux pour traveillier</l>
+                <l xml:id="d001l46" n="46">et qui vous saichent conseillier».</l>
+                <lb/>
+                <l xml:id="d001l47" n="47">Renforsa D’Ago, qui entend</l>
+                <l xml:id="d001l48" n="48">ce a quoy la royne tend,</l>
+                <l xml:id="d001l49" n="49">si lui respondy voulentier:</l>
+                <l xml:id="d001l50" n="50">«Je me mettray, dame, ou sentier,</l>
+                <l xml:id="d001l51" n="51">Pour faire ce qu’a vous peult plaire</l>
+                <l xml:id="d001l52" n="52">et a vous ennemiz desplaire.</l>
+                <l xml:id="d001l53" n="53">Je m’en vois aydier ceulx de Quier»,</l>
+                <l xml:id="d001l54" n="54">dit le seigneur de Folquarquier,</l>
+                <l xml:id="d001l55" n="55">qui Renforsa D’Ago eut nom,</l>
+                <l xml:id="d001l56" n="56">hardiz et preux de grant renom.</l>
+                <l xml:id="d001l57" n="57">«A Dieu» commanda la royne.</l>
+                <l xml:id="d001l58" n="58">Renforsa D’Ago s’enchemine.</l>
+                <l xml:id="d001l59" n="59">Et bien saichiez qu’avecq lui maine</l>
+                <l xml:id="d001l60" n="60">Nobles gens et de bon convoine.</l>
+                <l xml:id="d001l61" n="61">Entre eux n’attargierent mie,</l>
+                <l xml:id="d001l62" n="62">tant qu’ilz vindrent en Lombardie.</l>
+                <l xml:id="d001l63" n="63">Renforsa vid pour le meilleur</l>
+                <l xml:id="d001l64" n="64">qu’il lui failloit ung conseilleur</l>
+                <l xml:id="d001l65" n="65">de science et de bon estat:</l>
+                <l xml:id="d001l66" n="66">il esleut monseigneur Bestat</l>
+                <l xml:id="d001l67" n="67">pour le plus saige et scïencieux</l>
+                <l xml:id="d001l68" n="68">de tous, qui lors feurent entre eux.</l>
+                <l xml:id="d001l69" n="69">Illecq eut des preux et des fiers:</l>
+                <l xml:id="d001l70" n="70">ung messire Iehan des Cymiers,</l>
+                <l xml:id="d001l71" n="71">messire Percevail de Pontez,</l>
+                <l xml:id="d001l72" n="72">moult bien et noblement montez.</l>
+                <l xml:id="d001l73" n="73">Illecq estoit de haulte chiere</l>
+                <l xml:id="d001l74" n="74">De Nicorf le filz conte Pierre:</l>
+                <l xml:id="d001l75" n="75">de nobles gens estoit parez.</l>
+                <l xml:id="d001l76" n="76">Renforsa D’Ago est errez:</l>
+                <l xml:id="d001l77" n="77">bien sembloient gens de deflence;</l>
+                <l xml:id="d001l78" n="78">venuz estoient de Provence.</l>
+                <l xml:id="d001l79" n="79">Ceulx de Quier sceurent les novelles,</l>
+                <l xml:id="d001l80" n="80">qui tres leur sont bonnes et belles.</l>
+                <l xml:id="d001l81" n="81">liement lui vont audevant</l>
+                <l xml:id="d001l82" n="82">e dient: «Sir, ez bien viegnant»,</l>
+                <l xml:id="d001l83" n="83">car desiré long temps l’avoyent:</l>
+                <l xml:id="d001l84" n="84">et les Falletz, quant ilz le voyent,</l>
+                <l xml:id="d001l85" n="85">honneur lui font et moult grant feste</l>
+                <l xml:id="d001l86" n="86">et en lievent plus hault la teste.</l>
+                <l xml:id="d001l87" n="87">Lors prent le seneschal a dire:</l>
+                <l xml:id="d001l88" n="88">«Seineurs, sachiez quei e la tire,</l>
+                <l xml:id="d001l89" n="89">pour vous aidier moult grandement;</l>
+                <l xml:id="d001l90" n="90">car la royne mesmement</l>
+                <l xml:id="d001l91" n="91">m’en a de tout son coeur prié</l>
+                <l xml:id="d001l92" n="92">et pour ce m’a cy envoyé».</l>
+                <l xml:id="d001l93" n="93">Lors mainent grant festoyement</l>
+                <l xml:id="d001l94" n="94">tous les Guelphes communement</l>
+                <l xml:id="d001l95" n="95">ceulx des Falletz et leurs amiz,</l>
+                <l xml:id="d001l96" n="96">qui sont illecq ensemble miz.</l>
+                <l xml:id="d001l97" n="97">Quant Renforsa plain de proesse</l>
+                <l xml:id="d001l98" n="98">Vid illecq si tres grant noblesse,</l>
+                <l xml:id="d001l99" n="99">monseur Bestet va appeller.</l>
+                <l xml:id="d001l100" n="100">«Or sa, ie vueil a vos parler;</l>
+                <l xml:id="d001l101" n="101">puisque ie suis en Lombardie,</l>
+                <l xml:id="d001l102" n="102">ie n’y vueil pas faire oyseuie».</l>
+                <l xml:id="d001l103" n="103">E quant le seneschal eut dit,</l>
+                <l xml:id="d001l104" n="104">messire Bestet lui respondit:</l>
+                <l xml:id="d001l105" n="105">«Sire, parlez a ceulx de Quier,</l>
+                <l xml:id="d001l106" n="106">aux Falletz, qui vous tiennent chier,</l>
+                <l xml:id="d001l107" n="107">a vous chevaliers Prouvenceaulx;</l>
+                <l xml:id="d001l108" n="108">a ceulx devez prendre consaulx».</l>
+                <l xml:id="d001l109" n="109">Lors prent a dire Renforsa:</l>
+                <l xml:id="d001l110" n="110">«Äy! jent de Prouvence, or sa!</l>
+                <l xml:id="d001l111" n="111">vous des Falletz et vous de Quier,</l>
+                <l xml:id="d001l112" n="112">venez avant, conseil vous quier».</l>
+                <l xml:id="d001l113" n="113">Et lez Falletz, sans attargier,</l>
+                <l xml:id="d001l114" n="114">au seneschal vont conseillier.</l>
+                <l xml:id="d001l115" n="115">«Syre, allons ent sans nul respit</l>
+                <l xml:id="d001l116" n="116">Devant Albe pour le despit,</l>
+                <l xml:id="d001l117" n="117">qu’ilz nous firent encor n’a gueire;</l>
+                <l xml:id="d001l118" n="118">voulentiers leur ferons contraire».</l>
+                <l xml:id="d001l119" n="119">Ceulz de Quier pas ne s’i discordent,</l>
+                <l xml:id="d001l120" n="120">et Prouvenceaulx bien s’i accordent.</l>
+                <l xml:id="d001l121" n="121">Quant ce le seneschal öyt,</l>
+                <l xml:id="d001l122" n="122">de tel conseil fort s’esjöyst:</l>
+                <l xml:id="d001l123" n="123">tantost vers Albe s’achemine.</l>
+                <l xml:id="d001l124" n="124">Sachiez qu’il o ses gens ne fine,</l>
+                <l xml:id="d001l125" n="125">tant que devant Albe logié</l>
+                <l xml:id="d001l126" n="126">tous ensemble l’ont assiegié;</l>
+                <l xml:id="d001l127" n="127">illecquez n’eurent gaire esté,</l>
+                <l xml:id="d001l128" n="128">quant Albe eurent conquesté.</l>
+                <l xml:id="d001l129" n="129">S’on ne leur eust la porte ouverte</l>
+                <l xml:id="d001l130" n="130">soit par cugni ou par cuvierte,</l>
+                <l xml:id="d001l131" n="131">ilz pensent la iocquier quatre ans,</l>
+                <l xml:id="d001l132" n="132">amcoiz qu’ilz penssent entrer ens.</l>
+                <l xml:id="d001l133" n="133">Le seneschal, qui fut leans,</l>
+                <l xml:id="d001l134" n="134">appella tous ses poursuivans</l>
+                <l xml:id="d001l135" n="135">et leur va dire par tel guise:</l>
+                <l xml:id="d001l136" n="136">«Oez, Seigneurs, quei e devise</l>
+                <l xml:id="d001l137" n="137">et ce que i’ay en voulenté».</l>
+                <l xml:id="d001l138" n="138">De ceulx, qui plus vous ont grevé,</l>
+                <l xml:id="d001l139" n="139">prenez en trois ou cinq ou quatre</l>
+                <l xml:id="d001l140" n="140">et leur faictes la teste abbatre</l>
+                <l xml:id="d001l141" n="141">ius des espaulez: il me plaist».</l>
+                <l xml:id="d001l142" n="142">Ceulx repondirent: «Ce soit fait».</l>
+                <l xml:id="d001l143" n="143">Ilz accomplirent le vouloir</l>
+                <l xml:id="d001l144" n="144">du seneschal sans remanoir;</l>
+                <l xml:id="d001l145" n="145">en Albe prinrent mains deniers,</l>
+                <l xml:id="d001l146" n="146">mains ioyaulx et mains prisonniers,</l>
+                <l xml:id="d001l147" n="147">qui estoient de riche priz.</l>
+                <l xml:id="d001l148" n="148">Messer Luquin de braye priz</l>
+                <l xml:id="d001l149" n="149">fut cellui jour et retenuz:</l>
+                <l xml:id="d001l150" n="150">tous en Albe grans et menuz</l>
+                <l xml:id="d001l151" n="151">firent puissance du deffendre;</l>
+                <l xml:id="d001l152" n="152">a Renforsa les couvint rendre.</l>
+                <l xml:id="d001l153" n="153">Lors dirent Querois main a main</l>
+                <l xml:id="d001l154" n="154">au seneschal, qu’ot Albe en main:</l>
+                <l xml:id="d001l155" n="155">«Voulez oyr la patrenostre?</l>
+                <l xml:id="d001l156" n="156">Nous creons bien que tout est nostre;</l>
+                <l xml:id="d001l157" n="157">alons vers Quier nostre pays,</l>
+                <l xml:id="d001l158" n="158">car vous n’y estes pas haÿs.</l>
+                <l xml:id="d001l159" n="159">S’yrons devant le Gamenaire,</l>
+                <l xml:id="d001l160" n="160">qui nos a fait tant de contraire,</l>
+                <l xml:id="d001l161" n="161">car vous l’avrez tantost concquiz;</l>
+                <l xml:id="d001l162" n="162">combien que moeuve le marquiz,</l>
+                <l xml:id="d001l163" n="163">il n’avra povoir du deffendre».</l>
+                <l xml:id="d001l164" n="164">Dit Renforsa: «G’y vueil entendre</l>
+                <l xml:id="d001l165" n="165">et, pourtant que dist vous l’avez,</l>
+                <l xml:id="d001l166" n="166">conduisez moy vous, qui savez</l>
+                <l xml:id="d001l167" n="167">toute la contree et la terre,</l>
+                <l xml:id="d001l168" n="168">car je ne voy querant que guerre.</l>
+                <l xml:id="d001l169" n="169">Allons et chevaulchons avant,</l>
+                <l xml:id="d001l170" n="170">que nous soyons tantost devant</l>
+                <l xml:id="d001l171" n="171">la forteresse, que vous dittez.</l>
+                <l xml:id="d001l172" n="172">Ceulx n’en yront pas ainsi quittez,</l>
+                <l xml:id="d001l173" n="173">qui la vouldront vers nous deffendre</l>
+                <l xml:id="d001l174" n="174">et qui feront semblent d’attendre».</l>
+                <l xml:id="d001l175" n="175">Le seneschal et ses gens ont</l>
+                <l xml:id="d001l176" n="176">tant chevaulchié, qu’ensemble sont</l>
+                <l xml:id="d001l177" n="177">devant le Gamenaire assiez:</l>
+                <l xml:id="d001l178" n="178">la fut levé ost grant et massiz.</l>
+                <l xml:id="d001l179" n="179">Leans se feurent ia bouté</l>
+                <l xml:id="d001l180" n="180">Ceulz, qui ont bonne voulenté</l>
+                <l xml:id="d001l181" n="181">de deffender le Gamenaire</l>
+                <l xml:id="d001l182" n="182">et iurent Dieu le debennaire</l>
+                <l xml:id="d001l183" n="183">qu’ilz n’entreront leans si tost;</l>
+                <l xml:id="d001l184" n="184">mais mandent au marquis a cop</l>
+                <l xml:id="d001l185" n="185">que le siege viengne lever,</l>
+                <l xml:id="d001l186" n="186">ains qu’ait povoir de plus grever</l>
+                <l xml:id="d001l187" n="187">lui ne ses gens a grant puissance.</l>
+                <l xml:id="d001l188" n="188">«Secourrez nous sans demourance,</l>
+                <l xml:id="d001l189" n="189">gentil marquiz de Montferra,</l>
+                <l xml:id="d001l190" n="190">venez voir l’ost de Renforsa,</l>
+                <l xml:id="d001l191" n="191">lequel veult voustre honneur abbatre,</l>
+                <l xml:id="d001l192" n="192">venez vous tost a lui combatre».</l>
+                <l xml:id="d001l193" n="193">Quant le marquiz oit les nouvelles,</l>
+                <l xml:id="d001l194" n="194">que telles gens sont si rebelles,</l>
+                <l xml:id="d001l195" n="195">par tout mande sans nul seiour,</l>
+                <l xml:id="d001l196" n="196">qu’il puist avoir a certain jour</l>
+                <l xml:id="d001l197" n="197">toutes ses gens et ses amiz</l>
+                <l xml:id="d001l198" n="198">pour courrir sus ses ennemiz.</l>
+                <lb/>
+                <l xml:id="d001l199" n="199">Or vous laray de ce ester:</l>
+                <l xml:id="d001l200" n="200">de Renforsa vous vueil conter,</l>
+                <l xml:id="d001l201" n="201">qui est devant le Gamenaire.</l>
+                <l xml:id="d001l202" n="202">Aux siens commande fort a traire</l>
+                <l xml:id="d001l203" n="203">vers le castel et assaillir,</l>
+                <l xml:id="d001l204" n="204">et si font ilz sans desfaillir.</l>
+                <l xml:id="d001l205" n="205">Quieroiz forment si les assaillent,</l>
+                <l xml:id="d001l206" n="206">et les Falletz fort s’i travaillent,</l>
+                <l xml:id="d001l207" n="207">au castel mouvent grant descor</l>
+                <l xml:id="d001l208" n="208">Provenceaulx, qui moult font de corps.</l>
+                <l xml:id="d001l209" n="209">Moult y ot de ces Pyemontez</l>
+                <l xml:id="d001l210" n="210">a piet et a cheval montez,</l>
+                <l xml:id="d001l211" n="211">qui aigrement vont bercellant</l>
+                <l xml:id="d001l212" n="212">le Gamenaire et assaillant.</l>
+                <l xml:id="d001l213" n="213">Mais ceulx de dens les prisent gaire,</l>
+                <l xml:id="d001l214" n="214">car ilz sont gens de bon affaire:</l>
+                <l xml:id="d001l215" n="215">moult vaillament ilz se deffendent,</l>
+                <l xml:id="d001l216" n="216">car leur secours adez attendent</l>
+                <l xml:id="d001l217" n="217">de Iehan le noble marquiz</l>
+                <l xml:id="d001l218" n="218">de Montferra preux et gentilz.</l>
+                <l xml:id="d001l219" n="219">Car il leur a fait a savoir</l>
+                <l xml:id="d001l220" n="220">que il doivent secours avoir</l>
+                <l xml:id="d001l221" n="221">de par lui et de par sa gent,</l>
+                <l xml:id="d001l222" n="222">et deust couster mil marcs d’argent</l>
+                <l xml:id="d001l223" n="223">ou de ses hommes quattre mil,</l>
+                <l xml:id="d001l224" n="224">ou plus, si les secourra il.</l>
+                <l xml:id="d001l225" n="225">Seigneurs, on doit conter briefment</l>
+                <l xml:id="d001l226" n="226">des choses le gouvernement;</l>
+                <l xml:id="d001l227" n="227">que mieulz valent tant de frivolles.</l>
+                <l xml:id="d001l228" n="228">Renforsa et ceulx du castel</l>
+                <l xml:id="d001l229" n="229">vont entre eulx faire ung marchié tel:</l>
+                <l xml:id="d001l230" n="230">que le chastel seroit rendu,</l>
+                <l xml:id="d001l231" n="231">ou cas qu’il ne feust deffendu</l>
+                <l xml:id="d001l232" n="232">et secouru du bon marquiz</l>
+                <l xml:id="d001l233" n="233">de dens ung certain jour, qui miz</l>
+                <l xml:id="d001l234" n="234">fut entre eux sans repentir</l>
+                <l xml:id="d001l235" n="235">au son de[s] vespres sans mentir.</l>
+                <l xml:id="d001l236" n="236">Dit Renforsa: «J’en vueil hostaige</l>
+                <l xml:id="d001l237" n="237">de vous qui estes en la caige</l>
+                <l xml:id="d001l238" n="238">du castel leans enfermez;</l>
+                <l xml:id="d001l239" n="239">si en seray mieulx affermez».</l>
+                <l xml:id="d001l240" n="240">ceulx du castel, comme il me semble,</l>
+                <l xml:id="d001l241" n="241">s’allerent conseillier ensemble:</l>
+                <l xml:id="d001l242" n="242">«Or suz, seigneurs, que dites vous?</l>
+                <l xml:id="d001l243" n="243">Renforsa veult plesge de nous».</l>
+                <l xml:id="d001l244" n="244">La en ot ung hardiz et preux,</l>
+                <l xml:id="d001l245" n="245">qu’on appelloit le Ravailleux,</l>
+                <l xml:id="d001l246" n="246">qui dit: «Moy, quart cinquieme ou tiers,</l>
+                <l xml:id="d001l247" n="247">seray hostaige volentiers;</l>
+                <l xml:id="d001l248" n="248">car le marquiz, ou j’ay fiance,</l>
+                <l xml:id="d001l249" n="249">nous secourra sans demourance».</l>
+                <l xml:id="d001l250" n="250">Or sont venuz les plesges hors</l>
+                <l xml:id="d001l251" n="251">au seneschal, qui le sprint lors.</l>
+                <l xml:id="d001l252" n="252">Le seneschal en gre les prent</l>
+                <l xml:id="d001l253" n="253">pour le prouffit qu’il en attent;</l>
+                <l xml:id="d001l254" n="254">mais ie ne scay pas le prouffit</l>
+                <l xml:id="d001l255" n="255">ou le domaige qui y git.</l>
+                <l xml:id="d001l256" n="256">Car le marquiz scet l’adventure</l>
+                <l xml:id="d001l257" n="257">le grant peril et la laidure,</l>
+                <l xml:id="d001l258" n="258">ou ceulx sont, qui se sont fyé</l>
+                <l xml:id="d001l259" n="259">de lui, dont il eut grant pitié.</l>
+                <l xml:id="d001l260" n="260">Si dist: «Helas, qu[e] ay ge fait?</l>
+                <l xml:id="d001l261" n="261">Le Ravailleux aura mal plait</l>
+                <l xml:id="d001l262" n="262">Et ceulx, qui sont avecques ly,</l>
+                <l xml:id="d001l263" n="263">qu’attendent jusqu’au vendredy</l>
+                <l xml:id="d001l264" n="264">vigille sains George secours.</l>
+                <l xml:id="d001l265" n="265">Mon mandement n’est pas si cours;</l>
+                <l xml:id="d001l266" n="266">mais il le me fault abbargier,</l>
+                <l xml:id="d001l267" n="267">pour secourir sans attargier</l>
+                <l xml:id="d001l268" n="268">le castel, qui est de mes fiefz,</l>
+                <l xml:id="d001l269" n="269">et ceulx qui sont de dens logiez;</l>
+                <l xml:id="d001l270" n="270">et ceulx qui sunt miz en hostaige</l>
+                <l xml:id="d001l271" n="271">vouldray ravoir parmy mon gaige:</l>
+                <l xml:id="d001l272" n="272">frans et quittes les rachetray,</l>
+                <l xml:id="d001l273" n="273">ou meilleur gaige y lasseray.</l>
+                <l xml:id="d001l274" n="274">Se Renforsa veult gaige prendre,</l>
+                <l xml:id="d001l275" n="275">il ne m’en pourra ia reprendre,</l>
+                <l xml:id="d001l276" n="276">que ne lui en baille de boins</l>
+                <l xml:id="d001l277" n="277">de preux de saiges et de coins.</l>
+                <l xml:id="d001l278" n="278">Mais ie ne puis mon mandement</l>
+                <l xml:id="d001l279" n="279">avoir ensemble entierement,</l>
+                <l xml:id="d001l280" n="280">que fait la voye trop longtaing.</l>
+                <l xml:id="d001l281" n="281">Pour ce vous diray pour certain</l>
+                <l xml:id="d001l282" n="282">que plus brief il le fault restrandre,</l>
+                <l xml:id="d001l283" n="283">se ie veul Renforsa attandre,</l>
+                <l xml:id="d001l284" n="284">ains qu’il ait prins la fortaresse</l>
+                <l xml:id="d001l285" n="285">du Gamenaire: trop la prese».</l>
+                <l xml:id="d001l286" n="286">Dit le marquiz de bonne vye:</l>
+                <l xml:id="d001l287" n="287">«Il me fault de ceulx de Pavie</l>
+                <l xml:id="d001l288" n="288">aucunes gens avecques moy,</l>
+                <l xml:id="d001l289" n="289">car se sont gens de bonne foy».</l>
+                <l xml:id="d001l290" n="290">De pluiseurs lieux amiz acquiz</l>
+                <l xml:id="d001l291" n="291">viennent aidier le bon marquiz:</l>
+                <l xml:id="d001l292" n="292">aux siens ne doit il pas fallir,</l>
+                <l xml:id="d001l293" n="293">car de droit il les doit servir.</l>
+                <l xml:id="d001l294" n="294">Ceulx d’Ast entendent que veult faire</l>
+                <l xml:id="d001l295" n="295">le preux marquiz de hault affaire:</l>
+                <l xml:id="d001l296" n="296">si dient qu’ilz l’aideront fort.</l>
+                <l xml:id="d001l297" n="297">Entre eux n’y eut point de discord:</l>
+                <l xml:id="d001l298" n="298">armés se sont et fervestiz,</l>
+                <l xml:id="d001l299" n="299">montent sur leurs chevaux hastifz.</l>
+                <l xml:id="d001l300" n="300">Quant ainsi habilliez se sont,</l>
+                <l xml:id="d001l301" n="301">vers les marquiz tout droit s’en vont,</l>
+                <l xml:id="d001l302" n="302">le quel ne peut mieulx souhaidier,</l>
+                <l xml:id="d001l303" n="303">quant ceulx d’Ast le veulent aydier.</l>
+                <l xml:id="d001l304" n="304">La compaignie d’Ast moult viste</l>
+                <l xml:id="d001l305" n="305">Au bon marquiz vient en ayde;</l>
+                <l xml:id="d001l306" n="306">et quant voit gens de telle geste,</l>
+                <l xml:id="d001l307" n="307">le marquiz leur fait tres grant feste.</l>
+                <l xml:id="d001l308" n="308">Illecq fut la chevallerande</l>
+                <l xml:id="d001l309" n="309">noble vaillant puissant et grande:</l>
+                <l xml:id="d001l310" n="310">Iehan marquiz de Montferra</l>
+                <l xml:id="d001l311" n="311">sa compaignie regarda</l>
+                <l xml:id="d001l312" n="312">et dist: «Seigneurs, asses nous sommes,</l>
+                <l xml:id="d001l313" n="313">se nous voulons estre preud’ommes,</l>
+                <l xml:id="d001l314" n="314">et s’ay foison de ma pitaille,</l>
+                <l xml:id="d001l315" n="315">s’elle nous peut valoir, que vaille».</l>
+                <l xml:id="d001l316" n="316">Au chevauchier fort se sont miz,</l>
+                <l xml:id="d001l317" n="317">tant qu’ilz sont pres des ennemiz.</l>
+                <l xml:id="d001l318" n="318">Lors le marquiz appeller fit</l>
+                <l xml:id="d001l319" n="319">ung sien trompette et lui a dit:</l>
+                <l xml:id="d001l320" n="320">«Beau doulx amiz, aller te fault</l>
+                <l xml:id="d001l321" n="321">vers Renforsa le seneschault.</l>
+                <l xml:id="d001l322" n="322">Tieng, vecy les gants de battaille:</l>
+                <l xml:id="d001l323" n="323">tu lui diras ou qu’il s’en aille</l>
+                <l xml:id="d001l324" n="324">hors de mes fiefz et de ma terre,</l>
+                <l xml:id="d001l325" n="325">car ie ne m’en puis plus soufferre,</l>
+                <l xml:id="d001l326" n="326">ou, s’il veult que battaille face,</l>
+                <l xml:id="d001l327" n="327">je me trouvera sur la place.</l>
+                <l xml:id="d001l328" n="328">Va et revieng». - «Syre, c’est fait»:</l>
+                <l xml:id="d001l329" n="329">le trompette tantost s’en vait</l>
+                <l xml:id="d001l330" n="330">vers le seigneur de Folquarquier</l>
+                <l xml:id="d001l331" n="331">et lui ala lez gants baillier</l>
+                <l xml:id="d001l332" n="332">de battaille, «Par ceste voye»,</l>
+                <l xml:id="d001l333" n="333">disant, «Monseigneur vous envoye</l>
+                <l xml:id="d001l334" n="334">les gants de bataille, tenez.</l>
+                <l xml:id="d001l335" n="335">S’ilz vous plaisent, si les prenez;</l>
+                <l xml:id="d001l336" n="336">ou vous vous deslogiez tantost</l>
+                <l xml:id="d001l337" n="337">hors de ses fiefz vous et voustre ost.</l>
+                <l xml:id="d001l338" n="338">Et s’a lui combatre vous plait,</l>
+                <l xml:id="d001l339" n="339">faictes lui place, tant qu’il ait</l>
+                <l xml:id="d001l340" n="340">par devers vous ses gens passez:</l>
+                <l xml:id="d001l341" n="341">dictes moy vostre volontez».</l>
+                <l xml:id="d001l342" n="342">Renforsa dit: «Sa sa les gants,</l>
+                <l xml:id="d001l343" n="343">de les prendre suy moult contens:</l>
+                <l xml:id="d001l344" n="344">et tien, vecy de ma monnoye,</l>
+                <l xml:id="d001l345" n="345">pour tans que m’as apporté ioye,</l>
+                <l xml:id="d001l346" n="346">et ung rovein, quei e te baille:</l>
+                <l xml:id="d001l347" n="347">je ne desir que la battaille.</l>
+                <l xml:id="d001l348" n="348">Beau doulx amy, va t’ent a Dieu;</l>
+                <l xml:id="d001l349" n="349">dy au marquiz qu’il avra lieu</l>
+                <l xml:id="d001l350" n="350">et place pour ses gens passer</l>
+                <l xml:id="d001l351" n="351">et tourne a lui sans arrester».</l>
+                <l xml:id="d001l352" n="352">Le trompette fort regracie</l>
+                <l xml:id="d001l353" n="353">Renforsa de sa courtoisie</l>
+                <l xml:id="d001l354" n="354">et dit: «Syre, je m’en voy donc.</l>
+                <l xml:id="d001l355" n="355">Loueray moy de voustre don».</l>
+                <l xml:id="d001l356" n="356">Le trompette arriere retourne,</l>
+                <l xml:id="d001l357" n="357">vers le marquiz son chemin tourne;</l>
+                <l xml:id="d001l358" n="358">tant qu’il y fus, point ne s’attarge.</l>
+                <l xml:id="d001l359" n="359">Forment se loue du don large,</l>
+                <l xml:id="d001l360" n="360">que lui ot fait le seneschault,</l>
+                <l xml:id="d001l361" n="361">et dist: «Syres, il est moult chault</l>
+                <l xml:id="d001l362" n="362">et desirant de la battaille,</l>
+                <l xml:id="d001l363" n="363">et si vous veult seignier sans faille,</l>
+                <l xml:id="d001l364" n="364">pour passer vous et vous giens, lieu».</l>
+                <l xml:id="d001l365" n="365">«Chevaulchier nous y convient heu»,</l>
+                <l xml:id="d001l366" n="366">dit le marquiz de Montferray,</l>
+                <l xml:id="d001l367" n="367">«mais d’une chose grant dueil hay,</l>
+                <l xml:id="d001l368" n="368">que nous n’avons ung chevallier,</l>
+                <l xml:id="d001l369" n="369">qui la colee puist baillier</l>
+                <l xml:id="d001l370" n="370">a ceulx, qui d’entrer ont envie</l>
+                <l xml:id="d001l371" n="371">en l’ordre de chevallerye».</l>
+                <l xml:id="d001l372" n="372"></l>
+                <l xml:id="d001l373" n="373">Or vous lairay de ce ester:</l>
+                <l xml:id="d001l374" n="374">a Renforsa vueil retourner,</l>
+                <l xml:id="d001l375" n="375">qui appella monseur Bestat:</l>
+                <l xml:id="d001l376" n="376">«Or sa, devons nous sans debat</l>
+                <l xml:id="d001l377" n="377">le Gamenaire abandoner</l>
+                <l xml:id="d001l378" n="378">sus l’eure de vespre sonner?».</l>
+                <l xml:id="d001l379" n="379">Monseur Bestet dit sans demeure:</l>
+                <l xml:id="d001l380" n="380">«Faisons vespres sonner en l’eure».</l>
+                <l xml:id="d001l381" n="381">Il n’estoit gueires plus de nonne,</l>
+                <l xml:id="d001l382" n="382">quant pres de l’ost la cloche on sonne:</l>
+                <l xml:id="d001l383" n="383">lors s’en vont pres du Gamenaire</l>
+                <l xml:id="d001l384" n="384">le seneschal et ses gens traire.</l>
+                <l xml:id="d001l385" n="385">Ceulx du castel appella tous:</l>
+                <l xml:id="d001l386" n="386">Or tost, seigneurs, que dittes vous?</l>
+                <l xml:id="d001l387" n="387">Vecy l’eure qui est venue,</l>
+                <l xml:id="d001l388" n="388">que nous devez avoir rendue</l>
+                <l xml:id="d001l389" n="389">la fortresse par convenance;</l>
+                <l xml:id="d001l390" n="390">ou vous verrez sans demourance</l>
+                <l xml:id="d001l391" n="391">copper la teste a vous hostaiges,</l>
+                <l xml:id="d001l392" n="392">qui en noz mains sont miz en gaiges».</l>
+                <l xml:id="d001l393" n="393">Ainsi comme il les flatoient</l>
+                <l xml:id="d001l394" n="394">et qu’en paroles les tenoient</l>
+                <l xml:id="d001l395" n="395">et que l’unz l’autre se respont,</l>
+                <l xml:id="d001l396" n="396">syre Bestet fist faire ung pont</l>
+                <l xml:id="d001l397" n="397">et mettre parmy les fossez</l>
+                <l xml:id="d001l398" n="398">parmy lequel ilz sont passez.</l>
+                <l xml:id="d001l399" n="399">Le chastel prinrent sans deffault</l>
+                <l xml:id="d001l400" n="400">et mirent ens le seneschault:</l>
+                <l xml:id="d001l401" n="401">tantost fut mise sur la porte</l>
+                <l xml:id="d001l402" n="402">l’enseigne, que Renforsa porte,</l>
+                <l xml:id="d001l403" n="403">et l’enseigne de la royne,</l>
+                <l xml:id="d001l404" n="404">ou est la fleur de liz d’or fine.</l>
+                <l xml:id="d001l405" n="405">Renforsa tient le Gamenaire,</l>
+                <l xml:id="d001l406" n="406">Mais il ne lui demoura guaire;</l>
+                <l xml:id="d001l407" n="407">car le marquiz s’en vient forment,</l>
+                <l xml:id="d001l408" n="408">qui lui donra paine et torment.</l>
+                <l xml:id="d001l409" n="409">Le marquiz fait sans delayer</l>
+                <l xml:id="d001l410" n="410">sa baniere au vent desployer:</l>
+                <l xml:id="d001l411" n="411">blanche et vermeille elle est bauzaine,</l>
+                <l xml:id="d001l412" n="412">a Renforsa nyent pas bien saine.</l>
+                <l xml:id="d001l413" n="413">Le marquiz et ses gens cheuauchent;</l>
+                <l xml:id="d001l414" n="414">ceulx d’Ast avecques lui s’avancent,</l>
+                <l xml:id="d001l415" n="415">dont le marquiz est bien parez,</l>
+                <l xml:id="d001l416" n="416">pour ce qu’ilz sont tresbien armez:</l>
+                <l xml:id="d001l417" n="417">riches armes ont et chevalx</l>
+                <l xml:id="d001l418" n="418">et les destriers puissans et haulx.</l>
+                <l xml:id="d001l419" n="419">Les bons Paveiz sont sans mentir</l>
+                <l xml:id="d001l420" n="420">venuz au temps aux cops ferir:</l>
+                <l xml:id="d001l421" n="421">quattre banieres ont au vent.</l>
+                <l xml:id="d001l422" n="422">Le marquiz les voit lyement;</l>
+                <l xml:id="d001l423" n="423">il a droit, car bien l’aideront</l>
+                <l xml:id="d001l424" n="424">et loyaument se maintiendront.</l>
+                <l xml:id="d001l425" n="425">Tant ont ensemble chevauchié,</l>
+                <l xml:id="d001l426" n="426">que Renforsa ont approuchié</l>
+                <l xml:id="d001l427" n="427">et son ost, qui est tres puisans;</l>
+                <l xml:id="d001l428" n="428">moult eut illecq de gens vaillans.</l>
+                <l xml:id="d001l429" n="429">Quant Renforsa voit le marquiz,</l>
+                <l xml:id="d001l430" n="430">desployer fait la fleur de liz</l>
+                <l xml:id="d001l431" n="431">a ung rastel rouge, en semblance</l>
+                <l xml:id="d001l432" n="432">que descendue estoit de France.</l>
+                <l xml:id="d001l433" n="433">Renforsa eut d’encoste elle</l>
+                <l xml:id="d001l434" n="434">une enseigne moult riche et belle,</l>
+                <l xml:id="d001l435" n="435">dont la campaigne estoit doree;</l>
+                <l xml:id="d001l436" n="436">d’un loup d’asur estoit gardee.</l>
+                <l xml:id="d001l437" n="437">Maintes bannieres apparans</l>
+                <l xml:id="d001l438" n="438">sont la au vent de ses aydans:</l>
+                <l xml:id="d001l439" n="439">ceulx de Provence et de Piemont</l>
+                <l xml:id="d001l440" n="440">tiennent illecq ung moult grant mont.</l>
+                <l xml:id="d001l441" n="441">Pierre Fallet n’y deffault mie</l>
+                <l xml:id="d001l442" n="442">et ceulx, qui sont de sa partie.</l>
+                <l xml:id="d001l443" n="443">Grosse routte y ont ceulx du Soulier,</l>
+                <l xml:id="d001l444" n="444">Orcet du Solier et Brandin,</l>
+                <l xml:id="d001l445" n="445">chacun sur son coursier bien fin,</l>
+                <l xml:id="d001l446" n="446">poursuivent la le seneschault,</l>
+                <l xml:id="d001l447" n="447">et Martin de chastol Haynault</l>
+                <l xml:id="d001l448" n="448">et Oberton de Montafie,</l>
+                <l xml:id="d001l449" n="449">ou Renforsa forment sa fye.</l>
+                <l xml:id="d001l450" n="450">Que voulez vous que ie vous die?</l>
+                <l xml:id="d001l451" n="451">La fust moult grande compaignie</l>
+                <l xml:id="d001l452" n="452">de preux et de hardies gens</l>
+                <l xml:id="d001l453" n="453">et de prot foison de sergens,</l>
+                <l xml:id="d001l454" n="454">qui tous font semblant de combatre,</l>
+                <l xml:id="d001l455" n="455">se le marquiz s’y ose embatre.</l>
+                <l xml:id="d001l456" n="456">Or maintenant vous tourneray</l>
+                <l xml:id="d001l457" n="457">au bon marquiz de Montferray:</l>
+                <l xml:id="d001l458" n="458">tant a des esperons brochié,</l>
+                <l xml:id="d001l459" n="459">que Renforsa ont approuchié.</l>
+                <l xml:id="d001l460" n="460">Le marquiz a sus son enseigne,</l>
+                <l xml:id="d001l461" n="461">la bauzaine, que Dieu maintiegne,</l>
+                <l xml:id="d001l462" n="462">et s’a l’enseigne de l’empire.</l>
+                <l xml:id="d001l463" n="463">Le marquiz plain de bon adviz</l>
+                <l xml:id="d001l464" n="464">et Renforsa sont viz a viz,</l>
+                <l xml:id="d001l465" n="465">si quel es ungs voyent les aultres</l>
+                <l xml:id="d001l466" n="466">et vont mettre lances sur faultres.</l>
+                <l xml:id="d001l467" n="467">Le marquiz ot mains baronyers</l>
+                <l xml:id="d001l468" n="468">montez sur leurs chevalx legiers,</l>
+                <l xml:id="d001l469" n="469">qui d’une part se sont sevrez</l>
+                <l xml:id="d001l470" n="470">et emsemble tous assemblez.</l>
+                <l xml:id="d001l471" n="471">Leurs chevaulx vont esperonnant,</l>
+                <l xml:id="d001l472" n="472">a Renforsa s’en vont bruyant</l>
+                <l xml:id="d001l473" n="473">et vont la faire grant hastye</l>
+                <l xml:id="d001l474" n="474">de courrir sus a sa partye.</l>
+                <l xml:id="d001l475" n="475">Mais quant ilz virent le povoir</l>
+                <l xml:id="d001l476" n="476">du seneschal et son vouloir,</l>
+                <l xml:id="d001l477" n="477">tantost firent une retraicte,</l>
+                <l xml:id="d001l478" n="478">qui fut une honteuse faicte</l>
+                <l xml:id="d001l479" n="479">pour la pietaille Monferrine,</l>
+                <l xml:id="d001l480" n="480">qui s’en tourna sans tenir risine;</l>
+                <l xml:id="d001l481" n="481">et pluiseurs de Quier foryssy</l>
+                <l xml:id="d001l482" n="482">de la bataille sont yssy.</l>
+                <l xml:id="d001l483" n="483">Lors le marquiz son cheval broiche</l>
+                <l xml:id="d001l484" n="484">et Renforsa forment l’aproiche,</l>
+                <l xml:id="d001l485" n="485">qui chevaulche bien fort et roid;</l>
+                <l xml:id="d001l486" n="486">vers le marquiz s’en vient tout droit.</l>
+                <l xml:id="d001l487" n="487">Sur ung destrier grans et puissans</l>
+                <l xml:id="d001l488" n="488">Monseur Bestet le va suyvans</l>
+                <l xml:id="d001l489" n="489">et messyre Iehan de Mymer:</l>
+                <l xml:id="d001l490" n="490">cil ne demeure pas derrier.</l>
+                <l xml:id="d001l491" n="491">La chevaulchent de grant maniere</l>
+                <l xml:id="d001l492" n="492">de Nicorf le filz conte Pierre;</l>
+                <l xml:id="d001l493" n="493">de Ponteys monseur Perceval</l>
+                <l xml:id="d001l494" n="494">n’[y] espargna pas son cheval.</l>
+                <l xml:id="d001l495" n="495">Prouvenceaulx, Piemontois sans doubte</l>
+                <l xml:id="d001l496" n="496">Viennent tirant a grosse route:</l>
+                <l xml:id="d001l497" n="497">Pierre Fallet, ceulx du Solier</l>
+                <l xml:id="d001l498" n="498">les poursuivent sans attargier.</l>
+                <l xml:id="d001l499" n="499">«Cabaillier saint Antonie», crye</l>
+                <l xml:id="d001l500" n="500">le seneschal et sa partye.</l>
+                <l xml:id="d001l501" n="501">Le cheval broiche et point avant,</l>
+                <l xml:id="d001l502" n="502">le marquiz lui vient au devant:</l>
+                <l xml:id="d001l503" n="503">grans cops se donnent le[s] vassaulx.</l>
+                <l xml:id="d001l504" n="504">Or incommencent les assaulx.</l>
+                <l xml:id="d001l505" n="505">«Romme Rheiter» va escriant</l>
+                <l xml:id="d001l506" n="506">le bon marquiz au coeur vaillant.</l>
+                <l xml:id="d001l507" n="507">«Romme Rheiter, Romme Rheiter»,</l>
+                <l xml:id="d001l508" n="508">dit son cousin de Brunsvuicher,</l>
+                <l xml:id="d001l509" n="509">«note quanx ennemiz hustinent».</l>
+                <l xml:id="d001l510" n="510">Aussi fait Thomas Malespine:</l>
+                <l xml:id="d001l511" n="511">la se combattent ceulx d’Ancise</l>
+                <l xml:id="d001l512" n="512">plains de proesse et de franchise.</l>
+                <l xml:id="d001l513" n="513">Zanart d’Ancise vrayement</l>
+                <l xml:id="d001l514" n="514">se combat la moult asprement,</l>
+                <l xml:id="d001l515" n="515">et Hodeum de la Rochette</l>
+                <l xml:id="d001l516" n="516">rend plus grans cops qu’on ne lui preste:</l>
+                <l xml:id="d001l517" n="517">qui il attant de bonne main</l>
+                <l xml:id="d001l518" n="518">encor s’en sent le lendemain.</l>
+                <l xml:id="d001l519" n="519">Fort se combattent ou hutin</l>
+                <l xml:id="d001l520" n="520">Pierre d’Azel, le preux bersin:</l>
+                <l xml:id="d001l521" n="521">bienfaire doivent par raison,</l>
+                <l xml:id="d001l522" n="522">car ilz sont marquiz de Ponson.</l>
+                <l xml:id="d001l523" n="523">Sur ennemiz font leur assay</l>
+                <l xml:id="d001l524" n="524">le[s] bons contes de Coconay,</l>
+                <l xml:id="d001l525" n="525">les preux Jannin et Hottebon</l>
+                <l xml:id="d001l526" n="526">et mains aultres de leur renon.</l>
+                <l xml:id="d001l527" n="527">De combattre fort s’entremet</l>
+                <l xml:id="d001l528" n="528">de Valperghe le preux Huet,</l>
+                <l xml:id="d001l529" n="529">aussi fait Valent sans doubter.</l>
+                <l xml:id="d001l530" n="530">Ceulx de Gabian vy de monter,</l>
+                <l xml:id="d001l531" n="531">et mains autres de cellui lieu</l>
+                <l xml:id="d001l532" n="532">aux ennemiz fot grant enneu.</l>
+                <l xml:id="d001l533" n="533">Le marquiz aydent de coeur fin</l>
+                <l xml:id="d001l534" n="534">Pierre de Septem et Bertin</l>
+                <l xml:id="d001l535" n="535">et Francesquel de Chiresy</l>
+                <l xml:id="d001l536" n="536">et mains autres, qui sont d’ainqui.</l>
+                <l xml:id="d001l537" n="537">Et Francesquel Can de Casal</l>
+                <l xml:id="d001l538" n="538">s’y maintiennent com bon vassal</l>
+                <l xml:id="d001l539" n="539">et autres pluiseurs avec ly,</l>
+                <l xml:id="d001l540" n="540">qui de Casal sont autresy.</l>
+                <l xml:id="d001l541" n="541">Guy de Camaigne vistement</l>
+                <l xml:id="d001l542" n="542">se deffend la ou chaplement.</l>
+                <l xml:id="d001l543" n="543">Fort se combat la gent hardie,</l>
+                <l xml:id="d001l544" n="544">qui est venue de Pavie:</l>
+                <l xml:id="d001l545" n="545">entre eux quattre bannieres tiennent</l>
+                <l xml:id="d001l546" n="546">et sans reproiche se maintiennent.</l>
+                <l xml:id="d001l547" n="547">Grant fut la noise et li assault</l>
+                <l xml:id="d001l548" n="548">du marquiz et du seneschault:</l>
+                <l xml:id="d001l549" n="549">moult ot bonne chevalerie</l>
+                <l xml:id="d001l550" n="550">le seneschal preuse et hardye.</l>
+                <l xml:id="d001l551" n="551">Renforsa seneschaulx hardiz</l>
+                <l xml:id="d001l552" n="552">assaulte fort le bon marquiz:</l>
+                <l xml:id="d001l553" n="553">moult eut a faire le marquiz,</l>
+                <l xml:id="d001l554" n="554">qui de tel gent est entrepris.</l>
+                <l xml:id="d001l555" n="555">Mais ceulx d’Ast ne lui fauldront mie:</l>
+                <l xml:id="d001l556" n="556">ains qu’il soit nuyt, fiere estremie</l>
+                <l xml:id="d001l557" n="557">feront envers le seneschault.</l>
+                <l xml:id="d001l558" n="558">Leur banniere dressent en hault</l>
+                <l xml:id="d001l559" n="559">vermeille atout la blanche croix</l>
+                <l xml:id="d001l560" n="560">et s’escrient a haulte voix:</l>
+                <l xml:id="d001l561" n="561">«Romme Rheiter, Romme Rheiter»,</l>
+                <l xml:id="d001l562" n="562">La voyssiez la gent d’Ast fuster</l>
+                <l xml:id="d001l563" n="563">et vont ferir par grant testee,</l>
+                <l xml:id="d001l564" n="564">tout ou milieu de la meslee;</l>
+                <l xml:id="d001l565" n="565">pour aydier le marquiz vaillant</l>
+                <l xml:id="d001l566" n="566">Renforsa vont fort assayllant.</l>
+                <l xml:id="d001l567" n="567">De frapper ens se hasta</l>
+                <l xml:id="d001l568" n="568">Galiot filz de leur Posta.</l>
+                <l xml:id="d001l569" n="569">Iaquon Garret passe devant,</l>
+                <l xml:id="d001l570" n="570">qui la banniere va pourtant,</l>
+                <l xml:id="d001l571" n="571">atant e vous ceulx de Castel,</l>
+                <l xml:id="d001l572" n="572">qui entrent ou poingniz mortel</l>
+                <l xml:id="d001l573" n="573">pour le marquiz resuertuer:</l>
+                <l xml:id="d001l574" n="574">telle gent sont bien a louer.</l>
+                <l xml:id="d001l575" n="575">La est Percevail Gutuer</l>
+                <l xml:id="d001l576" n="576">fort combatant sur son destrier,</l>
+                <l xml:id="d001l577" n="577">commë homs plain de vassellaige:</l>
+                <l xml:id="d001l578" n="578">bien y parut a son visaige.</l>
+                <l xml:id="d001l579" n="579">averques lui fut Bonentin</l>
+                <l xml:id="d001l580" n="580">de Guttuers et Odenin.</l>
+                <l xml:id="d001l581" n="581">La se combat Huet Ysnard</l>
+                <l xml:id="d001l582" n="582">Comme homs venu de bonne part:</l>
+                <l xml:id="d001l583" n="583">il ne tient pas l’aigle en son ny</l>
+                <l xml:id="d001l584" n="584">voler la fait par le poingny</l>
+                <l xml:id="d001l585" n="585">et Roland Ysnard l’a suivy,</l>
+                <l xml:id="d001l586" n="586">qu’aux ennemiz fait grant ennuy.</l>
+                <l xml:id="d001l587" n="587">Entre lui et Wiglon Ysnard</l>
+                <l xml:id="d001l588" n="588">ne font pas semblent de couard,</l>
+                <l xml:id="d001l589" n="589">si grans corps donnent et reçoivent:</l>
+                <l xml:id="d001l590" n="590">leurs ennemiz s’en apperçoivent.</l>
+                <l xml:id="d001l591" n="591">En la battaille tout emmy</l>
+                <l xml:id="d001l592" n="592">se va ferir Bertholomy</l>
+                <l xml:id="d001l593" n="593">Turc, Palyeron et Olivier;</l>
+                <l xml:id="d001l594" n="594">Antonin Turc n’est pas derrier,</l>
+                <l xml:id="d001l595" n="595">et Francesquin Turc ensement</l>
+                <l xml:id="d001l596" n="596">se combat fort au chaplement.</l>
+                <l xml:id="d001l597" n="597">Des Pelletes est illecq Brant,</l>
+                <l xml:id="d001l598" n="598">qui tresbien se deffend au brant,</l>
+                <l xml:id="d001l599" n="599">dont l’allemesle est d’acier fin.</l>
+                <l xml:id="d001l600" n="600">Cortason Pellette et Flichin</l>
+                <l xml:id="d001l601" n="601">moult de pres tiennent la bataille;</l>
+                <l xml:id="d001l602" n="602">et Mathieu des Scaramps sans faille.</l>
+                <l xml:id="d001l603" n="603">La est des Buny Andrion,</l>
+                <l xml:id="d001l604" n="604">qui est ardy comme ung lion:</l>
+                <l xml:id="d001l605" n="605">sur son destrier hault et paré</l>
+                <l xml:id="d001l606" n="606">se combat la part grant fierté,</l>
+                <l xml:id="d001l607" n="607">et Jaquon le cors compaygnie</l>
+                <l xml:id="d001l608" n="608">lui tient, qui ne s’espargne mie.</l>
+                <l xml:id="d001l609" n="609">Antonin Garret vrayement</l>
+                <l xml:id="d001l610" n="610">Se combat la moult fierement.</l>
+                <l xml:id="d001l611" n="611">Or y vient des Roers Spinot,</l>
+                <l xml:id="d001l612" n="612">qu’a Renforsa fait grant rihot:</l>
+                <l xml:id="d001l613" n="613">il hurte l’un et l’autre frappe;</l>
+                <l xml:id="d001l614" n="614">eureux est qui de lui eschappe.</l>
+                <l xml:id="d001l615" n="615">Raphael Roer et Wiglermin,</l>
+                <l xml:id="d001l616" n="616">George Asinier et Philippin</l>
+                <l xml:id="d001l617" n="617">ou chaplement tresbiem se proeuvent</l>
+                <l xml:id="d001l618" n="618">mais je vous dy que trop bien troeuvent</l>
+                <l xml:id="d001l619" n="619">le seneschal preux et hardy</l>
+                <l xml:id="d001l620" n="620">et ceulx, qui sont avecques ly.</l>
+                <l xml:id="d001l621" n="621">Grant fut la noise et la battaille:</l>
+                <l xml:id="d001l622" n="622">la fierent d’estocq et de taille</l>
+                <l xml:id="d001l623" n="623">entre eux sans nul reposement;</l>
+                <l xml:id="d001l624" n="624">la veissiez fier chaplement.</l>
+                <l xml:id="d001l625" n="625">Or se remettent a l’assay</l>
+                <l xml:id="d001l626" n="626">li preux marquiz et Renforsay,</l>
+                <l xml:id="d001l627" n="627">qui tant par est preux et nobiles,</l>
+                <l xml:id="d001l628" n="628">et o lui ot moult habiles.</l>
+                <l xml:id="d001l629" n="629">L’un contre l’autre fort se dressent:</l>
+                <l xml:id="d001l630" n="630">ung tresbuchent, autres redressent.</l>
+                <l xml:id="d001l631" n="631">Paveis se proeuvent lealment</l>
+                <l xml:id="d001l632" n="632">et Astesans moult vaillamment</l>
+                <l xml:id="d001l633" n="633">aydent Iehan le bon marquiz,</l>
+                <l xml:id="d001l634" n="634">qui assez tost avra concquiz</l>
+                <l xml:id="d001l635" n="635">le seneschal preux et vaillant.</l>
+                <l xml:id="d001l636" n="636">Les siens lui vont ia defaillant,</l>
+                <l xml:id="d001l637" n="637">qui l’avoient illecq attrait:</l>
+                <l xml:id="d001l638" n="638">or a le seneschal mal plait,</l>
+                <l xml:id="d001l639" n="639">s’il ne se rend, morir le fault.</l>
+                <l xml:id="d001l640" n="640">Lors li escrient tout en hault:</l>
+                <l xml:id="d001l641" n="641">«Rendés vous, seneschaulx gentilz,</l>
+                <l xml:id="d001l642" n="642">se vous voulez eschapper vifz».</l>
+                <l xml:id="d001l643" n="643">Renforsa ne se veult pas rendre;</l>
+                <l xml:id="d001l644" n="644">iusqu’a la mort se veult deffendre,</l>
+                <l xml:id="d001l645" n="645">car il ha ung moult bon cheval;</l>
+                <l xml:id="d001l646" n="646">en la battaille n’eut egal.</l>
+                <l xml:id="d001l647" n="647">Merveilles fait en deffendent</l>
+                <l xml:id="d001l648" n="648">Renforsa, car il va fendant</l>
+                <l xml:id="d001l649" n="649">la battaille la ou il veult.</l>
+                <l xml:id="d001l650" n="650">Mais longuement durer ne peult,</l>
+                <l xml:id="d001l651" n="651">car on lui donne au traverser</l>
+                <l xml:id="d001l652" n="652">tel cop, dont le convient verser.</l>
+                <l xml:id="d001l653" n="653">Renforsa va la deffinant</l>
+                <l xml:id="d001l654" n="654">et son bon destrier declinant:</l>
+                <l xml:id="d001l655" n="655">illecques fut feruz a mort</l>
+                <l xml:id="d001l656" n="656">Renforsa plain de grant effort.</l>
+                <l xml:id="d001l657" n="657">Or est le seneschal mort cheuz;</l>
+                <l xml:id="d001l658" n="658">les Prouvenceaulx en sont camuz</l>
+                <l xml:id="d001l659" n="659">et demeurent en grant emay</l>
+                <l xml:id="d001l660" n="660">pour la mort du preu Renforsay,</l>
+                <l xml:id="d001l661" n="661">et les autres sont retournez,</l>
+                <l xml:id="d001l662" n="662">qui l’eurent illecq amenez.</l>
+                <l xml:id="d001l663" n="663">Qui ne se rend, est prins ou mors,</l>
+                <l xml:id="d001l664" n="664">ou il s’enfuyt du cappleis hors.</l>
+                <l xml:id="d001l665" n="665">Le Gamenaire est restorez</l>
+                <l xml:id="d001l666" n="666">du bon marquiz et recouvrez:</l>
+                <l xml:id="d001l667" n="667">grant feste en fait le Ravailleux,</l>
+                <l xml:id="d001l668" n="668">qui bien cudoit aller ailleurx,</l>
+                <l xml:id="d001l669" n="669">et les autres grant joye mainent,</l>
+                <l xml:id="d001l670" n="670">qui avecques lui onte u paine</l>
+                <l xml:id="d001l671" n="671">et doubte de perdre la gorge</l>
+                <l xml:id="d001l672" n="672">droit la vigille de saint George.</l>
+                <l xml:id="d001l673" n="673">Fuit le marquiz en grant revel</l>
+                <l xml:id="d001l674" n="674">entre Gabian et Pontisel,</l>
+                <l xml:id="d001l675" n="675">qui eut ses ennemiz vaincuz.</l>
+                <l xml:id="d001l676" n="676">Mais demoura fort yrascuz;</l>
+                <l xml:id="d001l677" n="677">car il avoit tres grant envie</l>
+                <l xml:id="d001l678" n="678">de prender Renforsa en vie:</l>
+                <l xml:id="d001l679" n="679">mais il ne peult pour la haultesse;</l>
+                <l xml:id="d001l680" n="680">qui fut en lui et la proesse.</l>
+                <l xml:id="d001l681" n="681">Le bon marquiz sans seiourner</l>
+                <l xml:id="d001l682" n="682">lui et ses gens vont retourner</l>
+                <l xml:id="d001l683" n="683">vers leurs pays et leur contree,</l>
+                <l xml:id="d001l684" n="684">car il ot sa guerre finee.</l>
+                <l xml:id="d001l685" n="685">Fort en mercye ses amiz,</l>
+                <l xml:id="d001l686" n="686">qui bien se feurent entremiz</l>
+                <l xml:id="d001l687" n="687">de lui ayder sans nul deffault.</l>
+                <l xml:id="d001l688" n="688">Plus ne diray du seneschault,</l>
+                <l xml:id="d001l689" n="689">qui la fut mort emmy la place,</l>
+                <l xml:id="d001l690" n="690">sy non que Dieu pardon lui face.</l>
+            </div1>
+        </body>
+        <back>
+            <div type="modifiche all'edizione"><p>Nel testo dell’edizione Cerrato 1885 è stata introdotta la moderna distinzione fra &lt;i&gt;u&lt;/i&gt;
+                e &lt;i&gt;v&lt;/i&gt;, fra &lt;i&gt;i&lt;/i&gt; e &lt;i&gt;j&lt;/i&gt;, e sono stati accolti gli emendamenti
+                proposti da Luciano Formisano, &lt;i&gt;Per il testo della «Battaglia di Gamenario&lt;/i&gt;, «Studi Piemontesi»,
+                VII (1978), pp. 341-351.&lt;br/&gt;&lt;br/&gt;&lt;table&gt;&lt;br/&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;verso&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;ed.
+                Cerrato 1885&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Formisano 1978&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;br/&gt;&lt;br/&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;&lt;i&gt;sur&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;sus&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;&lt;i&gt;fleurissent&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;fueillissent&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;&lt;i&gt;leur&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;leurs&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;&lt;i&gt;que&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;qui&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;12
+                (et passim)&lt;/td&gt;&lt;td&gt;&lt;i&gt;D’Agoût&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;D’Ago&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;&lt;i&gt;mandés&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;mandez&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;21&lt;/td&gt;&lt;td&gt;&lt;i&gt;Lombardie&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;Lombardye&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;27&lt;/td&gt;&lt;td&gt;&lt;i&gt;specialment&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;especïalment&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;29&lt;/td&gt;&lt;td&gt;&lt;i&gt;il&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;ilz&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;31&lt;/td&gt;&lt;td&gt;&lt;i&gt;souuieigne&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;souviengne&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;41&lt;/td&gt;&lt;td&gt;&lt;i&gt;azur&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;asur&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;51&lt;/td&gt;&lt;td&gt;&lt;i&gt;que&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;qu’a&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;56&lt;/td&gt;&lt;td&gt;&lt;i&gt;grand&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;grant&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;66
+                e 375&lt;/td&gt;&lt;td&gt;&lt;i&gt;Bestet&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;Bestat&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&lt;tr&gt;&lt;td&gt;67&lt;/td&gt;&lt;td&gt;&lt;i&gt;scienceux&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;scïencieux&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;70&lt;/td&gt;&lt;td&gt;&lt;i&gt;de&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;des&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;74&lt;/td&gt;&lt;td&gt;&lt;i&gt;Ricorf&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;Nicorf&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;85&lt;/td&gt;&lt;td&gt;&lt;i&gt;grand&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;grant&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;88&lt;/td&gt;&lt;td&gt;&lt;i&gt;Seigneurs&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;Seineurs&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;98&lt;/td&gt;&lt;td&gt;&lt;i&gt;illec&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;illecq&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;99&lt;/td&gt;&lt;td&gt;&lt;i&gt;monsieur&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;monseur&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;102&lt;/td&gt;&lt;td&gt;&lt;i&gt;ny&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;n’y&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;104&lt;/td&gt;&lt;td&gt;&lt;i&gt;repondit&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;respondit&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;110&lt;/td&gt;&lt;td&gt;&lt;i&gt;Je
+                vienc de Prouuence or sa&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;Äy! jent de Prouvence, or sa!&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;114&lt;/td&gt;&lt;td&gt;&lt;i&gt;conseiller&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;conseillier&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;118&lt;/td&gt;&lt;td&gt;&lt;i&gt;voulentier&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;voulentiers&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;119&lt;/td&gt;&lt;td&gt;&lt;i&gt;Ceulx,
+                si&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;Ceulz, s’i&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;&lt;i&gt;Prouuencaulx,
+                si&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;Prouvenceaulx, s’i&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;121&lt;/td&gt;&lt;td&gt;&lt;i&gt;Quand,
+                vyt&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;Quant, öyt&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;122&lt;/td&gt;&lt;td&gt;&lt;i&gt;se
+                ioyst&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;s’esjöyst&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;126&lt;/td&gt;&lt;td&gt;&lt;i&gt;ensemble
+                et l’ont assiegé&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;ensemble l’ont assiegié&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;132&lt;/td&gt;&lt;td&gt;&lt;i&gt;pensent&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;penssent&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;149&lt;/td&gt;&lt;td&gt;&lt;i&gt;iour&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;jour&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;152&lt;/td&gt;&lt;td&gt;&lt;i&gt;conuit&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;couvint&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;155&lt;/td&gt;&lt;td&gt;&lt;i&gt;patre
+                nostre&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;patrenostre&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;157&lt;/td&gt;&lt;td&gt;&lt;i&gt;allons&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;alons&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;158&lt;/td&gt;&lt;td&gt;&lt;i&gt;ny,
+                hay&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;n’y, haÿs&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;159&lt;/td&gt;&lt;td&gt;&lt;i&gt;Sy
+                yrons&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;S’yrons&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;164&lt;/td&gt;&lt;td&gt;&lt;i&gt;Gy&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;G’y&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;
+                &lt;tr&gt;&lt;td&gt;168&lt;/td&gt;&lt;td&gt;&lt;i&gt;ie&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;je&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;171&lt;/td&gt;&lt;td&gt;&lt;i&gt;dittes&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;dittez&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;172&lt;/td&gt;&lt;td&gt;&lt;i&gt;quittes&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;quittez&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;174&lt;/td&gt;&lt;td&gt;&lt;i&gt;semblant&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;semblent&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;181&lt;/td&gt;&lt;td&gt;&lt;i&gt;deffendre&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;deffendere&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;182&lt;/td&gt;&lt;td&gt;&lt;i&gt;debonnaire&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;debennaire&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;186&lt;/td&gt;&lt;td&gt;&lt;i&gt;ainsi
+                qu’ait&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;ains qu’ait&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;196&lt;/td&gt;&lt;td&gt;&lt;i&gt;iour&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;jour&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;205&lt;/td&gt;&lt;td&gt;&lt;i&gt;Queroiz&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;Quieroiz&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;206&lt;/td&gt;&lt;td&gt;&lt;i&gt;si&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;s’i&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;214&lt;/td&gt;&lt;td&gt;&lt;i&gt;il&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;ilz&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;215&lt;/td&gt;&lt;td&gt;&lt;i&gt;vaillamment&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;vaillament&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;218&lt;/td&gt;&lt;td&gt;&lt;i&gt;Monferra&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;Montferra&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;220&lt;/td&gt;&lt;td&gt;&lt;i&gt;ils&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;il&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;227&lt;/td&gt;&lt;td&gt;&lt;i&gt;mieulx&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;mieulz&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;232&lt;/td&gt;&lt;td&gt;&lt;i&gt;au&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;ou&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;234&lt;/td&gt;&lt;td&gt;&lt;i&gt;un,
+                iour&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;ung, jour&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;236&lt;/td&gt;&lt;td&gt;&lt;i&gt;des
+                vespres&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;de[s] vespres&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;239&lt;/td&gt;&lt;td&gt;&lt;i&gt;enfremz&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;enfermez&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;248&lt;/td&gt;&lt;td&gt;&lt;i&gt;volontiers&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;volentiers&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;249&lt;/td&gt;&lt;td&gt;&lt;i&gt;i’ay&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;j’ay&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;256&lt;/td&gt;&lt;td&gt;&lt;i&gt;qu’il&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;qui&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;259&lt;/td&gt;&lt;td&gt;&lt;i&gt;fié&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;fyé&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;261&lt;/td&gt;&lt;td&gt;&lt;i&gt;qu’ayie&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;qu[e]
+                ay ge&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;264&lt;/td&gt;&lt;td&gt;&lt;i&gt;iusqu&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;jusqu&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;269&lt;/td&gt;&lt;td&gt;&lt;i&gt;fiefs&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;fiefz&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;271&lt;/td&gt;&lt;td&gt;&lt;i&gt;sont&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;sunt&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;285&lt;/td&gt;&lt;td&gt;&lt;i&gt;ainsi,
+                forteresse&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;ains, fortaresse&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;286&lt;/td&gt;&lt;td&gt;&lt;i&gt;presse&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;prese&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;293&lt;/td&gt;&lt;td&gt;&lt;i&gt;faillir&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;fallir&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;297&lt;/td&gt;&lt;td&gt;&lt;i&gt;disent&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;dient&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;298&lt;/td&gt;&lt;td&gt;&lt;i&gt;ny&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;n’y&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;299&lt;/td&gt;&lt;td&gt;&lt;i&gt;armé,
+                fer vestiz&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;armés, fervestiz&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;302&lt;/td&gt;&lt;td&gt;&lt;i&gt;marquis&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;marquiz&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;304&lt;/td&gt;&lt;td&gt;&lt;i&gt;quand&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;quant&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;314&lt;/td&gt;&lt;td&gt;&lt;i&gt;preud’hommes&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;preud’ommes&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;315&lt;/td&gt;&lt;td&gt;&lt;i&gt;i’ay,
+                pietaille&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;s’ay, pitaille&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;323&lt;/td&gt;&lt;td&gt;&lt;i&gt;le&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;les&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;325&lt;/td&gt;&lt;td&gt;&lt;i&gt;fiefs&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;fiefz&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;328&lt;/td&gt;&lt;td&gt;&lt;i&gt;trouueray&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;trouvera&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;332&lt;/td&gt;&lt;td&gt;&lt;i&gt;alla&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;ala&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;336&lt;/td&gt;&lt;td&gt;&lt;i&gt;il&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;ilz&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;339&lt;/td&gt;&lt;td&gt;&lt;i&gt;combattre&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;combatre&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;345&lt;/td&gt;&lt;td&gt;&lt;i&gt;bien&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;tien&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;346&lt;/td&gt;&lt;td&gt;&lt;i&gt;tant&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;tans&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;347&lt;/td&gt;&lt;td&gt;&lt;i&gt;rouen&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;rovein&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;348&lt;/td&gt;&lt;td&gt;&lt;i&gt;desire&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;desir&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;349&lt;/td&gt;&lt;td&gt;&lt;i&gt;en&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;ent&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;355&lt;/td&gt;&lt;td&gt;&lt;i&gt;Sire,
+                ie&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;Syre, je&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;357&lt;/td&gt;&lt;td&gt;&lt;i&gt;arrier&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;arriere&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;364&lt;/td&gt;&lt;td&gt;&lt;i&gt;et
+                si veult&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;et si vous veult&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;378&lt;/td&gt;&lt;td&gt;&lt;i&gt;sans&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;sus&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;381&lt;/td&gt;&lt;td&gt;&lt;i&gt;none&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;nonne&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;382&lt;/td&gt;&lt;td&gt;&lt;i&gt;sone&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;sonne&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;389&lt;/td&gt;&lt;td&gt;&lt;i&gt;forteresse&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;fortresse&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;410&lt;/td&gt;&lt;td&gt;&lt;i&gt;banniere,
+                deployer&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;baniere, desployer&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;415&lt;/td&gt;&lt;td&gt;&lt;i&gt;es&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;est&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;417&lt;/td&gt;&lt;td&gt;&lt;i&gt;cheuaulx&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;chevalx&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;421&lt;/td&gt;&lt;td&gt;&lt;i&gt;banniers&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;banieres&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;427&lt;/td&gt;&lt;td&gt;&lt;i&gt;puissans&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;puisans&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;433&lt;/td&gt;&lt;td&gt;&lt;i&gt;de
+                coste&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;d’encoste&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;445&lt;/td&gt;&lt;td&gt;&lt;i&gt;Orset&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;Orcet&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;451&lt;/td&gt;&lt;td&gt;&lt;i&gt;vos&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;vous&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;453&lt;/td&gt;&lt;td&gt;&lt;i&gt;hardis&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;hardies&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;454&lt;/td&gt;&lt;td&gt;&lt;i&gt;foison
+                sergent&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;foison de sergens&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;461&lt;/td&gt;&lt;td&gt;&lt;i&gt;sur
+                son enseigne&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;sus son enseigne,&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;462&lt;/td&gt;&lt;td&gt;&lt;i&gt;maintieigne&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;maintiegne&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;463&lt;/td&gt;&lt;td&gt;&lt;i&gt;a&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;s’a&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;472&lt;/td&gt;&lt;td&gt;&lt;i&gt;ensemble&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;emsemble&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;473&lt;/td&gt;&lt;td&gt;&lt;i&gt;esperonant&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;esperonnant&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;475&lt;/td&gt;&lt;td&gt;&lt;i&gt;grande&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;grant&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;477&lt;/td&gt;&lt;td&gt;&lt;i&gt;il&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;ilz&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;493&lt;/td&gt;&lt;td&gt;&lt;i&gt;cheuaulche&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;chevaulchent&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;496&lt;/td&gt;&lt;td&gt;&lt;i&gt;ny&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;n’[y]&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;501&lt;/td&gt;&lt;td&gt;&lt;i&gt;Cabailler,
+                Antoine&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;Cabaillier, Antonie&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;503&lt;/td&gt;&lt;td&gt;&lt;i&gt;brochie&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;broiche&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;505&lt;/td&gt;&lt;td&gt;&lt;i&gt;les&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;le[s]&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;509
+                e 563&lt;/td&gt;&lt;td&gt;&lt;i&gt;Rome rheiter, sus, Rome rheiter&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;Romme
+                Rheiter, Romme Rheiter&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;517&lt;/td&gt;&lt;td&gt;&lt;i&gt;Hodeon&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;Hodeum&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;520&lt;/td&gt;&lt;td&gt;&lt;i&gt;l’endemain&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;le
+                lendemain&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;521&lt;/td&gt;&lt;td&gt;&lt;i&gt;au&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;ou&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;522&lt;/td&gt;&lt;td&gt;&lt;i&gt;Pierre
+                d’Azel le preux bersin&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;Pierre d’Azel, le preux bersin&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;526&lt;/td&gt;&lt;td&gt;&lt;i&gt;les&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;le[s]&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;527&lt;/td&gt;&lt;td&gt;&lt;i&gt;Ianin&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;Jannin&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;529&lt;/td&gt;&lt;td&gt;&lt;i&gt;combatre&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;combattre&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;530&lt;/td&gt;&lt;td&gt;&lt;i&gt;Valperghie&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;Valperghe&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;531&lt;/td&gt;&lt;td&gt;&lt;i&gt;valent&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;Valent&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;533&lt;/td&gt;&lt;td&gt;&lt;i&gt;celluy&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;cellui&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;538&lt;/td&gt;&lt;td&gt;&lt;i&gt;aultres&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;autres&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;540&lt;/td&gt;&lt;td&gt;&lt;i&gt;maintient&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;maintiennent&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;541&lt;/td&gt;&lt;td&gt;&lt;i&gt;pluisieurs&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;pluiseurs&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;543&lt;/td&gt;&lt;td&gt;&lt;i&gt;Camaygne&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;Camaigne&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;545&lt;/td&gt;&lt;td&gt;&lt;i&gt;hardye&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;hardie&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;548&lt;/td&gt;&lt;td&gt;&lt;i&gt;reproche&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;reproiche&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;564&lt;/td&gt;&lt;td&gt;&lt;i&gt;juster&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;fuster&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;566&lt;/td&gt;&lt;td&gt;&lt;i&gt;au&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;ou&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;570&lt;/td&gt;&lt;td&gt;&lt;i&gt;Galyot&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;Galiot&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;572&lt;/td&gt;&lt;td&gt;&lt;i&gt;portant&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;pourtant&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;573&lt;/td&gt;&lt;td&gt;&lt;i&gt;e
+                tous&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;e vous&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;579&lt;/td&gt;&lt;td&gt;&lt;i&gt;com,
+                hom&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;commë, homs&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;581&lt;/td&gt;&lt;td&gt;&lt;i&gt;aueques&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;averques&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;590&lt;/td&gt;&lt;td&gt;&lt;i&gt;semblant&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;semblent&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;591&lt;/td&gt;&lt;td&gt;&lt;i&gt;cops&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;corps&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;596&lt;/td&gt;&lt;td&gt;&lt;i&gt;est
+                derrier&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;n’est pas derrier&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;598&lt;/td&gt;&lt;td&gt;&lt;i&gt;au&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;ou&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;608&lt;/td&gt;&lt;td&gt;&lt;i&gt;par,
+                gran&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;part, grant&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;610&lt;/td&gt;&lt;td&gt;&lt;i&gt;se
+                spargne&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;s’espargne&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;611&lt;/td&gt;&lt;td&gt;&lt;i&gt;Antoine&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;Antonin&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;616&lt;/td&gt;&lt;td&gt;&lt;i&gt;heureux,
+                echappe&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;eureux, eschappe&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;619&lt;/td&gt;&lt;td&gt;&lt;i&gt;au,
+                tresbien&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;ou, tresbiem&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;620&lt;/td&gt;&lt;td&gt;&lt;i&gt;ie&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;je&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;624&lt;/td&gt;&lt;td&gt;&lt;i&gt;de
+                stocq&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;d’estocq&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;642&lt;/td&gt;&lt;td&gt;&lt;i&gt;tous&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;tout&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;645&lt;/td&gt;&lt;td&gt;&lt;i&gt;veut&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;veult&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;647&lt;/td&gt;&lt;td&gt;&lt;i&gt;a&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;ha&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;649&lt;/td&gt;&lt;td&gt;&lt;i&gt;deffendant&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;deffendent&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;661&lt;/td&gt;&lt;td&gt;&lt;i&gt;esmay&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;emay&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;670&lt;/td&gt;&lt;td&gt;&lt;i&gt;cuidoit,
+                ailieurx&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;cudoit, ailleurx&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;671&lt;/td&gt;&lt;td&gt;&lt;i&gt;grand
+                ioye&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;grant joye&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;675&lt;/td&gt;&lt;td&gt;&lt;i&gt;Fut&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;Fuit&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;680&lt;/td&gt;&lt;td&gt;&lt;i&gt;prender&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;prendre&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;tr&gt;&lt;td&gt;691&lt;/td&gt;&lt;td&gt;&lt;i&gt;emy&lt;/i&gt;&lt;/td&gt;&lt;td&gt;&lt;i&gt;emmy&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;br/&gt;&lt;/tr&gt;
+                &lt;/table&gt; &lt;br/&gt;&lt;br/&gt;
+            </p></div>
+        </back>
+    </text>
+</TEI>

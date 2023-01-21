@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="PRIVILEGIVENEZIANIALEPPO-privilegiVenezianiAleppo">Privilegi ai veneziani del Sultano di Aleppo</title>
+                <title type="short">Privilegi ai veneziani del Sultano di Aleppo</title>
+                <title type="sub">1254, Aleppo</title>
+                <author xml:id="PRIVILEGIVENEZIANIALEPPO" n="171.000">
+                    <persName type="main"></persName>
+                    <persName type="short"></persName>
+                </author>
+                <principal>Serena Modena</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata e marcatura digitale</resp>
+                    <name>Serena Modena</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Marco Pozza, <emph style="font-style:italic">I trattati con Aleppo, 1207-1254</emph>, a cura di Marco Pozza, Venezia, Il Cardo, 1990 («Pacta Veneta», 2), pp. 60-63.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t4"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <div2 xml:id="d001c001" n="I">
+                    <head>I</head>
+                    <p xml:id="d001l1" n="001" rend="unnumbered"><lb/> <lb/>{{1254 (settembre 1 – dicembre 31)}}<lb/> <lb/>{{Il sultano di Aleppo, al-Nāșir
+                    Yūsuf, conferma a Giovanni Sagredo, rappresentante di Venezia, i privilegi concessi
+                    ai Veneziani dai suoi predecessori.}}<lb/> <lb/>{{Hoc est pactum factum per soldanum
+                    Adalapi ad peticionem nobilis viri Iohannis Secreto, currente anno Domini MCCLIIII,
+                    indicione XIIIa.}}</p>
+                    <lb/>
+                    <p xml:id="d001l2" n="1" rend="numbered">A comandé par le haut comandement seignori le soltan - Dex acreisse sa hautece et doble
+                    les sostenances de ses mandemens -, de mener les marcheans de Venise sur lor durable
+                    usance et lor ferme costume de venir et d'aler en nostre terre, ne que l'on doie changier
+                    nule costume, ne renoveler sur els nul jugement; mais que il soient ferme sur lor usance
+                    coneue et lor privée costume, segnot ce qui est és privileges honorés que il ont de
+                    nos en lor mains; o l'acreissement que il partiront d'els honorer en nostre terre et
+                    d'els pusièr en toç noç reaumes et bonté perdurable et otrei ferme; la quele chose seit
+                    clere et ne se deit trobler ne ne se deit changier a la longuesse des jors.</p>
+                    <p xml:id="d001l3" n="2" rend="numbered">Et le chemin de toç cels qui cest present escrit verront, des amirails et des bailliç
+                    et de cels qui sunt ea leut d'els generalment de receveir cest comandement et de faire
+                    ce qui i concient, et trestoç cels qui venront de par els, honorer et pusièr et aidier
+                    à lor vente et à lor achat, et de prendre ce que il deivent de la dreiture, si come
+                    l'usance est corue, sanç nul creissement de nule chose terrene; et toç jors seit le
+                    regart des billiç de salver ce que il auront ***.</p>
+                    <p xml:id="d001l4" n="3" rend="numbered">Com il serunt en nostre terre au venir et al aler, par que i il puissent entrer et issir
+                    salvement o quant que il auront.</p>
+                    <p xml:id="d001l5" n="4" rend="numbered">Por ce que cels qui veront de cele partie puissent estre sauf et segurs; et por ce que
+                    il sachent ceste chose, fu ce confermé del confermement del haut seignal.</p>
+                    <lb/>
+                </div2>
+                <div2 xml:id="d001c002" n="II">
+                    <head>II</head>
+                    <p xml:id="d001l6" n="002" rend="unnumbered"><lb/> <lb/>{{1254 (settembre 1 – dicembre 31)}}<lb/> <lb/>{{al-Nāșir Yūsuf, sultano
+                    di Aleppo, in risposta alle lettere del doge di Venezia, Ranieri Zeno, ribadisce i suoi
+                    sentimenti di amicizia nei confronti dei Veneziani.}}<lb/></p>
+                    <lb/>
+                    <p xml:id="d001l7" n="1" rend="numbered">Le soltan le melec el Nasser, salech el dume cueldin, reçut les letres qui vindrent
+                    de par le duc, le noble, le grant, le vigoros, le pros, le hardi, le sosteneor des leis
+                    de Jhesu Christ, la gloire del peuple de nostre Seignor, l'avanceor des generacions
+                    de la crois, le honor de partie des Frans, l'apoieor des enfans del baptesme, le victorien
+                    des enfans de Crestienté – Dex alonge le terme de sa vie, et asemble les cuers sur s'amistance,
+                    et parolent les lengues de son los et de son gré, et toç tens seit s'amistance honoree
+                    et sa grace multepliee –, et l'entendimens loant s'amor, remembrant s'amistié, maintenant
+                    s'acointance, delitant delivrement des dettes que nos avons en s'amor.</p>
+                    <p xml:id="d001l8" n="2" rend="numbered">Et seumes ce que il manda disant en eles de son pendement envers nos, et de la fiance
+                    que il a en nos; et le mercions de cest revisitement que nos receumes et de l'amistié,
+                    que il a en nos la quale nos tenons à grant repos. Si vint son message, le chier, le
+                    gentil, le prisié sire Johan Secret – Dex le face durable –, et se presenta en noç mains,
+                    et nos retraist par boche son enchargement, et seumes les entreseignes de l'amor qui
+                    i conteneit et la reconoissance de sa clere amistié; si que nostre los dobla en sa clere
+                    amor et nostre volenté en s'amistié; dont nos li avons retrait le respons en fait sa
+                    besoigne.</p>
+                    <p xml:id="d001l9" n="3" rend="numbered">Et le duc – Dex le face durable –, nos revisite de ses lettres, et nos esioisse de ses
+                    besoignes et de ses servises; et Dex le haut le face durable de sa longue vie, et son
+                    fait seit loe en totes choses.</p>
+                    <lb/>
+                    <lb/>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

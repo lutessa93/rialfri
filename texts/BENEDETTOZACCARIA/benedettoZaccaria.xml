@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="BENEDETTOZACCARIA-benedettoZaccaria">Memoriale per Filippo IV di Francia</title>
+                <title type="short">Memoriale per Filippo IV di Francia</title>
+                <title type="sub">1294</title>
+                <author xml:id="BENEDETTOZACCARIA" n="022.000">
+                    <persName type="main">Benedetto Zaccaria</persName>
+                    <persName type="short">Benedetto Zaccaria</persName>
+                </author>
+                <principal>Antonio Musarra</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitale</resp>
+                    <name>Antonio Musarra</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale</resp>
+                    <name>Francesca Gambino</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Antonio Musarra, <emph style="font-style:italic">Un progetto italiano di razzia del suolo inglese redatto per Filippo IV il Bello (1294 ca.)</emph>, in «Francigena. Rivista sul franco-italiano e sulle scritture francesi nel Medioevo d’Italia», 2 (2016), pp. 249-273, alle pp. 261-265.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t5"/>
+                <keywords>
+                    <term type="form">prose</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <p xml:id="d001l1" style="font-weight:bold" n="">I</p>
+                <lb/>
+                <p xml:id="d001l2" n="1" rend="numbered">Je Beneet Zacharie, amiraus generaus du tres excellenti[ssi]me roy de France, et mes
+                conseuls qui entendons a consellier le dit roy de son honneur et de sa hautece,</p>
+                <p xml:id="d001l3" n="2" rend="numbered">et proprement comment avis nous est pour le mielz que il doie comander a faire la guerre
+                de mer, a graigneur honneur et sauvement de son royaume, et a plus domager les anemis,</p>
+                <p xml:id="d001l4" n="3" rend="numbered">si prions li tout poissanz Dieu que il nous preste grace de consellier a son plesir
+                le dit roy, si que sainte yglise et la hautece de sa couronne en soit perpetuement essaucié.</p>
+                <lb/>
+                <p xml:id="d001l5" n="4" rend="numbered">[C] Nous entendons a consellier III principaus choses des quelles descendent toutes
+                celles que nous avons a dire.</p>
+                <p xml:id="d001l6" n="5" rend="numbered">De la premiere dison nous que il i a III branches.</p>
+                <p xml:id="d001l7" n="6" rend="numbered">En la premiere branche nous dison que la melleur maniere de guerroier que nous sachon
+                pourvoier en nostre avis, selon l’estat du dit nostre segneur le roy,</p>
+                <p xml:id="d001l8" n="7" rend="numbered">et plus pour la presente condition des anemis a guerreer, non pas tant seulement par
+                forche, mes par forche et par bonne pourvoiance,</p>
+                <p xml:id="d001l9" n="8" rend="numbered">si est que nous armon certaine quantité d’ussiers et de galies qui porteroient certaine
+                somme de chevaliers et de chevaus et de hommes a pié arbalestiers et a lances et a dars.</p>
+                <p xml:id="d001l10" n="9" rend="numbered">Ces galies et ussiers useront la guerre en ceste guise, quar elles sigleront sus les
+                anemis a l’aide de Dieu.</p>
+                <p xml:id="d001l11" n="10" rend="numbered">Si entendons que on en doie offendre as anemis en IIII manieres.</p>
+                <p xml:id="d001l12" n="11" rend="numbered">L’une est en mer, si comme autres galies feroient.</p>
+                <p xml:id="d001l13" n="12" rend="numbered">La seconde est as porz des anemis, as nes ardoir et prendre mielz que galies ne feroient,
+                pour ce que, se as diz porz ne fust trop efforcie ville, li chevalier et li gent d’armes
+                istroient a terre, si toudroient as nes le secours de la terre;</p>
+                <p xml:id="d001l14" n="13" rend="numbered">par quoi les nes, pour quantité que elles fussent, ne se porroient deffendre quelles
+                ne fussent arses ou prises.</p>
+                <p xml:id="d001l15" n="14" rend="numbered">La tierce est que li chevalier et li gent d’armes istroient a terre,</p>
+                <p xml:id="d001l16" n="15" rend="numbered">la ou il quideroient les anemis plus domager si enteroient ou pais tant avant comme
+                avis leur seroit a leur sauvement, gastant et essillant.</p>
+                <p xml:id="d001l17" n="16" rend="numbered">Et menant le pais a feu et a flamme, destruiant les bestiaus, les bours et les villes
+                que il porroient prendre et si convendroit estre la ville bien fort, que desporveuement
+                se peust defendre de tant d’omes batailleours et porveus.</p>
+                <p xml:id="d001l18" n="17" rend="numbered">Et quant il aroient celle contree a leur pover destruite et essilié, tant que li anemi
+                seroient amassé pour venir sus eus, il se retraroient en leur ussiers sanz bataille
+                prendre, si s’en partiroient et sigleroient en autre contré bien loing,</p>
+                <p xml:id="d001l19" n="18" rend="numbered">et referoient autre tel et en ceste guise useroient leur guerre, une heure en une contree,
+                et autre en une autre.</p>
+                <p xml:id="d001l20" n="19" rend="numbered">Et parce que li anemi ne saroient en quel leu, il seroient assalli et il ne perroient
+                pas garnir toutes leurs contrees, grant peour et grant esbahissement seroit entre eus.</p>
+                <p xml:id="d001l21" n="20" rend="numbered">Et, se il avenoit que il prissent aucune ville en coste mer dont il peussent remonter
+                aisiement en leur ussiers, il feroient semblant de faire clostures pour la ville defendre.</p>
+                <p xml:id="d001l22" n="21" rend="numbered">Et quant cil du pais le saroient, il leur convendroit douter que ce ne fust pour autre
+                entendement,</p>
+                <p xml:id="d001l23" n="22" rend="numbered">pour ce vendroient il pour la ville recouvrer, et de pres et de loing, a grant coust
+                et a grant traval.</p>
+                <p xml:id="d001l24" n="23" rend="numbered">Et quant a noz seroit avis que li demorer ne fust pour eus, il bouteroient le feu en
+                la ville et se remetroient en leur ussiers.</p>
+                <p xml:id="d001l25" n="24" rend="numbered">Et la quarte offense est que li trainement, la despense et le travail que li anemi
+                aroient a faire pour eus garder et sauver</p>
+                <p xml:id="d001l26" n="25" rend="numbered">et la doutance que il aroient que cil d’Escoce ou de Gales ou d’autres de leur terre
+                ne se tornassent encontre eus pour le traitement et pour le secours de nostre gent.</p>
+                <lb/>
+                <p xml:id="d001l27" n="26" rend="numbered">En la seconde branche dison nous que nous entendons a armer XX ussiers et IIII galies
+                et XXIIII batiaus, donc nous trouvion que nous en avon XIII au dit roy, li VII sont
+                a Rouen, li V a la Rochelle et a la Riolle et li XIIIme est a Kalays,</p>
+                <p xml:id="d001l28" n="27" rend="numbered">si en avon qui sont nostres, si a en la Rochelle I grant ussier de marcheanz que on
+                porroit avoir a convenable fuer,</p>
+                <p xml:id="d001l29" n="28" rend="numbered">si poons IIII des plus granz galies du dit roy haucer et eslargir, et ouvrir les par
+                deriere a guisse d’ussiers, einsi aurion nous XX ussiers.</p>
+                <p xml:id="d001l30" n="29" rend="numbered">En ces XX ussiers entendon nous a porter aisiement, si comme a la besoigne sa fiert,
+                XX chevaliers et XX chevaus par chascun.</p>
+                <p xml:id="d001l31" n="30" rend="numbered">Ce seroient IIII cent chevaliers et IIII cent chevaus.</p>
+                <p xml:id="d001l32" n="31" rend="numbered">Li chevalier aroient IIII cent hommes d’armes a pié ou plus pour eus servir et leur
+                chevaus.</p>
+                <p xml:id="d001l33" n="32" rend="numbered">Einsi aroit es diz ussiers, galies et battiaus, IIII mille et VIII cens mariners d’armes
+                a pié, et einsi seroient il V mille et II cent hommes a pié.</p>
+                <p xml:id="d001l34" n="33" rend="numbered">Si entendon que des IIII galies que les II siuroient ades les ussiers, si seroient
+                en garde quant li chevalier istroient a terre,</p>
+                <p xml:id="d001l35" n="34" rend="numbered">et les autres II galies ne fineroient d’aler et de venir en cest pais pout aporte choses
+                a vivre as hommes et as chevaus, a ce que la dite armée ne conveinst a torner en cest
+                pais, ne lessier a faire les dites offenses.</p>
+                <p xml:id="d001l36" n="35" rend="numbered">Et quant nous pourvoions le dit effors de chevaliers et de peons, asses nous est avis
+                que il seroit soufisanz a acomplir sanz grant peril ce que dit avons ou encore plus
+                avant.</p>
+                <lb/>
+                <p xml:id="d001l37" n="36" rend="numbered">En la tierce branche dison nous que cil qui devra estre conduiseours des chevaliers
+                si doit estre hons qui port grant amour et grant foi au dit roy et que il soit de haut
+                afaire et que ait en ceste guerre bonne volenté et que il puisse et veulle endurer
+                paine et travail.</p>
+                <p xml:id="d001l38" n="37" rend="numbered">De sa sagesce ne de sa provece, ne des autres bonnes vertuz qui a tel homme fierent,
+                n’entendon nous pas a parler.</p>
+                <p xml:id="d001l39" n="38" rend="numbered">Des chevaliers dison nous que il ne veullent pas estre dangerous, ne amis a avoir delit
+                ne repos,</p>
+                <p xml:id="d001l40" n="39" rend="numbered">ancheis veullent estre obeissant et acoustumé d’armes et de traval, quar ceste maniere
+                de guerre est toute es soufrir traval.</p>
+                <p xml:id="d001l41" n="40" rend="numbered">Pour ce doivent il estre quis et esleu d’entre les autres, non pas a armour, ne a prieres,
+                mes si comme la necessité du fait le requiert.</p>
+                <p xml:id="d001l42" n="41" rend="numbered">Des autres mariners dison nous que il abesoignent a estre des melleurs que nous pourrons
+                avoir, quar les soudées des bonnes genz sont gaengniés et celles as chetis sont perdues.</p>
+                <p xml:id="d001l43" n="42" rend="numbered">Et pour ce nous est avis que la dite maniere de guerre se doie mener, si comme dit
+                est, a ce que nostre force et nostre bonne pourvoiance puisse mielz adrecer a bonne
+                fin.</p>
+                <lb/>
+                <p xml:id="d001l44" n="43" rend="numbered">[C] Puis que nous avon dit de la premiere principal chose et de ses branches nostre
+                avis, nous dirons apres de la seconde en la quelle nous entendons a deviser la somme
+                du coust qui a ce s’afiert,</p>
+                <p xml:id="d001l45" n="44" rend="numbered">mes il nous convient dire a combien de mois il nous est avis que li chevalier et li
+                autre doivent estre poiez.</p>
+                <p xml:id="d001l46" n="45" rend="numbered">Nous disons que il nous semble pour le mielz de ce que dit avons pour III resons a
+                IIII mois au meins.</p>
+                <p xml:id="d001l47" n="46" rend="numbered">L’une reson est quar pour ces soudées nous aurions melleurs hommes d’armes et de mer
+                et graigneur quantité et melleur marchié.</p>
+                <p xml:id="d001l48" n="47" rend="numbered">La seconde est quar nous nous leur ferions acheter de leur soudées aucunes armeures,
+                si que nous aurions meins a faire et a acheter.</p>
+                <p xml:id="d001l49" n="48" rend="numbered">Et la tierce reson est et la plus necessaire, que il ne nous abesoigneroit de venire
+                querre soudées</p>
+                <p xml:id="d001l50" n="49" rend="numbered">si que ades serions en l’offense des anemis, quar a venir pour les soudées, et a l’atendre
+                et au retourner, se gaste grant temps, qui couste grant argent, et l’offense qui se
+                feroit ne se fait.</p>
+                <p xml:id="d001l51" n="50" rend="numbered">Si que pour le mielz nous semble donner le soudées a IIII mois.</p>
+                <p xml:id="d001l52" n="51" rend="numbered">Et puis que nous avon dit a combien de mois nous est avis a donner les soudées, nous
+                ensivrons a dire de la forme di coust.</p>
+                <p xml:id="d001l53" n="52" rend="numbered">Nous trouvons que nous avons a faire de V manieres coust sanz celui des chevaliers,
+                du quel nous n’entendons pas a parller.</p>
+                <p xml:id="d001l54" n="53" rend="numbered">Li premiers coust est les gages as mariners que seroient si comme dit est environ IIII
+                mille et VIII cent mariners ou plus, en XXIIII ussiers et galies, et en XXIIII batiaus,
+                que nous fesons coute qui cousteront le mois, l’un par l’autre, XL sols tornois.</p>
+                <p xml:id="d001l55" n="54" rend="numbered">Et bien qui dons que nous les pourrions avoir pour XXXV sols, mes nous leur entendons
+                a donner tant par II resons.</p>
+                <p xml:id="d001l56" n="55" rend="numbered">L’une est que nous les armeron de melleur gent et l’autre est que nous n’entendons
+                a doner a patrons, ne a nochiers ne a autres mariners pour leur vivre, fors tant seulement
+                pain et egue, feves et pois,</p>
+                <p xml:id="d001l57" n="56" rend="numbered">si que il s’achateroient de leur gages le vin, le char et les autres choses necessaires
+                pour vivre,</p>
+                <p xml:id="d001l58" n="57" rend="numbered">si que ce ne seroit grant esparnement d’argent et grant escuse de travail, si que ce
+                que nous leur dorrion plus en soudee nous cousteroient meins les choses a vivre et
+                si serion hors de la murmuration et du groignissement as mariners.</p>
+                <p xml:id="d001l59" n="58" rend="numbered">Cist coust trouvon nous que monte le mois IX mille, VI cens livres tornois. Somme pour
+                IIII mois XXXVIII mille, IIII cens livres tornois.</p>
+                <lb/>
+                <p xml:id="d001l60" n="59" rend="numbered">Le secons coust est des choses a vivre et nous faisons coute que li pain, les feves
+                et li pois cousteront, pour la soufisance de I homme, pour I mois, XV sous tornois.</p>
+                <p xml:id="d001l61" n="60" rend="numbered">Monte le mois II mille, III cens livres tornois. Somme XIIII mille, VI cens livres
+                tornois.</p>
+                <p xml:id="d001l62" n="61" rend="numbered">Li tiers coust est les armeures qui abesoignent qui anques faillent toutes, que celles
+                de la Rochelle, de la Riolle et de Bordiaus sont toutes alées a mal.</p>
+                <p xml:id="d001l63" n="62" rend="numbered">Et de ce faison nous conte que elles pourront couster ce que nous en faudra, III mille
+                livres tornois.</p>
+                <p xml:id="d001l64" n="63" rend="numbered">Li quart coust est li apparel et les choses besoignables as ussiers et a galies, si
+                comme sont abres, anthenes, gouvernaux, voilles, cordes, remes et grant somme d’autres
+                menues choses, charpenteries, callefateries et autres despenses a ce besoignables:</p>
+                <p xml:id="d001l65" n="64" rend="numbered">de ce fairon nous conte que il pourront couster environ V mille livres tornois.</p>
+                <p xml:id="d001l66" n="65" rend="numbered">Et li quint est pour amener le galies a Rouen qui sont en Petou et en Gascoigne, qui
+                seront XIIII, quar nous n’en avons a Rouen que X et ce coust montera,</p>
+                <p xml:id="d001l67" n="66" rend="numbered">poi ou asseis, selon ce quelles auroient de fret, mes nous faison conte quelles cousteroient
+                III mille livres tornois.</p>
+                <p xml:id="d001l68" n="67" rend="numbered">Somme toute LXIII mille et VIII cens livre tornois.</p>
+                <lb/>
+                <p xml:id="d001l69" n="68" rend="numbered">[C] Puis que nous avons dit de la premiere et de la seconde chose principal, nous diron
+                de la tierce en laquelle nous entendons a toucher V choses.</p>
+                <p xml:id="d001l70" n="69" rend="numbered">En la premiere dison que maintenant dont estre esleuz mout secretement cil qui sera
+                conduiseours des chevaliers et sus li soient enchargiés toutes les besoignes qui a
+                li et as chevaliers appendent si que riens ne leur faille au temps ordené.</p>
+                <p xml:id="d001l71" n="70" rend="numbered">En la seconde dison nous que tout a present se voudroient commencier a ouvrer toutes
+                les besoignes qui sont necessaires pour les ussiers et pour les galies et acheter les
+                apparaus, les armeures et les choses a vivre.</p>
+                <p xml:id="d001l72" n="71" rend="numbered">Et a ces choses faire convendroit presentement XX mille livres tornois et pour faire
+                venire les galies a Rouen et pour commencier a prendre les hommes en abesoignement
+                autre XX mille pour tout le mois de jenvier et le ramanant au commenchement de mars.</p>
+                <p xml:id="d001l73" n="72" rend="numbered">En la tierce chose dison nous que toute cheste armée, o l’aide de Dieu, de tant comme
+                il afiert a nous seroit achevée par tout le mois d’avril.</p>
+                <p xml:id="d001l74" n="73" rend="numbered">En la quarte dison nous que li dit roys feist commander a touz ses hommes de mer par
+                toute sa terre que nus ne doie ne i puisse entrer du mois de mars qui vient iusques
+                par tout le mois de juignet</p>
+                <p xml:id="d001l75" n="74" rend="numbered">si que pour ce que il n’oseroient entrer en mer il vendroient plus volontiers prendre
+                les soudées;</p>
+                <p xml:id="d001l76" n="75" rend="numbered">einsi aurion nous la quantité des hommes qui nous abesoigneroient et a plus convenable
+                marchié et sanz ce faire il nous cousteroient plus et a paine en pourrion avoir ce
+                que mestier nous seroit.</p>
+                <p xml:id="d001l77" n="76" rend="numbered">Et en la quinte chose dison nous que nous feron tout nostre pover d’acomplir, o l’aide
+                de Dieu, ce qui de ces choses apartient a nous, mes pour ce que ces choses conviennent
+                a commencier et a fenir pour argent,</p>
+                <p xml:id="d001l78" n="77" rend="numbered">si fait assavoir que nous entendons que li argent qui a ce besoigne ne doie targer
+                a avoir outre le temps dessus nommé et s’il targoit plus pour necessité, convendroit
+                que la dite armée targast meismement.</p>
+                <lb/>
+                <p xml:id="d001l79" n="78" rend="numbered">Nous avon dit, o l’aide de Dieu, tout ce que nous proposames a dire au commencement
+                et tout en amendement et au commandement du dit nostre segneur le roy et de son consel,</p>
+                <p xml:id="d001l80" n="79" rend="numbered">mes pour ce que nous n’avion dit fors ce qui apartient a nostre matiere sans dire aucune
+                des resons qui se porroient proposer econtre ce que dit avons pour examiner et pour
+                eslire le mielz,</p>
+                <p xml:id="d001l81" n="80" rend="numbered">pour ce que trop i aroit lo[n]gue escriture, si li envoions Karlot de Nigre, nostre
+                neveu, et Aubert Vonnart en leu de nous,</p>
+                <p xml:id="d001l82" n="81" rend="numbered">a ce que, se au consel du dit roy plesoit de la dite chose faire aucune examination,
+                que il, que nous avons de nostre entention enformez, en esclargissent vostre entendement,</p>
+                <p xml:id="d001l83" n="82" rend="numbered">ja se ce que volentiers fusse venuz pour encliner et suppleer le dit nostre segneur
+                le roy et pour la dite cause esclarir, mes ne ne puis en bonne guise par la grant fieblece
+                de mon cors, donc je li cri merci que il le me veulle pardonner.</p>
+                <lb/>
+            </div1>
+        </body>
+        <back>
+            <div type="edizione">
+                Testimone: Paris, Archives Nationales, Trésor des Chartes, J//456/36/4
+            </div>
+            <div type="apparato"><p>Apparato e criteri di edizione&lt;br/&gt;&lt;br/&gt;a cura di Antonio Musarra&lt;br/&gt;&lt;br/&gt;Nella presente edizione si
+                sono conservate tutte quelle particolarità linguistiche, attribuibili probabilmente al copista, che presentino
+                un carattere di regolarità (ad es. &lt;i&gt;mes&lt;/i&gt; in luogo di &lt;i&gt;mais&lt;/i&gt;); si sono
+                sciolte tutte le abbreviazioni; si è distinta la &lt;i&gt;u&lt;/i&gt; dalla &lt;i&gt;v&lt;/i&gt; e la
+                &lt;i&gt;i&lt;/i&gt; dalla &lt;i&gt;j&lt;/i&gt;, secondo le convenzioni abituali per i testi in antico
+                francese; si è inserita la punteggiatura; si sono divise le parole secondo l’uso odierno (ad es. &lt;i&gt;qu’elles&lt;/i&gt;
+                in luogo di &lt;i&gt;quelles&lt;/i&gt;); si sono utilizzate le lettere maiuscole per i toponimi e gli
+                antroponimi; si è segnato l’accento acuto sulle parole ossitone terminanti in -&lt;i&gt;e&lt;/i&gt;, -&lt;i&gt;es&lt;/i&gt;,
+                e la dieresi su &lt;i&gt;ai&lt;/i&gt; in iato; si sono indicate tra parentesi quadre le integrazioni al
+                testo; il testimone si limita a una tripartizione mediante l’utilizzo del segno “C”. Se ne è rispettato,
+                a ogni modo, il respiro, andando “a capo” nei medesimi punti. &lt;br/&gt;&lt;br/&gt;46 quar] &lt;i&gt; in sopralinea
+                con segno di richiamo &lt;/i&gt;    &lt;br/&gt;53 fesons] fesous &lt;br/&gt;70 a vivre] &lt;i&gt; in sopralinea con
+                segno di richiamo &lt;/i&gt;&lt;br/&gt;
+            </p></div>
+        </back>
+    </text>
+</TEI>

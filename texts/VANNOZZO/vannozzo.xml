@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="VANNOZZO-vannozzo">Tenzone con Gidino da Sommacampagna</title>
+                <title type="short">Tenzone con Gidino da Sommacampagna</title>
+                <title type="sub">seconda metà XIV sec.</title>
+                <author xml:id="VANNOZZO" n="089.000">
+                    <persName type="main">Francesco di Vannozzo</persName>
+                    <persName type="short">Francesco di Vannozzo</persName>
+                </author>
+                <principal>Roberta Manetti</principal>
+                <respStmt>
+                    <resp key="RIALFrI">Edizione digitalizzata</resp>
+                    <name>Roberta Manetti</name>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Marcatura digitale</resp>
+                    <name>Francesca Gambino</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://www.rialfri.eu">RIALFrI</publisher>
+                <pubPlace>
+                    <placeName>Padova</placeName>, <country>ITALY</country>
+                </pubPlace>
+                <date when="2022-07-01">01/07/2022</date>
+                <availability>
+                    <p>Copyright 2020 - RIALFrI Project</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 Unported License
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>RIALFrI - Repertorio Informatizzato Antica Letteratura Franco-Italiana / Digital Repertory of Medieval Franco-Italian Literature</title>
+                <respStmt>
+                    <resp key="RIALFrI">First developer of encoded collection</resp>
+                    <persName>Luigi Tessarolo</persName>
+                </respStmt>
+                <respStmt>
+                    <resp key="RIALFrI">Principal investigator of collection</resp>
+                    <persName>Francesca Gambino</persName>
+                    <orgName>Università degli Studi di Padova</orgName>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><emph style="font-style:italic">Le rime di Francesco di Vannozzo. Edizione critica</emph>, Tesi di dottorato in filologia romanza ed italiana (retorica e poetica italiana e romanza), VI ciclo, Università di Padova, 1994 (con ritocchi).</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>TEI-conformant markup, version P5, RIALFrI profile</p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="tRIALFrI">
+                    <category xml:id="t1">
+                        <catDesc>Copie di testi francesi eseguite in Italia / Copies of French texts made in Italy</catDesc>
+                    </category>
+                    <category xml:id="t2">
+                        <catDesc>Rifacimenti e rimaneggiamenti da parte di autori italiani di opere francesi / Reworkings and reorganizations of French works by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t3">
+                        <catDesc>Opere originali scritte da autori italiani in francese / Original works written in French by Italian authors</catDesc>
+                    </category>
+                    <category xml:id="t4">
+                        <catDesc>Testi in francese d'Oltremare / Texts in Mediterranean French</catDesc>
+                    </category>
+                    <category xml:id="t5">
+                        <catDesc>Opere che gravitano intorno al corpus di testi franco-italiani / Works related to the corpus of Franco-Italian texts</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident=""></language>
+            </langUsage>
+            <textClass>
+                <catRef target="#t3"/>
+                <keywords>
+                    <term type="form">poetry</term>
+                    <term type="source">literary</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <idno>1.00</idno>
+                <date></date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 xml:id="d001" type="work" n="">
+                <div2 xml:id="d001c001" n="I">
+                    <head>I</head>
+                    <lb/>
+                    <p xml:id="d001l1" n="">Ghedinus ad F. V.</p>
+                    <lb/>
+                    <l xml:id="d001l2" n="1"><emph style="font-style:italic">{{Precaro frate mio, s'io ben comprendo,}}</emph></l>
+                    <l xml:id="d001l3" n="2"><emph style="font-style:italic">{{qui celebrat virtutes}}</emph></l>
+                    <l xml:id="d001l4" n="3">se puet clamer deu tout beneuros.</l>
+                    <l xml:id="d001l5" n="4"><emph style="font-style:italic">{{Costui per saggio molto recomendo,}}</emph></l>
+                    <l xml:id="d001l6" n="5"><emph style="font-style:italic">{{quia diligit salutes}}</emph></l>
+                    <l xml:id="d001l7" n="6">de soy mieume, et des homes tretos.</l>
+                    <lb/>
+                    <l xml:id="d001l8" n="7"><emph style="font-style:italic">{{Però, sì come amico tuo, t'aprendo}}</emph></l>
+                    <l xml:id="d001l9" n="8"><emph style="font-style:italic">{{quod talia non refutes,}}</emph></l>
+                    <l xml:id="d001l10" n="9">se voys tout jors vivre lies et joios,</l>
+                    <l xml:id="d001l11" n="10"><emph style="font-style:italic">{{ché per virtude vegnira' salendo,}}</emph></l>
+                    <l xml:id="d001l12" n="11"><emph style="font-style:italic">{{si spem tuam non confutes,}}</emph></l>
+                    <l xml:id="d001l13" n="12">a l'aute gloyre dou regne amoros.</l>
+                    <lb/>
+                    <l xml:id="d001l14" n="13"><emph style="font-style:italic">{{Così per lo contrario pòi sapere}}</emph></l>
+                    <l xml:id="d001l15" n="14"><emph style="font-style:italic">{{quod homo vitiosus semper cadit}}</emph></l>
+                    <l xml:id="d001l16" n="15"><emph style="font-style:italic">{{in maximo labore}}</emph></l>
+                    <l xml:id="d001l17" n="16">d'arme e de cors e maynt in grant peril.</l>
+                    <lb/>
+                    <l xml:id="d001l18" n="17"><emph style="font-style:italic">{{Però te voglie col ben provedere,}}</emph></l>
+                    <l xml:id="d001l19" n="18"><emph style="font-style:italic">{{quia vitium semper iter suum radit}}</emph></l>
+                    <l xml:id="d001l20" n="19"><emph style="font-style:italic">{{cum ingenti dolore}}</emph></l>
+                    <l xml:id="d001l21" n="20">pour demener l'ome in caytis exyl.</l>
+                </div2>
+                <div2 xml:id="d001c002" n="II">
+                    <head>II</head>
+                    <lb/>
+                    <p xml:id="d001l22" n="">Responsio Francisci V.</p>
+                    <lb/>
+                    <l xml:id="d001l23" n="1"><emph style="font-style:italic">{{Se 'l tuo novo sonetto ben intendo,}}</emph></l>
+                    <l xml:id="d001l24" n="2"><emph style="font-style:italic">{{quem quamvis tu [im]mutes}}</emph></l>
+                    <l xml:id="d001l25" n="3">parlant per letre, lombart et fransos.</l>
+                    <l xml:id="d001l26" n="4"><emph style="font-style:italic">{{l'acetto per le mille e te comendo,}}</emph></l>
+                    <l xml:id="d001l27" n="5"><emph style="font-style:italic">{{sensumque suum non mutes:}}</emph></l>
+                    <l xml:id="d001l28" n="6">le fyn de ly ge non dirai tam tos.</l>
+                    <lb/>
+                    <l xml:id="d001l29" n="7"><emph style="font-style:italic">{{Acciò ch'io venga el sommo ben sentendo,}}</emph></l>
+                    <l xml:id="d001l30" n="8"><emph style="font-style:italic">{{opportet quod permutes,}}</emph></l>
+                    <l xml:id="d001l31" n="9">d'ytel a moy ly cor vanagloyros.</l>
+                    <l xml:id="d001l32" n="10"><emph style="font-style:italic">{{e le virtù con forza zir seguendo;}}</emph></l>
+                    <l xml:id="d001l33" n="11"><emph style="font-style:italic">{{si macerando cutes,}}</emph></l>
+                    <l xml:id="d001l34" n="12">deduis puys sant, ly bien suy desiros.</l>
+                    <lb/>
+                    <l xml:id="d001l35" n="13"><emph style="font-style:italic">{{Per lo contrario ancor mi fa' vedere}}</emph></l>
+                    <l xml:id="d001l36" n="14"><emph style="font-style:italic">{{quod ille miser qui cum vitiis vadit}}</emph></l>
+                    <l xml:id="d001l37" n="15"><emph style="font-style:italic">{{remanet in ardore}}</emph></l>
+                    <l xml:id="d001l38" n="16">e l'arme doyt a le dyables yl:</l>
+                    <lb/>
+                    <l xml:id="d001l39" n="17"><emph style="font-style:italic">{{erò la santa vita i' vo' tenere,}}</emph></l>
+                    <l xml:id="d001l40" n="18"><emph style="font-style:italic">{{et velut ille qui Deo patri tradit}}</emph></l>
+                    <l xml:id="d001l41" n="19"><emph style="font-style:italic">{{animum cum amore,}}</emph></l>
+                    <l xml:id="d001l42" n="20">layssant les homes tout codars e vyl.</l>
+                    <lb/>
+                    <lb/>
+                </div2>
+            </div1>
+        </body>
+        <back>
+            <div type="apparato"><p>Apparato e note a cura di Roberta Manetti&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;I&lt;br/&gt;&lt;br/&gt;1 Prechiaro V – 3 clamer se puet V
+                – 6 mieume] V – micume P – 9 se ueis V &lt;br/&gt;-----------&lt;br/&gt;3 puer P – 6 soi V – 7 te aprendo V – 10 uirtute
+                uegnirai V – 13 cossi V – 14 uitiosus V – 18 uicium V – sempre P – lome in chaitis V&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;-------------&lt;br/&gt;1.
+                &lt;i&gt;Precaro&lt;/i&gt;: superl. (alla latina); sostanziale la variante V (&lt;i&gt;prechiaro&lt;/i&gt;
+                ‘illustrissimo’).&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;II&lt;br/&gt;&lt;br/&gt;3 letre] letere – 20 vil] riil&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;-------------&lt;br/&gt;1.
+                &lt;i&gt;novo&lt;/i&gt;: ‘inusitato’. – 2. L’integrazione, già in Medin 1928, restaura un tecnicismo retorico.
+                – 4-5. Versi piuttosto oscuri, di cui avanzo una proposta d’interpretazione col beneficio del dubbio.
+                – 12. ‘proverò poi piacere, seguo il bene di buona voglia’. – 16. Propone &lt;i&gt;diabl’esil&lt;/i&gt;
+                Medin 1928 (‘dà l’anima all’esilio del diavolo’), ma la lettura comporterebbe, da parte di Francesco,
+                una ripresa non equivoca della parola rima di La 20.&lt;br/&gt;
+            </p></div>
+        </back>
+    </text>
+</TEI>
